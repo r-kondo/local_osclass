@@ -1,0 +1,1 @@
+<?php if (function_exists('HybridAuth_Login')) { HybridAuth_Login(); } ?>

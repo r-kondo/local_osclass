@@ -1,0 +1,1152 @@
+# Translation of OsclassDotMe in Japanese
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-27 18:15+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Language: ja\n"
+
+msgid "New pasword"
+msgstr "新しいパスワード"
+
+msgid "Repeat new pasword"
+msgstr "新しいパスワードの再確認"
+
+msgid "Page not found"
+msgstr "ページが見つかりません"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "通知アラートに登録しました。"
+
+msgid "Invalid email address"
+msgstr "メールアドレスが正しくありません。"
+
+msgid "There was a problem with the alert"
+msgstr "通知に問題がありました。"
+
+msgid "Subscribe to this search"
+msgstr "この検索条件を登録する。"
+
+msgid "Subscribe now"
+msgstr "今すぐ登録！"
+
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "optional"
+msgstr "任意"
+
+msgid "Message"
+msgstr "本文"
+
+msgid "Your name"
+msgstr "お名前"
+
+msgid "Your e-mail address"
+msgstr "あなたのメールアドレス"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Contact"
+msgstr "この人に連絡する"
+
+msgid "Your search must be at least three characters long"
+msgstr "あなたの検索は、少なくとも 3 文字をする必要があります。"
+
+msgid "Theme settings updated correctly"
+msgstr "テーマ設定は正常に更新されました。"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "ロゴ画像が正しくアップロードされました"
+
+msgid "An error has occurred, please try again"
+msgstr "エラーが発生しました。もう一度お試しください"
+
+msgid "The logo image has been removed"
+msgstr "ロゴ画像は削除されました。"
+
+msgid "Image not found"
+msgstr "画像が見つかりません"
+
+msgid "Header logo"
+msgstr "ヘッダーロゴ"
+
+msgid "Theme settings"
+msgstr "テーマ設定"
+
+msgid "ie. PHP Programmer"
+msgstr "すなわち。 PHPプログラマー"
+
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+msgid "Choose File"
+msgstr "ファイルを選択してください。"
+
+msgid "Hi %s"
+msgstr "%s さん、こんにちわ。"
+
+msgid "My account"
+msgstr "マイアカウント"
+
+msgid "My favorite"
+msgstr "お気に入り"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Register for a free account"
+msgstr "利用登録する（無料）"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Remember me"
+msgstr "次回からログインを不要とする"
+
+msgid "Log in"
+msgstr "ログイン"
+
+msgid "Forgot password?"
+msgstr "パスワードを忘れましたか？"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Publish your ad for free"
+msgstr "保育者登録"
+
+msgid "Select a category"
+msgstr "カテゴリーを選択"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Contact seller"
+msgstr "この人に問い合わせる"
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"この人に連絡するためには、ログインもしくはアカウントの新規作成が必要です。"
+
+msgid "To (seller)"
+msgstr "この人に問い合わせる"
+
+msgid "Listing"
+msgstr "リスティング"
+
+msgid "Phone number"
+msgstr "電話番号"
+
+msgid "Send message"
+msgstr "メッセージを送信"
+
+msgid "Update your listing"
+msgstr "保育者プロフィールをを編集する"
+
+msgid "General Information"
+msgstr "一般情報"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Price"
+msgstr "金額"
+
+msgid "Photos"
+msgstr "写真"
+
+msgid "Add new photo"
+msgstr "新しい写真を追加しました"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Country"
+msgstr "国名"
+
+msgid "Region"
+msgstr "都道府県"
+
+msgid "City"
+msgstr "市区町村"
+
+msgid "City area"
+msgstr "丁目・番地など"
+
+msgid "Address"
+msgstr "住所詳細"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Publish a listing"
+msgstr "保育者プロフィールを登録する"
+
+msgid "Listing Location"
+msgstr "保育者プロフィール対象エリア"
+
+msgid "City Area"
+msgstr "居住エリア"
+
+msgid "Seller's information"
+msgstr "保育者プロフィールを出した人の情報"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Show e-mail on the listing page"
+msgstr "保育者プロフィールページにメールアドレスを表示"
+
+msgid "Publish"
+msgstr "公開日時"
+
+msgid "Send to a friend"
+msgstr "友達に紹介する"
+
+msgid "Your friend's name"
+msgstr "お友達のお名前"
+
+msgid "Your friend's e-mail address"
+msgstr "お友達の電子メールアドレス"
+
+msgid "Mark as"
+msgstr "要注意申請"
+
+msgid "spam"
+msgstr "スパムとしてマークする"
+
+msgid "misclassified"
+msgstr "分類に誤りがある"
+
+msgid "duplicated"
+msgstr "二重保育者プロフィール"
+
+msgid "expired"
+msgstr "期限切れ"
+
+msgid "offensive"
+msgstr "スパムまたは攻撃的"
+
+msgid "Published date"
+msgstr "公開日"
+
+msgid "Modified date"
+msgstr "更新日"
+
+msgid "Share"
+msgstr "シェア"
+
+msgid "Useful information"
+msgstr "お役立ち情報"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "直接会うか、PayPalで支払うことによって、詐欺を回避できます。"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "匿名の支払いサービスは避けましょう。"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"あなたの国以外での売買はやめましょう。国外からのチェック払いを受け付けてはい"
+"けません。"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"本サイトは、いかなる取引にも関与せず、支払い、発送、取引の保証、エスクロー"
+"サービスの提供、購入者の保護や売り主の保証といった事は一切行いません。"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "by"
+msgstr "保育者プロフィール者:"
+
+msgid "Delete your comment"
+msgstr "コメントを削除"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "コメントを残す（スパムや不快なメッセージが削除されます）"
+
+msgid "Leave your comment"
+msgstr "あなたのコメントを残す"
+
+msgid "Your e-mail"
+msgstr "あなたのメールアドレス"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Contact publisher"
+msgstr "この人に連絡する"
+
+msgid "Tel"
+msgstr "電話番号"
+
+msgid "Enter the words above"
+msgstr "上に表示されている文字を入力してください。"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Latest Listings"
+msgstr "新着"
+
+msgid "No Latest Listings"
+msgstr "最新登録された保育者プロフィール"
+
+msgid "See all offers"
+msgstr "全ての保育者プロフィールを見る"
+
+msgid "Sort by"
+msgstr "並び替え"
+
+msgid "There are no results matching \"%s\""
+msgstr "\"％s\"を一致する結果がありません"
+
+msgid "Your search"
+msgstr "検索"
+
+msgid "Show only"
+msgstr "のみ表示"
+
+msgid "Show only listings with pictures"
+msgstr "写真付きのみのリストを表示します"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Selected"
+msgstr "選択済み"
+
+msgid "Nothing selected, input was"
+msgstr "何も選択していない、入力がありました"
+
+msgid "User account manager"
+msgstr "アカウントマネージャー"
+
+msgid "Your alerts"
+msgstr "警告"
+
+msgid "You do not have any alerts yet"
+msgstr "あなたはまだアラートを持っていません"
+
+msgid "Alert"
+msgstr "警告, 通知"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "この操作は取り消しできません。本当に続けますか？"
+
+msgid "Delete this alert"
+msgstr "これを削除"
+
+msgid "Publication date"
+msgstr "公開日"
+
+msgid "Listings"
+msgstr "保育者プロフィール"
+
+msgid "Change your e-mail"
+msgstr "メールアドレス変更"
+
+msgid "Current e-mail"
+msgstr "現在の電子メール"
+
+msgid "New e-mail"
+msgstr "新しい電子メール"
+
+msgid "Change your password"
+msgstr "パスワードを変更する"
+
+msgid "Current password"
+msgstr "現在のパスワード"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "Repeat new password"
+msgstr "新しいパスワードを再入力"
+
+msgid "Listings from %s"
+msgstr "％sの掲載"
+
+msgid "No listings have been added yet"
+msgstr "まだ保育者プロフィールは登録されていません。"
+
+msgid "View listing"
+msgstr "表示リスト"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Activate"
+msgstr "有効化"
+
+msgid "Recover your password"
+msgstr "パスワード"
+
+msgid "Change password"
+msgstr "パスワード変更"
+
+msgid "Your listings"
+msgstr "保育者プロフィール"
+
+msgid "Post a new listing"
+msgstr "保育者プロフィールを登録する"
+
+msgid "You don't have any listings yet"
+msgstr "任意のリストをまだ持っていません。"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "この操作は取り消しができません。本当に続けますか？"
+
+msgid "Access to your account"
+msgstr "あなたのアカウントへのアクセス"
+
+msgid "Update your profile"
+msgstr "プロフィールの更新："
+
+msgid "Modify e-mail"
+msgstr "電子メールを変更します。"
+
+msgid "Modify password"
+msgstr "パスワードを変更します。"
+
+msgid "User type"
+msgstr "ユーザーの種類"
+
+msgid "Cell phone"
+msgstr "携帯電話"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "%s's profile"
+msgstr "%s のプロフィール"
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Full name"
+msgstr "氏名"
+
+msgid "User Description"
+msgstr "ユーザーの説明"
+
+msgid "Latest listings"
+msgstr "最新登録された保育者プロフィール"
+
+msgid "Send me a new password"
+msgstr "新しいパスワードを送信"
+
+msgid "Register an account for free"
+msgstr "アカウントを新規登録（無料）"
+
+msgid "Re-type password"
+msgstr "パスワードを再入力"
+
+msgid "Passwords don't match"
+msgstr "パスワードが一致しません"
+
+msgid "Create"
+msgstr "する"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Remove logo"
+msgstr "ロゴを削除"
+
+msgid "Upload logo"
+msgstr "ロゴをアップロード"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "ロゴの好ましいサイズは600x100です。"
+
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>注意：</strong>別のロゴをアップロードすると、現在のロゴを上書きしま"
+"す。"
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "ロゴ画像（PNG、GIF、JPG）"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+"imagesフォルダ<strong>％sは</strong> 、サーバー上の書き込み可能ではありません"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"UNIXでディレクトリを書き込み可能にするには、シェルからこのコマンドを実行しま"
+"す。"
+
+msgid "Donate"
+msgstr "寄贈します"
+
+msgid "Search placeholder"
+msgstr "項目で検索"
+
+msgid "Footer link"
+msgstr "フッターリンク"
+
+msgid "Save changes"
+msgstr "変更を保存"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr ""
+"それはあなた自身のリストです、あなたが出版社に連絡することはできません。"
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr ""
+"リストには、有効期限が切れています。あなたが出版社に連絡することはできませ"
+"ん。"
+
+msgid "No logo has been uploaded yet"
+msgstr "いいえロゴはまだアップロードされていません"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclassは、管理パネルからロゴ画像をアップロードすることはできません。"
+
+msgid ""
+"I want to help Osclass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"私がするリンクすることによってOsclassを助けたい<a href=\"http://osclass.org/"
+"\" target=\"_blank\">osclass.org</a>次のテキストで私のサイトから："
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "上記の画像フォルダを書き込み可能にしてください。"
+
+msgid ""
+"I would like to contribute to the development of Osclass with a donation of"
+msgstr "私が寄付してOsclassの発展に貢献したいと思います"
+
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"このウェブサイトは誇らしげに使用している<a title=\"Osclassウェブ\" href="
+"\"http://osclass.org/\">作品スクリプトの</a>ソフトウェアを<strong>Osclass</"
+"strong>"
+
+msgid "Default logo"
+msgstr "既定のロゴ"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "以前 1 つをアップロードしていない場合に、既定のロゴを表示します。"
+
+msgid "Register"
+msgstr "利用登録"
+
+msgid "View profile"
+msgstr "プロフィールの表示"
+
+msgid "Send Mail"
+msgstr "メールを送信"
+
+msgid "Related Ads"
+msgstr "関連する作品"
+
+msgid "No Related Ads"
+msgstr "関連作品がないです。"
+
+msgid "Premium Listings"
+msgstr "人気保育者ランキング"
+
+msgid "More Details"
+msgstr "詳細"
+
+msgid "Description"
+msgstr "内容"
+
+msgid "Additional"
+msgstr "追加"
+
+msgid "Warning"
+msgstr "ワーニング"
+
+msgid "Terms of Use"
+msgstr "利用規約"
+
+msgid "I agree to the"
+msgstr "私は%sに同意する"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr ""
+"申し訳ありませんが、私は、あなたが探しているページを見つけることができません"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+"我々はそれを見つけるためにあなたのためにいくつかのヒントを持っている、私たち"
+"はあなたを助けるましょう。"
+
+msgid "<strong>Search</strong> for it:"
+msgstr "それ<strong>を検索</strong>します："
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "最も人気のあるカテゴリの中<strong>を探してください</strong> 。"
+
+msgid "Your Search"
+msgstr "あなたの検索"
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "More information"
+msgstr "詳細情報"
+
+msgid "Delete my account"
+msgstr "アカウント削除"
+
+msgid "Show As Galery"
+msgstr "ギャラリーとして表示します。"
+
+msgid "Show As List"
+msgstr "リストとして表示します。"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d  を - %2$d のリストの  %3$d "
+
+msgid "Hot!"
+msgstr "ホット"
+
+msgid "Images already uploaded"
+msgstr "画像がすでにアップロード"
+
+msgid "Click or Drop for upload images"
+msgstr "アップロード画像のクリック、またはドロップ"
+
+msgid "Login with Facebook"
+msgstr "Facebook ログイン"
+
+msgid "Manage your items"
+msgstr "項目を管理します。"
+
+msgid "Manage your alerts"
+msgstr "あなたの通知を管理します。"
+
+msgid "Select a region..."
+msgstr "地域を選択..."
+
+msgid "Social Network"
+msgstr "ソーシャルネットワーク"
+
+msgid "Sponsored ad"
+msgstr "スポンサー作品"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "See all ads from"
+msgstr "すべての作品を参照してください。"
+
+msgid "Pages"
+msgstr "ページ"
+
+msgid "View more..."
+msgstr "もっと見て下さい."
+
+msgid "Advanced search"
+msgstr "詳細な検索"
+
+msgid "hide"
+msgstr "非表示"
+
+msgid "Oops!"
+msgstr "おっと。"
+
+msgid "404 Not Found"
+msgstr "ごめんなさい！お探しのページは見つかりません。"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "エラー:ファイルは見つかりません"
+
+msgid "Take Me Home"
+msgstr "次回から入力を省略"
+
+msgid "Contact Support"
+msgstr "サポートに問い合わせ"
+
+msgid "Sign In"
+msgstr "ログイン"
+
+msgid "Sign Up"
+msgstr "新規登録"
+
+msgid "Sign Out"
+msgstr "サインアウト"
+
+msgid "Don't have an account!"
+msgstr "まだアカウントを持っていないのですか？"
+
+msgid "Sign Up here"
+msgstr "ここに署名"
+
+msgid "Already have an account?"
+msgstr "既にアカウントをお持ちですか？"
+
+msgid "Viewed"
+msgstr "閲覧"
+
+msgid "Total Member"
+msgstr "集計メンバー"
+
+msgid "Premium ads"
+msgstr "プレミアム作品"
+
+msgid "Latest Ads"
+msgstr "最新の作品"
+
+msgid "Total Ads"
+msgstr "総作品"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Images"
+msgstr "画像"
+
+msgid "Theme Settings"
+msgstr "テーマの設定"
+
+msgid "Logo"
+msgstr "ロゴ"
+
+msgid "Logo Images"
+msgstr "ロゴ画像"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr ""
+"リロードするか、画像が変更されない場合は、ブラウザーを更新してください。"
+
+msgid "Reload browser"
+msgstr "ブラウザーの再読み込み"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Logo and Images"
+msgstr "ロゴや画像"
+
+msgid "The image has been uploaded correctly"
+msgstr "画像が正しくアップロードされています。"
+
+msgid "The image has been removed"
+msgstr "イメージを削除します。"
+
+msgid "Has not uploaded any image"
+msgstr "ない任意の画像をアップロードします。"
+
+msgid "Slider"
+msgstr "スライダー"
+
+msgid "Slider Images"
+msgstr "スライダー画像"
+
+msgid "Background Images"
+msgstr "背景の画像"
+
+msgid "Brand"
+msgstr "ブランド"
+
+msgid "Brand Images"
+msgstr "ブランド イメージ"
+
+msgid "Icons"
+msgstr "イコン"
+
+msgid "Categories Icons"
+msgstr "カテゴリアイコン"
+
+msgid "Please visit"
+msgstr "ご覧ください。"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "コード画像例: ホームや心臓、コピペだけ。"
+
+msgid "version"
+msgstr "バージョン"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "OsclassDotMe によって供給テーマ"
+
+msgid "Category Images"
+msgstr "カテゴリ画像"
+
+msgid "Administrator Panel"
+msgstr "管理者用パネル"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Widget"
+msgstr "ウィジェット"
+
+msgid "Product"
+msgstr "商品名"
+
+msgid "Advertiser"
+msgstr "作品主"
+
+msgid "Social"
+msgstr "社会"
+
+msgid "Font and color"
+msgstr "文字色"
+
+msgid "More"
+msgstr "更に"
+
+msgid "Widget settings"
+msgstr "ウィジェットの設定"
+
+msgid "Social settings"
+msgstr "SNS設定"
+
+msgid "Product settings"
+msgstr "商品設定"
+
+msgid "Ads settings"
+msgstr "作品設定"
+
+msgid "Product Slider"
+msgstr "製品スライダー"
+
+msgid "Slider Title and Links"
+msgstr "スライダーのタイトルとリンク"
+
+msgid "Content display"
+msgstr "コンテンツ: テキストを表示。"
+
+msgid "Custom settings"
+msgstr "カスタム設定"
+
+msgid "Font and Color settings"
+msgstr "フォントおよび色の設定"
+
+msgid "Button Color"
+msgstr "ボタンの色"
+
+msgid "More settings"
+msgstr "詳細設定"
+
+msgid "Favicon Images"
+msgstr "ファビコン画像"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Header Style"
+msgstr "ヘッダースタイル"
+
+msgid "Home Style"
+msgstr "ホーム スタイル"
+
+msgid "Footer Style"
+msgstr "フッタースタイル"
+
+msgid "Product Style"
+msgstr "製品スタイル"
+
+msgid "Search Style"
+msgstr "検索スタイル"
+
+msgid "Select search form style template"
+msgstr "検索フォームのスタイル テンプレートを選択します。"
+
+msgid "Search Placeholder"
+msgstr "項目で検索"
+
+msgid "Footer Copyright"
+msgstr "フッターコピーライト"
+
+msgid "Copyright text on footer."
+msgstr "フッターに著作権のテキスト。"
+
+msgid "only for arabic or persian language."
+msgstr "アラビア語やペルシア語のだけ"
+
+msgid "Title On Home"
+msgstr "ホーム上のタイトル"
+
+msgid "Title Footer"
+msgstr "タイトルのフッター"
+
+msgid "Widget on Footer"
+msgstr "フッターにウィジェット"
+
+msgid ""
+"You can add widget on footer with your custom widget ex: facebook widget or "
+"twitter widget."
+msgstr ""
+"Ex カスタム ウィジェットとフッターにウィジェットを追加することができます: "
+"facebook のウィジェットまたは twitter のウィジェット。"
+
+msgid "Title Useful Information"
+msgstr "タイトル情報"
+
+msgid "Useful Information"
+msgstr "お役立ち情報"
+
+msgid "Add text for useful information."
+msgstr "有用な情報のテキストを追加します。"
+
+msgid "Show lists as"
+msgstr "リストを表示するように"
+
+msgid "Slider latest Ads"
+msgstr "スライダー最新作品"
+
+msgid "Slider Premium Ads"
+msgstr "スライダー プレミアム作品"
+
+msgid "Sidebar Premium Ads"
+msgstr "サイドバーのプレミアム作品"
+
+msgid "Search Premium Ads"
+msgstr "プレミアム作品を検索"
+
+msgid "Amount of the Latest ads"
+msgstr "最新の作品の量"
+
+msgid "Amount of the premium ads"
+msgstr "プレミアム作品量"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "サイドバーのプレミアム作品量"
+
+msgid "Amount of the search page premium ads"
+msgstr "検索ページのプレミアム作品量"
+
+msgid "Amount of the related ads"
+msgstr "関連作品の量"
+
+msgid "Premium Ads Display"
+msgstr "プレミアムの作品の表示"
+
+msgid "Latest Ads Display"
+msgstr "最新の作品の表示"
+
+msgid "Ads with Category"
+msgstr "カテゴリ作品"
+
+msgid "Location Display"
+msgstr "ロケーション表示"
+
+msgid "Brand Display"
+msgstr "ブランド表示"
+
+msgid "Statistic Display"
+msgstr "統計情報の表示"
+
+msgid "Show or hide"
+msgstr "表示または非表示"
+
+msgid "Ads with category"
+msgstr "カテゴリ作品"
+
+msgid "location in home"
+msgstr "家の場所"
+
+msgid "Brand slider"
+msgstr "ブランド スライダー"
+
+msgid "Statistic ads"
+msgstr "統計作品"
+
+msgid "Header Ads"
+msgstr "ヘッダー作品"
+
+msgid "Footer Ads"
+msgstr "フッター作品"
+
+msgid "Search results page"
+msgstr "検索結果"
+
+msgid ""
+"This ad will be shown on the footer of your website. Note that the size of "
+"the ad has to be 728x90 pixels."
+msgstr ""
+"この作品は、あなたのウェブサイトのフッターに表示されます。作品のサイズは、"
+"728 x 90 ピクセルであることに注意してください。"
+
+msgid "Sidebar Left"
+msgstr "サイドバー左"
+
+msgid "Sidebar Right"
+msgstr "サイドバーを右"
+
+msgid "Sidebar Ads Member Area"
+msgstr "サイドバー作品のメンバー エリア"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "この作品は、あなたのメンバー エリアのサイドバーになります。"
+
+msgid ""
+"This ad will be shown at the right sidebar of your website. Note that the "
+"size of the ad has to be 300x350 pixels."
+msgstr ""
+"この作品は、あなたのウェブサイトの右のサイドバーで表示されます。作品のサイズ"
+"は、300 × 350 ピクセルにすることに注意してください。"
+
+msgid ""
+"This ad will be shown at the right sidebar of your website. Note that the "
+"size of the ad has to be 160x600 pixels."
+msgstr ""
+"この作品は、あなたのウェブサイトの右のサイドバーで表示されます。作品のサイズ"
+"が 160 × 600 ピクセルでなければならないことに注意してください。"
+
+msgid "Auto Play Product Slider"
+msgstr "自動再生製品スライダー"
+
+msgid "welcome to classifieds"
+msgstr "クラシファイドへようこそ"
+
+msgid "you can costumize css."
+msgstr "costumize の css をすることができます。"
+
+msgid "Switch on to activate custom font and color."
+msgstr "カスタム フォントと色を有効にするで切り替えます。"
+
+msgid "create new pages TOS and copy url here"
+msgstr "新しいページの利用規約を作成し、url をここにコピー"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr ""
+"あなたは fb のログインのプラグインをインストールする必要があります、Facebook "
+"のログインを有効にする前に"
+
+msgid ""
+"you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr ""
+"あなたはマッドハウス アバター プラグインをインストールする必要があります、"
+"マッドハウス アバターを有効にする前に"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr ""
+"あなたはウォッチ リストのプラグインをインストールする必要があります、前に"
+"ウォッチ リストをアクティブにします。"
+
+msgid "you can customize html code on home"
+msgstr "ホーム上の html コードをカスタマイズします。"
+
+msgid "you can costumize html on home under slider."
+msgstr "costumize html スライダーの下の家をすることができます。"
+
+msgid "insert your text or html code"
+msgstr "テキストまたは html コードを挿入します"
+
+msgid ""
+"This ad will be shown at the top of your website, next to the site title and "
+"above the search results. Note that the size of the ad has to be 728x90 "
+"pixels."
+msgstr ""
+"この作品は、次のサイトのタイトルにし、検索結果の上、ウェブサイトの上部に表示"
+"されます。作品のサイズは728×90ピクセルなければならないことに注意してくださ"
+"い。"
+
+msgid ""
+"This ad will be shown among the search results of your site. Note that the "
+"size of the ad has to be 728x90 pixels."
+msgstr ""
+"この作品は、あなたのサイトの検索結果の中に表示されます。作品のサイズは、728 "
+"x 90 ピクセルであることに注意してください。"
+
+msgid "view"
+msgstr "詳しく"
+
+msgid "Slider text"
+msgstr "スライダー本文"
+
+msgid "Public Profile"
+msgstr "パブリックプロフィール"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Company"
+msgstr "会社"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"警告: 一度設定したら、するされませんユーザー名を再度変更することができます。"
+"賢明な選択します。"
+
+msgid "Change your username"
+msgstr "ユーザー名を変更します。"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"すべてのあなたのリストおよびアラートが削除され、このアクションは元に戻すこと"
+"はできません。"
+
+msgid "Delete account"
+msgstr "アカウント削除"
+
+msgid "Rival Images"
+msgstr "Rival 画像"
+
+msgid "Rival Theme Settings"
+msgstr "Rival のテーマ設定"
+
+msgid "Rival Category"
+msgstr "Rival カテゴリー"

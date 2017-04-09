@@ -1,0 +1,1096 @@
+# Translation of OsclassDotMe in Turkish
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:45+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: tr_TR\n"
+
+msgid "New pasword"
+msgstr "Yeni şirfe"
+
+msgid "Repeat new pasword"
+msgstr "Tekrar yeni şirfe"
+
+msgid "Page not found"
+msgstr "Sayfa bulunamadı"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Başarıyla abone oldunuz"
+
+msgid "Invalid email address"
+msgstr "Geçersiz eposta adresi"
+
+msgid "There was a problem with the alert"
+msgstr "Yükleme sırasında bir problem oluştu."
+
+msgid "Subscribe to this search"
+msgstr "Abone Olun"
+
+msgid "Subscribe now"
+msgstr "Abone Olun"
+
+msgid "Contact us"
+msgstr "İletişim"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "optional"
+msgstr "isteğe bağlı"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "Your name"
+msgstr "Ad Soyad"
+
+msgid "Your e-mail address"
+msgstr "E-posta adresi"
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Contact"
+msgstr "İletişim"
+
+msgid "Your search must be at least three characters long"
+msgstr "Arama en az üç karakter uzunluğunda olmalıdır"
+
+msgid "Theme settings updated correctly"
+msgstr "Tema ayarları doğru güncellenen"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "logo resmi doğru yüklendi"
+
+msgid "An error has occurred, please try again"
+msgstr "Oluştu bir hata, lütfen tekrar deneyin"
+
+msgid "The logo image has been removed"
+msgstr "logo resmi kaldırıldı"
+
+msgid "Image not found"
+msgstr "Görüntü bulunamadı"
+
+msgid "Header logo"
+msgstr "Site Logosu"
+
+msgid "Theme settings"
+msgstr "Tema Ayarları"
+
+msgid "ie. PHP Programmer"
+msgstr "Kelime veya marka giriniz..."
+
+msgid "No file selected"
+msgstr "Seçili Dosya Yok"
+
+msgid "Choose File"
+msgstr "Dosya Seçin"
+
+msgid "Hi %s"
+msgstr "Merhaba %s"
+
+msgid "My account"
+msgstr "Hesabım"
+
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+msgid "Login"
+msgstr "Giriş"
+
+msgid "Register for a free account"
+msgstr "Üye Olun"
+
+msgid "E-mail"
+msgstr "E-posta"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+msgid "Log in"
+msgstr "Oturum Aç"
+
+msgid "Forgot password?"
+msgstr "Şifremi unuttum"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Publish your ad for free"
+msgstr "İlan Verin"
+
+msgid "Select a category"
+msgstr "Kategori Seçin"
+
+msgid "Search"
+msgstr "Arama"
+
+msgid "Contact seller"
+msgstr "İletişime Geç"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Giriş yapın veya İlan veren ile iletişim kurmak için yeni bir hesap gerekir"
+
+msgid "To (seller)"
+msgstr "Için (satıcı)"
+
+msgid "Listing"
+msgstr "Listeleme"
+
+msgid "Phone number"
+msgstr "Cep Telefonu"
+
+msgid "Send message"
+msgstr "Mesaj gönder"
+
+msgid "Update your listing"
+msgstr "Noktayı Güncelle"
+
+msgid "General Information"
+msgstr "Genel Bilgiler"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Photos"
+msgstr "Fotoğraflar"
+
+msgid "Add new photo"
+msgstr "Yeni fotoğraf ekle"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "City"
+msgstr "City"
+
+msgid "City area"
+msgstr "İlçe"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Publish a listing"
+msgstr "İlan Verin"
+
+msgid "Listing Location"
+msgstr "Konum"
+
+msgid "City Area"
+msgstr "İlçe"
+
+msgid "Seller's information"
+msgstr "Satıcı Bilgi"
+
+msgid "Name"
+msgstr "Adı"
+
+msgid "Show e-mail on the listing page"
+msgstr "İlan  sayfasında e-posta adresimi göster"
+
+msgid "Publish"
+msgstr "Yayınla"
+
+msgid "Send to a friend"
+msgstr "ARKADAŞINA GÖNDER"
+
+msgid "Your friend's name"
+msgstr "Arkadaşınızın adı"
+
+msgid "Your friend's e-mail address"
+msgstr "Arkadaşınızın e-posta adresi"
+
+msgid "Mark as"
+msgstr "Şikayet Bildirimi"
+
+msgid "spam"
+msgstr "istenmeyen"
+
+msgid "misclassified"
+msgstr "Sınıflandırılmamış"
+
+msgid "duplicated"
+msgstr "çoğaltılamaz"
+
+msgid "expired"
+msgstr "Oturum süresi doldu"
+
+msgid "offensive"
+msgstr "saldırgan"
+
+msgid "Published date"
+msgstr "Yayınlanma tarihi"
+
+msgid "Modified date"
+msgstr "Düzenlendiği Tarih"
+
+msgid "Share"
+msgstr "Pay"
+
+msgid "Useful information"
+msgstr "Önemli Bilgi"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Kendi Güvenliğiniz İçin Hiçbir Şekilde Ön Ödeme Ve Kapora Adı Altında Ödeme Yapmayınız"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Güvenli Alışveriş İçin Onaylı Üyeleri Tercih Ediniz."
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Alışverişlerinizde Hiçbir Şekilde TC Kimlik no veya Nüfüs Bilgilerinizi Vermeyin"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Alışverişlerinizde Mutlaka Tanınmış Kargo Firmalarıyla Yapın Ve Görevlinin Yanında Kontrol Edip Ürünü Teslim Alın.Bunun Dışında Üründe Sorun Varsa Tutanakla İade Edin Ve Ödeme Yapmayın."
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "by"
+msgstr "Gönderen"
+
+msgid "Delete your comment"
+msgstr "Yorumunuzu Silin"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Yorum spam ve ahlak dışı mesajlar silinecektir"
+
+msgid "Leave your comment"
+msgstr "MESAJINIZI BIRAKIN"
+
+msgid "Your e-mail"
+msgstr "E-mail Adresiniz"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Image"
+msgstr "Resim"
+
+msgid "Contact publisher"
+msgstr "Satıcıyla İletişime Geçin"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Enter the words above"
+msgstr "Doğrulama Kodunu Giriniz"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Latest Listings"
+msgstr "Son İlanlar"
+
+msgid "No Latest Listings"
+msgstr "Son İlanlar"
+
+msgid "See all offers"
+msgstr "Tüm teklifler gör"
+
+msgid "Sort by"
+msgstr "Şuna göre sırala"
+
+msgid "There are no results matching \"%s\""
+msgstr "eşleşen sonuç bulunamadı \"%s\""
+
+msgid "Your search"
+msgstr "Arama"
+
+msgid "Show only"
+msgstr "Göster"
+
+msgid "Show only listings with pictures"
+msgstr "Resimlerle listeleri göster"
+
+msgid "Min"
+msgstr "Minimum"
+
+msgid "Max"
+msgstr "Maksimum"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Selected"
+msgstr "Seçilmiş"
+
+msgid "Nothing selected, input was"
+msgstr "Hiçbirşey girilmedi"
+
+msgid "User account manager"
+msgstr "hesap yöneticisi"
+
+msgid "Your alerts"
+msgstr "Sizin uyarılar"
+
+msgid "You do not have any alerts yet"
+msgstr "Henüz uyarıları yok"
+
+msgid "Alert"
+msgstr "uyarı"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Bu işlem geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+
+msgid "Delete this alert"
+msgstr "Bu uyarıyı sil"
+
+msgid "Publication date"
+msgstr "Yayın tarihi"
+
+msgid "Listings"
+msgstr "Listele"
+
+msgid "Change your e-mail"
+msgstr "E-posta değiştirin"
+
+msgid "Current e-mail"
+msgstr "Mevcut E-posta"
+
+msgid "New e-mail"
+msgstr "Yeni e-posta"
+
+msgid "Change your password"
+msgstr "Şifrenizi değiştirin"
+
+msgid "Current password"
+msgstr "Mevcut şifre"
+
+msgid "New password"
+msgstr "Yeni Şifre"
+
+msgid "Repeat new password"
+msgstr "Şifreyi Doğrulayın"
+
+msgid "Listings from %s"
+msgstr "%s Listeleri"
+
+msgid "No listings have been added yet"
+msgstr "Henüz ilan eklenmedi"
+
+msgid "View listing"
+msgstr "Listeyi Göster"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Activate"
+msgstr "Etkinleştir"
+
+msgid "Recover your password"
+msgstr "Şifrenizi kurtarın"
+
+msgid "Change password"
+msgstr "Şifre değiştir"
+
+msgid "Your listings"
+msgstr "Sizin listeleri"
+
+msgid "Post a new listing"
+msgstr "Yeni İlan Ekle"
+
+msgid "You don't have any listings yet"
+msgstr "Henüz listeleri yok"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Bu işlem geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+
+msgid "Access to your account"
+msgstr "Üye Girişi"
+
+msgid "Update your profile"
+msgstr "Profilinizi güncelleyin"
+
+msgid "Modify e-mail"
+msgstr "E-postayı Değiştir"
+
+msgid "Modify password"
+msgstr "Parolanızı değiştirin"
+
+msgid "User type"
+msgstr "Üyelik Türü"
+
+msgid "Cell phone"
+msgstr "Cep telefonu"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Web sitesi"
+
+msgid "%s's profile"
+msgstr "%s's Profili"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Tam İsim"
+
+msgid "User Description"
+msgstr "Kullanıcı Açıklama"
+
+msgid "Latest listings"
+msgstr "Son İlanlar"
+
+msgid "Send me a new password"
+msgstr "Bana yeni bir şifre gönder"
+
+msgid "Register an account for free"
+msgstr "Ücretsiz Üye Ol"
+
+msgid "Re-type password"
+msgstr "Parolayı tekrar yazın"
+
+msgid "Passwords don't match"
+msgstr "Şifre uyuşmuyor"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Remove logo"
+msgstr "Logoyu Kaldır"
+
+msgid "Upload logo"
+msgstr "Logo Yükle"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "Logonun tercih boyutu 600x100 olduğunu."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Not:</strong> Başka bir logo varsa üzerine yazılır."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo resmi (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Yükle"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Resim Klasörü <strong>%s</strong>sunucunuzda yazılabilir değil"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "UNIX altında bir dizin yazılabilir kabuğu bu komutu çalıştırmak yapmak için:"
+
+msgid "Donate"
+msgstr "Bağış yapın"
+
+msgid "Search placeholder"
+msgstr "Arama tutucu"
+
+msgid "Footer link"
+msgstr "Alt Kısım"
+
+msgid "Save changes"
+msgstr "Kaydet"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Bu yayımcı bağlantı kuramıyor, kendi listeleme var."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "İlan süresi doldu. Sen satıcı iletişim kuramıyor."
+
+msgid "No logo has been uploaded yet"
+msgstr "Henüz logo yüklenmedi"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass yönetim panelinden logo resmi yükleyemezsiniz."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Ben bağlayarak Osclass yardım etmek istiyorum <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> aşağıdaki metin ile sitemden:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Anılan görüntü klasörü yazılabilir olsun."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Ben bir bağış ile Osclass gelişimine katkıda bulunmak istiyoruz"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Bu web sitesi gururla kullanıyor <a title=\"Osclass Web\" href=\"http://osclass.org/\">ilanlar komut</a> yazılımı <strong>Osclass</strong>"
+
+msgid "Default logo"
+msgstr "Varsayılan logo"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Daha önce bir yükleme vermedi halinde göster varsayılan logo"
+
+msgid "Register"
+msgstr "Kayıt Ol"
+
+msgid "View profile"
+msgstr "Profili Görüntüle"
+
+msgid "Send Mail"
+msgstr "posta gönder"
+
+msgid "Related Ads"
+msgstr "İlgili İlanlar"
+
+msgid "No Related Ads"
+msgstr "Hayır İlgili İlanlar"
+
+msgid "Premium Listings"
+msgstr "Vitrin İlanları"
+
+msgid "More Details"
+msgstr "Devamını Oku"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Additional"
+msgstr "İlave Olarak"
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "Terms of Use"
+msgstr "Kullanım Koşulları"
+
+msgid "I agree to the"
+msgstr "Ben kabul ediyorum"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Üzgünüz aradığınız sayfa bulunamıyor"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Aradığınız ürünü bulmak için size yardımcı olalım, biz birkaç ipucu verin."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Arama</strong> için:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Bakın</strong> En popüler kategorilere"
+
+msgid "Your Search"
+msgstr "Arama"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "More information"
+msgstr "Ek bilgi"
+
+msgid "Delete my account"
+msgstr "Üyeliğimi Sil"
+
+msgid "Show As Galery"
+msgstr "Galery As Göster"
+
+msgid "Show As List"
+msgstr "Liste Olarak Göster"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d of %3$d İlanlar"
+
+msgid "Hot!"
+msgstr "Yeni"
+
+msgid "Images already uploaded"
+msgstr "Görüntüler zaten yüklendi"
+
+msgid "Click or Drop for upload images"
+msgstr "Tıklayın veya yükleme görüntüler için Bırak"
+
+msgid "Login with Facebook"
+msgstr "Facebook ile giriş yapın"
+
+msgid "Manage your items"
+msgstr "Öğeleri yönetme"
+
+msgid "Manage your alerts"
+msgstr "Senin uyarıları yönetin"
+
+msgid "Select a region..."
+msgstr "Bir Şehir seçin"
+
+msgid "Social Network"
+msgstr "Sosyal Ağ"
+
+msgid "Sponsored ad"
+msgstr "Sponsor reklam"
+
+msgid "Home"
+msgstr "Ana Sayfa"
+
+msgid "See all ads from"
+msgstr "Ilanları için tıklayın"
+
+msgid "Pages"
+msgstr "Sayfalar"
+
+msgid "View more..."
+msgstr "Daha Fazla Görüntüle"
+
+msgid "Advanced search"
+msgstr "Căutare avansată"
+
+msgid "hide"
+msgstr "Gizle"
+
+msgid "Oops!"
+msgstr "Hata!"
+
+msgid "404 Not Found"
+msgstr "404 Bulunamadı"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Üzgünüz, bir hata oluştu, istenen sayfa bulunamadı!"
+
+msgid "Take Me Home"
+msgstr "Ana Sayfa"
+
+msgid "Contact Support"
+msgstr "Destek Birimi İle İletişime Geç"
+
+msgid "Sign In"
+msgstr "Giriş yapın"
+
+msgid "Sign Up"
+msgstr "Kayıt Ol"
+
+msgid "Sign Out"
+msgstr "Çıkış Yap"
+
+msgid "Don't have an account!"
+msgstr "Bir hesabınız yok mu?"
+
+msgid "Sign Up here"
+msgstr "İşaret yukarıya burada"
+
+msgid "Already have an account?"
+msgstr "Zaten hesabınız var mı?"
+
+msgid "Viewed"
+msgstr "Görüntülenen"
+
+msgid "See all Ads"
+msgstr "Tüm Reklamlar gör"
+
+msgid "Premium Ads"
+msgstr "Premium reklamları"
+
+msgid "Latest Ads"
+msgstr "En Yeniler"
+
+msgid "Featured Brand"
+msgstr "Seçme marka"
+
+msgid "Select a country"
+msgstr "Ülke seçin"
+
+msgid "Select a region"
+msgstr "İl Seçiniz"
+
+msgid "Select a city"
+msgstr "Bir İlçe seçin"
+
+msgid "Personal"
+msgstr "Kişisel"
+
+msgid "See all ads"
+msgstr "Tüm reklamları görmek"
+
+msgid "More details"
+msgstr "Devamını Oku"
+
+msgid "Details"
+msgstr "Detaylar"
+
+msgid "Total Member"
+msgstr "Toplam üye"
+
+msgid "Total Ads"
+msgstr "Toplam Yayındaki İlanlar"
+
+msgid "Images"
+msgstr "Fotoğraflar"
+
+msgid "Theme Settings"
+msgstr "Tema Ayarları"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logo Images"
+msgstr "Amblem resimleri"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Lütfen yeniden yükleyin veya görüntüleri değil değiştirirseniz tarayıcınızı yenileyin."
+
+msgid "Reload browser"
+msgstr "Yeniden yükle tarayıcı"
+
+msgid "Remove"
+msgstr "Sil"
+
+msgid "Logo and Images"
+msgstr "Logo ve görüntüleri"
+
+msgid "The image has been uploaded correctly"
+msgstr "Resim doğru yüklendi"
+
+msgid "The image has been removed"
+msgstr "Resim görüntü kaldırıldı"
+
+msgid "Has not uploaded any image"
+msgstr "Herhangi bir görüntü yüklememiştir"
+
+msgid "Slider"
+msgstr "Kaydırıcı"
+
+msgid "Slider Images"
+msgstr "Slayt Resimleri"
+
+msgid "Background Images"
+msgstr "Arkaplan resimleri"
+
+msgid "Brand"
+msgstr "Marka"
+
+msgid "Brand Images"
+msgstr "Marka görüntüler"
+
+msgid "Icons"
+msgstr "Simgeler"
+
+msgid "Categories Icons"
+msgstr "Kategori Simge"
+
+msgid "Please visit"
+msgstr "Lütfen ziyaret edin"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Sadece kopyala yapıştır kodu görüntüler ex. ev veya kalp."
+
+msgid "version"
+msgstr "Versiyon"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "OsclassDotMe tarafından desteklenmektedir Temalar"
+
+msgid "Category Images"
+msgstr "Kategori Görselleri"
+
+msgid "Administrator Panel"
+msgstr "Yönetici paneli"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Widget"
+msgstr "Eklenti"
+
+msgid "Product"
+msgstr "Ürün"
+
+msgid "Advertiser"
+msgstr "Reklamveren"
+
+msgid "Social"
+msgstr "Sosyal"
+
+msgid "Font and color"
+msgstr "Yazı Tipi Rengi"
+
+msgid "More"
+msgstr "Devamı"
+
+msgid "Widget settings"
+msgstr "Widget ayarları"
+
+msgid "Social settings"
+msgstr "Sosyal Medya Ayarları"
+
+msgid "Product settings"
+msgstr "Ayarlar"
+
+msgid "Ads settings"
+msgstr "Reklam ayarları"
+
+msgid "Product Slider"
+msgstr "Ürün Slider Satışta"
+
+msgid "Slider Title and Links"
+msgstr "Kaymak başlık ve bağlantılar"
+
+msgid "Content display"
+msgstr "İçerik Görüntülenmesi"
+
+msgid "Custom settings"
+msgstr "Özel ayarlar"
+
+msgid "Font and Color settings"
+msgstr "Yazı tipi ve renk ayarlarını"
+
+msgid "Button Color"
+msgstr "Buton Rengi"
+
+msgid "More settings"
+msgstr "Diğer Ayarlar"
+
+msgid "Favicon Images"
+msgstr "Favicon görüntüleri"
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "Header Style"
+msgstr "Üstbölüm Düzeni"
+
+msgid "Home Style"
+msgstr "Ev stili"
+
+msgid "Footer Style"
+msgstr "Altbilgi Stili"
+
+msgid "Product Style"
+msgstr "Ürün | Stili"
+
+msgid "Search Style"
+msgstr "Arama stil"
+
+msgid "Select search form style template"
+msgstr "Arama formu stil şablonu seçin"
+
+msgid "Search Placeholder"
+msgstr "Arama"
+
+msgid "Footer Copyright"
+msgstr "Altbilgi"
+
+msgid "Copyright text on footer."
+msgstr "Altbilgi telif hakkı metni."
+
+msgid "only for arabic or persian language."
+msgstr "Sadece Arapça ya da Farsça dil için."
+
+msgid "Title On Home"
+msgstr "Ana sayfa başlığı"
+
+msgid "Title Footer"
+msgstr "Başlık altbilgi"
+
+msgid "Widget on Footer"
+msgstr "Widget Footer"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Özel widget'ınızı ile altbilgi üzerinde widget ekleyebilirsiniz: facebook widget veya twitter widget."
+
+msgid "Title Useful Information"
+msgstr "Başlık yararlı bilgiler"
+
+msgid "Useful Information"
+msgstr "Önemli Bilgi"
+
+msgid "Add text for useful information."
+msgstr "Yararlı bilgi için metni ekleyin."
+
+msgid "Show lists as"
+msgstr "İlanları Göster"
+
+msgid "Slider latest Ads"
+msgstr "Kaymak son reklamlar"
+
+msgid "Slider Premium Ads"
+msgstr "Kaymak Premium reklamları"
+
+msgid "Sidebar Premium Ads"
+msgstr "Kenar çubuğu Premium reklamları"
+
+msgid "Search Premium Ads"
+msgstr "Arama Premium reklamları"
+
+msgid "Amount of the Latest ads"
+msgstr "Son reklamlar miktarı"
+
+msgid "Amount of the premium ads"
+msgstr "Premium reklamları miktarı"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Kenar çubuğu premium reklamları miktarı"
+
+msgid "Amount of the search page premium ads"
+msgstr "Arama sayfası premium reklamları miktarı"
+
+msgid "Amount of the related ads"
+msgstr "İlgili reklamlar miktarı"
+
+msgid "Premium Ads Display"
+msgstr "Premium reklamlar görüntüleme"
+
+msgid "Latest Ads Display"
+msgstr "Son reklamlar görüntüleme"
+
+msgid "Ads with Category"
+msgstr "Kategori reklamlar"
+
+msgid "Location Display"
+msgstr "Konum görüntüleme"
+
+msgid "Brand Display"
+msgstr "Marka ekran"
+
+msgid "Statistic Display"
+msgstr "İstatistikleri görüntüleme"
+
+msgid "Show or hide"
+msgstr "Gösterme veya gizleme"
+
+msgid "Ads with category"
+msgstr "Kategori reklamlar"
+
+msgid "location in home"
+msgstr "ev konumda"
+
+msgid "Brand slider"
+msgstr "Marka kaymak"
+
+msgid "Statistic ads"
+msgstr "İstatistik reklamlar"
+
+msgid "Header Ads"
+msgstr "Başlık reklamları"
+
+msgid "Footer Ads"
+msgstr "Altbilgi reklamları"
+
+msgid "Search results page"
+msgstr "Sayfa başına arama sonucu"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Bu reklam, Web sitenizin altbilgi üzerinde gösterilecek. Reklam boyutu 728 x 90 piksel olması gerektiğini unutmayın."
+
+msgid "Sidebar Left"
+msgstr "Sol Kenar Sütunu"
+
+msgid "Sidebar Right"
+msgstr "Sağ Kenar Sütunu"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Kenar çubuğu reklamları üye alanı"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "This ad will be shown on the sidebar of your member area."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Bu reklam, Web sitenizin sağ kenar çubuğu gösterilecek. Reklam boyutu 300 x 350 piksel olması gerektiğini unutmayın."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Bu reklam, Web sitenizin sağ kenar çubuğu gösterilecek. Reklam boyutu 160 x 600 piksel olması gerektiğini unutmayın."
+
+msgid "Auto Play Product Slider"
+msgstr "Otomatik oyun ürün kaymak"
+
+msgid "welcome to classifieds"
+msgstr "İlanlar için hoş geldiniz"
+
+msgid "you can costumize css."
+msgstr "costumize css bulamıyor."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Özel yazı tipi ve renk etkinleştirmek için açınız."
+
+msgid "create new pages TOS and copy url here"
+msgstr "yeni sayfalar TOS oluşturmak ve url Buraya Kopyala"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "fb giriş eklentiyi kurmak, önce Facebook giriş etkinleştirmek"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "tımarhane avatar eklentiyi kurmak gerekir, daha önce tımarhane avatar harekete geçirmek"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "watchlist eklentiyi kurmak gerekir, daha önce watchlist harekete geçirmek"
+
+msgid "you can customize html code on home"
+msgstr "sen-ebilmek gelenek html kodu eve"
+
+msgid "you can costumize html on home under slider."
+msgstr "ev kaymak altında costumize html olabilir."
+
+msgid "insert your text or html code"
+msgstr "metin veya html kodunuzu ekleyin"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Bu reklam Web sitesi, site başlığının yanındaki ve arama sonuçlarının üstündeki gösterilecek. Reklam boyutu 728 x 90 piksel olması gerektiğini unutmayın."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Bu reklam, sitenizin arama sonuçları arasında gösterilecek. Reklam boyutu 728 x 90 piksel olması gerektiğini unutmayın."
+
+msgid "view"
+msgstr "Görüntülenme"
+
+msgid "Slider text"
+msgstr "Kaydırma metni"
+
+msgid "Public Profile"
+msgstr "Profil Bilgilerim"
+
+msgid "Username"
+msgstr "Kullanıcı Adınız"
+
+msgid "Company"
+msgstr "Firma"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Uyarı: Bir kere ayarlandıktan sonra tekrar adınızı değiştirmeniz mümkün olmayacaktır. Akıllıca seçin."
+
+msgid "Change your username"
+msgstr "Kullanıcı Adı Değiştir"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Tüm listeleri ve uyarılarını kaldırılacak, bu eylem alınamaz."
+
+msgid "Delete account"
+msgstr "Hesabımı silin"
+
+msgid "Rival Images"
+msgstr "Rival Görüntüler"
+
+msgid "Rival Tema Ayarları"
+msgstr "Rival Theme Settings"
+
+msgid "Rival Category"
+msgstr "Rival Kategori"

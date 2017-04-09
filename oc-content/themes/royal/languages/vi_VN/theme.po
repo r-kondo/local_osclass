@@ -1,0 +1,1102 @@
+# Translation of OsclassDotMe in Vietnamese
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:49+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: vi_VN\n"
+
+msgid "New pasword"
+msgstr "Pasword mới"
+
+msgid "Repeat new pasword"
+msgstr "Lặp lại pasword mới"
+
+msgid "Page not found"
+msgstr "Không tìm thấy trang này"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Bạn đã đăng ký thành công đến những cảnh báo"
+
+msgid "Invalid email address"
+msgstr "Địa chỉ email không hợp lệ"
+
+msgid "There was a problem with the alert"
+msgstr "Có một vấn đề với các cảnh báo"
+
+msgid "Subscribe to this search"
+msgstr "Đăng ký tìm kiếm này"
+
+msgid "Subscribe now"
+msgstr "Theo dõi doanh nghiệp"
+
+msgid "Contact us"
+msgstr "LIÊN HỆ"
+
+msgid "Subject"
+msgstr "Tiêu đề"
+
+msgid "optional"
+msgstr "(tuỳ chọn)"
+
+msgid "Message"
+msgstr "Tin nhắn"
+
+msgid "Your name"
+msgstr "Tên của bạn"
+
+msgid "Your e-mail address"
+msgstr "Địa chỉ e-mail của bạn"
+
+msgid "Send"
+msgstr "Gửi"
+
+msgid "Contact"
+msgstr "Liên hệ"
+
+msgid "Your search must be at least three characters long"
+msgstr "Tìm kiếm của bạn phải có ít nhất ba nhân vật"
+
+msgid "Theme settings updated correctly"
+msgstr "Cài đặt chủ đề được cập nhật một cách chính xác"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Các hình ảnh logo đã được tải lên một cách chính xác"
+
+msgid "An error has occurred, please try again"
+msgstr "Một lỗi đã xảy ra, xin vui lòng thử lại"
+
+msgid "The logo image has been removed"
+msgstr "Các hình ảnh logo đã được gỡ bỏ"
+
+msgid "Image not found"
+msgstr "Hình ảnh không được tìm thấy"
+
+msgid "Header logo"
+msgstr "Logo đầu"
+
+msgid "Theme settings"
+msgstr "Cài đặt SEO"
+
+msgid "ie. PHP Programmer"
+msgstr "tức. PHP Programmer"
+
+msgid "No file selected"
+msgstr "Không có tệp nào đã được chọn"
+
+msgid "Choose File"
+msgstr "Chọn tệp"
+
+msgid "Hi %s"
+msgstr "Hi%s"
+
+msgid "My account"
+msgstr "Tài Khoản"
+
+msgid "Logout"
+msgstr "Đăng xuất"
+
+msgid "Login"
+msgstr "Đăng Nhập"
+
+msgid "Register for a free account"
+msgstr "Đăng ký tài khoản miễn phí"
+
+msgid "E-mail"
+msgstr "Thư điện tử"
+
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgid "Remember me"
+msgstr "Ghi nhớ"
+
+msgid "Log in"
+msgstr "Đăng nhập"
+
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Publish your ad for free"
+msgstr "Xuất bản quảng cáo của bạn miễn phí"
+
+msgid "Select a category"
+msgstr "Chọn một Danh mục:"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Contact seller"
+msgstr "Liên hệ người bán"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Bạn phải đăng nhập hoặc đăng ký một tài khoản mới để liên lạc với các nhà quảng cáo"
+
+msgid "To (seller)"
+msgstr "To (người bán)"
+
+msgid "Listing"
+msgstr "Liệt kê"
+
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+msgid "Send message"
+msgstr "Gửi tin nhắn"
+
+msgid "Update your listing"
+msgstr "Cập nhật danh sách của bạn"
+
+msgid "General Information"
+msgstr "Thông tin chung"
+
+msgid "Category"
+msgstr "Chuyên mục"
+
+msgid "Price"
+msgstr "Giá"
+
+msgid "Photos"
+msgstr "Ảnh"
+
+msgid "Add new photo"
+msgstr "Thêm ảnh mới"
+
+msgid "Location"
+msgstr "Địa điểm"
+
+msgid "Country"
+msgstr "Quốc Gia"
+
+msgid "Region"
+msgstr "Khu vực:"
+
+msgid "City"
+msgstr "Thành Phố"
+
+msgid "City area"
+msgstr "Đô thị"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Publish a listing"
+msgstr "Xuất bản một danh sách"
+
+msgid "Listing Location"
+msgstr "Vị trí bất động sản"
+
+msgid "City Area"
+msgstr "Đô thị"
+
+msgid "Seller's information"
+msgstr "Thông tin của người bán"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Show e-mail on the listing page"
+msgstr "Hiện e-mail trên trang danh sách"
+
+msgid "Publish"
+msgstr "Đăng bài viết"
+
+msgid "Send to a friend"
+msgstr "Gửi cho bạn bè"
+
+msgid "Your friend's name"
+msgstr "Tên của bạn của bạn"
+
+msgid "Your friend's e-mail address"
+msgstr "Địa chỉ e-mail của bạn của bạn"
+
+msgid "Mark as"
+msgstr "Đánh dấu"
+
+msgid "spam"
+msgstr "Spam"
+
+msgid "misclassified"
+msgstr "phân loại sai"
+
+msgid "duplicated"
+msgstr "nhân đôi"
+
+msgid "expired"
+msgstr "Còn lại"
+
+msgid "offensive"
+msgstr "tấn công"
+
+msgid "Published date"
+msgstr "Ngày đăng"
+
+msgid "Modified date"
+msgstr "Ngày sửa đổi"
+
+msgid "Share"
+msgstr "Chia sẻ"
+
+msgid "Useful information"
+msgstr "Thông tin hữu ích"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Tránh lừa đảo bằng cách hành động tại địa phương hoặc thanh toán với PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Không thanh toán với Western Union, Moneygram hoặc những dịch vụ thanh toán ẩn danh khác"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Không mua hoặc bán bên ngoài đất nước của bạn. Không chấp nhận ngân phiếu ngân phiếu nước ngoài của bạn"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Trang web này là không bao giờ tham gia vào cuộc giao dịch nào, và cũng không giải quyết việc thanh toán, chuyển hàng, giao dịch bảo đảm, cung cấp dịch vụ giao "
+"kèo, hoặc cung cấp &quot;sự bảo vệ người mua&quot; hoặc &quot;chứng nhận người bán&quot;"
+
+msgid "Comments"
+msgstr "Phản hồi"
+
+msgid "by"
+msgstr "bởi"
+
+msgid "Delete your comment"
+msgstr "Xóa bình luận của bạn"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Để lại bình luận của bạn (tin nhắn thư rác và có tính xúc phạm sẽ bị gỡ bỏ)"
+
+msgid "Leave your comment"
+msgstr "Để lại lời nhận xét của bạn"
+
+msgid "Your e-mail"
+msgstr "E-mail của bạn"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Comment"
+msgstr "Bình luận"
+
+msgid "Image"
+msgstr "Hình ảnh"
+
+msgid "Contact publisher"
+msgstr "Nhà xuất bản Liên hệ"
+
+msgid "Tel"
+msgstr "Điện thoại:"
+
+msgid "Enter the words above"
+msgstr "Nhập từ trên"
+
+msgid "Help"
+msgstr "Trợ giúp"
+
+msgid "Latest Listings"
+msgstr "Tin đăng mới nhất"
+
+msgid "No Latest Listings"
+msgstr "Tin đăng mới nhất"
+
+msgid "See all offers"
+msgstr "Xem tất cả đề nghị"
+
+msgid "Sort by"
+msgstr "Sắp xếp theo"
+
+msgid "There are no results matching \"%s\""
+msgstr "Không có kết quả phù hợp với &quot;%s&quot;"
+
+msgid "Your search"
+msgstr "Tìm kiếm của bạn"
+
+msgid "Show only"
+msgstr "Hiện chỉ"
+
+msgid "Show only listings with pictures"
+msgstr "Chỉ hiển thị danh sách với hình ảnh"
+
+msgid "Min"
+msgstr "Ít nhất"
+
+msgid "Max"
+msgstr "Nhiều nhất"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgid "Selected"
+msgstr "Chọn"
+
+msgid "Nothing selected, input was"
+msgstr "Không chọn gì, đầu vào là"
+
+msgid "User account manager"
+msgstr "Quản lý Kinh Doanh:"
+
+msgid "Your alerts"
+msgstr "Cảnh báo của bạn"
+
+msgid "You do not have any alerts yet"
+msgstr "Bạn không có bất kỳ cảnh báo nào"
+
+msgid "Alert"
+msgstr "Báo động"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Hành động này không thể được hoàn tác. Bạn có chắc muốn tiếp tục không?"
+
+msgid "Delete this alert"
+msgstr "Xóa cảnh báo này"
+
+msgid "Publication date"
+msgstr "Ngày xuất bản"
+
+msgid "Listings"
+msgstr "Tin đăng"
+
+msgid "Change your e-mail"
+msgstr "Thay đổi e-mail của bạn"
+
+msgid "Current e-mail"
+msgstr "Hiện tại e-mail"
+
+msgid "New e-mail"
+msgstr "New e-mail"
+
+msgid "Change your password"
+msgstr "Thay đổi mật khẩu"
+
+msgid "Current password"
+msgstr "Mật khẩu hiện tại"
+
+msgid "New password"
+msgstr "Mật khẩu mới"
+
+msgid "Repeat new password"
+msgstr "Lặp lại mật khẩu mới"
+
+msgid "Listings from %s"
+msgstr "Các bảng liệt kê từ%s"
+
+msgid "No listings have been added yet"
+msgstr "Không có danh sách đã được thêm vào chưa"
+
+msgid "View listing"
+msgstr "Xem danh sách"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Activate"
+msgstr "Kích hoạt"
+
+msgid "Recover your password"
+msgstr "Khôi phục mật khẩu của bạn"
+
+msgid "Change password"
+msgstr "Thay đổi mật khẩu"
+
+msgid "Your listings"
+msgstr "Danh sách của bạn"
+
+msgid "Post a new listing"
+msgstr "Gửi một danh sách mới"
+
+msgid "You don't have any listings yet"
+msgstr "Bạn không có bất kỳ danh sách nào"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Hành động này không thể được hoàn tác. Bạn có chắc muốn tiếp tục không?"
+
+msgid "Access to your account"
+msgstr "Truy cập vào tài khoản của bạn"
+
+msgid "Update your profile"
+msgstr "Cập nhật hồ sơ"
+
+msgid "Modify e-mail"
+msgstr "Sửa đổi e-mail"
+
+msgid "Modify password"
+msgstr "Sửa đổi mật khẩu"
+
+msgid "User type"
+msgstr "Loại người dùng"
+
+msgid "Cell phone"
+msgstr "Điện thoại di động"
+
+msgid "Phone"
+msgstr "Điện thoại"
+
+msgid "Website"
+msgstr "Trang web"
+
+msgid "%s's profile"
+msgstr "Hồ sơ của %s"
+
+msgid "Profile"
+msgstr "Hồ Sơ"
+
+msgid "Full name"
+msgstr "Tên đầy đủ"
+
+msgid "User Description"
+msgstr "Mô tả tài"
+
+msgid "Latest listings"
+msgstr "Tin đăng mới nhất"
+
+msgid "Send me a new password"
+msgstr "Gửi cho tôi mật khẩu mới"
+
+msgid "Register an account for free"
+msgstr "Đăng ký một tài khoản miễn phí"
+
+msgid "Re-type password"
+msgstr "Gõ lại mật khẩu"
+
+msgid "Passwords don't match"
+msgstr "Mật khẩu không phù hợp"
+
+msgid "Create"
+msgstr "Tạo"
+
+msgid "Preview"
+msgstr "Xem thử"
+
+msgid "Remove logo"
+msgstr "Xóa biểu tượng"
+
+msgid "Upload logo"
+msgstr "Tải lên biểu tượng"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "Các kích thước ưa thích của logo là 600x100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Lưu ý:</strong> Tải lên biểu tượng khác sẽ ghi đè lên các biểu tượng hiện tại."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo hình ảnh (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Tải dữ liệu trên mạng"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Các hình ảnh thư <strong>mục%s</strong> không cho phép ghi trên máy chủ của bạn"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Để thực hiện một phép ghi thư mục dưới UNIX thực hiện lệnh này từ shell:"
+
+msgid "Donate"
+msgstr "Tặng"
+
+msgid "Search placeholder"
+msgstr "Tìm kiếm placeholder"
+
+msgid "Footer link"
+msgstr "Link Footer"
+
+msgid "Save changes"
+msgstr "Lưu bản nháp"
+
+msgid "Custom"
+msgstr "Tự chọn"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Đó là danh sách của riêng bạn, bạn không thể liên hệ với các nhà xuất bản."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Việc niêm yết là hết hạn. Bạn không thể liên hệ với các nhà xuất bản."
+
+msgid "No logo has been uploaded yet"
+msgstr "Không có biểu đã được tải lên chưa"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass không thể tải lên các hình ảnh logo từ bảng điều khiển quản trị."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Tôi muốn giúp Osclass bằng cách liên kết để <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> từ trang web của tôi với các văn bản sau đây:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Hãy làm cho các thư mục hình ảnh nói trên cho phép ghi."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Tôi muốn đóng góp vào sự phát triển của Osclass với một tặng"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Trang web này là tự hào được sử dụng <a title=\"Osclass web\" href=\"http://osclass.org/\">Rao vặt kịch bản</a> phần mềm <strong>Osclass</strong>"
+
+msgid "Default logo"
+msgstr "Mặc định biểu tượng"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Logo Hiển thị mặc định trong trường hợp bạn đã không tải lên một trước đây"
+
+msgid "Register"
+msgstr "Đăng kí"
+
+msgid "View profile"
+msgstr "Xem hồ sơ cá nhân"
+
+msgid "Send Mail"
+msgstr "Gửi Thư"
+
+msgid "Related Ads"
+msgstr "Mục liên quan"
+
+msgid "No Related Ads"
+msgstr "Không có quảng cáo liên quan"
+
+msgid "Premium Listings"
+msgstr "Liệt kê"
+
+msgid "More Details"
+msgstr "Xem chi tiết"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Additional"
+msgstr "Bổ sung"
+
+msgid "Warning"
+msgstr "Cảnh báo"
+
+msgid "Terms of Use"
+msgstr "Điều khoản sử dụng"
+
+msgid "I agree to the"
+msgstr "Tôi đồng ý với các"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Xin lỗi, nhưng tôi không thể tìm thấy trang bạn đang tìm kiếm"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Hãy để chúng tôi giúp bạn, chúng tôi đã có một vài lời khuyên để bạn có thể tìm thấy nó."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Tìm kiếm</strong> cho nó:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Hãy tìm</strong> nó trong các danh mục phổ biến nhất."
+
+msgid "Your Search"
+msgstr "Tìm kiếm của bạn"
+
+msgid "Categories"
+msgstr "Chuyên mục"
+
+msgid "More information"
+msgstr "Thông tin thê~m..."
+
+msgid "Delete my account"
+msgstr "Xóa tài khoản của tôi"
+
+msgid "Show As Galery"
+msgstr "Hiện Như Galery"
+
+msgid "Show As List"
+msgstr "Hiện Như Thành"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "% 1$d - %2$ d %3$d danh sách"
+
+msgid "Hot!"
+msgstr "hot"
+
+msgid "Images already uploaded"
+msgstr "Hình ảnh đã được tải lên"
+
+msgid "Click or Drop for upload images"
+msgstr "Click hoặc thả cho hình ảnh tải lên"
+
+msgid "Login with Facebook"
+msgstr "Đăng nhập Facebook"
+
+msgid "Manage your items"
+msgstr "Quản lý các mục của bạn"
+
+msgid "Manage your alerts"
+msgstr "Quản lý thông báo của bạn"
+
+msgid "Select a region..."
+msgstr "Chọn một khu vực ..."
+
+msgid "Social Network"
+msgstr "Mạng lưới xã hội"
+
+msgid "Sponsored ad"
+msgstr "Quảng cáo tài trợ"
+
+msgid "Home"
+msgstr "Trang chủ"
+
+msgid "See all ads from"
+msgstr "Xem tất cả quảng cáo từ"
+
+msgid "Pages"
+msgstr "Trang"
+
+msgid "View more..."
+msgstr "Xem thêm"
+
+msgid "Advanced search"
+msgstr "Tìm kiếm nâng cao"
+
+msgid "hide"
+msgstr "Ẩn"
+
+msgid "Oops!"
+msgstr "Rất tiếc!"
+
+msgid "404 Not Found"
+msgstr "404 Không tìm thấy"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Xin lỗi, lỗi, yêu cầu trang không tìm thấy!"
+
+msgid "Take Me Home"
+msgstr "Đưa tôi về nhà"
+
+msgid "Contact Support"
+msgstr "Liên hệ với hỗ trợ"
+
+msgid "Sign In"
+msgstr "Đăng nhập"
+
+msgid "Sign Up"
+msgstr "Đăng Ký"
+
+msgid "Sign Out"
+msgstr "Đăng xuất"
+
+msgid "Don't have an account!"
+msgstr "Chưa có tài khoản?"
+
+msgid "Sign Up here"
+msgstr "Đăng ký ở đây"
+
+msgid "Already have an account?"
+msgstr "Bạn đã có tài khoản?"
+
+msgid "Viewed"
+msgstr "Lượt xem"
+
+msgid "See all Ads"
+msgstr "Xem tất cả quảng cáo"
+
+msgid "Premium Ads"
+msgstr "Quảng cáo phí bảo hiểm"
+
+msgid "Latest Ads"
+msgstr "Quảng cáo mới nhất"
+
+msgid "Featured Brand"
+msgstr "Bật thương hiệu"
+
+msgid "Select a country"
+msgstr "Bạn vui lòng chọn nơi nhận hàng"
+
+msgid "Select a region"
+msgstr "Chọn một khu vực"
+
+msgid "Select a city"
+msgstr "Chọn Quận/Huyện"
+
+msgid "Personal"
+msgstr "Cá nhân"
+
+msgid "See all ads"
+msgstr "Xem tất cả quảng cáo"
+
+msgid "More details"
+msgstr "Thêm chi tiết"
+
+msgid "Details"
+msgstr "Chi tiết"
+
+msgid "Total Member"
+msgstr "Tất cả thành viên"
+
+msgid "Total Ads"
+msgstr "Tổng số Quảng cáo trực tiếp"
+
+msgid "Images"
+msgstr "Ảnh"
+
+msgid "Theme Settings"
+msgstr "Cài đặt SEO"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logo Images"
+msgstr "Biểu tượng hình ảnh"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Xin vui lòng tải lại hoặc làm mới trình duyệt của bạn nếu hình ảnh không thay đổi."
+
+msgid "Reload browser"
+msgstr "Tải lại trình duyệt"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid "Logo and Images"
+msgstr "Logo và hình ảnh"
+
+msgid "The image has been uploaded correctly"
+msgstr "Hình ảnh đã được tải lên một cách chính xác"
+
+msgid "The image has been removed"
+msgstr "Hình ảnh đã được gỡ bỏ"
+
+msgid "Has not uploaded any image"
+msgstr "Đã không tải lên bất kỳ hình ảnh"
+
+msgid "Slider"
+msgstr "Nút trượt"
+
+msgid "Slider Images"
+msgstr "Hình ảnh trượt"
+
+msgid "Background Images"
+msgstr "Ảnh nền"
+
+msgid "Brand"
+msgstr "Nhãn hiệu"
+
+msgid "Brand Images"
+msgstr "Hình ảnh thương hiệu"
+
+msgid "Icons"
+msgstr "Biểu tượng"
+
+msgid "Categories Icons"
+msgstr "Thể loại Icons"
+
+msgid "Please visit"
+msgstr "Vui lòng truy cập"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Chỉ cần sao chép và dán mã hình ảnh ví dụ: nhà hoặc trái tim."
+
+msgid "version"
+msgstr "BẢN"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Chủ đề được tài trợ bởi OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Danh mục hình ảnh"
+
+msgid "Administrator Panel"
+msgstr "Bảng điều khiển quản trị viên"
+
+msgid "General"
+msgstr "Chung"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Sản phẩm"
+
+msgid "Advertiser"
+msgstr "Quảng cáo"
+
+msgid "Social"
+msgstr "Mạng xã hội"
+
+msgid "Font and color"
+msgstr "Màu phông"
+
+msgid "More"
+msgstr "Xem thêm"
+
+msgid "Widget settings"
+msgstr "Cài đặt widget"
+
+msgid "Social settings"
+msgstr "Thiết lập xã hội"
+
+msgid "Product settings"
+msgstr "Cài đặt trang sản phẩm"
+
+msgid "Ads settings"
+msgstr "Cài đặt quảng cáo"
+
+msgid "Product Slider"
+msgstr "Slider sản phẩm"
+
+msgid "Slider Title and Links"
+msgstr "Trượt tiêu đề và liên kết"
+
+msgid "Content display"
+msgstr "Hiển thị nội dung"
+
+msgid "Custom settings"
+msgstr "Thiết đặt tùy chỉnh"
+
+msgid "Font and Color settings"
+msgstr "Cài đặt phông chữ và màu"
+
+msgid "Button Color"
+msgstr "Màu nút"
+
+msgid "More settings"
+msgstr "Cài đặt thêm"
+
+msgid "Favicon Images"
+msgstr "Favicon hình ảnh"
+
+msgid "Information"
+msgstr "Thông tin"
+
+msgid "Header Style"
+msgstr "Kiểu Header"
+
+msgid "Home Style"
+msgstr "Trang chủ Style"
+
+msgid "Footer Style"
+msgstr "Phong cách Chân trang"
+
+msgid "Product Style"
+msgstr "Kiểu sản phẩm"
+
+msgid "Search Style"
+msgstr "Tìm phong cách"
+
+msgid "Select search form style template"
+msgstr "Chọn mẫu kiểu mẫu tìm kiếm"
+
+msgid "Search Placeholder"
+msgstr "Tìm đặt chỗ"
+
+msgid "Footer Copyright"
+msgstr "Thông báo bản quyền cuối trang"
+
+msgid "Copyright text on footer."
+msgstr "Văn bản bản quyền trên chân."
+
+msgid "only for arabic or persian language."
+msgstr "chỉ cho ngôn ngữ tiếng ả Rập hay tiếng Ba tư."
+
+msgid "Title On Home"
+msgstr "Các tiêu đề trên trang chủ"
+
+msgid "Title Footer"
+msgstr "Tiêu đề chân trang"
+
+msgid "Widget on Footer"
+msgstr "Các phụ tùng trên chân"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Bạn có thể thêm tiện ích trên chân với widget tùy chỉnh của bạn ví dụ: facebook Tiện ích hoặc twitter phụ tùng."
+
+msgid "Title Useful Information"
+msgstr "Tiêu đề thông tin hữu ích"
+
+msgid "Useful Information"
+msgstr "Thông tin hữu ích"
+
+msgid "Add text for useful information."
+msgstr "Thêm văn bản cho các thông tin hữu ích."
+
+msgid "Show lists as"
+msgstr "Hiển thị danh sách như là"
+
+msgid "Slider latest Ads"
+msgstr "Quảng cáo đặt thanh trượt"
+
+msgid "Slider Premium Ads"
+msgstr "Trượt Premium quảng cáo"
+
+msgid "Sidebar Premium Ads"
+msgstr "Quảng cáo phí bảo hiểm bên"
+
+msgid "Search Premium Ads"
+msgstr "Quảng cáo phí bảo hiểm tìm kiếm"
+
+msgid "Amount of the Latest ads"
+msgstr "Số lượng các quảng cáo mới nhất"
+
+msgid "Amount of the premium ads"
+msgstr "Số lượng các quảng cáo phí bảo hiểm"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Số lượng các quảng cáo phí bảo hiểm bên"
+
+msgid "Amount of the search page premium ads"
+msgstr "Số lượng quảng cáo phí bảo hiểm trang tìm kiếm"
+
+msgid "Amount of the related ads"
+msgstr "Số lượng các quảng cáo có liên quan"
+
+msgid "Premium Ads Display"
+msgstr "Hiển thị quảng cáo phí bảo hiểm"
+
+msgid "Latest Ads Display"
+msgstr "Đặt quảng cáo hiển thị"
+
+msgid "Ads with Category"
+msgstr "Quảng cáo với thể loại"
+
+msgid "Location Display"
+msgstr "Hiển thị vị trí"
+
+msgid "Brand Display"
+msgstr "Hiển thị thương hiệu"
+
+msgid "Statistic Display"
+msgstr "Hiển thị số liệu thống kê"
+
+msgid "Show or hide"
+msgstr "Hiển thị hoặc ẩn"
+
+msgid "Ads with category"
+msgstr "Quảng cáo với thể loại"
+
+msgid "location in home"
+msgstr "vị trí trong nhà"
+
+msgid "Brand slider"
+msgstr "Slider Nhãn Hiệu"
+
+msgid "Statistic ads"
+msgstr "Quảng cáo số liệu thống kê"
+
+msgid "Header Ads"
+msgstr "Tiêu đề quảng cáo"
+
+msgid "Footer Ads"
+msgstr "Quảng cáo chân trang"
+
+msgid "Search results page"
+msgstr "Kết quả tìm kiếm"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Quảng cáo này sẽ được hiển thị trên chân trang của trang web của bạn. Lưu ý rằng kích thước của quảng cáo phải là 728 x 90 pixel."
+
+msgid "Sidebar Left"
+msgstr "Left sidebar bên trái"
+
+msgid "Sidebar Right"
+msgstr "SideBar bên phải"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Khu vực thành viên bên quảng cáo"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Quảng cáo này sẽ được hiển thị trên thanh bên của khu vực thành viên của bạn."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Quảng cáo này sẽ được hiển thị ở bên phải của trang web của bạn. Lưu ý rằng kích thước của quảng cáo phải là 300 x 350 pixel."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Quảng cáo này sẽ được hiển thị ở bên phải của trang web của bạn. Lưu ý rằng kích thước của quảng cáo phải là 160 x 600 pixel."
+
+msgid "Auto Play Product Slider"
+msgstr "Tự động chơi sản phẩm trượt"
+
+msgid "welcome to classifieds"
+msgstr "Chào mừng bạn đến rao vặt"
+
+msgid "you can costumize css."
+msgstr "bạn có thể costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Bật để kích hoạt tùy chỉnh phông chữ và màu sắc."
+
+msgid "create new pages TOS and copy url here"
+msgstr "tạo mới trang TOS và sao chép url ở đây"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "bạn phải cài đặt fb đăng nhập plugin, trước khi kích hoạt đăng nhập Facebook"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "bạn phải cài đặt nhà thương điên avatar plugin, trước khi kích hoạt hình đại diện nhà thương điên"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "bạn phải cài đặt watchlist plugin, trước khi kích hoạt watchlist"
+
+msgid "you can customize html code on home"
+msgstr "bạn có thể tùy chỉnh mã html trên trang chủ"
+
+msgid "you can costumize html on home under slider."
+msgstr "bạn có thể costumize html trên trang chủ theo thanh trượt."
+
+msgid "insert your text or html code"
+msgstr "chèn mã của bạn văn bản hoặc html"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr ""
+"Quảng cáo này sẽ được hiển thị ở trên cùng của trang web của bạn, bên cạnh tiêu đề trang web và trên các kết quả tìm kiếm. Lưu ý rằng kích thước của quảng cáo "
+"phải là 728 x 90 pixel."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Quảng cáo này sẽ được hiển thị trong kết quả tìm kiếm của trang web của bạn. Lưu ý rằng kích thước của quảng cáo phải là 728 x 90 pixel."
+
+msgid "view"
+msgstr "xem"
+
+msgid "Slider text"
+msgstr "Trượt văn bản"
+
+msgid "Public Profile"
+msgstr "Công bố hồ sơ"
+
+msgid "Username"
+msgstr "Tài khoản"
+
+msgid "Company"
+msgstr "Doanh nghiệp"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Chú ý: Sau khi thiết lập, bạn sẽ không thể thay đổi tên người dùng của bạn một lần nữa. Chọn một cách khôn ngoan."
+
+msgid "Change your username"
+msgstr "Thay đổi tên người dùng của bạn"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Tất cả các danh sách và thông báo của bạn sẽ được loại bỏ, hành động này không thể hoàn tác."
+
+msgid "Delete account"
+msgstr "Xóa Tài khoản"
+
+msgid "Rival Images"
+msgstr "Hình ảnh Rival"
+
+msgid "Rival Theme Settings"
+msgstr "Rival Cài đặt Theme"
+
+msgid "Rival Category"
+msgstr "Rival loại"

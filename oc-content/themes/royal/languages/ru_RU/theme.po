@@ -1,0 +1,1102 @@
+# Translation of OsclassDotMe in Rusian
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:41+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ru_RU\n"
+
+msgid "New pasword"
+msgstr "Новый пароль"
+
+msgid "Repeat new pasword"
+msgstr "Повторите новый Pasword"
+
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на оповещения"
+
+msgid "Invalid email address"
+msgstr "Некорректный емейл адрес"
+
+msgid "There was a problem with the alert"
+msgstr "Былa проблема с предупреждением"
+
+msgid "Subscribe to this search"
+msgstr "Подписка на рассылку"
+
+msgid "Subscribe now"
+msgstr "Подписаться"
+
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "optional"
+msgstr "необязательный"
+
+msgid "Message"
+msgstr "сообщение"
+
+msgid "Your name"
+msgstr "Ваше Имя"
+
+msgid "Your e-mail address"
+msgstr "Ваш электронный адрес"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Contact"
+msgstr "Контакты"
+
+msgid "Your search must be at least three characters long"
+msgstr "Ваш поиск должен быть не менее трех символов"
+
+msgid "Theme settings updated correctly"
+msgstr "Настройки темы обновляются правильно"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Изображение логотипа был загружен правильно"
+
+msgid "An error has occurred, please try again"
+msgstr "Произошла ошибка! Пожалуйста, попробуйте еще раз"
+
+msgid "The logo image has been removed"
+msgstr "Изображение было удалено"
+
+msgid "Image not found"
+msgstr "Изображение не найдено"
+
+msgid "Header logo"
+msgstr "Логотип шапки сайта"
+
+msgid "Theme settings"
+msgstr "Настройки темы"
+
+msgid "ie. PHP Programmer"
+msgstr "напишите здесь то, что вы ищете ?"
+
+msgid "No file selected"
+msgstr "Никакие файлы не выбраны"
+
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+msgid "Hi %s"
+msgstr "Привет, %s"
+
+msgid "My account"
+msgstr "Моя учетная запись"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Login"
+msgstr "Войти"
+
+msgid "Register for a free account"
+msgstr "Регистрация"
+
+msgid "E-mail"
+msgstr "Ел. почта"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+msgid "Log in"
+msgstr "Вход"
+
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Publish your ad for free"
+msgstr "Объявление +"
+
+msgid "Select a category"
+msgstr "Выбрать категорию"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Contact seller"
+msgstr "Связаться с исполнителем"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Вы должны войти в систему или зарегистрируйте новый аккаунт для того, чтобы связаться с рекламодателем"
+
+msgid "To (seller)"
+msgstr "Для (продавец)"
+
+msgid "Listing"
+msgstr "Компания"
+
+msgid "Phone number"
+msgstr "Номер телефона"
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Update your listing"
+msgstr "Обновить компанию"
+
+msgid "General Information"
+msgstr "Главная информация"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Price"
+msgstr "Стоимость"
+
+msgid "Photos"
+msgstr "Фото"
+
+msgid "Add new photo"
+msgstr "Добавить фото"
+
+msgid "Location"
+msgstr "Месторасположение"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "City"
+msgstr "Город"
+
+msgid "City area"
+msgstr "Район города"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Publish a listing"
+msgstr "Объявление +"
+
+msgid "Listing Location"
+msgstr "Местоположение локации"
+
+msgid "City Area"
+msgstr "Район города"
+
+msgid "Seller's information"
+msgstr "Продавец"
+
+msgid "Name"
+msgstr "имя"
+
+msgid "Show e-mail on the listing page"
+msgstr "Показать эл-почту на страницe со списком"
+
+msgid "Publish"
+msgstr "Публикация"
+
+msgid "Send to a friend"
+msgstr "Отправить другу"
+
+msgid "Your friend's name"
+msgstr "Фамилия Вашего друга"
+
+msgid "Your friend's e-mail address"
+msgstr "E-mail вашего друга"
+
+msgid "Mark as"
+msgstr "Отметить как"
+
+msgid "spam"
+msgstr "Cпам"
+
+msgid "misclassified"
+msgstr "неправильно классифицирован"
+
+msgid "duplicated"
+msgstr "дублируется"
+
+msgid "expired"
+msgstr "истек"
+
+msgid "offensive"
+msgstr "оскорбительным"
+
+msgid "Published date"
+msgstr "Создано"
+
+msgid "Modified date"
+msgstr "Модифицированная дата"
+
+msgid "Share"
+msgstr "Поделитесь"
+
+msgid "Useful information"
+msgstr "Полезная информация"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Для избежания мошенничества платите с PayPal."
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Никогда не платите с Western Union, MoneyGram и другие анонимные платежные системы"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Не покупайте и не продавайте за пределами вашей страны. Не принимайте банковские чеки за пределами вашей страны"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Этот сайт никогда не участвует в сделках и не проводит платежи, не производит доставку, не гарантирует сделки, не гарантирует сделки и, или предложить &quot;"
+"защиту покупателям&quot; или &quot;сертификацию продавцам&quot;"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "by"
+msgstr "автор"
+
+msgid "Delete your comment"
+msgstr "Удалит комментарий"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Оставьте свой комментарий (спам и оскорбительные сообщения будут удалены)"
+
+msgid "Leave your comment"
+msgstr "Оставьте свое мнение"
+
+msgid "Your e-mail"
+msgstr "Ваш e-mail"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Contact publisher"
+msgstr "Связаться с издателем"
+
+msgid "Tel"
+msgstr "Тел.:"
+
+msgid "Enter the words above"
+msgstr "Введите слова выше"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Latest Listings"
+msgstr "Новые объявления"
+
+msgid "No Latest Listings"
+msgstr "Cписки не найдены"
+
+msgid "See all offers"
+msgstr "Смотреть все предложения"
+
+msgid "Sort by"
+msgstr "Сортировать по"
+
+msgid "There are no results matching \"%s\""
+msgstr "Hет результатов, соответствующих \"%s\""
+
+msgid "Your search"
+msgstr "Ваш поиск"
+
+msgid "Show only"
+msgstr "А так же.."
+
+msgid "Show only listings with pictures"
+msgstr "Показать только с фотографиями"
+
+msgid "Min"
+msgstr "Мин"
+
+msgid "Max"
+msgstr "Макс"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Selected"
+msgstr "Выбрано"
+
+msgid "Nothing selected, input was"
+msgstr "Ничего не выбрано"
+
+msgid "User account manager"
+msgstr "Менеджер по работе с клиентами"
+
+msgid "Your alerts"
+msgstr "Ваши оповещения"
+
+msgid "You do not have any alerts yet"
+msgstr "У вас нет никаких оповещений"
+
+msgid "Alert"
+msgstr "Тревога"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Вы уверены, что хотите продолжить?"
+
+msgid "Delete this alert"
+msgstr "Удалить это оповещение"
+
+msgid "Publication date"
+msgstr "Дата публикации"
+
+msgid "Listings"
+msgstr "Компании"
+
+msgid "Change your e-mail"
+msgstr "Изменить свой адрес электронной почты"
+
+msgid "Current e-mail"
+msgstr "Текущий адрес электронной почты"
+
+msgid "New e-mail"
+msgstr "Новый адрес электронной почты"
+
+msgid "Change your password"
+msgstr "Измените свой пароль"
+
+msgid "Current password"
+msgstr "Текущий пароль"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Repeat new password"
+msgstr "Повторно введите новый пароль"
+
+msgid "Listings from %s"
+msgstr "Объявления%s"
+
+msgid "No listings have been added yet"
+msgstr "Ничего не было добавлено"
+
+msgid "View listing"
+msgstr "Просмотр каталога"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Recover your password"
+msgstr "Восстановить пароль"
+
+msgid "Change password"
+msgstr "Сменить пароль"
+
+msgid "Your listings"
+msgstr "Ваши объявления"
+
+msgid "Post a new listing"
+msgstr "Начать новую запись"
+
+msgid "You don't have any listings yet"
+msgstr "Вы не имеют никаких списков еще"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Вы уверены, что хотите продолжить?"
+
+msgid "Access to your account"
+msgstr "Доступ к вашему аккаунту"
+
+msgid "Update your profile"
+msgstr "Обновите свой профиль"
+
+msgid "Modify e-mail"
+msgstr "Изменить электронную почту"
+
+msgid "Modify password"
+msgstr "Изменить пароль"
+
+msgid "User type"
+msgstr "'Тип пользователя'"
+
+msgid "Cell phone"
+msgstr "Мобильный номер"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "%s's profile"
+msgstr "%s's профилей"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Full name"
+msgstr "ФИО"
+
+msgid "User Description"
+msgstr "Пользователь Описание"
+
+msgid "Latest listings"
+msgstr "Новые объявления"
+
+msgid "Send me a new password"
+msgstr "Прислать новый пароль"
+
+msgid "Register an account for free"
+msgstr "Зарегистрируйте свой аккаунт"
+
+msgid "Re-type password"
+msgstr "Введите пароль еще раз"
+
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают."
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "Remove logo"
+msgstr "Удалить логотип"
+
+msgid "Upload logo"
+msgstr "Загрузить логотип"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "Предпочтительный размер логотипа является 600x100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Примечание:</strong> Загрузка другова логотипa будет перезаписывать текущий логотип."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Изображение логотипа (png,gif,jpg)"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Папка изображений <strong>%s</strong> не доступна для записи на вашем сервере"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Для того, чтобы записи каталога под UNIX, выполните следующую команду из командной строки:"
+
+msgid "Donate"
+msgstr "Пожертвовать"
+
+msgid "Search placeholder"
+msgstr "Поиск заполнитель"
+
+msgid "Footer link"
+msgstr "Footer ссылкa"
+
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+msgid "Custom"
+msgstr "Индивидуальный"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Это ваш собственный список, вы не можете связаться с издателем."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Срок размещения истёк, обратитесь к издателю."
+
+msgid "No logo has been uploaded yet"
+msgstr "Логотип не был загружен"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass не можете загрузить изображение логотипа с панели управления."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Я хочу помочь OSClass, ссылки на <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> с моего сайта с следующим текстом:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Пожалуйста, убедитесь, что папка изображения есть записываемая."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Я хотел бы внести свой вклад в развитие Osclass с пожертвование"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Наш сайт использует <a title=\"Osclass web\" href=\"%s\">скрипт доски объявлений</a> <strong>Osclass</strong>"
+
+msgid "Default logo"
+msgstr "Лого по умолчанию"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Показать логотип по умолчанию в случае, если вы не загружать один ранее"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "View profile"
+msgstr "Посмотреть профиль"
+
+msgid "Send Mail"
+msgstr "Отправить электронное сообщение..."
+
+msgid "Related Ads"
+msgstr "Похожие объявления"
+
+msgid "No Related Ads"
+msgstr "Нет Похожие объявления"
+
+msgid "Premium Listings"
+msgstr "Премиум предложения"
+
+msgid "More Details"
+msgstr "Подробнее"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Additional"
+msgstr "Дополнительно"
+
+msgid "Warning"
+msgstr "Осторожно"
+
+msgid "Terms of Use"
+msgstr "Условия использования"
+
+msgid "I agree to the"
+msgstr "Соглашаюсь с"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Жаль, но я не могу найти страницу, которую вы ищете"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Позвольте нам помочь вам, мы получили несколько советов для вас, чтобы найти его."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Поиск</strong> на это:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Посмотрите</strong> на него в самых популярных категорий."
+
+msgid "Your Search"
+msgstr "Ваш поиск"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "More information"
+msgstr "Дополнительная информация"
+
+msgid "Delete my account"
+msgstr "Удалить мой счет"
+
+msgid "Show As Galery"
+msgstr "Показать как Галерея"
+
+msgid "Show As List"
+msgstr "Показать в виде списка"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "% 1$d -% 2$d из %3$d предложений"
+
+msgid "Hot!"
+msgstr "ТОП!"
+
+msgid "Images already uploaded"
+msgstr "Уже загруженные изображения"
+
+msgid "Click or Drop for upload images"
+msgstr "Загрузка изображения"
+
+msgid "Login with Facebook"
+msgstr "Войти вместе с Facebook"
+
+msgid "Manage your items"
+msgstr "Управление ваши детали"
+
+msgid "Manage your alerts"
+msgstr "Управляйте своими оповещениями"
+
+msgid "Select a region..."
+msgstr "Выберите регион ..."
+
+msgid "Social Network"
+msgstr "Социальная сеть"
+
+msgid "Sponsored ad"
+msgstr "Спонсор объявления"
+
+msgid "Home"
+msgstr "БУ стеллажи"
+
+msgid "See all ads from"
+msgstr "Просмотреть все объявления от"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "View more..."
+msgstr "Подробнее"
+
+msgid "Advanced search"
+msgstr "Напредна претрага"
+
+msgid "hide"
+msgstr "Скрыть"
+
+msgid "Oops!"
+msgstr "Ой!"
+
+msgid "404 Not Found"
+msgstr "404 Страница не найдена"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Извините, произошла ошибка, просила страница не найдена!"
+
+msgid "Take Me Home"
+msgstr "Вернуться на главную"
+
+msgid "Contact Support"
+msgstr "Связаться со службой поддержки"
+
+msgid "Sign In"
+msgstr "Войти"
+
+msgid "Sign Up"
+msgstr "Регистрация"
+
+msgid "Sign Out"
+msgstr "Выйти"
+
+msgid "Don't have an account!"
+msgstr "Не зарегистрированы?"
+
+msgid "Sign Up here"
+msgstr "Зарегистрируйся здесь"
+
+msgid "Already have an account?"
+msgstr "Уже есть аккаунт?"
+
+msgid "Viewed"
+msgstr "Просмотры"
+
+msgid "See all Ads"
+msgstr "Просмотреть все объявления"
+
+msgid "Premium Ads"
+msgstr "Премиум объявления"
+
+msgid "Latest Ads"
+msgstr "последние объявления"
+
+msgid "Featured Brand"
+msgstr "Рекомендуемые марки"
+
+msgid "Select a country"
+msgstr "Выберите страну"
+
+msgid "Select a region"
+msgstr "Выберите регион"
+
+msgid "Select a city"
+msgstr "Выберите город"
+
+msgid "Personal"
+msgstr "Персональный"
+
+msgid "See all ads"
+msgstr "Просмотреть все объявления"
+
+msgid "More details"
+msgstr "Подробнее"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Total Member"
+msgstr "Всего члены"
+
+msgid "Total Ads"
+msgstr "Всего объявлений"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+msgid "Logo"
+msgstr "Логотип"
+
+msgid "Logo Images"
+msgstr "Изображения логотипа"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Пожалуйста перезагрузить или обновить ваш браузер если изображений не изменится."
+
+msgid "Reload browser"
+msgstr "Перезагрузить браузер"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Logo and Images"
+msgstr "Логотип и изображения"
+
+msgid "The image has been uploaded correctly"
+msgstr "Изображение логотипа было загружено правильно"
+
+msgid "The image has been removed"
+msgstr "Изображение логотипа было удалено"
+
+msgid "Has not uploaded any image"
+msgstr "Не загружены любое изображение"
+
+msgid "Slider"
+msgstr "Слайдер"
+
+msgid "Slider Images"
+msgstr "Изображения слайдера"
+
+msgid "Background Images"
+msgstr "Фоновые изображения"
+
+msgid "Brand"
+msgstr "Брэнд"
+
+msgid "Brand Images"
+msgstr "Марка изображения"
+
+msgid "Icons"
+msgstr "Иконки"
+
+msgid "Categories Icons"
+msgstr "Категории Иконки"
+
+msgid "Please visit"
+msgstr "посетите"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Просто скопируйте и вставьте код изображения отл дома или сердца."
+
+msgid "version"
+msgstr "версия"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Темы, питание от OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Изображения для категорий"
+
+msgid "Administrator Panel"
+msgstr "Панель администратора"
+
+msgid "General"
+msgstr "Общие комментарии"
+
+msgid "Widget"
+msgstr "Виджет"
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Advertiser"
+msgstr "Реклама"
+
+msgid "Social"
+msgstr "Социальные сети"
+
+msgid "Font and color"
+msgstr "Цвет шрифта"
+
+msgid "More"
+msgstr "Дополнительно доступно еще"
+
+msgid "Widget settings"
+msgstr "Настройки виджета"
+
+msgid "Social settings"
+msgstr "Настройки соцсетей"
+
+msgid "Product settings"
+msgstr "Настройки товара"
+
+msgid "Ads settings"
+msgstr "Настройки баннеров"
+
+msgid "Product Slider"
+msgstr "Прокрутка товара"
+
+msgid "Slider Title and Links"
+msgstr "Ползунок название и ссылки"
+
+msgid "Content display"
+msgstr "Отображение контента"
+
+msgid "Custom settings"
+msgstr "Пользовательские настройки"
+
+msgid "Font and Color settings"
+msgstr "Параметры шрифта и цвета"
+
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+msgid "More settings"
+msgstr "Еще настройки"
+
+msgid "Favicon Images"
+msgstr "Значок изображения"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Header Style"
+msgstr "Стиль заголовка"
+
+msgid "Home Style"
+msgstr "Главная Стиль"
+
+msgid "Footer Style"
+msgstr "Подвал Стиль"
+
+msgid "Product Style"
+msgstr "Стиль товара"
+
+msgid "Search Style"
+msgstr "Стиль иконки поиска"
+
+msgid "Select search form style template"
+msgstr "Выберите шаблон стиля формы поиска"
+
+msgid "Search Placeholder"
+msgstr "Заполнитель поля Поиск"
+
+msgid "Footer Copyright"
+msgstr "Текст авторского права в подвале"
+
+msgid "Copyright text on footer."
+msgstr "Копирайт на колонтитулом."
+
+msgid "only for arabic or persian language."
+msgstr "только на арабский или английский язык."
+
+msgid "Title On Home"
+msgstr "Название дома"
+
+msgid "Title Footer"
+msgstr "Название нижнего колонтитула"
+
+msgid "Widget on Footer"
+msgstr "Виджет на нижний колонтитул"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Вы можете добавить виджет на колонтитул с вашего пользовательского виджета ex: facebook или щебетать Виджет виджета."
+
+msgid "Title Useful Information"
+msgstr "Название полезная информация"
+
+msgid "Useful Information"
+msgstr "Полезная информация"
+
+msgid "Add text for useful information."
+msgstr "Добавление текста для полезной информации."
+
+msgid "Show lists as"
+msgstr "Показать списков,"
+
+msgid "Slider latest Ads"
+msgstr "Последние объявления слайдер"
+
+msgid "Slider Premium Ads"
+msgstr "Слайдер Премиум объявлений"
+
+msgid "Sidebar Premium Ads"
+msgstr "Premium объявления на боковой панели"
+
+msgid "Search Premium Ads"
+msgstr "Поиск Premium объявления"
+
+msgid "Amount of the Latest ads"
+msgstr "Количество последних объявлений"
+
+msgid "Amount of the premium ads"
+msgstr "Количество premium объявления"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Количество объявлений Премиум боковой панели"
+
+msgid "Amount of the search page premium ads"
+msgstr "Количество объявлений премиум страницы поиска"
+
+msgid "Amount of the related ads"
+msgstr "Количество связанных объявлений"
+
+msgid "Premium Ads Display"
+msgstr "Премиум объявления дисплей"
+
+msgid "Latest Ads Display"
+msgstr "Последние объявления дисплей"
+
+msgid "Ads with Category"
+msgstr "Объявления с категории"
+
+msgid "Location Display"
+msgstr "Отображение местоположения"
+
+msgid "Brand Display"
+msgstr "Дисплей марки"
+
+msgid "Statistic Display"
+msgstr "Отображение статистики"
+
+msgid "Show or hide"
+msgstr "Показать или скрыть?"
+
+msgid "Ads with category"
+msgstr "Объявления с категории"
+
+msgid "location in home"
+msgstr "расположение в доме"
+
+msgid "Brand slider"
+msgstr "Брэнд Слайдер"
+
+msgid "Statistic ads"
+msgstr "Статистика объявлений"
+
+msgid "Header Ads"
+msgstr "Реклама в Шапке"
+
+msgid "Footer Ads"
+msgstr "Footer объявление"
+
+msgid "Search results page"
+msgstr "Страница результатов поиска"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Это объявление будет показано на нижней части вашего сайта. Обратите внимание, что размер рекламы должен быть 728 x 90 пикселей."
+
+msgid "Sidebar Left"
+msgstr "Левая боковая панель"
+
+msgid "Sidebar Right"
+msgstr "Правый сайдбар"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Область объявления члена боковой панели"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Это объявление будет показано на боковой панели вашего члена района."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Это объявление будет показано в правой боковой панели вашего веб-сайта. Обратите внимание, что размер рекламы должен быть 300 x 350 пикселей."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Это объявление будет показано в правой боковой панели вашего веб-сайта. Обратите внимание, что размер рекламы должен быть 160 x 600 пикселей."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto Play продукт слайдер"
+
+msgid "welcome to classifieds"
+msgstr "Добро пожаловать на объявления"
+
+msgid "you can costumize css."
+msgstr "Вы можете costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Переключитесь активировать пользовательский шрифт и цвет."
+
+msgid "create new pages TOS and copy url here"
+msgstr "создавать новые страницы ГС и скопировать url здесь"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "Вы должны установить плагин логин fb, прежде чем активировать Facebook логин"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "Вы должны установить плагин дурдом аватар, прежде чем активировать дурдом аватар"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "Вы должны установить плагин наблюдения, прежде чем активировать список интересующих вас игроков"
+
+msgid "you can customize html code on home"
+msgstr "Вы можете настроить код html на дом"
+
+msgid "you can costumize html on home under slider."
+msgstr "Вы можете costumize html на дому под ползунком."
+
+msgid "insert your text or html code"
+msgstr "вставить текст или html код"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr ""
+"Это объявление будет показано в верхней части вашего сайта, рядом с названием сайта и над результатами поиска. Обратите внимание, что размер объявления должен "
+"быть 728x90 пикселей."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Это объявление будет показано среди результатов поиска вашего сайта. Обратите внимание, что размер объявления должен быть 728x90 пикселей."
+
+msgid "view"
+msgstr "просмотреть"
+
+msgid "Slider text"
+msgstr "Слайдер дальше текст"
+
+msgid "Public Profile"
+msgstr "Показывать всем"
+
+msgid "Username"
+msgstr "Логин"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Предупреждение: После установки, вы не будет иметь возможность снова изменить ваше имя пользователя. Выбирайте с умом."
+
+msgid "Change your username"
+msgstr "Изменить имя пользователя"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Все ваши объявления и оповещения будут удалены, это действие не может быть отменено."
+
+msgid "Delete account"
+msgstr "Удалить аккаунт"
+
+msgid "Rival Images"
+msgstr "Rival изображения"
+
+msgid "Rival Theme Settings"
+msgstr "Rival Настройки темы"
+
+msgid "Rival Category"
+msgstr "Rival Категория"

@@ -1,0 +1,1098 @@
+# Translation of OsclassDotMe in Thai
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:44+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Language: th_TH\n"
+
+msgid "New pasword"
+msgstr "รหัสผ่านใหม่"
+
+msgid "Repeat new pasword"
+msgstr "รหัสผ่านใหม่ซ้ำ"
+
+msgid "Page not found"
+msgstr "ไม่พบหน้า"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "คุณได้สมัครสำเร็จการแจ้งเตือน"
+
+msgid "Invalid email address"
+msgstr "ที่อยู่อีเมลไม่ถูกต้อง"
+
+msgid "There was a problem with the alert"
+msgstr "มีปัญหากับการแจ้งเตือน"
+
+msgid "Subscribe to this search"
+msgstr "สมัครสมาชิกเพื่อค้นหานี้"
+
+msgid "Subscribe now"
+msgstr "สมัครสมาชิกวันนี้"
+
+msgid "Contact us"
+msgstr "ติดต่อเรา"
+
+msgid "Subject"
+msgstr "หัวเรื่อง"
+
+msgid "optional"
+msgstr "ให้เลือกได้"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "Your name"
+msgstr "ชื่อ *"
+
+msgid "Your e-mail address"
+msgstr "อีเมล์ *"
+
+msgid "Send"
+msgstr "ส่ง"
+
+msgid "Contact"
+msgstr "ติดต่อ"
+
+msgid "Your search must be at least three characters long"
+msgstr "การค้นหาต้องมีความยาวอักขระอย่างน้อยสาม"
+
+msgid "Theme settings updated correctly"
+msgstr "ตั้งค่ารูปแบบการปรับปรุงอย่างถูกต้อง"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "ภาพโลโก้ได้รับการอัปโหลดอย่างถูกต้อง"
+
+msgid "An error has occurred, please try again"
+msgstr "เกิดข้อผิดพลาดโปรดลองอีกครั้ง"
+
+msgid "The logo image has been removed"
+msgstr "ภาพโลโก้ได้ถูกลบออก"
+
+msgid "Image not found"
+msgstr "ไม่พบไฟล์ภาพ"
+
+msgid "Header logo"
+msgstr "โลโก้หัวข้อ"
+
+msgid "Theme settings"
+msgstr "ชุดรูปแบบ"
+
+msgid "ie. PHP Programmer"
+msgstr "กล่าวคือ PHP Programmer"
+
+msgid "No file selected"
+msgstr "ไฟล์ที่ไม่ได้เลือก"
+
+msgid "Choose File"
+msgstr "เลือกไฟล์"
+
+msgid "Hi %s"
+msgstr "สวัสดี%s"
+
+msgid "My account"
+msgstr "บัญชีของฉัน"
+
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Register for a free account"
+msgstr "ลงทะเบียนสำหรับบัญชีฟรี"
+
+msgid "E-mail"
+msgstr "อีเมล"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgid "Remember me"
+msgstr "จำผมได้"
+
+msgid "Log in"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Forgot password?"
+msgstr "ลืมรหัสผ่านหรือ?"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "Publish your ad for free"
+msgstr "เผยแพร่โฆษณาของคุณฟรี"
+
+msgid "Select a category"
+msgstr "เลือกหมวดหมู่"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "Contact seller"
+msgstr "ติดต่อผู้ขาย"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "คุณต้องเข้าสู่ระบบหรือลงทะเบียนบัญชีใหม่เพื่อติดต่อผู้โฆษณา"
+
+msgid "To (seller)"
+msgstr "(ผู้ขาย)"
+
+msgid "Listing"
+msgstr "รายการการเชื่อมโยง"
+
+msgid "Phone number"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "Send message"
+msgstr "ส่งข้อความ"
+
+msgid "Update your listing"
+msgstr "ปรับปรุงรายการของคุณ"
+
+msgid "General Information"
+msgstr "ข้อมูลทั่วไป"
+
+msgid "Category"
+msgstr "หมวดหมู่"
+
+msgid "Price"
+msgstr "ราคา"
+
+msgid "Photos"
+msgstr "รูปถ่าย"
+
+msgid "Add new photo"
+msgstr "เพิ่มภาพใหม่"
+
+msgid "Location"
+msgstr "สถานที่ตั้ง"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "Region"
+msgstr "ดินแดน"
+
+msgid "City"
+msgstr "อำเภอ"
+
+msgid "City area"
+msgstr "พื้นที่เมือง"
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+msgid "Update"
+msgstr "ปรับปรุง"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Publish a listing"
+msgstr "เผยแพร่รายชื่อ"
+
+msgid "Listing Location"
+msgstr "รายชื่อสถานที่ตั้ง"
+
+msgid "City Area"
+msgstr "พื้นที่เมือง"
+
+msgid "Seller's information"
+msgstr "ข้อมูลของผู้ขาย"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Show e-mail on the listing page"
+msgstr "แสดงอีเมล์ในหน้าแสดงรายการ"
+
+msgid "Publish"
+msgstr "เผยแพร่"
+
+msgid "Send to a friend"
+msgstr "ส่งหน้านี้ให้เพื่อน"
+
+msgid "Your friend's name"
+msgstr "ชื่อเพื่อนของคุณ"
+
+msgid "Your friend's e-mail address"
+msgstr "ที่อยู่อีเมล์ของเพื่อน"
+
+msgid "Mark as"
+msgstr "ทำเครื่องหมายเป็น"
+
+msgid "spam"
+msgstr "ส่งอีเมลที่ไม่พึงประสงค์"
+
+msgid "misclassified"
+msgstr "งาน"
+
+msgid "duplicated"
+msgstr "การทำซ้ำ"
+
+msgid "expired"
+msgstr "หมดอายุ"
+
+msgid "offensive"
+msgstr "ไม่เหมาะสม"
+
+msgid "Published date"
+msgstr "วันเผยแพร่"
+
+msgid "Modified date"
+msgstr "วันปรับเปลี่ยน"
+
+msgid "Share"
+msgstr "หุ้น"
+
+msgid "Useful information"
+msgstr "ข้อมูลที่เป็นประโยชน์"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "หลีกเลี่ยงการหลอกลวงโดยทำหน้าที่ในประเทศหรือชำระเงินด้วย PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "ไม่ต้องจ่ายผ่าน Western Union Moneygram หรือบริการการชำระเงินอื่น ๆ ที่ไม่ระบุชื่อ"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "อย่าซื้อหรือขายนอกประเทศของคุณ ไม่รับแคชเชียร์เช็คจากนอกประเทศของคุณ"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller "
+"certification\""
+msgstr "เว็บไซต์นี้ไม่เคยมีส่วนร่วมในการทำธุรกรรมใด ๆ และไม่ได้จัดการชำระเงินการส่งของการรับประกันการให้บริการรับฝากทรัพย์สินหรือข้อเสนอ \"การป้องกันผู้ซื้อ\" หรือ \"ได้รับการรับรองผู้ขาย\""
+
+msgid "Comments"
+msgstr "ความคิดเห็น"
+
+msgid "by"
+msgstr "โดย"
+
+msgid "Delete your comment"
+msgstr "ลบข้อคิดเห็นของคุณ"
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "แสดงความคิดเห็นของคุณ (ขยะและข้อความที่ไม่เหมาะสมจะถูกย้ายออก)"
+
+msgid "Leave your comment"
+msgstr "คิดเห็นของคุณ"
+
+msgid "Your e-mail"
+msgstr "อีเมล์ของคุณ"
+
+msgid "Title"
+msgstr "ชื่อเรื่อง"
+
+msgid "Comment"
+msgstr "ความเห็น"
+
+msgid "Image"
+msgstr "รูปภาพ"
+
+msgid "Contact publisher"
+msgstr "สำนักพิมพ์ติดต่อ"
+
+msgid "Tel"
+msgstr "โทรศัพท์:"
+
+msgid "Enter the words above"
+msgstr "ป้อนคำดังกล่าวข้างต้น"
+
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+msgid "Latest Listings"
+msgstr "รายการล่าสุด"
+
+msgid "No Latest Listings"
+msgstr "ไม่มีรายการล่าสุด"
+
+msgid "See all offers"
+msgstr "ดูข้อเสนอทั้งหมด"
+
+msgid "Sort by"
+msgstr "เรียงลำดับตาม"
+
+msgid "There are no results matching \"%s\""
+msgstr "มีผลที่ตรงกับ \"%s\" เป็น"
+
+msgid "Your search"
+msgstr "การค้นหา"
+
+msgid "Show only"
+msgstr "แสดงเฉพาะ"
+
+msgid "Show only listings with pictures"
+msgstr "แสดงรายการเฉพาะกับรูปภาพ"
+
+msgid "Min"
+msgstr "﻿นาที"
+
+msgid "Max"
+msgstr "แม็ก"
+
+msgid "Apply"
+msgstr "ใช้"
+
+msgid "Selected"
+msgstr "เลือก"
+
+msgid "Nothing selected, input was"
+msgstr "ไม่มีอะไรที่เลือกใส่เป็น"
+
+msgid "User account manager"
+msgstr "ผู้จัดการบัญชีผู้ใช้"
+
+msgid "Your alerts"
+msgstr "ข้อความแจ้งเตือน"
+
+msgid "You do not have any alerts yet"
+msgstr "คุณไม่ได้มีการแจ้งเตือนใด ๆ"
+
+msgid "Alert"
+msgstr "เตือนภัย"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "การดำเนินการนี​​้ไม่สามารถยกเลิกได้ คุณแน่ใจว่าคุณต้องการที่จะต่อหรือไม่?"
+
+msgid "Delete this alert"
+msgstr "ลบการแจ้งเตือนนี้"
+
+msgid "Publication date"
+msgstr "วันประกาศ"
+
+msgid "Listings"
+msgstr "รายชื่อ"
+
+msgid "Change your e-mail"
+msgstr "เปลี่ยนอีเมลของคุณ"
+
+msgid "Current e-mail"
+msgstr "e-mail ของปัจจุบัน"
+
+msgid "New e-mail"
+msgstr "e-mail ของใหม่"
+
+msgid "Change your password"
+msgstr "เปลี่ยนรหัสผ่านของคุณ"
+
+msgid "Current password"
+msgstr "รหัสผ่านเดิม"
+
+msgid "New password"
+msgstr "รหัสผ่านใหม่"
+
+msgid "Repeat new password"
+msgstr "ทำซ้ำรหัสผ่านใหม่"
+
+msgid "Listings from %s"
+msgstr "รายการจาก %s"
+
+msgid "No listings have been added yet"
+msgstr "รายชื่อไม่ได้รับการเพิ่มเลย"
+
+msgid "View listing"
+msgstr "มุมมองรายการ"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Activate"
+msgstr "ยืนยัน"
+
+msgid "Recover your password"
+msgstr "การกู้คืนรหัสผ่านของคุณ"
+
+msgid "Change password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "Your listings"
+msgstr "รายการของคุณ"
+
+msgid "Post a new listing"
+msgstr "ลงรายการบัญชีรายการใหม่"
+
+msgid "You don't have any listings yet"
+msgstr "คุณยังไม่มีรายการใด ๆ"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "การดำเนินการนี​​้ไม่สามารถยกเลิกได้ คุณแน่ใจว่าคุณต้องการที่จะต่อหรือไม่?"
+
+msgid "Access to your account"
+msgstr "เข้าสู่บัญชีของคุณ"
+
+msgid "Update your profile"
+msgstr "โปรไฟล์ของคุณ"
+
+msgid "Modify e-mail"
+msgstr "แก้ไขอีเมล์"
+
+msgid "Modify password"
+msgstr "ปรับเปลี่ยนรหัสผ่าน"
+
+msgid "User type"
+msgstr "ประเภทผู้ใช้"
+
+msgid "Cell phone"
+msgstr "โทรศัพท์มือถือ"
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "Website"
+msgstr "เว็บไซต์"
+
+msgid "%s's profile"
+msgstr "% ข้อมูลส่วนตัวของ"
+
+msgid "Profile"
+msgstr "โปรไฟล์"
+
+msgid "Full name"
+msgstr "ชื่อ นามสกุล"
+
+msgid "User Description"
+msgstr "คำอธิบายของผู้ใช้"
+
+msgid "Latest listings"
+msgstr "รายการล่าสุด"
+
+msgid "Send me a new password"
+msgstr "ส่งรหัสผ่านใหม่"
+
+msgid "Register an account for free"
+msgstr "สมัครสมาชิกฟรี"
+
+msgid "Re-type password"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
+
+msgid "Passwords don't match"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+msgid "Create"
+msgstr "สร้าง"
+
+msgid "Preview"
+msgstr "แสดงตัวอย่าง"
+
+msgid "Remove logo"
+msgstr "เอาโลโก้"
+
+msgid "Upload logo"
+msgstr "อัปโหลดโลโก้"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "ขนาดของโลโก้ที่ต้องคือ 600 x 100"
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>หมายเหตุ:</strong> การอัปโหลดโลโก้อื่นจะเขียนทับโลโก้ปัจจุบัน"
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "โลโก้รูปภาพ (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "﻿อัปโหลด"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "<strong>โฟลเดอร์%s</strong> ภาพที่ไม่สามารถเขียนได้บนเซิร์ฟเวอร์ของคุณ"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "ต้องการไดเรกทอรีที่เขียนภายใต้ UNIX ดำเนินการคำสั่งนี้จากเปลือก:"
+
+msgid "Donate"
+msgstr "บริจาค"
+
+msgid "Search placeholder"
+msgstr "ค้นยึด"
+
+msgid "Footer link"
+msgstr "เชื่อมโยงส่วนท้าย"
+
+msgid "Save changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "Custom"
+msgstr "ซึ่งทำตามสั่ง"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "มันเป็นชื่อของคุณเองคุณไม่สามารถติดต่อผู้เผยแพร่"
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "รายชื่อหมดอายุ คุณไม่สามารถติดต่อผู้เผยแพร่"
+
+msgid "No logo has been uploaded yet"
+msgstr "ไม่มีโลโก้ได้รับการอัปโหลดยัง"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass ไม่สามารถอัปโหลดภาพโลโก้จากแผงการบริหาร"
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "อยากช่วย Osclass โดยการเชื่อมโยง<a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a>จากไซต์ของฉันด้วยข้อความต่อไปนี้:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "โปรดโฟลเดอร์รูปภาพดังกล่าวสามารถเขียน"
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "อยากมีส่วนร่วมการพัฒนา Osclass ของ"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "เว็บไซต์นี้จะใช้ซอฟต์แวร์<a title=\"Osclass web\" href=\"http://osclass.org/\">สคริปต์คลาสสิฟายด์</a><strong>Osclass</strong>ภูมิใจ"
+
+msgid "Default logo"
+msgstr "โลโก้เริ่มต้น"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "แสดงโลโก้เริ่มต้นในกรณีที่คุณไม่ได้อัปโหลดก่อนหน้านี้หนึ่ง"
+
+msgid "Register"
+msgstr "ลงทะเบียน"
+
+msgid "View profile"
+msgstr "ดูโพรไฟล์"
+
+msgid "Send Mail"
+msgstr "ส่งจดหมาย"
+
+msgid "Related Ads"
+msgstr "โฆษณาที่เกี่ยวข้อง"
+
+msgid "No Related Ads"
+msgstr "ไม่มีโฆษณาที่เกี่ยวข้อง"
+
+msgid "Premium Listings"
+msgstr "รายการพรีเมี่ยม"
+
+msgid "More Details"
+msgstr "รายละเอียดเพิ่มเติม"
+
+msgid "Description"
+msgstr "รายละเอียดสินค้า"
+
+msgid "Additional"
+msgstr "เพิ่มเติม"
+
+msgid "Warning"
+msgstr "คำเตือน"
+
+msgid "Terms of Use"
+msgstr "ข้อกำหนดการใช้"
+
+msgid "I agree to the"
+msgstr "ฉันยอมรับการ"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "ขออภัยแต่ไม่พบเพจที่คุณกำลังค้นหา"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "ให้เรา เรามีเทคนิคเล็กน้อยสำหรับคุณเพื่อค้นหา"
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>ค้นหา</strong>สำหรับ:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>ดู</strong>ประเภทที่นิยมมากที่สุด"
+
+msgid "Your Search"
+msgstr "การค้นหา"
+
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+msgid "More information"
+msgstr "ข้อมูลเพิ่มเติม"
+
+msgid "Delete my account"
+msgstr "ลบบัญชี"
+
+msgid "Show As Galery"
+msgstr "แสดงเป็น Galery"
+
+msgid "Show As List"
+msgstr "แสดงเป็นรายการ"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d จาก %3$d รายชื่อ"
+
+msgid "Hot!"
+msgstr "ร้อน"
+
+msgid "Images already uploaded"
+msgstr "รูปภาพที่อัปโหลดแล้ว"
+
+msgid "Click or Drop for upload images"
+msgstr "คลิกหรือวางสำหรับการอัปโหลดภาพ"
+
+msgid "Login with Facebook"
+msgstr "เข้าสู่ระบบ ด้วย Facebook"
+
+msgid "Manage your items"
+msgstr "จัดการรายการของคุณ"
+
+msgid "Manage your alerts"
+msgstr "จัดการการแจ้งเตือนของคุณ"
+
+msgid "Select a region..."
+msgstr "เลือกภูมิภาค..."
+
+msgid "Social Network"
+msgstr "เครือข่ายสังคม"
+
+msgid "Sponsored ad"
+msgstr "โฆษณาผู้สนับสนุน"
+
+msgid "Home"
+msgstr "หน้าหลัก"
+
+msgid "See all ads from"
+msgstr "ดูโฆษณาทั้งหมดจาก"
+
+msgid "Pages"
+msgstr "หน้า"
+
+msgid "View more..."
+msgstr "ดูเพิ่มเติม"
+
+msgid "Advanced search"
+msgstr "การค้นหาแบบละเอียด"
+
+msgid "hide"
+msgstr "ซ่อน"
+
+msgid "Oops!"
+msgstr "Oops!"
+
+msgid "404 Not Found"
+msgstr "404 ไม่พบ"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "มีความผิดพลาดเกิดขึ้น, หน้าไม่พบ !"
+
+msgid "Take Me Home"
+msgstr "พาฉันกลับหน้าหลัก"
+
+msgid "Contact Support"
+msgstr "ติดต่อฝ่ายสนับสนุน"
+
+msgid "Sign In"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Sign Up"
+msgstr "สมัครเข้าใช้"
+
+msgid "Sign Out"
+msgstr "ออกจากระบบ"
+
+msgid "Don't have an account!"
+msgstr "ไม่ได้เป็นสมาชิก"
+
+msgid "Sign Up here"
+msgstr "เครื่องขึ้นที่นี่"
+
+msgid "Already have an account?"
+msgstr "มีบัญชีแล้วหรือ?"
+
+msgid "Viewed"
+msgstr "ดูบันทึกการเข้าระบบ"
+
+msgid "See all Ads"
+msgstr "ดูโฆษณาทั้งหมด"
+
+msgid "Premium Ads"
+msgstr "โฆษณาพรีเมี่ยม"
+
+msgid "Latest Ads"
+msgstr "โฆษณาล่าสุด"
+
+msgid "Featured Brand"
+msgstr "แบรนด์ที่โดดเด่น"
+
+msgid "Select a country"
+msgstr "เลือกประเทศ"
+
+msgid "Select a region"
+msgstr "เลือกภูมิภาค"
+
+msgid "Select a city"
+msgstr "เลือกเมือง"
+
+msgid "Personal"
+msgstr "ส่วนตัว"
+
+msgid "See all ads"
+msgstr "ดูโฆษณาทั้งหมด"
+
+msgid "More details"
+msgstr "รายละเอียดเพิ่มเติม"
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "Total Member"
+msgstr "สมาชิกทั้งหมด"
+
+msgid "Total Ads"
+msgstr "รวมโฆษณา"
+
+msgid "Images"
+msgstr "รูปภาพ"
+
+msgid "Theme Settings"
+msgstr "ชุดรูปแบบ"
+
+msgid "Logo"
+msgstr "โลโก้"
+
+msgid "Logo Images"
+msgstr "ภาพโลโก้"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "กรุณาโหลด หรือฟื้นฟูเบราว์เซอร์ของคุณถ้าไม่เปลี่ยนรูป"
+
+msgid "Reload browser"
+msgstr "โหลดเบราว์เซอร์"
+
+msgid "Remove"
+msgstr "ลบออก"
+
+msgid "Logo and Images"
+msgstr "โลโก้และรูปภาพ"
+
+msgid "The image has been uploaded correctly"
+msgstr "รูปได้ถูกอัปโหลดอย่างถูกต้อง"
+
+msgid "The image has been removed"
+msgstr "ภาพได้ถูกเอาออก"
+
+msgid "Has not uploaded any image"
+msgstr "ไม่ได้อัปโหลดรูปภาพ"
+
+msgid "Slider"
+msgstr "แถบเลื่อน"
+
+msgid "Slider Images"
+msgstr "รูปภาพของแถบเลื่อน"
+
+msgid "Background Images"
+msgstr "รูปพื้นหลัง"
+
+msgid "Brand"
+msgstr "ตราสินค้า"
+
+msgid "Brand Images"
+msgstr "รูปแบรนด์"
+
+msgid "Icons"
+msgstr "ไอคอน"
+
+msgid "Categories Icons"
+msgstr "ไอคอนประเภท"
+
+msgid "Please visit"
+msgstr "โปรดเยี่ยมชม"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "เพียงแค่คัดลอก และวางรหัสภาพเช่นบ้านหรือห้อง"
+
+msgid "version"
+msgstr "เวอร์ชัน"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "ชุดขับเคลื่อน โดย OsclassDotMe"
+
+msgid "Category Images"
+msgstr "หมวดหมู่ภาพ"
+
+msgid "Administrator Panel"
+msgstr "แผงผู้ดูแลระบบ"
+
+msgid "General"
+msgstr "ทั่วไป"
+
+msgid "Widget"
+msgstr "วิจิท"
+
+msgid "Product"
+msgstr "ผลิตภัณฑ์"
+
+msgid "Advertiser"
+msgstr "บริษัทโฆษณา"
+
+msgid "Social"
+msgstr "สังคม"
+
+msgid "Font and color"
+msgstr "แบบอักษรและสี"
+
+msgid "More"
+msgstr "มากกว่า"
+
+msgid "Widget settings"
+msgstr "การตั้งค่า widget"
+
+msgid "Social settings"
+msgstr "การตั้งค่าทางสังคม"
+
+msgid "Product settings"
+msgstr "การตั้งค่าของผลิตภัณฑ์"
+
+msgid "Ads settings"
+msgstr "โฆษณาการตั้งค่า"
+
+msgid "Product Slider"
+msgstr "ผลิตภัณฑ์แถบเลื่อน"
+
+msgid "Slider Title and Links"
+msgstr "เลื่อนตำแหน่งและการเชื่อมโยง"
+
+msgid "Content display"
+msgstr "แสดงเนื้อหา"
+
+msgid "Custom settings"
+msgstr "การตั้งค่าแบบกำหนดเอง"
+
+msgid "Font and Color settings"
+msgstr "การตั้งค่าแบบอักษรและสี"
+
+msgid "Button Color"
+msgstr "สีปุ่ม"
+
+msgid "More settings"
+msgstr "การตั้งค่าเพิ่มเติม"
+
+msgid "Favicon Images"
+msgstr "ภาพ Favicon"
+
+msgid "Information"
+msgstr "ข้อมูล"
+
+msgid "Header Style"
+msgstr "สไตล์หัว"
+
+msgid "Home Style"
+msgstr "ลักษณะบ้าน"
+
+msgid "Footer Style"
+msgstr "ส่วนท้ายสไตล์"
+
+msgid "Product Style"
+msgstr "ลักษณะผลิตภัณฑ์"
+
+msgid "Search Style"
+msgstr "ลักษณะการค้นหา"
+
+msgid "Select search form style template"
+msgstr "เลือกแม่แบบฟอร์มค้นหา"
+
+msgid "Search Placeholder"
+msgstr "ค้นยึด"
+
+msgid "Footer Copyright"
+msgstr "ลิขสิทธิ์ส่วนท้าย"
+
+msgid "Copyright text on footer."
+msgstr "ข้อความลิขสิทธิ์ในท้ายกระดาษ"
+
+msgid "only for arabic or persian language."
+msgstr "สำหรับภาษาอาหรับ หรือเปอร์เซีย"
+
+msgid "Title On Home"
+msgstr "ชื่อเรื่องในบ้าน"
+
+msgid "Title Footer"
+msgstr "ส่วนท้ายของชื่อเรื่อง"
+
+msgid "Widget on Footer"
+msgstr "เครื่องมือในส่วนท้าย"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "คุณสามารถเพิ่ม widget บนท้ายกระดาษ ด้วยเครื่องมือแบบกำหนดเองของคุณอดีต: facebook widget หรือ twitter widget ได้"
+
+msgid "Title Useful Information"
+msgstr "ข้อมูลที่เป็นประโยชน์ชื่อ"
+
+msgid "Useful Information"
+msgstr "ข้อมูลที่เป็นประโยชน์"
+
+msgid "Add text for useful information."
+msgstr "เพิ่มข้อความในข้อมูลที่เป็นประโยชน์"
+
+msgid "Show lists as"
+msgstr "แสดงรายการหนังสือ"
+
+msgid "Slider latest Ads"
+msgstr "โฆษณาล่าสุดของแถบเลื่อน"
+
+msgid "Slider Premium Ads"
+msgstr "โฆษณาพรีเมี่ยมเลื่อน"
+
+msgid "Sidebar Premium Ads"
+msgstr "โฆษณาพรีเมี่ยม sidebar"
+
+msgid "Search Premium Ads"
+msgstr "ค้นหาโฆษณาพรีเมี่ยม"
+
+msgid "Amount of the Latest ads"
+msgstr "จำนวนโฆษณาล่าสุด"
+
+msgid "Amount of the premium ads"
+msgstr "จำนวนโฆษณาพรีเมี่ยม"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "จำนวนโฆษณาพรีเมี่ยม sidebar"
+
+msgid "Amount of the search page premium ads"
+msgstr "จำนวนค้นหาหน้าโฆษณาพรีเมี่ยม"
+
+msgid "Amount of the related ads"
+msgstr "จำนวนโฆษณาที่เกี่ยวข้อง"
+
+msgid "Premium Ads Display"
+msgstr "แสดงโฆษณาพรีเมี่ยม"
+
+msgid "Latest Ads Display"
+msgstr "แสดงโฆษณาล่าสุด"
+
+msgid "Ads with Category"
+msgstr "โฆษณากับประเภท"
+
+msgid "Location Display"
+msgstr "แสดงตำแหน่งที่ตั้ง"
+
+msgid "Brand Display"
+msgstr "จอแสดงผลแบรนด์"
+
+msgid "Statistic Display"
+msgstr "แสดงสถิติ"
+
+msgid "Show or hide"
+msgstr "แสดงหรือซ่อน"
+
+msgid "Ads with category"
+msgstr "โฆษณากับประเภท"
+
+msgid "location in home"
+msgstr "สถานที่ในบ้าน"
+
+msgid "Brand slider"
+msgstr "เลื่อนแบรนด์"
+
+msgid "Statistic ads"
+msgstr "โฆษณาสถิติ"
+
+msgid "Header Ads"
+msgstr "หัวข้อโฆษณา"
+
+msgid "Footer Ads"
+msgstr "ส่วนท้ายของโฆษณา"
+
+msgid "Search results page"
+msgstr "ผลการค้นหา"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "โฆษณานี้จะถูกแสดงในส่วนท้ายของเว็บไซต์ของคุณ โปรดสังเกตว่า ขนาดของโฆษณาได้เป็น 728 x 90 พิกเซล"
+
+msgid "Sidebar Left"
+msgstr "เมนูด้านซ้าย"
+
+msgid "Sidebar Right"
+msgstr "แถบด้านข้างขวา"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Sidebar โฆษณาสมาชิก"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "โฆษณานี้จะถูกแสดงบนแถบด้านข้างของสมาชิกของคุณ"
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "โฆษณานี้จะถูกแสดงที่ sidebar ด้านขวาของเว็บไซต์ของคุณ โปรดสังเกตว่า ขนาดของโฆษณาได้เป็น 300 x 350 พิกเซล"
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "โฆษณานี้จะถูกแสดงที่ sidebar ด้านขวาของเว็บไซต์ของคุณ โปรดสังเกตว่า ขนาดของโฆษณายังต้อง 160 x 600 พิกเซล"
+
+msgid "Auto Play Product Slider"
+msgstr "เลื่อนอัตโนมัติเล่นผลิตภัณฑ์"
+
+msgid "welcome to classifieds"
+msgstr "ยินดีต้อนรับสู่คลาสสิฟายด์"
+
+msgid "you can costumize css."
+msgstr "costumize css ได้"
+
+msgid "Switch on to activate custom font and color."
+msgstr "สลับกับการเปิดใช้งานแบบอักษรที่กำหนดเองและสี"
+
+msgid "create new pages TOS and copy url here"
+msgstr "สร้างเพจใหม่ TOS และคัดลอก url ที่นี่"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "คุณต้องติดตั้งปลั๊กอินเข้าสู่ระบบของ fb เรียกใช้ล็อกอิน Facebook ก่อน"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "คุณต้องติดตั้งปลั๊กอินเรี่ยราดอวตาร avatar เรี่ยราดที่เปิดใช้งานก่อน"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "คุณต้องติดตั้งปลั๊กอิน watchlist, watchlist ที่เปิดใช้งานก่อน"
+
+msgid "you can customize html code on home"
+msgstr "คุณสามารถกำหนดรหัส html บนบ้าน"
+
+msgid "you can costumize html on home under slider."
+msgstr "costumize html ในบ้านภายใต้เลื่อนได้"
+
+msgid "insert your text or html code"
+msgstr "ใส่รหัสของข้อความหรือ html"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "โฆษณานี้จะแสดงขึ้นที่ด้านบนของเว็บไซต์ของคุณ ติดชื่อเว็บไซต์ และ กล่าวหา โปรดสังเกตว่า ขนาดของโฆษณาได้เป็น 728 x 90 พิกเซล"
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "โฆษณานี้จะถูกแสดงในผลลัพธ์การค้นหาของไซต์ของคุณ โปรดสังเกตว่า ขนาดของโฆษณาได้เป็น 728 x 90 พิกเซล"
+
+msgid "view"
+msgstr "มุมมอง"
+
+msgid "Slider text"
+msgstr "ข้อความเลื่อน"
+
+msgid "Public Profile"
+msgstr "โพรไฟล์สาธารณะ"
+
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+msgid "Company"
+msgstr "บริษัท"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "คำเตือน: เมื่อตั้ง คุณจะไม่สามารถเปลี่ยนชื่อผู้ใช้ของคุณอีกด้วย เลือกอย่างชาญฉลาด"
+
+msgid "Change your username"
+msgstr "เปลี่ยนชื่อผู้ใช้ของคุณ"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "รายการและข้อความแจ้งเตือนจะถูกลบออก การดำเนินการนี้ไม่สามารถยกเลิกได้"
+
+msgid "Delete account"
+msgstr "ลบบัญชี"
+
+msgid "Rival Images"
+msgstr "Rival รูปภาพ"
+
+msgid "Rival Theme Settings"
+msgstr "Rival ตั้งค่าธีม"
+
+msgid "Rival Category"
+msgstr "Rival หมวดหมู่"

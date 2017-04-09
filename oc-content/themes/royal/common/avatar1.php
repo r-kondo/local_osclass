@@ -1,0 +1,1 @@
+<?php if (function_exists('osc_run_hook')) { osc_run_hook('user_profile_form', osc_user()); } ?>

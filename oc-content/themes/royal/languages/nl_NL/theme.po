@@ -1,0 +1,1103 @@
+# Translation of OsclassDotMe in Dutch
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:31+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: nl_NL\n"
+
+msgid "New pasword"
+msgstr "Nieuw paswoord"
+
+msgid "Repeat new pasword"
+msgstr "Herhaal nieuw paswoord"
+
+msgid "Page not found"
+msgstr "Pagina niet gevonden"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "U heeft met succes geabonneerd op de melding"
+
+msgid "Invalid email address"
+msgstr "Ongeldig e-mailadres"
+
+msgid "There was a problem with the alert"
+msgstr "Er was een probleem met de melding"
+
+msgid "Subscribe to this search"
+msgstr "﻿Abonneer op deze zoekopdracht"
+
+msgid "Subscribe now"
+msgstr "﻿Abonneer nu"
+
+msgid "Contact us"
+msgstr "Contact Ons"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "optional"
+msgstr "optioneel"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Your name"
+msgstr "Uw naam"
+
+msgid "Your e-mail address"
+msgstr "Uw e-mailadres"
+
+msgid "Send"
+msgstr "Verstuur"
+
+msgid "Contact"
+msgstr "Contactpersoon"
+
+msgid "Your search must be at least three characters long"
+msgstr "Uw zoekopdracht moet minstens drie tekens lang zijn"
+
+msgid "Theme settings updated correctly"
+msgstr "Thema-instellingen correct bijgewerkt"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "De afbeelding van het logo is correct geupload"
+
+msgid "An error has occurred, please try again"
+msgstr "Er is een fout opgetreden, probeer het opnieuw"
+
+msgid "The logo image has been removed"
+msgstr "﻿De logo afbeelding is verwijderd"
+
+msgid "Image not found"
+msgstr "Afbeelding niet gevonden"
+
+msgid "Header logo"
+msgstr "Header logo"
+
+msgid "Theme settings"
+msgstr "Thema instellingen"
+
+msgid "ie. PHP Programmer"
+msgstr "bijv. PHP Programmeur"
+
+msgid "No file selected"
+msgstr "Geen bestand geselecteerd"
+
+msgid "Choose File"
+msgstr "﻿Kies bestand"
+
+msgid "Hi %s"
+msgstr "Hallo %s"
+
+msgid "My account"
+msgstr "Mijn account"
+
+msgid "Logout"
+msgstr "Afmelden"
+
+msgid "Login"
+msgstr "Aanmelden"
+
+msgid "Register for a free account"
+msgstr "Registreer een gratis account"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Remember me"
+msgstr "Onthoud gegevens"
+
+msgid "Log in"
+msgstr "inloggen"
+
+msgid "Forgot password?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Publish your ad for free"
+msgstr "Plaats GRATIS een advertentie"
+
+msgid "Select a category"
+msgstr "Selecteer een categorie"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Contact seller"
+msgstr "Contact verkoper"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "U moet inloggen of registreer een nieuw account om contact op te nemen met de adverteerder"
+
+msgid "To (seller)"
+msgstr "Naar (sneller)"
+
+msgid "Listing"
+msgstr "Object"
+
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+msgid "Send message"
+msgstr "Versturen"
+
+msgid "Update your listing"
+msgstr "Update advertentie"
+
+msgid "General Information"
+msgstr "Algemene informatie"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Photos"
+msgstr "Foto's"
+
+msgid "Add new photo"
+msgstr "Voeg een nieuwe foto toe"
+
+msgid "Location"
+msgstr "Woonplaats"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Regio"
+
+msgid "City"
+msgstr "Woonplaats"
+
+msgid "City area"
+msgstr "Stedelijk gebied"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Update"
+msgstr "Bijwerken"
+
+msgid "Cancel"
+msgstr "Verwijder"
+
+msgid "Publish a listing"
+msgstr "Plaats een advertentie"
+
+msgid "Listing Location"
+msgstr "Locatie van vermelding"
+
+msgid "City Area"
+msgstr "Stedelijk gebied"
+
+msgid "Seller's information"
+msgstr "Verkopers informatie"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Show e-mail on the listing page"
+msgstr "Toon e-mail op de advertentie pagina"
+
+msgid "Publish"
+msgstr "Publiceren"
+
+msgid "Send to a friend"
+msgstr "Verstuur naar een vriend(in)"
+
+msgid "Your friend's name"
+msgstr "Naam van uw vriend(in)"
+
+msgid "Your friend's e-mail address"
+msgstr "Vriend(in) e-mailadres"
+
+msgid "Mark as"
+msgstr "Markeren als"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "fout categorie"
+
+msgid "duplicated"
+msgstr "dubbel/gedupliceerd"
+
+msgid "expired"
+msgstr "verlopen"
+
+msgid "offensive"
+msgstr "beledigend"
+
+msgid "Published date"
+msgstr "Gepubliceerd datum"
+
+msgid "Modified date"
+msgstr "Datum aanpassing:"
+
+msgid "Share"
+msgstr "Deel"
+
+msgid "Useful information"
+msgstr "Nuttige informatie"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Voorkom oplichting door lokaal handelen of het betalen met PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nooit betalen met Western Union, Moneygram of andere anonieme betalingsdiensten"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Niet kopen of buiten verkopen van uw land. Heeft kassierscontroles van buiten uw land niet accepteren"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Deze site is nooit betrokken bij een transactie, en niet omgaan met betalingen, verzending, garantie transacties, om te voorzien escrow diensten, of aanbod &quot;"
+"koper bescherming&quot; of &quot;verkoper certificering&quot;"
+
+msgid "Comments"
+msgstr "Reacties"
+
+msgid "by"
+msgstr "Door"
+
+msgid "Delete your comment"
+msgstr "Verwijder uw reactie"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Laat uw reactie (spam en aanstootgevende berichten worden verwijderd)"
+
+msgid "Leave your comment"
+msgstr "Geef een reactie"
+
+msgid "Your e-mail"
+msgstr "<strong>MISLUKT</strong>: Voer je e-mailadres in."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Comment"
+msgstr "Reactie"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Contact publisher"
+msgstr "﻿Contact adverteerder"
+
+msgid "Tel"
+msgstr "Tel."
+
+msgid "Enter the words above"
+msgstr "Voer de bovenstaande woorden in"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Latest Listings"
+msgstr "Nieuwste Vermeldingen"
+
+msgid "No Latest Listings"
+msgstr "Geen Nieuwe Advertenties"
+
+msgid "See all offers"
+msgstr "Bekijk alle advertenties"
+
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgid "There are no results matching \"%s\""
+msgstr "Er zijn geen resultaten die overeenkomen met &quot;%s&quot;"
+
+msgid "Your search"
+msgstr "Uw zoekopdracht"
+
+msgid "Show only"
+msgstr "Toon alleen"
+
+msgid "Show only listings with pictures"
+msgstr "Alleen aanbiedingen met foto"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Apply"
+msgstr "Pas toe"
+
+msgid "Selected"
+msgstr "Geselecteerd"
+
+msgid "Nothing selected, input was"
+msgstr "Niets geselecteerd, ingang was"
+
+msgid "User account manager"
+msgstr "Gebruikersaccountbeheer"
+
+msgid "Your alerts"
+msgstr "Uw meldingen"
+
+msgid "You do not have any alerts yet"
+msgstr "U heeft nog geen meldingen"
+
+msgid "Alert"
+msgstr "Waarschuwing"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Deze handeling kan niet ongedaan worden gemaakt. Weet u zeker dat u door wilt gaan?"
+
+msgid "Delete this alert"
+msgstr "Verwijder deze melding"
+
+msgid "Publication date"
+msgstr "Afgifte datum:"
+
+msgid "Listings"
+msgstr "Objecten"
+
+msgid "Change your e-mail"
+msgstr "Verander uw e-mail"
+
+msgid "Current e-mail"
+msgstr "Huidig e-mail"
+
+msgid "New e-mail"
+msgstr "Nieuwe e-mail"
+
+msgid "Change your password"
+msgstr "Wijzig je wachtwoord"
+
+msgid "Current password"
+msgstr "Huidig wachtwoord"
+
+msgid "New password"
+msgstr "nieuw wachtwoord"
+
+msgid "Repeat new password"
+msgstr "Het nieuwe wachtwoord herhalen"
+
+msgid "Listings from %s"
+msgstr "Advertenties van%s"
+
+msgid "No listings have been added yet"
+msgstr "Geen vermeldingen zijn nog toegevoegd"
+
+msgid "View listing"
+msgstr "Bekijk object"
+
+msgid "Edit"
+msgstr "Bewerk"
+
+msgid "Activate"
+msgstr "Activeer"
+
+msgid "Recover your password"
+msgstr "Herstel uw wachtwoord"
+
+msgid "Change password"
+msgstr "Wachtwoord aanpassen"
+
+msgid "Your listings"
+msgstr "Uw advertenties"
+
+msgid "Post a new listing"
+msgstr "Plaats een nieuwe advertentie"
+
+msgid "You don't have any listings yet"
+msgstr "U heeft nog geen advertenties"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Deze handeling kan niet ongedaan worden gemaakt. Weet u zeker dat u door wilt gaan?"
+
+msgid "Access to your account"
+msgstr "Login in uw account"
+
+msgid "Update your profile"
+msgstr "Update uw profiel"
+
+msgid "Modify e-mail"
+msgstr "Wijzig e-mail"
+
+msgid "Modify password"
+msgstr "Wijzig wachtwoord"
+
+msgid "User type"
+msgstr "U bent een"
+
+msgid "Cell phone"
+msgstr "Mobiele telefoon"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "%s's profile"
+msgstr "Profiel van %s"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Full name"
+msgstr "Volledige naam"
+
+msgid "User Description"
+msgstr "Gebruiker Beschrijving"
+
+msgid "Latest listings"
+msgstr "Nieuwste Vermeldingen"
+
+msgid "Send me a new password"
+msgstr "Stuur nieuw wachtwoord"
+
+msgid "Register an account for free"
+msgstr "Registreer een nieuw account"
+
+msgid "Re-type password"
+msgstr "Typ het wachtwoord opnieuw"
+
+msgid "Passwords don't match"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Remove logo"
+msgstr "Verwijder het Logo"
+
+msgid "Upload logo"
+msgstr "Laadt je Logo op"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "De gewenste grootte van het logo is 600x100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>NB:</strong> Het uploaden van een ander logo zal het huidige logo wilt overschrijven."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo image (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "De map met <strong>afbeeldingen%s</strong> is niet beschrijfbaar op uw server"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Om een ​​map beschrijfbaar onder UNIX te voeren deze opdracht van de shell:"
+
+msgid "Donate"
+msgstr "Doneren"
+
+msgid "Search placeholder"
+msgstr "Zoeken placeholder"
+
+msgid "Footer link"
+msgstr "Footer link"
+
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+msgid "Custom"
+msgstr "Aangepast"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Dit is uw eigen advertentie, U kunt geen contact met uzelf opnemen."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "De advertentie is verlopen, U kunt geen contact opnemen met de adverteerder."
+
+msgid "No logo has been uploaded yet"
+msgstr "Geen logo is nog niet geupload"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "OSClass kan afbeelding van het logo niet uploaden van de administratie paneel."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Ik wil OSClass helpen door te linken naar <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> van mijn site met de volgende tekst:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Maak dan de hiervoor genoemde image map beschrijfbaar."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Ik wil graag een bijdrage leveren aan de ontwikkeling van OSClass met een donatie van"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"Deze website wordt met trots met behulp van de <a title=\"OSClass web\" href=\"http://osclass.org/\">advertenties scripts</a> software <strong>OSClass</strong>"
+
+msgid "Default logo"
+msgstr "Standaard logo"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Toon standaard logo in het geval u niet eerder een uploaden"
+
+msgid "Register"
+msgstr "Registreren"
+
+msgid "View profile"
+msgstr "Profiel bekijken"
+
+msgid "Send Mail"
+msgstr "Berichten verzenden"
+
+msgid "Related Ads"
+msgstr "Gerelateerde Advertenties"
+
+msgid "No Related Ads"
+msgstr "Geen Gerelateerde Advertenties"
+
+msgid "Premium Listings"
+msgstr "Onwillekeurige advertenties"
+
+msgid "More Details"
+msgstr "Meer details"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Additional"
+msgstr "Extra"
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "Terms of Use"
+msgstr "Algemene voorwaarden"
+
+msgid "I agree to the"
+msgstr "Ik ga akkoord met de"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Sorry maar ik kan de pagina die u zoekt niet vinden"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Laat ons u helpen, hebben we een paar tips voor u om het te vinden."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Zoek</strong> het op:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Zoek</strong> het in de meest populaire categorieën."
+
+msgid "Your Search"
+msgstr "Uw Zoek"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "More information"
+msgstr "Meer informatie"
+
+msgid "Delete my account"
+msgstr "Verwijder account"
+
+msgid "Show As Galery"
+msgstr "Toon als Galery"
+
+msgid "Show As List"
+msgstr "Toon als lijst"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d -%2$d van %3$d lijsten"
+
+msgid "Hot!"
+msgstr "TIP"
+
+msgid "Images already uploaded"
+msgstr "Beelden al geüpload"
+
+msgid "Click or Drop for upload images"
+msgstr "Klik of Sleep voor het uploaden van afbeeldingen"
+
+msgid "Login with Facebook"
+msgstr "Aanmelden"
+
+msgid "Manage your items"
+msgstr "Beheren van uw items"
+
+msgid "Manage your alerts"
+msgstr "Beheer uw meldingen"
+
+msgid "Select a region..."
+msgstr "Selecteer een provincie..."
+
+msgid "Social Network"
+msgstr "Sociaal netwerk"
+
+msgid "Sponsored ad"
+msgstr "Sponsored ad"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "See all ads from"
+msgstr "Bekijk alle advertenties van"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "View more..."
+msgstr "Toon meer..."
+
+msgid "Advanced search"
+msgstr "Geavanceerd Zoeken"
+
+msgid "hide"
+msgstr "verberg"
+
+msgid "Oops!"
+msgstr "Oeps!"
+
+msgid "404 Not Found"
+msgstr "404 Niet Gevonden"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Sorry, er is een fout opgetreden, Gevraagde pagina kan niet gevonden!"
+
+msgid "Take Me Home"
+msgstr "Breng Me Naar Huis"
+
+msgid "Contact Support"
+msgstr "Contact opnemen met de support"
+
+msgid "Sign In"
+msgstr "Log in"
+
+msgid "Sign Up"
+msgstr "Aanmelden"
+
+msgid "Sign Out"
+msgstr "Uitloggen"
+
+msgid "Don't have an account!"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "Sign Up here"
+msgstr "Sign Up hier"
+
+msgid "Already have an account?"
+msgstr "Heeft u al een account?"
+
+msgid "Viewed"
+msgstr "Bekeken"
+
+msgid "See all Ads"
+msgstr "Zie alle advertenties"
+
+msgid "Premium Ads"
+msgstr "Premium advertenties"
+
+msgid "Latest Ads"
+msgstr "Laatste advertentie"
+
+msgid "Featured Brand"
+msgstr "Aanbevolen merk"
+
+msgid "Select a country"
+msgstr "Selecteer een land"
+
+msgid "Select a region"
+msgstr "Selecteer een regio"
+
+msgid "Select a city"
+msgstr "Selecteer een stad"
+
+msgid "Personal"
+msgstr "Flowberichten"
+
+msgid "See all ads"
+msgstr "Zie alle advertenties"
+
+msgid "More details"
+msgstr "Meer details"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Total Member"
+msgstr "Totale lid"
+
+msgid "Total Ads"
+msgstr "Totaal Advertenties"
+
+msgid "Images"
+msgstr "Afbeeldingen"
+
+msgid "Theme Settings"
+msgstr "Thema instellingen"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logo Images"
+msgstr "Logo 's"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Gelieve opnieuw laden of vernieuw uw browser als afbeeldingen niet wijzigen."
+
+msgid "Reload browser"
+msgstr "Reload browser"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Logo and Images"
+msgstr "Logo en afbeeldingen"
+
+msgid "The image has been uploaded correctly"
+msgstr "De afbeelding heeft correct geupload"
+
+msgid "The image has been removed"
+msgstr "﻿De logo afbeelding is verwijderd"
+
+msgid "Has not uploaded any image"
+msgstr "Niet heeft elke afbeelding geüpload"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Slider Images"
+msgstr "Voeg Slider Images toe"
+
+msgid "Background Images"
+msgstr "Achtergrondafbeeldingen"
+
+msgid "Brand"
+msgstr "Merk"
+
+msgid "Brand Images"
+msgstr "Merkimago"
+
+msgid "Icons"
+msgstr "Iconen"
+
+msgid "Categories Icons"
+msgstr "Categorieën Icons"
+
+msgid "Please visit"
+msgstr "Bezoek alstublieft"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Gewoon Kopieer en plak code beelden ex. thuis of hart."
+
+msgid "version"
+msgstr "versie"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Thema's die worden aangedreven door OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Afbeeldingen Categorie"
+
+msgid "Administrator Panel"
+msgstr "Beheerder Panel"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Advertiser"
+msgstr "Reclame"
+
+msgid "Social"
+msgstr "Sociaal"
+
+msgid "Font and color"
+msgstr "Lettertype kleur"
+
+msgid "More"
+msgstr "Meer"
+
+msgid "Widget settings"
+msgstr "Widgetinstellingen"
+
+msgid "Social settings"
+msgstr "Instellingen sociale media"
+
+msgid "Product settings"
+msgstr "Productinstellingen"
+
+msgid "Ads settings"
+msgstr "Advertenties instellingen"
+
+msgid "Product Slider"
+msgstr "Product schuifregelaar"
+
+msgid "Slider Title and Links"
+msgstr "Schuifregelaar titel en Links"
+
+msgid "Content display"
+msgstr "Content Weergave"
+
+msgid "Custom settings"
+msgstr "Aangepaste instellingen"
+
+msgid "Font and Color settings"
+msgstr "Instellingen voor lettertype en kleur"
+
+msgid "Button Color"
+msgstr "Knop Kleur"
+
+msgid "More settings"
+msgstr "Meer instellingen"
+
+msgid "Favicon Images"
+msgstr "Favicon beelden"
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "Header Style"
+msgstr "Header stijl"
+
+msgid "Home Style"
+msgstr "Home stijl"
+
+msgid "Footer Style"
+msgstr "Foote stijl"
+
+msgid "Product Style"
+msgstr "Product stijl"
+
+msgid "Search Style"
+msgstr "zoeken, sed-stijl"
+
+msgid "Select search form style template"
+msgstr "Selecteer Zoek formulier stijlsjabloon"
+
+msgid "Search Placeholder"
+msgstr "Zoeken Placeholder"
+
+msgid "Footer Copyright"
+msgstr "Voetnoot copyright tekst"
+
+msgid "Copyright text on footer."
+msgstr "Tekst van de auteursrechten op voettekst."
+
+msgid "only for arabic or persian language."
+msgstr "alleen voor Arabische of Perzische taal."
+
+msgid "Title On Home"
+msgstr "Titel op Home"
+
+msgid "Title Footer"
+msgstr "Titelvoetgedeelte"
+
+msgid "Widget on Footer"
+msgstr "Widget op voettekst"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "U kunt toevoegen widget op voettekst met uw aangepaste widget ex: facebook widget of twitter widget."
+
+msgid "Title Useful Information"
+msgstr "Titel nuttige informatie"
+
+msgid "Useful Information"
+msgstr "Nuttige informatie"
+
+msgid "Add text for useful information."
+msgstr "Tekst voor nuttige informatie toevoegen."
+
+msgid "Show lists as"
+msgstr "Toon lijsten als"
+
+msgid "Slider latest Ads"
+msgstr "Schuifregelaar nieuwste advertenties"
+
+msgid "Slider Premium Ads"
+msgstr "Schuifregelaar Premium advertenties"
+
+msgid "Sidebar Premium Ads"
+msgstr "Zijbalk Premium advertenties"
+
+msgid "Search Premium Ads"
+msgstr "Zoek Premium advertenties"
+
+msgid "Amount of the Latest ads"
+msgstr "Bedrag van de nieuwste advertenties"
+
+msgid "Amount of the premium ads"
+msgstr "premiebedrag"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Bedrag van de premie zijbalk advertenties"
+
+msgid "Amount of the search page premium ads"
+msgstr "Bedrag van de zoeken pagina premium advertenties"
+
+msgid "Amount of the related ads"
+msgstr "Bedrag van de verwante advertenties"
+
+msgid "Premium Ads Display"
+msgstr "Premium advertenties weergeven"
+
+msgid "Latest Ads Display"
+msgstr "Nieuwste advertenties weergeven"
+
+msgid "Ads with Category"
+msgstr "Advertenties met categorie"
+
+msgid "Location Display"
+msgstr "Locatie weergeven"
+
+msgid "Brand Display"
+msgstr "Merk Display"
+
+msgid "Statistic Display"
+msgstr "Statistiek Display"
+
+msgid "Show or hide"
+msgstr "Weergeven of verbergen"
+
+msgid "Ads with category"
+msgstr "Advertenties met categorie"
+
+msgid "location in home"
+msgstr "locatie in huis"
+
+msgid "Brand slider"
+msgstr "Merk schuifregelaar"
+
+msgid "Statistic ads"
+msgstr "Statistiek advertenties"
+
+msgid "Header Ads"
+msgstr "Header advertenties"
+
+msgid "Footer Ads"
+msgstr "Voettekst advertenties"
+
+msgid "Search results page"
+msgstr "Zoekresultaten"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Deze advertentie wordt getoond op de voettekst van uw website. Merk op dat de grootte van de advertentie moet worden 728 x 90 pixels."
+
+msgid "Sidebar Left"
+msgstr "Linksmidden"
+
+msgid "Sidebar Right"
+msgstr "Rechtsmidden"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Zijbalk advertenties Member Area"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Deze advertentie wordt getoond op de zijbalk van uw lid gebied."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Deze advertentie wordt getoond op de rechter zijbalk van uw website. Merk op dat de grootte van de advertentie moet worden 300 x 350 pixels."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Deze advertentie wordt getoond op de rechter zijbalk van uw website. Merk op dat de grootte van de advertentie moet worden van 160 x 600 pixels."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto Play Product schuifregelaar"
+
+msgid "welcome to classifieds"
+msgstr "Welkom bij classifieds"
+
+msgid "you can costumize css."
+msgstr "u kunt deze css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Inschakelen activeren aangepast lettertype en kleur."
+
+msgid "create new pages TOS and copy url here"
+msgstr "nieuwe pagina's TOS maken en kopieer url hier"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "u moet installeren fb login plugin, activeren voordat Facebook Login"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "u moet installeren madhouse avatar plugin, voordat activeren madhouse avatar"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "u moet installeren watchlist plugin, voordat activeren watchlist"
+
+msgid "you can customize html code on home"
+msgstr "u kunt HTML-code op home"
+
+msgid "you can costumize html on home under slider."
+msgstr "u kunt deze HTML-codes op huis onder de schuifregelaar."
+
+msgid "insert your text or html code"
+msgstr "uw tekst of HTML-code invoegen"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr ""
+"Deze advertentie zal worden getoond op de bovenkant van uw website, naast de website titel en boven de zoekresultaten. Merk op dat de grootte van de advertentie "
+"moet zijn 728x90 pixels."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Deze advertentie wordt weergegeven onder de zoekresultaten van uw site. Merk op dat de grootte van de advertentie moet zijn 728x90 pixels."
+
+msgid "view"
+msgstr "bekijken"
+
+msgid "Slider text"
+msgstr "Schuifregelaar tekst"
+
+msgid "Public Profile"
+msgstr "Openbaar Profiel"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Company"
+msgstr "Bedrijf"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Waarschuwing: Eenmaal ingesteld, zal u niet zitten kundig voor uw gebruikersnaam opnieuw wijzigt. Kies verstandig."
+
+msgid "Change your username"
+msgstr "Wijzig mijn gebruikersnaam"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Al uw advertenties en meldingen worden verwijderd, Deze actie kan niet ongedaan worden gemaakt."
+
+msgid "Delete account"
+msgstr "Verwijder mijn account"
+
+msgid "Rival Images"
+msgstr "Rival Afbeeldingen"
+
+msgid "Rival Theme Settings"
+msgstr "Rival Thema-instellingen"
+
+msgid "Rival Category"
+msgstr "Rival Categorie"

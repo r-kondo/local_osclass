@@ -1,0 +1,1102 @@
+# Translation of OsclassDotMe in Hungarian
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:22+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: hu_HU\n"
+
+msgid "New pasword"
+msgstr "Új jelszó"
+
+msgid "Repeat new pasword"
+msgstr "Ismételje meg az új pasword"
+
+msgid "Page not found"
+msgstr "Az oldal nem található"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Sikeresen feliratkoztál a figyelmeztetésekre"
+
+msgid "Invalid email address"
+msgstr "Helytelen e-mail cím"
+
+msgid "There was a problem with the alert"
+msgstr "Probléma adódott a figyelmeztetéssel"
+
+msgid "Subscribe to this search"
+msgstr "Iratkozz fel erre a keresésre"
+
+msgid "Subscribe now"
+msgstr "Iratkozz fel most"
+
+msgid "Contact us"
+msgstr "Írj nekünk"
+
+msgid "Subject"
+msgstr "Tárgy"
+
+msgid "optional"
+msgstr "választható"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "Your name"
+msgstr "Név"
+
+msgid "Your e-mail address"
+msgstr "E-mail címed"
+
+msgid "Send"
+msgstr "Küld"
+
+msgid "Contact"
+msgstr "Elérhetőség"
+
+msgid "Your search must be at least three characters long"
+msgstr "A keresésednek legalább három karaktert kell tartalmaznia"
+
+msgid "Theme settings updated correctly"
+msgstr "Téma beállításai megfelelően frissítve"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "A logó képe sikeresen feltöltve"
+
+msgid "An error has occurred, please try again"
+msgstr "Hiba történt, kérlek próbálkozz újra"
+
+msgid "The logo image has been removed"
+msgstr "A logó kép el lett távolítva"
+
+msgid "Image not found"
+msgstr "Kép nem található"
+
+msgid "Header logo"
+msgstr "Fejléc logó"
+
+msgid "Theme settings"
+msgstr "Téma beállítások"
+
+msgid "ie. PHP Programmer"
+msgstr "azaz. PHP programozó"
+
+msgid "No file selected"
+msgstr "Nincs fájl kiválasztva"
+
+msgid "Choose File"
+msgstr "Fájl kiválasztása"
+
+msgid "Hi %s"
+msgstr "Hi %s"
+
+msgid "My account"
+msgstr "Fiókom"
+
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+msgid "Login"
+msgstr "Bejelentkezés"
+
+msgid "Register for a free account"
+msgstr "Regisztráció"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Remember me"
+msgstr "Jegyezz meg"
+
+msgid "Log in"
+msgstr "Belépés"
+
+msgid "Forgot password?"
+msgstr "Elfelejtett jelszó"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Publish your ad for free"
+msgstr "Közzé a hirdetést ingyen"
+
+msgid "Select a category"
+msgstr "Válassz kategóriát"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Contact seller"
+msgstr "Szerző értesítése"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Be kell jelentkezned vagy regisztrálnod, hogy fel vedd a kapcsolatot a hirdetővel"
+
+msgid "To (seller)"
+msgstr "Címzett (a hirdetés szerzőjének)"
+
+msgid "Listing"
+msgstr "Hirdetés"
+
+msgid "Phone number"
+msgstr "Telefonszám"
+
+msgid "Send message"
+msgstr "Üzenet küldése"
+
+msgid "Update your listing"
+msgstr "A lista frissítése"
+
+msgid "General Information"
+msgstr "Általános információk"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Price"
+msgstr "árfolyam"
+
+msgid "Photos"
+msgstr "Fotó"
+
+msgid "Add new photo"
+msgstr "Új képek"
+
+msgid "Location"
+msgstr "Megye"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Region"
+msgstr "Kerület"
+
+msgid "City"
+msgstr "Város"
+
+msgid "City area"
+msgstr "Város negyed"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "Cancel"
+msgstr "Kilépés"
+
+msgid "Publish a listing"
+msgstr "A lista közzététele"
+
+msgid "Listing Location"
+msgstr "Hirdetés helyszíne"
+
+msgid "City Area"
+msgstr "Város terület"
+
+msgid "Seller's information"
+msgstr "Információk a szerzőről"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Show e-mail on the listing page"
+msgstr "E-mail cím megjelenítése a hirdetésben"
+
+msgid "Publish"
+msgstr "Közzététel"
+
+msgid "Send to a friend"
+msgstr "Küld el ismerősödnek"
+
+msgid "Your friend's name"
+msgstr "Az ismerősöd neve"
+
+msgid "Your friend's e-mail address"
+msgstr "Az ismerősöd e-mail címe"
+
+msgid "Mark as"
+msgstr "Mark as"
+
+msgid "spam"
+msgstr "kéretlen elektronikus hirdetés"
+
+msgid "misclassified"
+msgstr "téves"
+
+msgid "duplicated"
+msgstr "megduplázott"
+
+msgid "expired"
+msgstr "lejárt"
+
+msgid "offensive"
+msgstr "zavaró, bántó tartalom"
+
+msgid "Published date"
+msgstr "Megjelent dátum"
+
+msgid "Modified date"
+msgstr "Módosított dátum"
+
+msgid "Share"
+msgstr "Megosztás"
+
+msgid "Useful information"
+msgstr "Hasznos információk"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Lokálisan ható, vagy fizet a PayPal csalások elkerülése érdekében"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Soha nem fizet, Western Union, Moneygram, vagy más névtelen fizetési szolgáltatások"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Ne vásároljon külföldről, vagy adjon el külföldre. Ne fogadjon el pénztáros ellenőrzi a hazádban"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Ezen az oldalon soha részt vesz minden olyan tranzakció, és nem nem kezelni fizetés, szállítás, biztosítása a ügyletek, letéti szolgáltatások nyújtására, vagy "
+"\"vásárló védelmet\" vagy \"eladó tanúsítás\""
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "by"
+msgstr "által"
+
+msgid "Delete your comment"
+msgstr "Hozzászólásod törlése"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Hagyjuk el a komment (spam, és a támadó üzenetek törlődnek)"
+
+msgid "Leave your comment"
+msgstr "Hagyjuk el a komment"
+
+msgid "Your e-mail"
+msgstr "E-mail címed"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Comment"
+msgstr "Hozzászólás"
+
+msgid "Image"
+msgstr "Kép"
+
+msgid "Contact publisher"
+msgstr "Kapcsolat Kiadó"
+
+msgid "Tel"
+msgstr "Tel:"
+
+msgid "Enter the words above"
+msgstr "Írd be a fenti karaktereket"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Latest Listings"
+msgstr "Legújabb hirdetések"
+
+msgid "No Latest Listings"
+msgstr "Nincsenek új hirdetések"
+
+msgid "See all offers"
+msgstr "Az összes ajánlat megtekintése"
+
+msgid "Sort by"
+msgstr "Sorrend"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nincs találat erre: \"%s\""
+
+msgid "Your search"
+msgstr "Részletes keresés"
+
+msgid "Show only"
+msgstr "Csak Térkép"
+
+msgid "Show only listings with pictures"
+msgstr "Csak képes hirdetések megjelenítése"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Rendben"
+
+msgid "Selected"
+msgstr "Kiválasztva"
+
+msgid "Nothing selected, input was"
+msgstr "Nincs kiválasztás, bemeneti volt"
+
+msgid "User account manager"
+msgstr "Felhasználói fiók kezelés"
+
+msgid "Your alerts"
+msgstr "Figyelmeztetéseid"
+
+msgid "You do not have any alerts yet"
+msgstr "Még nincs figyelmeztetlésed"
+
+msgid "Alert"
+msgstr "Figyelmeztetés"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "A művelet nem vonható vissza. Boztos vagy benne, hogy folytatod?"
+
+msgid "Delete this alert"
+msgstr "Töröld ezt a figyelmeztetést"
+
+msgid "Publication date"
+msgstr "Közzététel dátuma"
+
+msgid "Listings"
+msgstr "listázás"
+
+msgid "Change your e-mail"
+msgstr "E-mail módisítása"
+
+msgid "Current e-mail"
+msgstr "Jelenlegi e-mail"
+
+msgid "New e-mail"
+msgstr "Új e-mail"
+
+msgid "Change your password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "Current password"
+msgstr "Jelenlegi jelszó"
+
+msgid "New password"
+msgstr "Új jelszó"
+
+msgid "Repeat new password"
+msgstr "Új jelszó megismétlése"
+
+msgid "Listings from %s"
+msgstr "Hirdetések innen: %s"
+
+msgid "No listings have been added yet"
+msgstr "Nem listát adtak még"
+
+msgid "View listing"
+msgstr "Listázás megtekintése"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Activate"
+msgstr "Aktiválás"
+
+msgid "Recover your password"
+msgstr "Jelszó visszaállítása"
+
+msgid "Change password"
+msgstr "Jelszó módosítása"
+
+msgid "Your listings"
+msgstr "Hirdetéseid"
+
+msgid "Post a new listing"
+msgstr "Adj fel új hirdetést"
+
+msgid "You don't have any listings yet"
+msgstr "Még nem adtál fel hirdetést"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Ez a művelet nem vonható vissza. Biztos vagy benne, és folytatod?"
+
+msgid "Access to your account"
+msgstr "Hozzáférés a fiókodhoz"
+
+msgid "Update your profile"
+msgstr "Profilod frissítése"
+
+msgid "Modify e-mail"
+msgstr "E-mail módosítása"
+
+msgid "Modify password"
+msgstr "Jelszó módosítása"
+
+msgid "User type"
+msgstr "Felhasználó típus:"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Weboldal"
+
+msgid "%s's profile"
+msgstr "%s profilja"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Teljes név"
+
+msgid "User Description"
+msgstr "Felhasználó leírása"
+
+msgid "Latest listings"
+msgstr "Legújabb hirdetések"
+
+msgid "Send me a new password"
+msgstr "Új jelszó kérése"
+
+msgid "Register an account for free"
+msgstr "Regisztráció"
+
+msgid "Re-type password"
+msgstr "Jelszó megismétlése"
+
+msgid "Passwords don't match"
+msgstr "A jelszavak nem egyeznek"
+
+msgid "Create"
+msgstr "Létrehoz"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Remove logo"
+msgstr "Távolítsa logo"
+
+msgid "Upload logo"
+msgstr "Logó feltöltése"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "A kívánt méretet a logó 600x100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Megjegyzés:</strong> feltöltése egy másik logo felülírja az aktuális logo."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo kép (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Feltöltés"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "A képek <strong>mappa%s</strong> nem írható a kiszolgálón"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Ahhoz, hogy a könyvtár írható alá UNIX ezt a parancsot a shell:"
+
+msgid "Donate"
+msgstr "Adomány"
+
+msgid "Search placeholder"
+msgstr "Keresés helykitöltő"
+
+msgid "Footer link"
+msgstr "Élőláb csatolása kapcsoló"
+
+msgid "Save changes"
+msgstr "Módosítások mentése"
+
+msgid "Custom"
+msgstr "Egyéni"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Ez a saját hirdetésed, nem tudsz válaszolni a hirdetőnek"
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "A hirdetés érvényessége lejárt. Nem lehet válaszolni a hirdetőnek"
+
+msgid "No logo has been uploaded yet"
+msgstr "Még nem lett logó feltöltve"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass a adminisztrációs panel a logó képet nem tudok feltölteni."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"Szeretnék segíteni az Osclass készítőinek a <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> linkelésével az oldalamról a következő szöveggel."
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Kérjük, hogy a fent említett image mappa írható."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Azt szeretném, hogy hozzájárulnak a Osclass az adomány"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Az oldal motorja <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> <strong>Osclass</strong>"
+
+msgid "Default logo"
+msgstr "Alapértelmezett embléma"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Alapértelmezett embléma megjelenítése, abban az esetben nem feltölteni, hogy korábban"
+
+msgid "Register"
+msgstr "Regisztráció"
+
+msgid "View profile"
+msgstr "Profil megtekintése"
+
+msgid "Send Mail"
+msgstr "E-mail küldése"
+
+msgid "Related Ads"
+msgstr "Kapcsolódó hirdetések"
+
+msgid "No Related Ads"
+msgstr "No Hasonló hirdetések"
+
+msgid "Premium Listings"
+msgstr "Támogatott hirdetések"
+
+msgid "More Details"
+msgstr "Bővebben"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Additional"
+msgstr "További"
+
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+msgid "Terms of Use"
+msgstr "Oldaltérkép"
+
+msgid "I agree to the"
+msgstr "Elfogadom a %s"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Sajnáljuk, de nem találom az oldalon, amit keresel"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Hadd segítsünk, mi van néhány tipp, hogy megtalálja azt."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Keressük:</strong>"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Nézd meg</strong> azt a legnépszerűbb kategóriákban."
+
+msgid "Your Search"
+msgstr "Részletes keresés"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "More information"
+msgstr "További információ"
+
+msgid "Delete my account"
+msgstr "Fiókom törlése"
+
+msgid "Show As Galery"
+msgstr "Megjelenítés mint: Galéria"
+
+msgid "Show As List"
+msgstr "Lista megjelenítése"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "% 1$d -% 2$d of % 3$d albérletek"
+
+msgid "Hot!"
+msgstr "Nagyon népszerű!"
+
+msgid "Images already uploaded"
+msgstr "Már feltöltött képek"
+
+msgid "Click or Drop for upload images"
+msgstr "Kattintson vagy ejtsen a feltöltendő képek"
+
+msgid "Login with Facebook"
+msgstr "Jelentkezz be a Facebook fiókkal"
+
+msgid "Manage your items"
+msgstr "A tételek kezelése"
+
+msgid "Manage your alerts"
+msgstr "Az értesítések kezelése"
+
+msgid "Select a region..."
+msgstr "Válassz kerületet..."
+
+msgid "Social Network"
+msgstr "Ismeretségi hálózat"
+
+msgid "Sponsored ad"
+msgstr "Szponzorált hirdetés"
+
+msgid "Home"
+msgstr "Kezdőlap"
+
+msgid "See all ads from"
+msgstr "Hirdetések megtekintése"
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "View more..."
+msgstr "Mutass többet ..."
+
+msgid "Advanced search"
+msgstr "Összetett keresés"
+
+msgid "hide"
+msgstr "elrejtés"
+
+msgid "Oops!"
+msgstr "Hoppá!"
+
+msgid "404 Not Found"
+msgstr "404 Nem található"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Sajnálom, hiba történt, a kért oldal nem található!"
+
+msgid "Take Me Home"
+msgstr "Vigyél haza"
+
+msgid "Contact Support"
+msgstr "Lépjen kapcsolatba az ügyfélszolgálattal"
+
+msgid "Sign In"
+msgstr "Belépés"
+
+msgid "Sign Up"
+msgstr "Feliratkozás"
+
+msgid "Sign Out"
+msgstr "Kijelentkezés"
+
+msgid "Don't have an account!"
+msgstr "Nincs még fiókja!"
+
+msgid "Sign Up here"
+msgstr "Regisztrálj itt"
+
+msgid "Already have an account?"
+msgstr "Már van számlája?"
+
+msgid "Viewed"
+msgstr "Látták"
+
+msgid "See all Ads"
+msgstr "Hirdetések megtekintése"
+
+msgid "Premium Ads"
+msgstr "Prémium hirdetések"
+
+msgid "Latest Ads"
+msgstr "Legfrissebb hirdetések"
+
+msgid "Featured Brand"
+msgstr "Kiemelt márka"
+
+msgid "Select a country"
+msgstr "Válassz országot:"
+
+msgid "Select a region"
+msgstr "Válassza ki a régiót"
+
+msgid "Select a city"
+msgstr "Válassza ki a várost"
+
+msgid "Personal"
+msgstr "Magánszemély"
+
+msgid "See all ads"
+msgstr "Hirdetések megtekintése"
+
+msgid "More details"
+msgstr "Bővebben"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "Total Member"
+msgstr "Összegzés tagja"
+
+msgid "Total Ads"
+msgstr "Teljes hirdetések"
+
+msgid "Images"
+msgstr "Képek"
+
+msgid "Theme Settings"
+msgstr "Sablon beállítások"
+
+msgid "Logo"
+msgstr "Logó"
+
+msgid "Logo Images"
+msgstr "Embléma jellegű képekhez"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Kérjük, reload, vagy frissíti a böngészőjét, ha a kép nem változik."
+
+msgid "Reload browser"
+msgstr "Reload-böngésző"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Logo and Images"
+msgstr "Logó és képek"
+
+msgid "The image has been uploaded correctly"
+msgstr "A logó képe sikeresen feltöltve"
+
+msgid "The image has been removed"
+msgstr "A logó kép el lett távolítva"
+
+msgid "Has not uploaded any image"
+msgstr "Nem feltöltött kép"
+
+msgid "Slider"
+msgstr "Diashow"
+
+msgid "Slider Images"
+msgstr "Slider Kép"
+
+msgid "Background Images"
+msgstr "Háttérképek"
+
+msgid "Brand"
+msgstr "Gyártó"
+
+msgid "Brand Images"
+msgstr "Márka képek"
+
+msgid "Icons"
+msgstr "Ikonok"
+
+msgid "Categories Icons"
+msgstr "Kategóriák ikonok"
+
+msgid "Please visit"
+msgstr "Kérjük, látogasson el"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Csak másol és tészta a kód képek ex. otthon vagy a szív."
+
+msgid "version"
+msgstr "Változat:"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Themes Powered by OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Kategóraiképek"
+
+msgid "Administrator Panel"
+msgstr "Administrator Panel"
+
+msgid "General"
+msgstr "Általános"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Termék"
+
+msgid "Advertiser"
+msgstr "hirdető"
+
+msgid "Social"
+msgstr "Közösségi hálózat"
+
+msgid "Font and color"
+msgstr "Betűszín"
+
+msgid "More"
+msgstr "Bővebben"
+
+msgid "Widget settings"
+msgstr "Widget beállítások"
+
+msgid "Social settings"
+msgstr "Közösségi beállítások"
+
+msgid "Product settings"
+msgstr "Új termék beállításai"
+
+msgid "Ads settings"
+msgstr "Hirdetések beállításai"
+
+msgid "Product Slider"
+msgstr "Akciós Termék Slider"
+
+msgid "Slider Title and Links"
+msgstr "Csúszka cím és linkek"
+
+msgid "Content display"
+msgstr "Tartalom-megjelenítés"
+
+msgid "Custom settings"
+msgstr "Egyéni beállítások"
+
+msgid "Font and Color settings"
+msgstr "Betűtípus-és színbeállításainak"
+
+msgid "Button Color"
+msgstr "Gomb szöveg színe"
+
+msgid "More settings"
+msgstr "További beállítások"
+
+msgid "Favicon Images"
+msgstr "Favicon képek"
+
+msgid "Information"
+msgstr "Információ"
+
+msgid "Header Style"
+msgstr "Fejléc stílus"
+
+msgid "Home Style"
+msgstr "Home Style"
+
+msgid "Footer Style"
+msgstr "Lábléc stílus"
+
+msgid "Product Style"
+msgstr "Termék stílus"
+
+msgid "Search Style"
+msgstr "Keresés stílus"
+
+msgid "Select search form style template"
+msgstr "Jelölje ki a keresési űrlap Stílussablon"
+
+msgid "Search Placeholder"
+msgstr "Helyhordozó keresés"
+
+msgid "Footer Copyright"
+msgstr "Lábrész copyright"
+
+msgid "Copyright text on footer."
+msgstr "Szerzői jogi szöveget a lábléc."
+
+msgid "only for arabic or persian language."
+msgstr "csak az arab és perzsa nyelv."
+
+msgid "Title On Home"
+msgstr "Otthoni cím"
+
+msgid "Title Footer"
+msgstr "Cím lábléc"
+
+msgid "Widget on Footer"
+msgstr "Lábléc Widget"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Az egyéni widget ex a lábléc widget is hozzáadhat: facebook vagy a twitter widget widget."
+
+msgid "Title Useful Information"
+msgstr "Cím-hasznos információk"
+
+msgid "Useful Information"
+msgstr "Hasznos információk"
+
+msgid "Add text for useful information."
+msgstr "Hasznos információk a szöveget."
+
+msgid "Show lists as"
+msgstr "Hirdetések megjelenítve:"
+
+msgid "Slider latest Ads"
+msgstr "Csúszka legfrissebb hirdetések"
+
+msgid "Slider Premium Ads"
+msgstr "Csúszka prémium hirdetések"
+
+msgid "Sidebar Premium Ads"
+msgstr "Tálaló prémium hirdetések"
+
+msgid "Search Premium Ads"
+msgstr "Keresés prémium hirdetések"
+
+msgid "Amount of the Latest ads"
+msgstr "A legújabb hirdetéseket összege"
+
+msgid "Amount of the premium ads"
+msgstr "A prémium hirdetéseket összege"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Összege a tálaló prémium hirdetések"
+
+msgid "Amount of the search page premium ads"
+msgstr "A keresési oldal prémium hirdetéseket összege"
+
+msgid "Amount of the related ads"
+msgstr "A kapcsolódó hirdetéseket összege"
+
+msgid "Premium Ads Display"
+msgstr "Prémium címek bemutatás"
+
+msgid "Latest Ads Display"
+msgstr "Legújabb hirdetések megjelenítése"
+
+msgid "Ads with Category"
+msgstr "Hirdetések kategóriában"
+
+msgid "Location Display"
+msgstr "Kijelz"
+
+msgid "Brand Display"
+msgstr "Márka kijelző"
+
+msgid "Statistic Display"
+msgstr "Statisztika megjelenítése"
+
+msgid "Show or hide"
+msgstr "Megjelenítés vagy elrejtés"
+
+msgid "Ads with category"
+msgstr "Hirdetések kategóriában"
+
+msgid "location in home"
+msgstr "elhelyezés, otthon"
+
+msgid "Brand slider"
+msgstr "Márka csúszka"
+
+msgid "Statistic ads"
+msgstr "Hova hirdetések"
+
+msgid "Header Ads"
+msgstr "Fejléc hirdetések"
+
+msgid "Footer Ads"
+msgstr "Lábléc Ads"
+
+msgid "Search results page"
+msgstr "Keresési eredmények"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Ez a hirdetés jelenik meg a láblécben a webhely. Ne feledje, hogy a hirdetés mérete, 728 x 90 pixel legyen."
+
+msgid "Sidebar Left"
+msgstr "Oldalsáv - Bal"
+
+msgid "Sidebar Right"
+msgstr "Oldalsáv - Jobb"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Tálaló hirdetések tag terület"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Ez a hirdetés lesz mutatott-on tálaló a tagállam területének."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Ez a hirdetés jelenik meg a jobb tálaló a weboldal. Ne feledje, hogy a hirdetés mérete 300 x 350 pixel kell."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Ez a hirdetés jelenik meg a jobb tálaló a weboldal. Ne feledje, hogy a hirdetés mérete is 160 x 600 pixelek."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto Play termék csúszka"
+
+msgid "welcome to classifieds"
+msgstr "Üdvözöljük apróhirdetések"
+
+msgid "you can costumize css."
+msgstr "lehet costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Egyéni betűtípust és a színt aktiválásához kapcsoljuk be."
+
+msgid "create new pages TOS and copy url here"
+msgstr "hozzon létre új oldalakat TOS, és másolja az URL-t itt"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "meg kell fb logika plugin telepítése, mielőtt aktiválja a Facebook bejelentkezési"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "kell telepíteni madhouse avatar plugin, mielőtt aktiválni madhouse avatar"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "kell telepíteni plugin listához, mielőtt aktiválni a listához"
+
+msgid "you can customize html code on home"
+msgstr "testreszabhatja a html-kódot a haza"
+
+msgid "you can costumize html on home under slider."
+msgstr "tudod costumize html otthoni csoportban a csúszka."
+
+msgid "insert your text or html code"
+msgstr "a szöveg- vagy html-kód beszúrása"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr ""
+"Ez a hirdetés jelenik meg a tetején a webhely, a webhely címe mellett, és a keresési eredmények felett. Ne feledje, hogy a hirdetés mérete, 728 x 90 pixel legyen."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Ez a hirdetés jelenik meg a webhely a keresési eredmények között. Ne feledje, hogy a hirdetés mérete, 728 x 90 pixel legyen."
+
+msgid "view"
+msgstr "néz"
+
+msgid "Slider text"
+msgstr "Csúszka szöveg"
+
+msgid "Public Profile"
+msgstr "Nyilvános profil"
+
+msgid "Username"
+msgstr "Felhasználói név"
+
+msgid "Company"
+msgstr "Cég"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "FIGYELEM: Egy lehetőséged van a módosításra. Ha be van állítva, akkor nem leszel képes megváltoztatni a felhasználónevet újra. Válassz okosan."
+
+msgid "Change your username"
+msgstr "Felhasználónév módosítása"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "A fiókkal együtt, minden hirdetés és más adatok is eltávolításra kerülnek! Ezt a műveletet nem lehet visszavonni!"
+
+msgid "Delete account"
+msgstr "Fiók törlése"
+
+msgid "Rival Images"
+msgstr "Rival Képek"
+
+msgid "Rival Theme Settings"
+msgstr "Rival Theme Settings"
+
+msgid "Rival Category"
+msgstr "Rival Kategória"

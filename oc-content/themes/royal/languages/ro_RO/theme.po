@@ -1,0 +1,1096 @@
+# Translation of OsclassDotMe in Romanian
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:39+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ro\n"
+
+msgid "New pasword"
+msgstr "Parolă nouă"
+
+msgid "Repeat new pasword"
+msgstr "Repetați parolă nouă"
+
+msgid "Page not found"
+msgstr "Pagina nu a fost gasita"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "V-ați abonat cu succes la alerta"
+
+msgid "Invalid email address"
+msgstr "Adresă de email invalidă"
+
+msgid "There was a problem with the alert"
+msgstr "A apărut o problemă cu alerta"
+
+msgid "Subscribe to this search"
+msgstr "Aboneaza-te la această căutare"
+
+msgid "Subscribe now"
+msgstr "Aboneaza-te acum"
+
+msgid "Contact us"
+msgstr "Contactați-ne"
+
+msgid "Subject"
+msgstr "Subiect:"
+
+msgid "optional"
+msgstr "Optional"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "Your name"
+msgstr "Numele dvs."
+
+msgid "Your e-mail address"
+msgstr "Adresa e-mail"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Your search must be at least three characters long"
+msgstr "Căutarea dvs. trebuie să fie de cel puțin trei caractere"
+
+msgid "Theme settings updated correctly"
+msgstr "﻿Setările Temei au fost actualizate în mod corect"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "﻿Imaginea logo-ului a fost încărcată corect"
+
+msgid "An error has occurred, please try again"
+msgstr "A apărut o eroare, vă rugăm să încercați din nou"
+
+msgid "The logo image has been removed"
+msgstr "Logo Imaginea a fost eliminată"
+
+msgid "Image not found"
+msgstr "Imaginea nu a fost găsită"
+
+msgid "Header logo"
+msgstr "Logo Antet"
+
+msgid "Theme settings"
+msgstr "Setările Tema"
+
+msgid "ie. PHP Programmer"
+msgstr "... de exemplu: cercei"
+
+msgid "No file selected"
+msgstr "Nici un fișier selectat"
+
+msgid "Choose File"
+msgstr "Alege fișier"
+
+msgid "Hi %s"
+msgstr "Salut %s,"
+
+msgid "My account"
+msgstr "Contul meu"
+
+msgid "Logout"
+msgstr "Deconectare"
+
+msgid "Login"
+msgstr "Autentificare"
+
+msgid "Register for a free account"
+msgstr "Inregistreaza-te! Cont gratuit!"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Remember me"
+msgstr "Ține-mă minte"
+
+msgid "Log in"
+msgstr "Conectare"
+
+msgid "Forgot password?"
+msgstr "Ți-ai uitat parola?"
+
+msgid "Language"
+msgstr "Limbă"
+
+msgid "Publish your ad for free"
+msgstr "Adauga anunț gratuit"
+
+msgid "Select a category"
+msgstr "Selectaţi o categorie"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Contact seller"
+msgstr "Contacteaza vânzător"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Trebuie să vă conectați sau să vă înregistrați,pentru a putea contacta vânzătorul"
+
+msgid "To (seller)"
+msgstr "Catre (vanzator)"
+
+msgid "Listing"
+msgstr "Anunturi"
+
+msgid "Phone number"
+msgstr "Număr telefon"
+
+msgid "Send message"
+msgstr "Trimite mesaj..."
+
+msgid "Update your listing"
+msgstr "Actualizați înregistrarea"
+
+msgid "General Information"
+msgstr "Informaţii generale"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Price"
+msgstr "Preţ"
+
+msgid "Photos"
+msgstr "Fotografii"
+
+msgid "Add new photo"
+msgstr "Adauga o noua fotografie"
+
+msgid "Location"
+msgstr "Locaţia"
+
+msgid "Country"
+msgstr "Ţară"
+
+msgid "Region"
+msgstr "Regiune"
+
+msgid "City"
+msgstr "Oraş"
+
+msgid "City area"
+msgstr "Zona orașului"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Update"
+msgstr "Actualizează"
+
+msgid "Cancel"
+msgstr "Anulează"
+
+msgid "Publish a listing"
+msgstr "Publicați un anunt"
+
+msgid "Listing Location"
+msgstr "Anunturi locație"
+
+msgid "City Area"
+msgstr "Oraş"
+
+msgid "Seller's information"
+msgstr "Informaţiile vânzătorului"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Show e-mail on the listing page"
+msgstr "Arată e-mailul pe pagina anuntului"
+
+msgid "Publish"
+msgstr "Publică"
+
+msgid "Send to a friend"
+msgstr "Trimite unui prieten"
+
+msgid "Your friend's name"
+msgstr "Numele prietenului tau"
+
+msgid "Your friend's e-mail address"
+msgstr "Adresa de email a prietenului"
+
+msgid "Mark as"
+msgstr "Marcheaza ca"
+
+msgid "spam"
+msgstr "Spam"
+
+msgid "misclassified"
+msgstr "Clasificare  eronata"
+
+msgid "duplicated"
+msgstr "Duplicat"
+
+msgid "expired"
+msgstr "Expirat"
+
+msgid "offensive"
+msgstr "Ofensator"
+
+msgid "Published date"
+msgstr "Data publicării"
+
+msgid "Modified date"
+msgstr "Data modificarii"
+
+msgid "Share"
+msgstr "Distribuie"
+
+msgid "Useful information"
+msgstr "﻿Informații utile"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Evitaţi escrocheriile şi plătiţi direct (în mână) sau prin PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Niciodată nu plătiţi prin Western Union, Moneygram sau alte servicii anonime de plată."
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Nu cumpăraţi sau vindeţi înafara ţării voastre. Nu acceptaţi cecuri dinafara ţării"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Acest site nu este implicat în nici o tranzacţie şi nici nu controlează plăţile, transportul, garanţia tranzacţiilor, nu oferă \"protecţia cumpărătorului\" dar nici \"certificarea vânzătorului\"."
+
+msgid "Comments"
+msgstr "Comentarii"
+
+msgid "by"
+msgstr "de"
+
+msgid "Delete your comment"
+msgstr "Ștergeți comentariu dvs"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Lăsați un comentariu (mesajele spam sau ofensive vor fi eliminate)"
+
+msgid "Your e-mail"
+msgstr "Adresa dvs. de e-mail"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Comment"
+msgstr "Comentariu"
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Contact publisher"
+msgstr "Contact editorul"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Enter the words above"
+msgstr "Introduceți cuvintele de mai sus"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Latest Listings"
+msgstr "Ultimele anunturi"
+
+msgid "No Latest Listings"
+msgstr "Nu sunt anunturi"
+
+msgid "See all offers"
+msgstr "Vezi toate ofertele"
+
+msgid "Sort by"
+msgstr "Sortare după"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nu există rezultate potrivite \" %s \""
+
+msgid "Your search"
+msgstr "Căutarea dvs."
+
+msgid "Show only"
+msgstr "Arată numai"
+
+msgid "Show only listings with pictures"
+msgstr "Arată doar anunțuri cu imagini"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Aplică"
+
+msgid "Selected"
+msgstr "Selectat/ă"
+
+msgid "Nothing selected, input was"
+msgstr "Nimic selectat, intrarea a fost"
+
+msgid "Sponsored ad"
+msgstr "Anunturi sponsorizate"
+
+msgid "User account manager"
+msgstr "Cont utilizator"
+
+msgid "Your alerts"
+msgstr "Alerte tale"
+
+msgid "You do not have any alerts yet"
+msgstr "Nu aveți încă nici o alertă"
+
+msgid "Alert"
+msgstr "Alertă"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Această acțiune nu poate fi anulată. Sigur doriți să continuați?"
+
+msgid "Delete this alert"
+msgstr "Ștergeți această alertă"
+
+msgid "Publication date"
+msgstr "Data publicării"
+
+msgid "Listings"
+msgstr "Anunţuri"
+
+msgid "Change your e-mail"
+msgstr "Schimba-ti adresa de e-mail"
+
+msgid "Current e-mail"
+msgstr "Adresă de e-mail actuala"
+
+msgid "New e-mail"
+msgstr "Noul e-mail"
+
+msgid "Change your password"
+msgstr "Schimba-ti parola"
+
+msgid "Current password"
+msgstr "Parolă curentă"
+
+msgid "New password"
+msgstr "Parolă nouă"
+
+msgid "Repeat new password"
+msgstr "Repetă noua parolă"
+
+msgid "Listings from %s"
+msgstr "Anunturi de la %s"
+
+msgid "No listings have been added yet"
+msgstr "Nu au fost adăugate anunţuri momentan"
+
+msgid "View listing"
+msgstr "Vezi anunturi"
+
+msgid "Edit"
+msgstr "Editează"
+
+msgid "Activate"
+msgstr "Activează"
+
+msgid "Recover your password"
+msgstr "Recuperare parola"
+
+msgid "Change password"
+msgstr "Modificare parola"
+
+msgid "Your listings"
+msgstr "Anunturile tale"
+
+msgid "Post a new listing"
+msgstr "Adauga un nou anunt"
+
+msgid "You don't have any listings yet"
+msgstr "Nu ai nici un anunt postat"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Această acțiune nu poate fi anulată. Sigur doriți să continuați?"
+
+msgid "Access to your account"
+msgstr "Accesează-ţi contul"
+
+msgid "Update your profile"
+msgstr "Actualizare profil"
+
+msgid "Modify e-mail"
+msgstr "Modificare e-mail"
+
+msgid "Modify password"
+msgstr "Modifică parola"
+
+msgid "User type"
+msgstr "Tip utilizator"
+
+msgid "Cell phone"
+msgstr "Telefon mobil"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "%s's profile"
+msgstr "Editează profilul lui %s"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Nume complet"
+
+msgid "User Description"
+msgstr "Descriere utilizator"
+
+msgid "Latest listings"
+msgstr "Ultimele anunturi"
+
+msgid "Send me a new password"
+msgstr "Trimite-mi o parolă nouă"
+
+msgid "Register an account for free"
+msgstr "Inregistreaza-te! Cont gratuit!"
+
+msgid "Re-type password"
+msgstr "Reintrodu parola"
+
+msgid "Passwords don't match"
+msgstr "Parolele nu se potrivesc"
+
+msgid "Create"
+msgstr "Creează"
+
+msgid "Preview"
+msgstr "Previzualizare"
+
+msgid "Remove logo"
+msgstr "Eliminați logo"
+
+msgid "Upload logo"
+msgstr "Încarcă logo"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "Dimensiunea optimă a unui logo este de 600x100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Notă:</strong> Încărcarea un alt logo va suprascrie actualul logo."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo imagine (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Încărcare"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Dosarul imaginilor <strong>%s</strong> nu poate fi scris pe serverul tău"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Pentru ca un director să poată fi scris sub UNIX, trebuie să execuţi această comandă în terminal:"
+
+msgid "Donate"
+msgstr "Donează"
+
+msgid "Search placeholder"
+msgstr "Substituent căutare"
+
+msgid "Footer link"
+msgstr "Link subsol"
+
+msgid "Save changes"
+msgstr "Salvează schimbări"
+
+msgid "Custom"
+msgstr "Presonalizare"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Aceasta este pagina ta de anunţuri, nu poţi contacta editorul."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Acest anunţ este expirat. Nu mai puteţi contacta editorul."
+
+msgid "No logo has been uploaded yet"
+msgstr "Nu a fost încărcat nici un logo"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass nu poate încărca imaginea logo-ul de la panoul de administrare."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Vreau să ajut Osclass prin conectarea la <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> de pe site-ul meu cu următorul text:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Te rog să modifici permisiunea de scriere a dosarului imaginilor precizat anterior"
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Aș dori să contribui la dezvoltarea Osclass cu o donație de"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Acest site este cu mândrie folosind <a title=\" OSClass web\" href=\"http://osclass.org/\">Clasificări script-uri</a> software-ul <strong>OSClass</strong>"
+
+msgid "Default logo"
+msgstr "Logo implicit"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Arată implicit logo-ul în cazul în care nu a incarcat o anterior"
+
+msgid "Register"
+msgstr "Înregistrează-te"
+
+msgid "View profile"
+msgstr "Vezi profil"
+
+msgid "Send Mail"
+msgstr "Trimitere e-mail"
+
+msgid "Related Ads"
+msgstr "Anunțuri similare"
+
+msgid "Premium Listings"
+msgstr "Anunturi Premium"
+
+msgid "More Details"
+msgstr "Mai multe detalii"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Additional"
+msgstr "Suplimentar"
+
+msgid "Warning"
+msgstr "Atenție"
+
+msgid "Terms of Use"
+msgstr "Termeni de Utilizare"
+
+msgid "I agree to the"
+msgstr "Sunt de acord cu %s"
+
+msgid "Delete my account"
+msgstr "Sterge contul"
+
+msgid "Modify username"
+msgstr "Modifica numele de utilizator"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Ne pare rau dar eu nu pot găsi pagina pe care o căutați"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Să ne ajuta, ne-am luat câteva sfaturi pentru a vă găsi."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Caută</strong> ea:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Uita-te</strong> pentru ea în cele mai populare categorii."
+
+msgid "Your Search"
+msgstr "Căutarea dvs."
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "More information"
+msgstr "Mai multe informatii"
+
+msgid "Leave your comment"
+msgstr "Lăsați un comentariu"
+
+msgid "Show As Galery"
+msgstr "Arată ca Galerie"
+
+msgid "Show As List"
+msgstr "Arată ca lista"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d din %3$d  anunturi"
+
+msgid "Hot!"
+msgstr "premium"
+
+msgid "Images already uploaded"
+msgstr "Imagini încărcat deja"
+
+msgid "Click or Drop for upload images"
+msgstr "Faceţi clic sau Drop pentru upload imagini"
+
+msgid "Login with Facebook"
+msgstr "Conectare cu Facebook"
+
+msgid "Manage your items"
+msgstr "Gestiona articole"
+
+msgid "Manage your alerts"
+msgstr "Gestionați alertele"
+
+msgid "Select a region..."
+msgstr "Selectaţi Judetul"
+
+msgid "Social Network"
+msgstr "Rețea socială"
+
+msgid "Home"
+msgstr "Acasă"
+
+msgid "See all ads from"
+msgstr "Toate anunturile din"
+
+msgid "Pages"
+msgstr "Pagini"
+
+msgid "View more..."
+msgstr "Vezi mai mult"
+
+msgid "Advanced search"
+msgstr "Căutare avansată"
+
+msgid "hide"
+msgstr "ascunde"
+
+msgid "Oops!"
+msgstr "Oops!"
+
+msgid "404 Not Found"
+msgstr "404 Nu a fost găsit"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Ne pare rău, o eroare a apărut, pagina solicitat nu a fost găsit!"
+
+msgid "Take Me Home"
+msgstr "Du-Mă Acasă"
+
+msgid "Contact Support"
+msgstr "Contactaţi asistenţa"
+
+msgid "Sign In"
+msgstr "Autentificați-vă"
+
+msgid "Sign Up"
+msgstr "Inscriere"
+
+msgid "Sign Out"
+msgstr "Deconectare"
+
+msgid "Don't have an account!"
+msgstr "Nu ai un cont!"
+
+msgid "Sign Up here"
+msgstr "Înregistrează-te aici!"
+
+msgid "Already have an account?"
+msgstr "Aveti deja un cont?"
+
+msgid "Viewed"
+msgstr "Vizualizate"
+
+msgid "See all Ads"
+msgstr "Toate anunturile"
+
+msgid "Premium Ads"
+msgstr "Anunţuri Premium"
+
+msgid "Latest Ads"
+msgstr "Ultimele anunturi"
+
+msgid "Featured Brand"
+msgstr "Recomandate de Brand"
+
+msgid "Select a country"
+msgstr "Selecteaza Judet"
+
+msgid "Select a region"
+msgstr "Selectați o regiune"
+
+msgid "Select a city"
+msgstr "Alegeți orașul"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "See all ads"
+msgstr "Toate anunturile"
+
+msgid "More details"
+msgstr "Mai multe detalii"
+
+msgid "Details"
+msgstr "Detaliile"
+
+msgid "Total Member"
+msgstr "Membru total"
+
+msgid "Total Ads"
+msgstr "Total Anunturi"
+
+msgid "Images"
+msgstr "Imagini"
+
+msgid "Theme Settings"
+msgstr "Setări temă"
+
+msgid "Logo"
+msgstr "Logou"
+
+msgid "Logo Images"
+msgstr "Logo-ul imagini"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Vă rugăm să reîncărcați sau reîmprospătaţi browser-ul în cazul în care imaginile nu se schimba."
+
+msgid "Reload browser"
+msgstr "Browser-ul reîncărcare"
+
+msgid "Remove"
+msgstr "Elimină"
+
+msgid "Logo and Images"
+msgstr "Logo-ul şi imagini"
+
+msgid "The image has been uploaded correctly"
+msgstr "Logo imaginea a fost încărcat corect"
+
+msgid "The image has been removed"
+msgstr "Logo imaginea a fost eliminat"
+
+msgid "Has not uploaded any image"
+msgstr "Nu a încărcat orice imagine"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Slider Images"
+msgstr "Slider Imagini"
+
+msgid "Background Images"
+msgstr "Imagini de fundal"
+
+msgid "Brand"
+msgstr "Marcă"
+
+msgid "Brand Images"
+msgstr "Imagini de brand"
+
+msgid "Icons"
+msgstr "Pictograme"
+
+msgid "Categories Icons"
+msgstr "Categorii Icoane"
+
+msgid "Please visit"
+msgstr "Vă rugăm să vizitaţi"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Doar copiaţi şi lipiţi codul imagini ex. acasă sau inima."
+
+msgid "version"
+msgstr "versiune"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Teme alimentat de OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Imagini categorie"
+
+msgid "Administrator Panel"
+msgstr "Panoul administratorului"
+
+msgid "General"
+msgstr "Generalități"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Profil"
+
+msgid "Advertiser"
+msgstr "firmă pentru care se face publicitate"
+
+msgid "Social"
+msgstr "Social"
+
+msgid "Font and color"
+msgstr "Culoare Font"
+
+msgid "More"
+msgstr "Și mai"
+
+msgid "Widget settings"
+msgstr "Setările widget"
+
+msgid "Social settings"
+msgstr "Setările sociale"
+
+msgid "Product settings"
+msgstr "Setari Produs"
+
+msgid "Ads settings"
+msgstr "Setări anunțuri"
+
+msgid "Product Slider"
+msgstr "Produs Slider"
+
+msgid "Slider Title and Links"
+msgstr "Glisorul titlul si link-uri"
+
+msgid "Content display"
+msgstr "Afişare conţinut"
+
+msgid "Custom settings"
+msgstr "Setări particularizate"
+
+msgid "Font and Color settings"
+msgstr "Setările de font şi culoare"
+
+msgid "Button Color"
+msgstr "Culoare buton."
+
+msgid "More settings"
+msgstr "Mai multe setări"
+
+msgid "Favicon Images"
+msgstr "Favicon imagini"
+
+msgid "Information"
+msgstr "Informatii"
+
+msgid "Header Style"
+msgstr "Stil antet"
+
+msgid "Home Style"
+msgstr "Acasă stil"
+
+msgid "Footer Style"
+msgstr "Subsol stil"
+
+msgid "Product Style"
+msgstr "Produs stil"
+
+msgid "Search Style"
+msgstr "Stil de căutare"
+
+msgid "Select search form style template"
+msgstr "Selectaţi căutare forma stil şablon"
+
+msgid "Search Placeholder"
+msgstr "Căutare substituent"
+
+msgid "Footer Copyright"
+msgstr "Footer Copyright"
+
+msgid "Copyright text on footer."
+msgstr "Drepturi de autor textul pe subsol."
+
+msgid "only for arabic or persian language."
+msgstr "numai pentru limba persană sau arabă."
+
+msgid "Title On Home"
+msgstr "Titlu pe casa"
+
+msgid "Title Footer"
+msgstr "Titlu subsol"
+
+msgid "Widget on Footer"
+msgstr "Widget pe subsol"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Puteţi adăuga widget pe subsol cu widget-ul personalizat ex: facebook widget sau stare de nervozitate widget."
+
+msgid "Title Useful Information"
+msgstr "Titlu informaţii utile"
+
+msgid "Useful Information"
+msgstr "Informatii utile"
+
+msgid "Add text for useful information."
+msgstr "Adăugaţi text pentru informaţii utile."
+
+msgid "Show lists as"
+msgstr "Arată liste"
+
+msgid "Slider latest Ads"
+msgstr "Glisorul Ultimele anunturi"
+
+msgid "Slider Premium Ads"
+msgstr "Anunţuri de Premium cursorul"
+
+msgid "Sidebar Premium Ads"
+msgstr "Bara laterală Premium anunturi"
+
+msgid "Search Premium Ads"
+msgstr "Căutaţi anunţuri Premium"
+
+msgid "Amount of the Latest ads"
+msgstr "Cantitatea de ultimele anunturi"
+
+msgid "Amount of the premium ads"
+msgstr "Cantitatea de anunţuri premium"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Cantitatea de anunţuri premium bara laterală"
+
+msgid "Amount of the search page premium ads"
+msgstr "Suma de căutare pagina de anunţuri premium"
+
+msgid "Amount of the related ads"
+msgstr "Valoare de anunţurile legate"
+
+msgid "Premium Ads Display"
+msgstr "Afişare de anunţuri Premium"
+
+msgid "Latest Ads Display"
+msgstr "Ultimele anunţuri de afişare"
+
+msgid "Ads with Category"
+msgstr "Anunţurile cu categorie"
+
+msgid "Location Display"
+msgstr "Locaţie de afişare"
+
+msgid "Brand Display"
+msgstr "Marca de afişare"
+
+msgid "Statistic Display"
+msgstr "Statistica de afişare"
+
+msgid "Show or hide"
+msgstr "Arată sau ascunde"
+
+msgid "Ads with category"
+msgstr "Anunţurile cu categorie"
+
+msgid "location in home"
+msgstr "locaţie în home"
+
+msgid "Brand slider"
+msgstr "Glisorul de brand"
+
+msgid "Statistic ads"
+msgstr "Statistica anunturi"
+
+msgid "Header Ads"
+msgstr "Antet anunturi"
+
+msgid "Footer Ads"
+msgstr "Anunţuri de subsol"
+
+msgid "Search results page"
+msgstr "Rezultatele căutării"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Acest anunţ va fi indicat pe notele de subsol ale site-ul dvs. Reţineţi că dimensiunea de anunţuri trebuie să fie 728 x 90 pixeli."
+
+msgid "Sidebar Left"
+msgstr "Pagină cu Bara laterală stânga"
+
+msgid "Sidebar Right"
+msgstr "Bara laterală dreapta"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Bara laterală anunturi membre zona"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Acest anunţ va fi indicat pe bara laterală din zona dvs de membru."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Acest anunţ va fi afişat la dreptul de bara laterală a site-ului dvs. Reţineţi că dimensiunea de anunţuri trebuie să fie de 300 x 350 pixeli."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Acest anunţ va fi afişat la dreptul de bara laterală a site-ului dvs. Reţineţi că dimensiunea de anunţuri trebuie să fie 160 x 600 pixeli."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto Play produs Slider"
+
+msgid "welcome to classifieds"
+msgstr "Bine ati venit la anunturi"
+
+msgid "you can costumize css."
+msgstr "puteţi costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Pornire pentru a activa particularizată a fontului şi culoarea."
+
+msgid "create new pages TOS and copy url here"
+msgstr "Creaţi pagini noi TOS şi copiaţi URL-ul aici"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "trebuie să instalaţi plug-in de autentificare fb, înainte de activarea Facebook Login"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "trebuie să instalaţi plug-in de avatarul balamuc, activa înainte balamuc avatarul"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "trebuie să instalaţi plug-in lista de pagini urmărite, înainte de activarea lista de pagini urmărite"
+
+msgid "you can customize html code on home"
+msgstr "puteţi personaliza codul html pe casa"
+
+msgid "you can costumize html on home under slider."
+msgstr "puteţi costumize html pe acasă sub glisorul."
+
+msgid "insert your text or html code"
+msgstr "Introdu codul text sau html"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Acest anunț va fi afișat în partea de sus a site-ul dvs., alături de titlul de site-ul și deasupra rezultatelor căutării. Rețineți că dimensiunea anunțului trebuie să fie 728x90 pixeli."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Acest anunţ va fi indicat printre rezultatele de căutare a site-ului. Reţineţi că dimensiunea de anunţuri trebuie să fie 728 x 90 pixeli."
+
+msgid "view"
+msgstr "vizualizare"
+
+msgid "Slider text"
+msgstr "Cursorul text"
+
+msgid "Public Profile"
+msgstr "Profil public"
+
+msgid "Username"
+msgstr "Nume de utilizator"
+
+msgid "Company"
+msgstr "Companie"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Atentie! Odata setat, nu iti vei mai putea schimba numele inca o data. Alege cu grija."
+
+msgid "Change your username"
+msgstr "Schimba-ti numele de utilizator"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Toate listările dvs. și alertele vor fi eliminate, această acțiune nu poate fi anulată."
+
+msgid "Delete account"
+msgstr "Șterge contul"
+
+msgid "Rival Images"
+msgstr "Imagini rival"
+
+msgid "Rival Theme Settings"
+msgstr "Tema rival setările"
+
+msgid "Rival Category"
+msgstr "Categoria rival"

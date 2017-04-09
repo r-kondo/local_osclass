@@ -1,0 +1,44 @@
+/* form_table */
+.form_table {
+    margin-bottom: 10px;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+}
+.form_table thead th {
+    background-color: #5b74a8;
+    font-size: 14px;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+}
+.form_table tr {
+    border-bottom: 1px solid #ccc;
+}
+.form_table th {
+    padding: 10px;
+    background: #efefef;
+    vertical-align: top;
+    width: 30%;
+}
+.form_table td {
+    padding: 10px;
+}
+.form_table input[type=text].with_txt {
+    width: 80%;
+}
+.form_table input[type=email] {
+    ime-mode: disabled;
+}
+.form_table .require {
+    color: #f0776c;
+    font-size: 20px;
+    padding-left: 3px;
+}
+
+/* parts */
+.btn_wrapper {
+    text-align: center;
+}

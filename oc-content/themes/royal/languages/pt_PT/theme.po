@@ -1,0 +1,1099 @@
+# Translation of OsclassDotMe in Portuguese
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-25 22:31+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: pt_PT\n"
+
+msgid "New pasword"
+msgstr "Nova senha"
+
+msgid "Repeat new pasword"
+msgstr "Repita a nova senha"
+
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Alerta subscrito!"
+
+msgid "Invalid email address"
+msgstr "Endereço de email Inválido"
+
+msgid "There was a problem with the alert"
+msgstr "Houve um problema com o alerta"
+
+msgid "Subscribe to this search"
+msgstr "Subscrever esta pesquisa"
+
+msgid "Subscribe now"
+msgstr "Assine agora"
+
+msgid "Contact us"
+msgstr "Contacte-nos"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "optional"
+msgstr "opcional"
+
+msgid "Message"
+msgstr "Mensagem*"
+
+msgid "Your name"
+msgstr "O seu Nome"
+
+msgid "Your e-mail address"
+msgstr "Seu Email"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Contact"
+msgstr "Contato"
+
+msgid "Your search must be at least three characters long"
+msgstr "Sua busca deve ser pelo menos três caracteres"
+
+msgid "Theme settings updated correctly"
+msgstr "Configurações de tema atualizado corretamente"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "A imagem do logotipo foi carregada corretamente"
+
+msgid "An error has occurred, please try again"
+msgstr "Ocorreu um erro, por favor, tente novamente"
+
+msgid "The logo image has been removed"
+msgstr "A imagem do logotipo foi removida"
+
+msgid "Image not found"
+msgstr "Imagem não encontrada"
+
+msgid "Header logo"
+msgstr "Logotipo do cabeçalho"
+
+msgid "Theme settings"
+msgstr "Definições de Tema"
+
+msgid "ie. PHP Programmer"
+msgstr "isto é. Programador PHP"
+
+msgid "No file selected"
+msgstr "Nenhum ficheiro selecionado"
+
+msgid "Choose File"
+msgstr "Escolha o Arquivo"
+
+msgid "Hi %s"
+msgstr "Olá %s"
+
+msgid "My account"
+msgstr "A minha conta"
+
+msgid "Logout"
+msgstr "Terminar sessão"
+
+msgid "Login"
+msgstr "Iniciar sessão"
+
+msgid "Register for a free account"
+msgstr "Cadastre-se para uma conta gratuita"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Palavra-passe"
+
+msgid "Remember me"
+msgstr "Lembrar-me"
+
+msgid "Log in"
+msgstr "Iniciar"
+
+msgid "Forgot password?"
+msgstr "Esqueceu a palavra-passe?"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Publish your ad for free"
+msgstr "Inserir anúncio grátis"
+
+msgid "Select a category"
+msgstr "Categoria"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Contact seller"
+msgstr "Contactar vendedor"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Você deve fazer login ou registar uma nova conta, a fim de entrar em contato com o anunciante"
+
+msgid "To (seller)"
+msgstr "(Vendedor)"
+
+msgid "Listing"
+msgstr "Anúncio"
+
+msgid "Phone number"
+msgstr "Número de Telefone"
+
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+msgid "Update your listing"
+msgstr "Atualizar sua lista"
+
+msgid "General Information"
+msgstr "Informa&ccedil&atildeo geral"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Price"
+msgstr "Lista de Preços"
+
+msgid "Photos"
+msgstr "Fotografias"
+
+msgid "Add new photo"
+msgstr "Adicionar nova foto"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Region"
+msgstr "Região"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "City area"
+msgstr "Área"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Update"
+msgstr "Atualizar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Publish a listing"
+msgstr "Publicar Listagem"
+
+msgid "Listing Location"
+msgstr "Localização do anúncio"
+
+msgid "City Area"
+msgstr "Área"
+
+msgid "Seller's information"
+msgstr "Informações do vendedor"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Show e-mail on the listing page"
+msgstr "Exibir e-mail na página do anúncio"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Send to a friend"
+msgstr "Enviar a um amigo"
+
+msgid "Your friend's name"
+msgstr "O nome do seu amigo"
+
+msgid "Your friend's e-mail address"
+msgstr "Endereço de e-mail do seu amigo"
+
+msgid "Mark as"
+msgstr "Marcar Como"
+
+msgid "spam"
+msgstr "enviar spam"
+
+msgid "misclassified"
+msgstr "erroneamente classificada"
+
+msgid "duplicated"
+msgstr "duplo"
+
+msgid "expired"
+msgstr "expirado"
+
+msgid "offensive"
+msgstr "ofensivo"
+
+msgid "Published date"
+msgstr "Data de publicação"
+
+msgid "Modified date"
+msgstr "Data de Modificação"
+
+msgid "Share"
+msgstr "Partilha"
+
+msgid "Useful information"
+msgstr "Informações úteis"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Para evitar fraudes, agindo localmente ou pagando com PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nunca pague com Western Union, Moneygram ou outros serviços de pagamento anónimos"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Não faça compras nem vendas fora do seu país. Não aceite cheques de fora do seu país"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Este site nunca está envolvida em qualquer transação, e não os pagamentos, envios, garantias de transações, prestar serviços de custodia, não oferece \"proteção\" ao comprador nem \"certifica\" o vendedor"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "by"
+msgstr "por"
+
+msgid "Delete your comment"
+msgstr "Excluir o seu comentário"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Deixe o seu comentário (Spam e comentários ofensivos serão removidos)"
+
+msgid "Leave your comment"
+msgstr "Deixe o seu comentário"
+
+msgid "Your e-mail"
+msgstr "O seu e-mail"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Comment"
+msgstr "Comentário"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Contact publisher"
+msgstr "Falar com anúnciante"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Enter the words above"
+msgstr "Digite as palavras acima:"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Latest Listings"
+msgstr "Últimos anúncios"
+
+msgid "No Latest Listings"
+msgstr "Últimos anúncios"
+
+msgid "See all offers"
+msgstr "Ver todas as ofertas"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "There are no results matching \"%s\""
+msgstr "Não existem resultados correspondentes à pesquisa por \"%s\""
+
+msgid "Your search"
+msgstr "A sua pesquisa"
+
+msgid "Show only"
+msgstr "Apenas mostre"
+
+msgid "Show only listings with pictures"
+msgstr "Mostrar somente anúncios com fotos"
+
+msgid "Min"
+msgstr "Mínimo"
+
+msgid "Max"
+msgstr "Máximo"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Selected"
+msgstr "Selecionado"
+
+msgid "Nothing selected, input was"
+msgstr "Nada selecionado, a entrada era"
+
+msgid "User account manager"
+msgstr "Gerente de contas de usuário"
+
+msgid "Your alerts"
+msgstr "Seus alertas"
+
+msgid "You do not have any alerts yet"
+msgstr "Você não tem nenhum alerta ainda"
+
+msgid "Alert"
+msgstr "Alerta"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Esta ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+msgid "Delete this alert"
+msgstr "Apagar esta alerta"
+
+msgid "Publication date"
+msgstr "Data Publicação"
+
+msgid "Listings"
+msgstr "Anúncios"
+
+msgid "Change your e-mail"
+msgstr "Altere seu e-mail"
+
+msgid "Current e-mail"
+msgstr "Email atual"
+
+msgid "New e-mail"
+msgstr "Novo e-mail"
+
+msgid "Change your password"
+msgstr "Altere a sua senha"
+
+msgid "Current password"
+msgstr "Palavra-passe atual"
+
+msgid "New password"
+msgstr "Nova password"
+
+msgid "Repeat new password"
+msgstr "Repetir a nova palavra-passe"
+
+msgid "Listings from %s"
+msgstr "Listagens de %s"
+
+msgid "No listings have been added yet"
+msgstr "Nenhum anúncio foi adicionado ainda"
+
+msgid "View listing"
+msgstr "Ver Anúncio"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Recover your password"
+msgstr "Recuperar senha"
+
+msgid "Change password"
+msgstr "Alterar palavra-passe"
+
+msgid "Your listings"
+msgstr "Suas listas"
+
+msgid "Post a new listing"
+msgstr "Postar uma nova listagem"
+
+msgid "You don't have any listings yet"
+msgstr "Você ainda não tem alguma listagem"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Esta ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+msgid "Access to your account"
+msgstr "ACESSE SUA CONTA"
+
+msgid "Update your profile"
+msgstr "Atualizar perfil"
+
+msgid "Modify e-mail"
+msgstr "Modificar o email"
+
+msgid "Modify password"
+msgstr "Modificar senha"
+
+msgid "User type"
+msgstr "Tipo de Usuário"
+
+msgid "Cell phone"
+msgstr "Telefone celular"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "%s's profile"
+msgstr "Perfil %s's"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Full name"
+msgstr "Nome completo"
+
+msgid "User Description"
+msgstr "Descrição do usuário"
+
+msgid "Latest listings"
+msgstr "Últimos anúncios"
+
+msgid "Send me a new password"
+msgstr "Envie-me uma nova senha"
+
+msgid "Register an account for free"
+msgstr "Registrar uma conta grátis"
+
+msgid "Re-type password"
+msgstr "Re-digite a senha"
+
+msgid "Passwords don't match"
+msgstr "As senhas não combinam"
+
+msgid "Create"
+msgstr "Criar"
+
+msgid "Preview"
+msgstr "Pré-Visualização"
+
+msgid "Remove logo"
+msgstr "Remover logótipo"
+
+msgid "Upload logo"
+msgstr "Upload Logo"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "O tamanho preferencial do logotipo é 600 x 100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "﻿<strong>Nota:</strong> Carregar outro logo irá substituir o logotipo actual."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Imagem do logotipo (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Carregar"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "A pasta «imagens» <strong> %s </strong> não tem permissões de escrita"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Para fazer uma gravável diretório sob UNIX executar este comando a partir do shell:"
+
+msgid "Donate"
+msgstr "Doar"
+
+msgid "Search placeholder"
+msgstr "Placeholder da busca"
+
+msgid "Footer link"
+msgstr "Ligação Rodapé"
+
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+msgid "Custom"
+msgstr "Personalizar"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Você não pode contatar o anunciante do seu próprio anúncio."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "O anúncio está expirado. Não é possível contactar o anunciante."
+
+msgid "No logo has been uploaded yet"
+msgstr "Nenhum logotipo foi carregado ainda"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass não pode carregar a imagem do logotipo do painel de administração."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Eu quero ajudar Osclass ligando a <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> do meu site com o seguinte texto:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Por favor,habilite a escrita na pasta da imagem acima mencionada."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Eu gostaria de contribuir para o desenvolvimento de Osclass com uma doação de"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Este site é orgulhosamente feito para Pernambuco <a title=\"Osclass web\" href=\"http://classificados.pe/\">Classificados grátis de Pernambuco</a> <strong>Classificados.pe</strong> software"
+
+msgid "Default logo"
+msgstr "Logo Padr&atilde;o"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Mostrar logotipo padrão no caso de você não enviar um anteriormente"
+
+msgid "Register"
+msgstr "Registar"
+
+msgid "View profile"
+msgstr "Ver perfil"
+
+msgid "Send Mail"
+msgstr "Enviar correio"
+
+msgid "Related Ads"
+msgstr "Anúncios relacionados"
+
+msgid "No Related Ads"
+msgstr "Sem anúncios relacionados"
+
+msgid "Premium Listings"
+msgstr "Listagens de prémio"
+
+msgid "More Details"
+msgstr "Mais detalhes"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Additional"
+msgstr "additionals"
+
+msgid "Warning"
+msgstr "Aviso"
+
+msgid "Terms of Use"
+msgstr "Termos de Utilização"
+
+msgid "I agree to the"
+msgstr "Concordo com os"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "A página que procura não não foi encontrada"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Deixe-nos ajudá-lo, temos algumas dicas para encontar o que precisa."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Pesquisa</strong> por:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Pesquisar</strong> nas categorias mais populares."
+
+msgid "Your Search"
+msgstr "Sua busca"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "More information"
+msgstr "Mais informações"
+
+msgid "Delete my account"
+msgstr "Apagar Conta"
+
+msgid "Show As Galery"
+msgstr "Mostrar como Galeria"
+
+msgid "Show As List"
+msgstr "Visualizar como lista"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d de %3$d anúncios"
+
+msgid "Hot!"
+msgstr "“Promoção”"
+
+msgid "Images already uploaded"
+msgstr "Imagens já enviadas"
+
+msgid "Click or Drop for upload images"
+msgstr "Clique ou Largue aqui para carregar imagens"
+
+msgid "Login with Facebook"
+msgstr "Login com o Facebook"
+
+msgid "Manage your items"
+msgstr "Gerenciar seus itens"
+
+msgid "Manage your alerts"
+msgstr "Gerenciar seus alertas"
+
+msgid "Select a region..."
+msgstr "Selecione uma Região"
+
+msgid "Social Network"
+msgstr "Rede social"
+
+msgid "Sponsored ad"
+msgstr "Anúncio patrocinado"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "See all ads from"
+msgstr "Ver todos os anúncios de"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "View more..."
+msgstr "Saber mais..."
+
+msgid "Advanced search"
+msgstr "Subscrever esta pesquisa"
+
+msgid "hide"
+msgstr "ocultar"
+
+msgid "Oops!"
+msgstr "Ops!"
+
+msgid "404 Not Found"
+msgstr "﻿404 Página não encontrada"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Desculpe, ocorreu um erro, a página solicitada não foi encontrada!"
+
+msgid "Take Me Home"
+msgstr "Ir para inicio"
+
+msgid "Contact Support"
+msgstr "Contate o suporte"
+
+msgid "Sign In"
+msgstr "Inicie sessão"
+
+msgid "Sign Up"
+msgstr "Registar"
+
+msgid "Sign Out"
+msgstr "Desconectar"
+
+msgid "Don't have an account!"
+msgstr "Não tenho uma conta!"
+
+msgid "Sign Up here"
+msgstr "Registe-se aqui"
+
+msgid "Already have an account?"
+msgstr "Já possui uma conta?"
+
+msgid "Viewed"
+msgstr "Vistos"
+
+msgid "See all Ads"
+msgstr "Ver todos os anúncios"
+
+msgid "Premium Ads"
+msgstr "Anúncios Premium"
+
+msgid "Latest Ads"
+msgstr "Últimos Anúncios"
+
+msgid "Featured Brand"
+msgstr "Marca de destaque"
+
+msgid "Select a country"
+msgstr "Selecione um país"
+
+msgid "Select a region"
+msgstr "Seleccionar região"
+
+msgid "Select a city"
+msgstr "Selecionar uma cidade"
+
+msgid "Personal"
+msgstr "Pessoal"
+
+msgid "See all ads"
+msgstr "Ver todos os anúncios"
+
+msgid "More details"
+msgstr "Mais detalhes"
+
+msgid "Details"
+msgstr "Detalhes"
+
+msgid "Total Member"
+msgstr "Membro total"
+
+msgid "Total Ads"
+msgstr "Anúncios totais"
+
+msgid "Images"
+msgstr "Imagens"
+
+msgid "Theme Settings"
+msgstr "Configurações de tema"
+
+msgid "Logo"
+msgstr "Logótipo"
+
+msgid "Logo Images"
+msgstr "Imagens de logotipo"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Por favor recarregar ou atualizar seu navegador, se não mudam de imagens."
+
+msgid "Reload browser"
+msgstr "Navegador de recarga"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Logo and Images"
+msgstr "Logotipo e imagens"
+
+msgid "The image has been uploaded correctly"
+msgstr "A imagem do logotipo foi carregada corretamente"
+
+msgid "The image has been removed"
+msgstr "A imagem do logotipo foi removida"
+
+msgid "Has not uploaded any image"
+msgstr "Não enviou qualquer imagem"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Slider Images"
+msgstr "Imagens do slider"
+
+msgid "Background Images"
+msgstr "Imagens de fundo"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Brand Images"
+msgstr "Imagens de marca"
+
+msgid "Icons"
+msgstr "Ícones"
+
+msgid "Categories Icons"
+msgstr "Categorias ícones"
+
+msgid "Please visit"
+msgstr "Por favor, visite"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Basta copiar e colar código imagens ex. em casa ou no coração."
+
+msgid "version"
+msgstr "versão"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Temas-Powered by OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Categoria de Imagens"
+
+msgid "Administrator Panel"
+msgstr "Painel de administrador"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Produto"
+
+msgid "Advertiser"
+msgstr "Anúncio"
+
+msgid "Social"
+msgstr "Redes Sociais"
+
+msgid "Font and color"
+msgstr "Cor da Fonte"
+
+msgid "More"
+msgstr "Mais"
+
+msgid "Widget settings"
+msgstr "Configurações do widget"
+
+msgid "Social settings"
+msgstr "Configurações de redes Sociais"
+
+msgid "Product settings"
+msgstr "Configurações da Página de Produto"
+
+msgid "Ads settings"
+msgstr "Configurações de Anúncios Unitários"
+
+msgid "Product Slider"
+msgstr "Slide de Produtos"
+
+msgid "Slider Title and Links"
+msgstr "Links e título do controle deslizante"
+
+msgid "Content display"
+msgstr "Exibição de Conteúdo"
+
+msgid "Custom settings"
+msgstr "Configurações personalizadas"
+
+msgid "Font and Color settings"
+msgstr "Configurações de fonte e cor"
+
+msgid "Button Color"
+msgstr "Cor do Botão"
+
+msgid "More settings"
+msgstr "Mais configurações"
+
+msgid "Favicon Images"
+msgstr "Imagens de favicon"
+
+msgid "Information"
+msgstr "Informações"
+
+msgid "Header Style"
+msgstr "Estilo de cabeçalho"
+
+msgid "Home Style"
+msgstr "Casa de estilo"
+
+msgid "Footer Style"
+msgstr "Estilo de rodapé"
+
+msgid "Product Style"
+msgstr "Estilo do produto"
+
+msgid "Search Style"
+msgstr "Pesquisa estilo"
+
+msgid "Select search form style template"
+msgstr "Selecione o modelo de estilo de formulário de pesquisa"
+
+msgid "Search Placeholder"
+msgstr "Pesquisar Espaço Reservado"
+
+msgid "Footer Copyright"
+msgstr "Copyright do Rodapé"
+
+msgid "Copyright text on footer."
+msgstr "Texto de direitos autorais no rodapé."
+
+msgid "only for arabic or persian language."
+msgstr "somente para o idioma árabe ou persa."
+
+msgid "Title On Home"
+msgstr "Título em casa"
+
+msgid "Title Footer"
+msgstr "Rodapé de título"
+
+msgid "Widget on Footer"
+msgstr "Widget no rodapé"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Você pode adicionar o widget no rodapé com seu widget personalizado ex: facebook widget ou twitter widget."
+
+msgid "Title Useful Information"
+msgstr "Informações úteis de título"
+
+msgid "Useful Information"
+msgstr "Informações úteis"
+
+msgid "Add text for useful information."
+msgstr "Adicione texto para informações úteis."
+
+msgid "Show lists as"
+msgstr "Mostrar anúncios como:"
+
+msgid "Slider latest Ads"
+msgstr "Controle deslizante anúncios mais recentes"
+
+msgid "Slider Premium Ads"
+msgstr "Controle deslizante Premium anúncios"
+
+msgid "Sidebar Premium Ads"
+msgstr "Barra lateral Premium anúncios"
+
+msgid "Search Premium Ads"
+msgstr "Anúncios de busca Premium"
+
+msgid "Amount of the Latest ads"
+msgstr "Quantidade de anúncios mais recentes"
+
+msgid "Amount of the premium ads"
+msgstr "montante do prémio"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Quantidade da barra lateral premium"
+
+msgid "Amount of the search page premium ads"
+msgstr "Quantidade da pesquisa página premium"
+
+msgid "Amount of the related ads"
+msgstr "Quantidade de anúncios relacionados"
+
+msgid "Premium Ads Display"
+msgstr "Exibição de anúncios Premium"
+
+msgid "Latest Ads Display"
+msgstr "Exibição de anúncios mais recente"
+
+msgid "Ads with Category"
+msgstr "Anúncios com categoria"
+
+msgid "Location Display"
+msgstr "Exibição de localização"
+
+msgid "Brand Display"
+msgstr "Exposição de marca"
+
+msgid "Statistic Display"
+msgstr "Display de estatística"
+
+msgid "Show or hide"
+msgstr "Mostrar ou ocultar"
+
+msgid "Ads with category"
+msgstr "Anúncios com categoria"
+
+msgid "location in home"
+msgstr "localização em casa"
+
+msgid "Brand slider"
+msgstr "Slider de Marcas"
+
+msgid "Statistic ads"
+msgstr "Anúncios de estatística"
+
+msgid "Header Ads"
+msgstr "Anúncios de cabeçalho"
+
+msgid "Footer Ads"
+msgstr "Anúncios de rodapé"
+
+msgid "Search results page"
+msgstr "Página de Resultados"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será mostrado no rodapé do seu site. Observe que o tamanho do anúncio tem que ser 728 x 90 pixels."
+
+msgid "Sidebar Left"
+msgstr "Barra Lateral Esquerda"
+
+msgid "Sidebar Right"
+msgstr "Barra Lateral Direita"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Área de membro de anúncios da barra lateral"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Este anúncio será mostrado na barra lateral da sua área de membro."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Este anúncio será mostrado na barra lateral direita do seu site. Observe que o tamanho do anúncio tem que ser 300 x 350 pixels."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Este anúncio será mostrado na barra lateral direita do seu site. Observe que o tamanho do anúncio tem que ser 160 x 600 pixels."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto peça produto Slider"
+
+msgid "welcome to classifieds"
+msgstr "Bem-vindo ao classificados"
+
+msgid "you can costumize css."
+msgstr "Você pode personalizar css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Ligue para ativar a cor e fonte personalizada."
+
+msgid "create new pages TOS and copy url here"
+msgstr "criar novas páginas TOS e copie a url aqui"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "Você deve instalar o plugin do logon de fb, antes de ativar o Facebook Login"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "Você deve instalar o plugin do avatar de hospício, antes de ativar avatar do hospício"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "Você deve instalar o plugin de cotações, antes de ativar watchlist"
+
+msgid "you can customize html code on home"
+msgstr "Você pode personalizar o código html na casa"
+
+msgid "you can costumize html on home under slider."
+msgstr "Você pode costumize html na casa sob controle deslizante."
+
+msgid "insert your text or html code"
+msgstr "Insira seu código de texto ou html"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será mostrado no topo do seu site, ao lado do título do site e acima dos resultados de pesquisa. Observe que o tamanho do anúncio tem que ser 728 x 90 pixels."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será mostrado entre os resultados de pesquisa do seu site. Observe que o tamanho do anúncio tem que ser 728 x 90 pixels."
+
+msgid "view"
+msgstr "visualizar"
+
+msgid "Slider text"
+msgstr "Ocultar Texto do Slider"
+
+msgid "Public Profile"
+msgstr "Ver perfil"
+
+msgid "Username"
+msgstr "Nome de Usuário"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Aviso: Uma vez definido, você não será capaz de mudar seu nome de usuário novamente. Escolha sabiamente."
+
+msgid "Change your username"
+msgstr "Mudar Nome de Usuário"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Todos os seus anúncios e alertas serão removidas, esta ação não pode ser desfeita."
+
+msgid "Delete account"
+msgstr "Excluir conta"
+
+msgid "Rival Images"
+msgstr "Imagens Rival"
+
+msgid "Rival Theme Settings"
+msgstr "Definições de tema Rival"
+
+msgid "Rival Category"
+msgstr "Rival Categoria"
+
+msgid "Select a country..."
+msgstr "Selecione um país..."

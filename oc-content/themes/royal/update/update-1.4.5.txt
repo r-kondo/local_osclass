@@ -1,0 +1,24 @@
+================ Update version 1.4.5 ====================
+
+==== Version update  ====
+- function.php, index.php, admin/settings.php ( version themes )
+
+==== fixed bugs ====
+- delete account ( user-profile.php )
+- contact seller ( user-public-profile.php )
+- warning alert css ( admin/ css/ royal.css )
+- layout home ( css/ style.css )
+- bugs html string ( function.php )
+- fixed bugs in search layout (search.php, style.css, rtl.css )
+
+==== New features ====
+- limit input username 30 caracter ( item-post.php, user-register.php )
+- term of use in register page ( user-register.php )
+- social icon color ( css/ style.css )
+- setting default thumbinail images ( admin / logo.php )
+- jquery ui css( item-post.php, user-register.php )
+- sub category in search ( function.php and search.php )
+- support osclass payment pro plugin
+- add external links 
+
+=============================================================

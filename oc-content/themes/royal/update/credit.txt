@@ -1,0 +1,27 @@
+================  ROYAL OCLASS THEMES  ======================
+
+Theme Name: royal
+Theme URI: http://osclass.me/
+Description: Royal Multipurpose Osclass Themes
+Author: OsclassDotMe
+Author URI: http://osclass.me/
+Designer: Ari Budin
+License: Single License
+Widgets:  header, footer
+
+================ Special Thanks For All =====================
+- Osclass.ORG
+- Bootstrap 3.2
+- Font Awesome
+- bootswatch
+- Bootsnipp
+- JsColor
+- Animate css
+- Owl Carousel
+- Elevate Zomm jquery
+- TEMPLATE CYCLE
+- Nprogress jquery loading
+- mega menu css
+- All Images source
+- And for all script source
+================ ##################### ======================

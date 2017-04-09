@@ -1,0 +1,185 @@
+#content-page {
+  background-color: #fff;
+  padding: 2px 15px 30px 15px;
+  position: relative;
+}
+.ari h2 {
+  font-size: 1.5em;
+  color: #00BED6;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+}
+img.satus {
+    max-width: 100%;
+}
+div#settings_form img {
+    max-width: 100%;
+}
+#flashmessage {
+    margin: 10px 10px;
+    padding: 20px 0px 0px 10px;
+    border-radius: 5px;
+}
+div#flashmessage {
+    padding: 15px 10px 0px;
+    margin: 0px 0px 10px;
+}
+.primary {
+    height: 180px;
+    text-align: center;
+    margin-right: 10px;
+    width: 21%;
+    border: #ddd 1px solid;
+    margin-bottom: 20px;
+    padding: 5px 15px;
+    float: left;
+}
+.cate{display:none;
+}
+.save {
+    margin-top: 10px;
+}
+.name {
+    margin-bottom: 10px;
+    color: #00C7B5;
+    font-weight: bold;
+    font-size: 18px;
+}
+#picker {
+	margin:0;
+	padding:0;
+	border:0;
+	width:70px;
+	height:20px;
+	border-right:20px solid green;
+	line-height:20px;
+}
+.power{text-align:center;
+}
+.theme-royal
+{
+clear:both;
+width:100%;
+
+height:50px;
+}
+.form-actions {
+  padding: 17px 20px 18px;
+  margin-top: 10px;
+}
+.cc-selector input{
+    margin:0;padding:0;
+    -webkit-appearance:none;
+       -moz-appearance:none;
+            appearance:none;
+}
+.header1{background-image:url("img/header1.jpg");}
+.header2{background-image:url("img/header2.jpg");}
+.header3{background-image:url("img/header3.jpg");}
+.header4{background-image:url("img/header4.jpg");}
+
+.home1{background-image:url("img/home1.jpg");}
+.home2{background-image:url("img/home2.jpg");}
+.home3{background-image:url("img/home3.jpg");}
+.home4{background-image:url("img/home4.jpg");}
+.home6{background-image:url("img/home6.jpg");}
+
+.single1{background-image:url("img/single1.jpg");}
+.single2{background-image:url("img/single2.jpg");}
+.single3{background-image:url("img/single3.jpg");}
+.single4{background-image:url("img/single4.jpg");}
+
+.footer1{background-image:url("img/footer1.jpg");}
+.footer2{background-image:url("img/footer2.jpg");}
+.footer3{background-image:url("img/footer3.jpg");}
+.footer4{background-image:url("img/footer4.jpg");}
+
+.cc-selector input:active +.drinkcard-cc{opacity: .9;}
+.cc-selector input:checked +.drinkcard-cc{
+    -webkit-filter: none;
+       -moz-filter: none;
+            filter: none;
+}
+.drinkcard-cc{    border: #61656A 1px solid;
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:200px;height:130px;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+    -webkit-filter: brightness(1.8) grayscale(1) opacity(.4);
+       -moz-filter: brightness(1.8) grayscale(1) opacity(.4);
+            filter: brightness(1.8) grayscale(1) opacity(.4);
+}
+.drinkcard-cc:hover{
+    -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+       -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+            filter: brightness(1.2) grayscale(.5) opacity(.9);
+}
+#settings_form{
+    border: 1px solid #ccc; 
+    background: #f6f6f6; 
+    margin-top:20px;
+}
+.padi{
+    padding:15px;
+}
+.avan{
+    border-bottom: 1px #ddd solid;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+div#settings_form img{
+    max-width: 100%;
+}
+.uploader {
+    padding: 15px;
+    padding-left: 0px;
+}
+.tomblok{
+    border:#ddd 1px solid;
+}
+.sukses{
+    margin-bottom:5px;
+}
+input.kaya {
+    margin-bottom: 20px;
+}
+.deanda{
+    background-color: white; 
+    border: 1px solid #ddd; 
+    padding: 8px;
+}
+.cantiki{
+    height: 115px; 
+    width: 500px;
+}
+.headerz {
+    padding-top: 10px;
+    text-align: center;
+}
+@media (max-width: 1100px) {
+.primary {
+    text-align: center;
+    margin-right: 10px;
+    width: 40%;
+    border: #ddd 1px solid;
+    margin-bottom: 20px;
+    padding: 5px 15px;
+    float: left;
+}
+}
+@media (max-width: 800px) {
+.primary {
+    text-align: center;
+    margin-right: 10px;
+    width: 80%;
+    border: #ddd 1px solid;
+    margin-bottom: 20px;
+    padding: 5px 15px;
+    float: left;
+}
+}

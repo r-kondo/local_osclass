@@ -1,0 +1,1101 @@
+# Translation of OsclassDotMe in Swedish
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:43+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: sv_SE\n"
+
+msgid "New pasword"
+msgstr "Ny pasword"
+
+msgid "Repeat new pasword"
+msgstr "Upprepa nytt pasword"
+
+msgid "Page not found"
+msgstr "Sidan kunde inte hittas"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Du har framgångsrikt anslutit sig till registreringen"
+
+msgid "Invalid email address"
+msgstr "Ogiltig e-postadress"
+
+msgid "There was a problem with the alert"
+msgstr "Det fanns ett problem med registreringen"
+
+msgid "Subscribe to this search"
+msgstr "Prenumerera på denna sökning"
+
+msgid "Subscribe now"
+msgstr "Prenumerera nu"
+
+msgid "Contact us"
+msgstr "Kontakta kundjänst"
+
+msgid "Subject"
+msgstr "Ämne"
+
+msgid "optional"
+msgstr "valfri"
+
+msgid "Message"
+msgstr "Meddelande"
+
+msgid "Your name"
+msgstr "Ditt namn"
+
+msgid "Your e-mail address"
+msgstr "Din e-postadress."
+
+msgid "Send"
+msgstr "Skicka"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Your search must be at least three characters long"
+msgstr "Din sökning måste vara minst tre tecken lång"
+
+msgid "Theme settings updated correctly"
+msgstr "Tema inställningar uppdateras korrekt"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Logotypen bilden har lagts upp på rätt sätt"
+
+msgid "An error has occurred, please try again"
+msgstr "Ett fel har inträffat, var god försök igen"
+
+msgid "The logo image has been removed"
+msgstr "Logotypen bilden har tagits bort"
+
+msgid "Image not found"
+msgstr "Image not found"
+
+msgid "Header logo"
+msgstr "﻿Sidhuvud - logotyp"
+
+msgid "Theme settings"
+msgstr "Temainställningar"
+
+msgid "ie. PHP Programmer"
+msgstr "dvs.. PHP Programmerare"
+
+msgid "No file selected"
+msgstr "[Ingen fil vald]"
+
+msgid "Choose File"
+msgstr "Välj fil"
+
+msgid "Hi %s"
+msgstr "Hej%s"
+
+msgid "My account"
+msgstr "Mitt konto"
+
+msgid "Logout"
+msgstr "Logga Ut"
+
+msgid "Login"
+msgstr "Logga in"
+
+msgid "Register for a free account"
+msgstr "Skaffa ett konto gratis"
+
+msgid "E-mail"
+msgstr "E-post"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Remember me"
+msgstr "Kommer du ihåg mig"
+
+msgid "Log in"
+msgstr "Logga in"
+
+msgid "Forgot password?"
+msgstr "glömt lösenord?"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Publish your ad for free"
+msgstr "Publicera din annons gratis"
+
+msgid "Select a category"
+msgstr "Välj en kategori"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Contact seller"
+msgstr "Kontakta säljare"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Du måste logga in eller registrera ett nytt konto för att kontakta annonsören"
+
+msgid "To (seller)"
+msgstr "Till (säljare)"
+
+msgid "Listing"
+msgstr "Annons"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Send message"
+msgstr "Skicka meddelande"
+
+msgid "Update your listing"
+msgstr "Uppdatera ditt objekt i listan"
+
+msgid "General Information"
+msgstr "Generell information"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Photos"
+msgstr "Foton"
+
+msgid "Add new photo"
+msgstr "Lägg till ett nytt foto"
+
+msgid "Location"
+msgstr "Plats"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "City area"
+msgstr "Tätort"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Publish a listing"
+msgstr "Publicera Listing"
+
+msgid "Listing Location"
+msgstr "Notering Läge"
+
+msgid "City Area"
+msgstr "Tätort"
+
+msgid "Seller's information"
+msgstr "Säljarens informations"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Show e-mail on the listing page"
+msgstr "Visa e-post på listan sida"
+
+msgid "Publish"
+msgstr "Publicera"
+
+msgid "Send to a friend"
+msgstr "Skicka till en kollega"
+
+msgid "Your friend's name"
+msgstr "Din väns namn"
+
+msgid "Your friend's e-mail address"
+msgstr "Din väns e-postadress"
+
+msgid "Mark as"
+msgstr "Markera som"
+
+msgid "spam"
+msgstr "skräppost"
+
+msgid "misclassified"
+msgstr "misclassified"
+
+msgid "duplicated"
+msgstr "dupliceras"
+
+msgid "expired"
+msgstr "utgången"
+
+msgid "offensive"
+msgstr "kränkande"
+
+msgid "Published date"
+msgstr "Publiziertes Datum"
+
+msgid "Modified date"
+msgstr "Ändrad datum"
+
+msgid "Share"
+msgstr "Dela"
+
+msgid "Useful information"
+msgstr "Produktinformation"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Undvik bedrägerier genom att handla lokalt eller betala med PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Aldrig betala med Western Union, Moneygram eller andra anonyma betalningstjänster"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Inte köpa eller sälja utanför ditt land. Acceptera inte checkar kassör från utanför ditt land"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Den här webbplatsen är aldrig inblandad i någon transaktion, och inte hantera betalningar, sjöfart, transaktioner garanti ger escrow tjänster, eller erbjudande "
+"&quot;köparen skydd&quot; eller &quot;säljare certifiering&quot;"
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "by"
+msgstr "av"
+
+msgid "Delete your comment"
+msgstr "Ta bort kommentar"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Lämna din kommentar (spam och stötande meddelanden kommer att tas bort)"
+
+msgid "Leave your comment"
+msgstr "DIN KOMMENTAR"
+
+msgid "Your e-mail"
+msgstr "Din email"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Contact publisher"
+msgstr "Kontakta förlaget"
+
+msgid "Tel"
+msgstr "Telefon"
+
+msgid "Enter the words above"
+msgstr "Ange de ord ovan"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Latest Listings"
+msgstr "Senaste Annonser"
+
+msgid "No Latest Listings"
+msgstr "Inga senaste annonserna"
+
+msgid "See all offers"
+msgstr "Se alla erbjudanden"
+
+msgid "Sort by"
+msgstr "Sortera efter"
+
+msgid "There are no results matching \"%s\""
+msgstr "Det finns inga resultat som matchar &quot;%s&quot;"
+
+msgid "Your search"
+msgstr "Sökningen"
+
+msgid "Show only"
+msgstr "Visa endast"
+
+msgid "Show only listings with pictures"
+msgstr "Visa endast listor med bilder"
+
+msgid "Min"
+msgstr "Från"
+
+msgid "Max"
+msgstr "max"
+
+msgid "Apply"
+msgstr "Utför"
+
+msgid "Selected"
+msgstr "Vald"
+
+msgid "Nothing selected, input was"
+msgstr "Ingenting vald, var ingång"
+
+msgid "User account manager"
+msgstr "Kontohanterare"
+
+msgid "Your alerts"
+msgstr "Dina bevakningar"
+
+msgid "You do not have any alerts yet"
+msgstr "Du har inga varningar ännu"
+
+msgid "Alert"
+msgstr "Larm"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Denna åtgärd kan inte ångras. Är du säker på att du vill fortsätta?"
+
+msgid "Delete this alert"
+msgstr "Ta bort den här varningen"
+
+msgid "Publication date"
+msgstr "Datum för offentliggörande:"
+
+msgid "Listings"
+msgstr "Annonser"
+
+msgid "Change your e-mail"
+msgstr "Ändra din e-post"
+
+msgid "Current e-mail"
+msgstr "Nuvarande e-post"
+
+msgid "New e-mail"
+msgstr "Ny e-post"
+
+msgid "Change your password"
+msgstr "Ändra ditt lösenord"
+
+msgid "Current password"
+msgstr "Aktuellt lösenord"
+
+msgid "New password"
+msgstr "Nytt lösenord"
+
+msgid "Repeat new password"
+msgstr "Upprepa nytt lösenord"
+
+msgid "Listings from %s"
+msgstr "Annonser från%s"
+
+msgid "No listings have been added yet"
+msgstr "Inga listor har ännu lagts"
+
+msgid "View listing"
+msgstr "Visa annons"
+
+msgid "Edit"
+msgstr "Ändra"
+
+msgid "Activate"
+msgstr "Aktivera"
+
+msgid "Recover your password"
+msgstr "Återskapa lösenord"
+
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+msgid "Your listings"
+msgstr "Dina annonser"
+
+msgid "Post a new listing"
+msgstr "Se alla nya uppgifter"
+
+msgid "You don't have any listings yet"
+msgstr "Du har inga listor ännu"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Denna åtgärd kan inte ångras. Är du säker på att du vill fortsätta?"
+
+msgid "Access to your account"
+msgstr "Tillgång till ditt konto"
+
+msgid "Update your profile"
+msgstr "Uppdatera Profil"
+
+msgid "Modify e-mail"
+msgstr "Ändra e-post"
+
+msgid "Modify password"
+msgstr "Ändra lösenord"
+
+msgid "User type"
+msgstr "Användar typ"
+
+msgid "Cell phone"
+msgstr "Mobiltelefoni"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Webbplats"
+
+msgid "%s's profile"
+msgstr "%s profil"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Fullständigt namn"
+
+msgid "User Description"
+msgstr "﻿Användarbeskrivning"
+
+msgid "Latest listings"
+msgstr "Senaste listor"
+
+msgid "Send me a new password"
+msgstr "Skicka mig ett nytt lösenord"
+
+msgid "Register an account for free"
+msgstr "Registrera ett konto gratis"
+
+msgid "Re-type password"
+msgstr "Upprepa lösenordet"
+
+msgid "Passwords don't match"
+msgstr "Lösenorden matchar inte"
+
+msgid "Create"
+msgstr "Skapa"
+
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+msgid "Remove logo"
+msgstr "Avlägsna logotyp"
+
+msgid "Upload logo"
+msgstr "Ladda upp loggo"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "Den föredragna storleken på logotypen är 600x100."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Obs:</strong> Uppladdning annan logotyp skrivs den nuvarande logotypen."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo bild (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Ladda upp"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Den <strong>bildmapp%s</strong> är inte skrivbar på din server"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "För att göra en katalog skrivbar under UNIX utföra detta kommando från skalet:"
+
+msgid "Donate"
+msgstr "Donera"
+
+msgid "Search placeholder"
+msgstr "Sök platshållare"
+
+msgid "Footer link"
+msgstr "Sidfotslänk"
+
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+msgid "Custom"
+msgstr "Anpassat"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Det är din egen lista, du kan inte kontakta förlaget."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Noteringen har löpt ut. Du kan inte kontakta förlaget."
+
+msgid "No logo has been uploaded yet"
+msgstr "Ingen logotyp har laddat upp ännu"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "OSClass kan inte ladda upp logotypen bilden från administration panel."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Jag vill hjälpa OSClass genom att länka till <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> från min sida med följande text:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Se ovan nämnda bildmappen skrivbar."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Jag vill bidra till utvecklingen av OSClass med en donation av"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Denna webbplats är stolt använda <a title=\"OSClass banan\" href=\"http://osclass.org/\">annonser skript</a> programvara <strong>OSClass</strong>"
+
+msgid "Default logo"
+msgstr "Standard logotyp"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Visa standardlogotyp om du inte ladda upp en tidigare"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid "View profile"
+msgstr "Se profil"
+
+msgid "Send Mail"
+msgstr "Skicka e-post"
+
+msgid "Related Ads"
+msgstr "Relaterade annonser"
+
+msgid "No Related Ads"
+msgstr "Inga Relaterade annonser"
+
+msgid "Premium Listings"
+msgstr "Premium Förteckningen"
+
+msgid "More Details"
+msgstr "Fler Detaljer"
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Additional"
+msgstr "Tillkommande"
+
+msgid "Warning"
+msgstr "Varning"
+
+msgid "Terms of Use"
+msgstr "Användarvillkor"
+
+msgid "I agree to the"
+msgstr "Jag godkänner %s"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Ledsen men jag kan inte hitta den sida du söker"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Låt oss hjälpa dig, har vi fått några tips för dig att hitta det."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Sök efter</strong> det:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Leta</strong> efter det i de mest populära kategorierna."
+
+msgid "Your Search"
+msgstr "Din sökning"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "More information"
+msgstr "Mer information"
+
+msgid "Delete my account"
+msgstr "Ta bort konto"
+
+msgid "Show As Galery"
+msgstr "Visa Som Galery"
+
+msgid "Show As List"
+msgstr "Visa Som lista"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d -%2$d av %3$d listor"
+
+msgid "Hot!"
+msgstr "varm"
+
+msgid "Images already uploaded"
+msgstr "Bilder redan laddat"
+
+msgid "Click or Drop for upload images"
+msgstr "Klicka eller Drop för uppladdning bilder"
+
+msgid "Login with Facebook"
+msgstr "Logga in med Facebook"
+
+msgid "Manage your items"
+msgstr "Hantera objekt"
+
+msgid "Manage your alerts"
+msgstr "Hantera varningar"
+
+msgid "Select a region..."
+msgstr "Välj en region ..."
+
+msgid "Social Network"
+msgstr "Socialt nätverk"
+
+msgid "Sponsored ad"
+msgstr "Sponsrade annons"
+
+msgid "Home"
+msgstr "Hem"
+
+msgid "See all ads from"
+msgstr "Se alla annonser från"
+
+msgid "Pages"
+msgstr "Sidor"
+
+msgid "View more..."
+msgstr "Läs mer"
+
+msgid "Advanced search"
+msgstr "Avancerad sökning"
+
+msgid "hide"
+msgstr "dölj"
+
+msgid "Oops!"
+msgstr "Oops!"
+
+msgid "404 Not Found"
+msgstr "404 hittades ej"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Tyvärr, ett fel har uppstått, efterfrågades för sidan kunde inte hittas!"
+
+msgid "Take Me Home"
+msgstr "Ta mig till startsidan"
+
+msgid "Contact Support"
+msgstr "Kontakta support"
+
+msgid "Sign In"
+msgstr "Logga in"
+
+msgid "Sign Up"
+msgstr "Registrera dig för Simplify Commerce"
+
+msgid "Sign Out"
+msgstr "Logga ut"
+
+msgid "Don't have an account!"
+msgstr "Inte har ett konto!"
+
+msgid "Sign Up here"
+msgstr "Registrera dig här"
+
+msgid "Already have an account?"
+msgstr "Har du redan ett konto?"
+
+msgid "Viewed"
+msgstr "Viseringar"
+
+msgid "See all Ads"
+msgstr "Se alla Annonser"
+
+msgid "Premium Ads"
+msgstr "Premium annonser"
+
+msgid "Latest Ads"
+msgstr "Nyaste Annonserna"
+
+msgid "Featured Brand"
+msgstr "Presenterade varumärke"
+
+msgid "Select a country"
+msgstr "Välj land"
+
+msgid "Select a region"
+msgstr "Välj en region"
+
+msgid "Select a city"
+msgstr "Välj stad"
+
+msgid "Personal"
+msgstr "Privat"
+
+msgid "See all ads"
+msgstr "Se alla Annonser"
+
+msgid "More details"
+msgstr "Fler detaljer"
+
+msgid "Details"
+msgstr "Detaljer"
+
+msgid "Total Member"
+msgstr "Totala medlem"
+
+msgid "Total Ads"
+msgstr "Totala annonser"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Theme Settings"
+msgstr "Temainställningar"
+
+msgid "Logo"
+msgstr "Logga"
+
+msgid "Logo Images"
+msgstr "Bilder med logotyper"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "Reload eller uppdatera webbläsaren om bilder inte ändras."
+
+msgid "Reload browser"
+msgstr "Reload webbläsare"
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Logo and Images"
+msgstr "Logo och bilder"
+
+msgid "The image has been uploaded correctly"
+msgstr "Bilden har överförts korrekt"
+
+msgid "The image has been removed"
+msgstr "Bilden har tagits bort"
+
+msgid "Has not uploaded any image"
+msgstr "Har inte laddat upp någon bild"
+
+msgid "Slider"
+msgstr "Bildspel"
+
+msgid "Slider Images"
+msgstr "Skjutreglaget bilder"
+
+msgid "Background Images"
+msgstr "Bakgrundsbilder"
+
+msgid "Brand"
+msgstr "Varumärke"
+
+msgid "Brand Images"
+msgstr "Varumärkesimage"
+
+msgid "Icons"
+msgstr "Ikoner"
+
+msgid "Categories Icons"
+msgstr "Kategori ikoner"
+
+msgid "Please visit"
+msgstr "Besök"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Bara kopiera och klistra in koden bilder ex. hem eller hjärtat."
+
+msgid "version"
+msgstr "version"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Teman som drivs av OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Kategori bilder"
+
+msgid "Administrator Panel"
+msgstr "Administratör Panel"
+
+msgid "General"
+msgstr "Allmänt"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Advertiser"
+msgstr "Samarbetspartner"
+
+msgid "Social"
+msgstr "Socialt"
+
+msgid "Font and color"
+msgstr "Teckenfärg"
+
+msgid "More"
+msgstr "Mer"
+
+msgid "Widget settings"
+msgstr "Redigera inställningar för widget!"
+
+msgid "Social settings"
+msgstr "Inställningar för sociala-medier"
+
+msgid "Product settings"
+msgstr "Produktinställningar"
+
+msgid "Ads settings"
+msgstr "Annonser Inställningar"
+
+msgid "Product Slider"
+msgstr "Produkt reglaget"
+
+msgid "Slider Title and Links"
+msgstr "Reglaget titel och länkar"
+
+msgid "Content display"
+msgstr "Innehåll display"
+
+msgid "Custom settings"
+msgstr "Egna inställningar"
+
+msgid "Font and Color settings"
+msgstr "Inställningar för färger och teckensnitt"
+
+msgid "Button Color"
+msgstr "Knappfärg"
+
+msgid "More settings"
+msgstr "Fler inställningar"
+
+msgid "Favicon Images"
+msgstr "Favicon bilder"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Header Style"
+msgstr "Sidhuvudets stil"
+
+msgid "Home Style"
+msgstr "Hem stil"
+
+msgid "Footer Style"
+msgstr "Sidfotsstil"
+
+msgid "Product Style"
+msgstr "Produkt Stil"
+
+msgid "Search Style"
+msgstr "Sök stil"
+
+msgid "Select search form style template"
+msgstr "Välj Sök formulär importmall"
+
+msgid "Search Placeholder"
+msgstr "Sök platshållare"
+
+msgid "Footer Copyright"
+msgstr "Sidbytens Copyright Text"
+
+msgid "Copyright text on footer."
+msgstr "Copyright text på sidfot."
+
+msgid "only for arabic or persian language."
+msgstr "endast för arabiska eller persiska språket."
+
+msgid "Title On Home"
+msgstr "Titel på hem"
+
+msgid "Title Footer"
+msgstr "Titeln sidfot"
+
+msgid "Widget on Footer"
+msgstr "Widget på sidfot"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Du kan lägga till widgeten på sidfot med din egen widget ex: facebook widget eller twitter widget."
+
+msgid "Title Useful Information"
+msgstr "Användbar Information om titel"
+
+msgid "Useful Information"
+msgstr "Produktinformation"
+
+msgid "Add text for useful information."
+msgstr "Lägga till text för användbar information."
+
+msgid "Show lists as"
+msgstr "Visa listor som"
+
+msgid "Slider latest Ads"
+msgstr "Reglaget senaste annonser"
+
+msgid "Slider Premium Ads"
+msgstr "Reglaget Premium annonser"
+
+msgid "Sidebar Premium Ads"
+msgstr "Sidofältet Premium annonser"
+
+msgid "Search Premium Ads"
+msgstr "Sök Premium annonser"
+
+msgid "Amount of the Latest ads"
+msgstr "Belopp för senaste annonserna"
+
+msgid "Amount of the premium ads"
+msgstr "Beloppet av premium annonser"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Beloppet av sidofältet premium annonser"
+
+msgid "Amount of the search page premium ads"
+msgstr "Mängden Sök sida premium annonser"
+
+msgid "Amount of the related ads"
+msgstr "Beloppet av de relaterade annonserna"
+
+msgid "Premium Ads Display"
+msgstr "Premium annonser Display"
+
+msgid "Latest Ads Display"
+msgstr "Senaste annonser skärm"
+
+msgid "Ads with Category"
+msgstr "Annonser med kategori"
+
+msgid "Location Display"
+msgstr "Plats Display"
+
+msgid "Brand Display"
+msgstr "Varumärket Display"
+
+msgid "Statistic Display"
+msgstr "Statistik Display"
+
+msgid "Show or hide"
+msgstr "Visa eller Dölj"
+
+msgid "Ads with category"
+msgstr "Annonser med kategori"
+
+msgid "location in home"
+msgstr "placering i hem"
+
+msgid "Brand slider"
+msgstr "Varumärket reglaget"
+
+msgid "Statistic ads"
+msgstr "Statistik annonser"
+
+msgid "Header Ads"
+msgstr "Header annonser"
+
+msgid "Footer Ads"
+msgstr "Sidfot annonser"
+
+msgid "Search results page"
+msgstr "sökresultat"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Denna annons visas på sidfoten på din webbplats. Observera att storleken på annonsen måste vara 728 x 90 pixlar."
+
+msgid "Sidebar Left"
+msgstr "Sidomeny vänster"
+
+msgid "Sidebar Right"
+msgstr "Sidomeny höger"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Sidomenyn annonser medlemssidan"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Denna annons visas på sidofältet i din medlemssidan."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Denna annons kommer att visas på den högra sidofältet på din webbplats. Observera att storleken på annonsen måste vara 300 x 350 pixlar."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "Denna annons kommer att visas på den högra sidofältet på din webbplats. Observera att storleken på annonsen måste vara 160 x 600 pixlar."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto uppspelningsreglaget produkt"
+
+msgid "welcome to classifieds"
+msgstr "Välkommen till annonser"
+
+msgid "you can costumize css."
+msgstr "kan du costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Slå på att aktivera anpassade teckensnitt och färg."
+
+msgid "create new pages TOS and copy url here"
+msgstr "skapa nya sidor TOS och kopiera url här"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "Du måste installera fb inloggning plugin, aktivera innan Facebook Login"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "Du måste installera madhouse avatar plugin, aktivera innan madhouse avatar"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "Du måste installera bevakningslista plugin, aktivera tidigare övervakningslista"
+
+msgid "you can customize html code on home"
+msgstr "Du kan anpassa HTML-kod på hem"
+
+msgid "you can costumize html on home under slider."
+msgstr "kan du costumize html på hem under skjutreglaget."
+
+msgid "insert your text or html code"
+msgstr "Infoga din text eller HTML-kod"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr ""
+"Denna annons visas högst upp på din hemsida, bredvid webbplats titel och ovanför sökresultaten. Observera att storleken på annonsen måste vara 728 x 90 pixlar."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Denna annons visas bland sökresultaten på din webbplats. Observera att storleken på annonsen måste vara 728 x 90 pixlar."
+
+msgid "view"
+msgstr "utsikt"
+
+msgid "Slider text"
+msgstr "Reglaget text"
+
+msgid "Public Profile"
+msgstr "Offentliga profil"
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Company"
+msgstr "Kompani"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "Varning: När set, kommer du inte att kunna ändra ditt användarnamn igen. Välj klokt."
+
+msgid "Change your username"
+msgstr "Ändra ditt användarnamn"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Alla dina listor och varningar att tas bort, den här åtgärden kan inte ångras."
+
+msgid "Delete account"
+msgstr "Radera konto"
+
+msgid "Rival Images"
+msgstr "Rival bilder"
+
+msgid "Rival Theme Settings"
+msgstr "Rival Temainställningar"
+
+msgid "Rival Category"
+msgstr "Rival Kategori"

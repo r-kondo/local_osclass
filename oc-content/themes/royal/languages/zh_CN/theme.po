@@ -1,0 +1,1098 @@
+# Translation of OsclassDotMe in Chinese
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:50+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: zh_CN\n"
+
+msgid "New pasword"
+msgstr "新密码"
+
+msgid "Repeat new pasword"
+msgstr "重复新密码"
+
+msgid "Page not found"
+msgstr "找不到网页"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "您已成功订阅此生活优惠更新"
+
+msgid "Invalid email address"
+msgstr "无效邮箱"
+
+msgid "There was a problem with the alert"
+msgstr "订阅此生活优惠更新出错"
+
+msgid "Subscribe to this search"
+msgstr "订阅此生活优惠更新"
+
+msgid "Subscribe now"
+msgstr "现在订阅"
+
+msgid "Contact us"
+msgstr "联系我们"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "Your name"
+msgstr "您的姓名"
+
+msgid "Your e-mail address"
+msgstr "您的电子邮箱地址"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Your search must be at least three characters long"
+msgstr "您的搜索必须至少三个字符长"
+
+msgid "Theme settings updated correctly"
+msgstr "主题设置正确更新"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "徽标图像已被正确上传"
+
+msgid "An error has occurred, please try again"
+msgstr "出现错误。请重试"
+
+msgid "The logo image has been removed"
+msgstr "该标志图像已被删除"
+
+msgid "Image not found"
+msgstr "图片没有找到"
+
+msgid "Header logo"
+msgstr "顶部 Logo"
+
+msgid "Theme settings"
+msgstr "主题设置"
+
+msgid "ie. PHP Programmer"
+msgstr "ie。PHP 程序员"
+
+msgid "No file selected"
+msgstr "没有选中的文件"
+
+msgid "Choose File"
+msgstr "选择文件"
+
+msgid "Hi %s"
+msgstr "Hi %s,"
+
+msgid "My account"
+msgstr "我的帐号"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Register for a free account"
+msgstr "免费注册"
+
+msgid "E-mail"
+msgstr "电子邮箱"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Remember me"
+msgstr "记住我"
+
+msgid "Log in"
+msgstr "登录"
+
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Publish your ad for free"
+msgstr "免费发布"
+
+msgid "Select a category"
+msgstr "选择一个分类"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Contact seller"
+msgstr "联系发布者"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "你必须登录或注册一个新账户，以便接触广告"
+
+msgid "To (seller)"
+msgstr "(卖方)"
+
+msgid "Listing"
+msgstr "列表"
+
+msgid "Phone number"
+msgstr "电话"
+
+msgid "Send message"
+msgstr "发送信息"
+
+msgid "Update your listing"
+msgstr "更新您的帖子"
+
+msgid "General Information"
+msgstr "基本信息"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Photos"
+msgstr "照片"
+
+msgid "Add new photo"
+msgstr "添加新照片"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "City"
+msgstr "城市"
+
+msgid "City area"
+msgstr "城市区域"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Publish a listing"
+msgstr "发布生活优惠"
+
+msgid "Listing Location"
+msgstr "生活优惠区域"
+
+msgid "City Area"
+msgstr "城市区域"
+
+msgid "Seller's information"
+msgstr "賣家基本資料"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Show e-mail on the listing page"
+msgstr "在帖子页上显示邮箱"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Send to a friend"
+msgstr "发送给朋友"
+
+msgid "Your friend's name"
+msgstr "您的朋友的名字"
+
+msgid "Your friend's e-mail address"
+msgstr "您的朋友的邮箱"
+
+msgid "Mark as"
+msgstr "标记为..."
+
+msgid "spam"
+msgstr "垃圾郵件"
+
+msgid "misclassified"
+msgstr "分类错误"
+
+msgid "duplicated"
+msgstr "复制了的"
+
+msgid "expired"
+msgstr "失效"
+
+msgid "offensive"
+msgstr "冒犯的"
+
+msgid "Published date"
+msgstr "发布日期"
+
+msgid "Modified date"
+msgstr "修改日期"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Useful information"
+msgstr "提醒："
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "为避免欺诈，最好本地交易，使用支付宝担保"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "不要使用不知名，有安全风险的支付服务"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "请注意跨境交易风险。不要接受来自国外的银行支票"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr "本网站不涉及交易，不处理支付、运输、担保交易、担保支付、买家保护、卖方证明"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "by"
+msgstr "作者是"
+
+msgid "Delete your comment"
+msgstr "删除您的评论"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "留下您的评论（垃圾信息及令人不快的评论将被移除）"
+
+msgid "Leave your comment"
+msgstr "发表您的评论"
+
+msgid "Your e-mail"
+msgstr "你的 e-mail"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Image"
+msgstr "图片"
+
+msgid "Contact publisher"
+msgstr "联系发布者"
+
+msgid "Tel"
+msgstr "联系电话"
+
+msgid "Enter the words above"
+msgstr "在上方输入单词"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Latest Listings"
+msgstr "最新生活优惠"
+
+msgid "No Latest Listings"
+msgstr "无最新帖子"
+
+msgid "See all offers"
+msgstr "查看全部报价"
+
+msgid "Sort by"
+msgstr "排序"
+
+msgid "There are no results matching \"%s\""
+msgstr "没有结果匹配“％S”"
+
+msgid "Your search"
+msgstr "您的搜索"
+
+msgid "Show only"
+msgstr "仅显示"
+
+msgid "Show only listings with pictures"
+msgstr "显示仅与图片列表"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Selected"
+msgstr "已选择"
+
+msgid "Nothing selected, input was"
+msgstr "不选择任何内容，输入"
+
+msgid "User account manager"
+msgstr "总会计师"
+
+msgid "Your alerts"
+msgstr "您的通知"
+
+msgid "You do not have any alerts yet"
+msgstr "您还没有生活优惠更新订阅"
+
+msgid "Alert"
+msgstr "订阅"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "删除动作将会彻底删除，确定删除？"
+
+msgid "Delete this alert"
+msgstr "删除"
+
+msgid "Publication date"
+msgstr "发布日期"
+
+msgid "Listings"
+msgstr "生活优惠"
+
+msgid "Change your e-mail"
+msgstr "更改邮箱"
+
+msgid "Current e-mail"
+msgstr "当前邮箱"
+
+msgid "New e-mail"
+msgstr "新的邮箱"
+
+msgid "Change your password"
+msgstr "更改密码"
+
+msgid "Current password"
+msgstr "当前密码"
+
+msgid "New password"
+msgstr "新的密码"
+
+msgid "Repeat new password"
+msgstr "重复新的密码"
+
+msgid "Listings from %s"
+msgstr "帖子从 %s"
+
+msgid "No listings have been added yet"
+msgstr "没有帖子"
+
+msgid "View listing"
+msgstr "查看帖子"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Recover your password"
+msgstr "找回密码"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Your listings"
+msgstr "你的帖子"
+
+msgid "Post a new listing"
+msgstr "发布新帖子"
+
+msgid "You don't have any listings yet"
+msgstr "你目前尚没有帖子发布"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "删除动作将会彻底删除，确定删除？"
+
+msgid "Access to your account"
+msgstr "登录"
+
+msgid "Update your profile"
+msgstr "更新个人资料"
+
+msgid "Modify e-mail"
+msgstr "修改邮件"
+
+msgid "Modify password"
+msgstr "修改密码"
+
+msgid "User type"
+msgstr "类型"
+
+msgid "Cell phone"
+msgstr "电话"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "%s's profile"
+msgstr "%s的资料"
+
+msgid "Profile"
+msgstr "个人资料"
+
+msgid "Full name"
+msgstr "全名"
+
+msgid "User Description"
+msgstr "介绍"
+
+msgid "Latest listings"
+msgstr "最新优惠"
+
+msgid "Send me a new password"
+msgstr "给我发送新密码"
+
+msgid "Register an account for free"
+msgstr "免费注册"
+
+msgid "Re-type password"
+msgstr "請確認密碼"
+
+msgid "Passwords don't match"
+msgstr "密码不匹配"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Preview"
+msgstr "预览图"
+
+msgid "Remove logo"
+msgstr "移除 LOGO"
+
+msgid "Upload logo"
+msgstr "上传Logo"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "该徽标的首选的大小为 600 × 100。"
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>注：</strong>上传的另一个标志将覆盖当前的徽标。"
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "徽标图像 （png、 gif、 jpg)"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "图像文件夹<strong></strong>不是可写上您的服务器"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "使目录可写在 UNIX 下从 shell 执行此命令："
+
+msgid "Donate"
+msgstr "赞助"
+
+msgid "Search placeholder"
+msgstr "搜索占位符"
+
+msgid "Footer link"
+msgstr "页脚链接"
+
+msgid "Save changes"
+msgstr "保存更改"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "这是你自己的帖子，你不能联系你自己嘛"
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "标记为令人不快"
+
+msgid "No logo has been uploaded yet"
+msgstr "没有标识已上传过"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass 不能上载从管理面板的徽标图像。"
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "我想要帮助 Osclass 通过链接到<a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a>从我的网站包含以下文本："
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "请上述图像文件夹可写。"
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "我想要捐赠的 Osclass 的发展作出贡献"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "&copy;2015<a title=\"Osclass web\" href=\"http://www.beisousuo.com/\">被搜索</a>"
+
+msgid "Default logo"
+msgstr "默认logo"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "显示默认的徽标，以防你以前没上传一"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "View profile"
+msgstr "查看资料"
+
+msgid "Send Mail"
+msgstr "发送邮件"
+
+msgid "Related Ads"
+msgstr "相关信息"
+
+msgid "No Related Ads"
+msgstr "暂无相关信息"
+
+msgid "Premium Listings"
+msgstr "精选生活优惠"
+
+msgid "More Details"
+msgstr "更多详情"
+
+msgid "Description"
+msgstr "商品介绍"
+
+msgid "Additional"
+msgstr "附加"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Terms of Use"
+msgstr "使用条款"
+
+msgid "I agree to the"
+msgstr "“我同意”"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "很抱歉，但我无法找到你要找的页面"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "让我们帮助你，我们已经为你找到它的几个技巧。"
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>寻找</strong>它："
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "在最流行 ​​的类别<strong>寻找</strong>它。"
+
+msgid "Your Search"
+msgstr "您的搜索"
+
+msgid "Categories"
+msgstr "类别"
+
+msgid "More information"
+msgstr "更多信息"
+
+msgid "Delete my account"
+msgstr "删除账户"
+
+msgid "Show As Galery"
+msgstr "显示为画廊"
+
+msgid "Show As List"
+msgstr "显示为包含列表"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$ of %3$d  上市"
+
+msgid "Hot!"
+msgstr "热"
+
+msgid "Images already uploaded"
+msgstr "图片已上传"
+
+msgid "Click or Drop for upload images"
+msgstr "点击或拖动图片上传"
+
+msgid "Login with Facebook"
+msgstr "使用Facebook登录"
+
+msgid "Manage your items"
+msgstr "管理您的项目"
+
+msgid "Manage your alerts"
+msgstr "管理您的通知"
+
+msgid "Select a region..."
+msgstr "选择地区..."
+
+msgid "Social Network"
+msgstr "社交网络"
+
+msgid "Sponsored ad"
+msgstr "广告赞助"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "See all ads from"
+msgstr "看到所有的广告都从"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "View more..."
+msgstr "查看更多"
+
+msgid "Advanced search"
+msgstr "高级查询..."
+
+msgid "hide"
+msgstr "隐藏"
+
+msgid "Oops!"
+msgstr "哎呀！"
+
+msgid "404 Not Found"
+msgstr "404 页面不存在"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "抱歉，发生错误，请求的页面不存在！"
+
+msgid "Take Me Home"
+msgstr "返回首页"
+
+msgid "Contact Support"
+msgstr "联系支持部门"
+
+msgid "Sign In"
+msgstr "登陆"
+
+msgid "Sign Up"
+msgstr "注册"
+
+msgid "Sign Out"
+msgstr "注销"
+
+msgid "Don't have an account!"
+msgstr "还没有账户？"
+
+msgid "Sign Up here"
+msgstr "报名在这里"
+
+msgid "Already have an account?"
+msgstr "已经注册过账号？"
+
+msgid "Viewed"
+msgstr "已浏览"
+
+msgid "See all Ads"
+msgstr "看到所有的广告"
+
+msgid "Premium Ads"
+msgstr "高档广告"
+
+msgid "Latest Ads"
+msgstr "最新广告"
+
+msgid "Featured Brand"
+msgstr "特色的品牌"
+
+msgid "Select a country"
+msgstr "选择国家"
+
+msgid "Select a region"
+msgstr "选择大学"
+
+msgid "Select a city"
+msgstr "选择学院"
+
+msgid "Personal"
+msgstr "个人"
+
+msgid "See all ads"
+msgstr "看到所有的广告"
+
+msgid "More details"
+msgstr "更多细节"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "Total Member"
+msgstr "总的成员"
+
+msgid "Total Ads"
+msgstr "总广告"
+
+msgid "Images"
+msgstr "图片"
+
+msgid "Theme Settings"
+msgstr "主题设置"
+
+msgid "Logo"
+msgstr "标志"
+
+msgid "Logo Images"
+msgstr "标志"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "请重新载入或刷新您的浏览器，如果图片不会改变。"
+
+msgid "Reload browser"
+msgstr "重新加载浏览器"
+
+msgid "Remove"
+msgstr "移出"
+
+msgid "Logo and Images"
+msgstr "徽标和图像"
+
+msgid "The image has been uploaded correctly"
+msgstr "Logo图像已更新。"
+
+msgid "The image has been removed"
+msgstr "Logo图像已删除。"
+
+msgid "Has not uploaded any image"
+msgstr "有没有上传任何图像"
+
+msgid "Slider"
+msgstr "幻灯片"
+
+msgid "Slider Images"
+msgstr "幻灯片图片"
+
+msgid "Background Images"
+msgstr "背景图"
+
+msgid "Brand"
+msgstr "品牌"
+
+msgid "Brand Images"
+msgstr "品牌形象"
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "Categories Icons"
+msgstr "类别图标"
+
+msgid "Please visit"
+msgstr "请访问"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "只是复制和粘贴代码图像如回家或心。"
+
+msgid "version"
+msgstr "版本"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "由 OsclassDotMe 提供动力的主题"
+
+msgid "Category Images"
+msgstr "分类图片"
+
+msgid "Administrator Panel"
+msgstr "管理员面板"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Widget"
+msgstr "小工具"
+
+msgid "Product"
+msgstr "产品"
+
+msgid "Advertiser"
+msgstr "广告商"
+
+msgid "Social"
+msgstr "社交"
+
+msgid "Font and color"
+msgstr "字体颜色"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Widget settings"
+msgstr "小工具设置"
+
+msgid "Social settings"
+msgstr "社交设置。"
+
+msgid "Product settings"
+msgstr "商品设置"
+
+msgid "Ads settings"
+msgstr "广告设置"
+
+msgid "Product Slider"
+msgstr "产品滑块"
+
+msgid "Slider Title and Links"
+msgstr "滑块的标题和链接"
+
+msgid "Content display"
+msgstr "内容显示"
+
+msgid "Custom settings"
+msgstr "自定义设置"
+
+msgid "Font and Color settings"
+msgstr "字体和颜色设置"
+
+msgid "Button Color"
+msgstr "按钮颜色"
+
+msgid "More settings"
+msgstr "更多设置"
+
+msgid "Favicon Images"
+msgstr "图标图像"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Header Style"
+msgstr "头部样式"
+
+msgid "Home Style"
+msgstr "首页 5"
+
+msgid "Footer Style"
+msgstr "页脚样式"
+
+msgid "Product Style"
+msgstr "商品样式"
+
+msgid "Search Style"
+msgstr "搜索风格"
+
+msgid "Select search form style template"
+msgstr "选择搜索表单样式模板"
+
+msgid "Search Placeholder"
+msgstr "- 占位符"
+
+msgid "Footer Copyright"
+msgstr "版权信息"
+
+msgid "Copyright text on footer."
+msgstr "在页脚的版权文本。"
+
+msgid "only for arabic or persian language."
+msgstr "只为阿拉伯语或波斯语。"
+
+msgid "Title On Home"
+msgstr "在首页上的标题"
+
+msgid "Title Footer"
+msgstr "标题页脚"
+
+msgid "Widget on Footer"
+msgstr "窗口小部件在页脚"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "您可以添加构件在页脚与前您自定义小部件: facebook 小部件或 twitter 小部件。"
+
+msgid "Title Useful Information"
+msgstr "标题有用的信息"
+
+msgid "Useful Information"
+msgstr "有用信息"
+
+msgid "Add text for useful information."
+msgstr "添加文本为有用的信息。"
+
+msgid "Show lists as"
+msgstr "列表显示方式:"
+
+msgid "Slider latest Ads"
+msgstr "滑块最新广告"
+
+msgid "Slider Premium Ads"
+msgstr "滑块溢价广告"
+
+msgid "Sidebar Premium Ads"
+msgstr "侧边栏溢价广告"
+
+msgid "Search Premium Ads"
+msgstr "搜索溢价广告"
+
+msgid "Amount of the Latest ads"
+msgstr "最新广告数量"
+
+msgid "Amount of the premium ads"
+msgstr "溢价广告数量"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "侧边栏溢价广告的数量"
+
+msgid "Amount of the search page premium ads"
+msgstr "搜索页溢价广告数量"
+
+msgid "Amount of the related ads"
+msgstr "相关广告数量"
+
+msgid "Premium Ads Display"
+msgstr "溢价广告显示"
+
+msgid "Latest Ads Display"
+msgstr "最新的广告显示"
+
+msgid "Ads with Category"
+msgstr "广告与类别"
+
+msgid "Location Display"
+msgstr "位置显示"
+
+msgid "Brand Display"
+msgstr "品牌展示"
+
+msgid "Statistic Display"
+msgstr "统计显示"
+
+msgid "Show or hide"
+msgstr "显示或隐藏"
+
+msgid "Ads with category"
+msgstr "广告与类别"
+
+msgid "location in home"
+msgstr "在家庭中的位置"
+
+msgid "Brand slider"
+msgstr "品牌滑块"
+
+msgid "Statistic ads"
+msgstr "统计广告"
+
+msgid "Header Ads"
+msgstr "头部广告"
+
+msgid "Footer Ads"
+msgstr "页脚广告"
+
+msgid "Search results page"
+msgstr "搜索结果页面"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "这则广告将出现在页脚中您的网站上。请注意，该广告的大小为 728 x 90 像素。"
+
+msgid "Sidebar Left"
+msgstr "侧边栏左"
+
+msgid "Sidebar Right"
+msgstr "侧边栏右"
+
+msgid "Sidebar Ads Member Area"
+msgstr "侧边栏广告会员专区"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "这则广告将显示在您的会员区的栏上。"
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "此广告会显示在您网站的右侧边栏的产品详细页面。请注意，广告尺寸建议300x250像素。"
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "这则广告将显示在您的网站的右侧栏。请注意，该广告的大小为 160 x 600 像素。"
+
+msgid "Auto Play Product Slider"
+msgstr "自动播放产品滑块"
+
+msgid "welcome to classifieds"
+msgstr "欢迎到分类广告"
+
+msgid "you can costumize css."
+msgstr "你可以 costumize css。"
+
+msgid "Switch on to activate custom font and color."
+msgstr "开关以激活自定义字体和颜色。"
+
+msgid "create new pages TOS and copy url here"
+msgstr "创建新页 TOS 和复制 url 到此处"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "您必须安装 fb 登录插件，之前激活登录 Facebook"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "您必须安装疯人院头像插件，之前激活疯人院阿凡达 》"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "您必须安装监视插件，之前激活名单"
+
+msgid "you can customize html code on home"
+msgstr "您可以自定义 html 代码上的家"
+
+msgid "you can costumize html on home under slider."
+msgstr "你可以上家在滑块下的 costumize html。"
+
+msgid "insert your text or html code"
+msgstr "插入文本或 html 代码"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "此广告会显示在您网站的顶端、网站标题旁边和搜索结果的上方。请注意，广告尺寸建议728x90像素。"
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "此广告会显示在网站的搜索结果中。请注意，广告尺寸建议728x90像素。"
+
+msgid "view"
+msgstr "浏览"
+
+msgid "Slider text"
+msgstr "幻灯片文本"
+
+msgid "Public Profile"
+msgstr "公开资料"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "警告: 一旦进行了设置，你将不能够再次更改您的用户名。明智的选择。"
+
+msgid "Change your username"
+msgstr "更换用户名"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "你所有的上市和警报将被删除，此操作不能撤消。"
+
+msgid "Delete account"
+msgstr "删除账户"
+
+msgid "Rival Images"
+msgstr "Rival 圖片"
+
+msgid "Rival Theme Settings"
+msgstr "Rival 主題設置"
+
+msgid "Rival Category"
+msgstr "Rival 分類"

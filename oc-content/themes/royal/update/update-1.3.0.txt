@@ -1,0 +1,59 @@
+================ Update version 1.3.0 ====================
+
+====version themes====
+- Function.php, index.php and settings.php (theme version)
+
+====admin panel====
+- New file admin/admin.php
+- Modify admin/slider.php and logo.php
+- function.php ( logo_slider,logo_slider_1,logo_slider_2 )
+- images/ favicon.png and 0.jpg
+
+====templates primary====
+- footer.php ( add templates/footer/ )
+- new folder templates/footer/
+- header.php ( add templates/header/)
+- new folder templates/header/
+- item.php ( add templates/single/)
+- new folder templates/single/
+- main.php ( add templates/home/)
+- new folder templates/home/
+- replace css/custom.css to style.css
+- add style.css on head.php
+
+====back to top====
+- new js/top.js
+- templates/footer/footer1.php ,footer2.php( add <a href="#0" class="cd-top">Top</a> )
+- css/style.css ( /* back to top */ )
+- css/img/cs-top-arrow.svg
+
+====related ads====
+- function.php related ads function
+- related ads templates/single/single1.php, single2.php, single3.php and single4.php
+
+====limit title====
+- add class="aribudin" in slider.php, related.php
+
+====alert images====
+- replace user-alert.php
+
+====user listings====
+- replace user-item.php
+
+====sidebar ====
+replace sidebar.php
+search-sidebar.php
+
+====captcha ====
+item-post.php
+item-edit.php
+
+====new ads=====
+user-item.php
+user-alert.php
+
+====Sort by personal or company====
+search.php ( personal n company), category select and function .srcc
+function.php (personal and company function)
+
+===========================================================

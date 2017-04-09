@@ -1,0 +1,32 @@
+================ Update version 1.4.2 ====================
+
+====version themes====
+- Function.php, index.php and settings.php (theme version)
+
+
+====features added====
+- royal/ admin / settings.php ( plugins tab added )
+- item_post.php, function.php, settings.php ( phone in publish features added )
+
+====Update file====
+- royal/ css/ style.css
+- royal/ css/ fonts/ ( all files update)
+- royal/ css/ css / ( all files update)
+
+====bugs fixed====
+- royal/ templates/ single/ single1.php ( edit ads when login fixed )
+- royal/ templates/ single/ single2.php ( Picture ads fixed )
+- royal/ templates/ single/ single3.php ( edit ads  when login fixed )
+- search.php ( disable price in search fixed )
+
+==== new features ====
+blogs external links menu
+
+- admin/ settings.php
+- function.php
+- templates/ header/ header2.php
+- templates/ footer/ footer1.php
+- templates/ footer/ footer2.php
+- templates/ footer/ footer3.php
+
+===========================================================

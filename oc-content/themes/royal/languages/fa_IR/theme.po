@@ -1,0 +1,1100 @@
+# Translation of OsclassDotMe  in Persia
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:17+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: fa\n"
+
+msgid "New pasword"
+msgstr "گذرواژه جدید"
+
+msgid "Repeat new pasword"
+msgstr "تکرار گذرواژه جدید"
+
+msgid "Page not found"
+msgstr "صفحه مورد نظر شما یافت نشد"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "شما با موفقیت به هشدار مشترک"
+
+msgid "Invalid email address"
+msgstr "آدرس ایمیل نامعتبر است"
+
+msgid "There was a problem with the alert"
+msgstr "یک مشکل با هشدار وجود دارد"
+
+msgid "Subscribe to this search"
+msgstr "مشترک شدن در این جستجو"
+
+msgid "Subscribe now"
+msgstr "هم اکنون مشترک شوید"
+
+msgid "Contact us"
+msgstr "تماس با ما"
+
+msgid "Subject"
+msgstr "عنوان"
+
+msgid "optional"
+msgstr "اختیاری"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "Your name"
+msgstr "نام شما"
+
+msgid "Your e-mail address"
+msgstr "ایمیل شما"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Contact"
+msgstr "تماس با ما"
+
+msgid "Your search must be at least three characters long"
+msgstr "جستجو شما باید حداقل سه حرف طولانی باشد"
+
+msgid "Theme settings updated correctly"
+msgstr "تنظیمات صحیح به روز شده"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "تصویر آرم به درستی آپلود شده"
+
+msgid "An error has occurred, please try again"
+msgstr "خطایی رخ داده است، لطفا دوباره سعی کنید"
+
+msgid "The logo image has been removed"
+msgstr "تصویر آرم حذف شده است"
+
+msgid "Image not found"
+msgstr "تصویر یافت نشد"
+
+msgid "Header logo"
+msgstr "لوگو سربرگ"
+
+msgid "Theme settings"
+msgstr "تنظیمات قالب"
+
+msgid "ie. PHP Programmer"
+msgstr "به عنوان مثال. پی اچ پی برنامه نویس"
+
+msgid "No file selected"
+msgstr "فایلی انتخاب نشده است."
+
+msgid "Choose File"
+msgstr "انتخاب فایل"
+
+msgid "Hi %s"
+msgstr "درود %s"
+
+msgid "My account"
+msgstr "سلام ، ورود به حساب کاربری من"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Register for a free account"
+msgstr "ثبت نام برای حساب کاربری رایگان"
+
+msgid "E-mail"
+msgstr "ایمیل"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "Log in"
+msgstr "ورود به سایت"
+
+msgid "Forgot password?"
+msgstr "کلمه عبورتان را فراموش کرده اید؟"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Publish your ad for free"
+msgstr "انتشار آگهی خود را به صورت رایگان"
+
+msgid "Select a category"
+msgstr "انتخاب دسته بندی"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Contact seller"
+msgstr "تماس با فروشنده"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "شما باید وارد شوید یا ثبت نام کاربر جدید به منظور تماس با تبلیغ"
+
+msgid "To (seller)"
+msgstr "به (فروشنده)"
+
+msgid "Listing"
+msgstr "فرم"
+
+msgid "Phone number"
+msgstr "شماره‌ی تلفن"
+
+msgid "Send message"
+msgstr "ارسال پیام"
+
+msgid "Update your listing"
+msgstr "به روز رسانی آگهی"
+
+msgid "General Information"
+msgstr "اطلاعات عمومی"
+
+msgid "Category"
+msgstr "دسته بندی"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Photos"
+msgstr "تصاویر"
+
+msgid "Add new photo"
+msgstr "افزودن عکس جدید"
+
+msgid "Location"
+msgstr "شهر"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Region"
+msgstr "منطقه زماني"
+
+msgid "City"
+msgstr "محله"
+
+msgid "City area"
+msgstr "منطقه شهرستان"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Publish a listing"
+msgstr "انتشار فهرست"
+
+msgid "Listing Location"
+msgstr "موقعیت آگهی"
+
+msgid "City Area"
+msgstr "منطقه شهرستان"
+
+msgid "Seller's information"
+msgstr "اطلاعات فروشنده"
+
+msgid "Name"
+msgstr "نام دوست شما"
+
+msgid "Show e-mail on the listing page"
+msgstr "نمایش ایمیل در صفحه فهرست"
+
+msgid "Publish"
+msgstr "انتشار"
+
+msgid "Send to a friend"
+msgstr "ارسال به دوستان"
+
+msgid "Your friend's name"
+msgstr "نام دوست شما"
+
+msgid "Your friend's e-mail address"
+msgstr "آدرس ایمیل دوست شما"
+
+msgid "Mark as"
+msgstr "علامت گذاری به عنوان"
+
+msgid "spam"
+msgstr "هرزنامه"
+
+msgid "misclassified"
+msgstr "طبقهبندی نادرست"
+
+msgid "duplicated"
+msgstr "تکرار"
+
+msgid "expired"
+msgstr "پایان اعتبار"
+
+msgid "offensive"
+msgstr "آفند"
+
+msgid "Published date"
+msgstr "تاریخ انتشار"
+
+msgid "Modified date"
+msgstr "تاریخ آخرین تغییرات"
+
+msgid "Share"
+msgstr "اشتراک گذاری"
+
+msgid "Useful information"
+msgstr "اطلاعات مفید"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "اجتناب از کلاهبرداری با عمل به صورت محلی و یا پرداخت با پی پال"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "هرگز با اتحادیه های غربی، Moneygram و یا دیگر خدمات پرداخت ناشناس پرداخت"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "آیا خرید و فروش نمیکنند خارج از کشور خود را. آیا چک صندوقدار از خارج از کشور خود را قبول نمی"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"این سایت هرگز در هر معامله درگیر می کند و پرداخت، حمل و نقل، معاملات تضمین تحمل کنم، ارائه خدمات سپردن، و یا ارائه &quot;حفاظت خریدار&quot; و یا &quot;صدور "
+"گواهینامه فروشنده&quot;"
+
+msgid "Comments"
+msgstr "دیدگاه‌ ها"
+
+msgid "by"
+msgstr "توسط"
+
+msgid "Delete your comment"
+msgstr "حذف نظر خود را"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "ترک نظر خود را (اسپم و توهین آمیز پیام های حذف خواهد شد)"
+
+msgid "Leave your comment"
+msgstr "دیدگاه خود را ارسال کنید"
+
+msgid "Your e-mail"
+msgstr "پست الکترونیک شما"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Comment"
+msgstr "دیدگاه"
+
+msgid "Image"
+msgstr "نگاره"
+
+msgid "Contact publisher"
+msgstr "تماس منتشر شود"
+
+msgid "Tel"
+msgstr "تلفن"
+
+msgid "Enter the words above"
+msgstr "کلمات بالا را وارد کنید:"
+
+msgid "Help"
+msgstr "راهنما"
+
+msgid "Latest Listings"
+msgstr "آگهی های اخیر"
+
+msgid "No Latest Listings"
+msgstr "بدون لیست فایل های اخیر"
+
+msgid "See all offers"
+msgstr "مشاهده تمام پیشنهادات"
+
+msgid "Sort by"
+msgstr "ترتیب بر اساس"
+
+msgid "There are no results matching \"%s\""
+msgstr "هیچ نتیجه تطبیق &quot;٪ s&quot; را وجود دارد"
+
+msgid "Your search"
+msgstr "جستجو شما"
+
+msgid "Show only"
+msgstr "نشان می دهد تنها"
+
+msgid "Show only listings with pictures"
+msgstr "نمایش فقط لیست با عکس"
+
+msgid "Min"
+msgstr "کمترین"
+
+msgid "Max"
+msgstr "بیشترین"
+
+msgid "Apply"
+msgstr "اعمال"
+
+msgid "Selected"
+msgstr "انتخاب شده"
+
+msgid "Nothing selected, input was"
+msgstr "هیچ چیز انتخاب، ورودی بود"
+
+msgid "User account manager"
+msgstr "مدیر حساب کاربری"
+
+msgid "Your alerts"
+msgstr "هشدارهای شما"
+
+msgid "You do not have any alerts yet"
+msgstr "شما به هیچ هشدار نشده است"
+
+msgid "Alert"
+msgstr "هشدار"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "این عمل قابل بازگشت نیست. آیا مطمئن هستید که میخواهید ادامه دهید؟"
+
+msgid "Delete this alert"
+msgstr "حذف این هشدار"
+
+msgid "Publication date"
+msgstr "تاریخ انتشار"
+
+msgid "Listings"
+msgstr "آگهی ها"
+
+msgid "Change your e-mail"
+msgstr "تغییر شما E-mail"
+
+msgid "Current e-mail"
+msgstr "در حال حاضر ایمیل"
+
+msgid "New e-mail"
+msgstr "ایمیل جدید"
+
+msgid "Change your password"
+msgstr "تغییر گذرواژه (رمز عبور)"
+
+msgid "Current password"
+msgstr "کلمه عبور"
+
+msgid "New password"
+msgstr "رمز عبور جدید خود را وارد کنید"
+
+msgid "Repeat new password"
+msgstr "تکرار گذرواژه جدید"
+
+msgid "Listings from %s"
+msgstr "لیست های از٪ s"
+
+msgid "No listings have been added yet"
+msgstr "بدون فهرست هنوز اضافه شده است"
+
+msgid "View listing"
+msgstr "مشاهده آگهی"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Activate"
+msgstr "فعال سازی"
+
+msgid "Recover your password"
+msgstr "رمز عبور خود را بازیابی کنید"
+
+msgid "Change password"
+msgstr "تغییر گذرواژه"
+
+msgid "Your listings"
+msgstr "لیست شما"
+
+msgid "Post a new listing"
+msgstr "ارسال یک لیست جدید"
+
+msgid "You don't have any listings yet"
+msgstr "شما به هیچ لیست نشده است"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "این عمل قابل بازگشت نیست. آیا مطمئن هستید که میخواهید ادامه دهید؟"
+
+msgid "Access to your account"
+msgstr "دسترسی به حساب کاربری خود"
+
+msgid "Update your profile"
+msgstr "به روز رسانی پروفایل شما"
+
+msgid "Modify e-mail"
+msgstr "تغییر ایمیل"
+
+msgid "Modify password"
+msgstr "تغییر رمز عبور"
+
+msgid "User type"
+msgstr "نوع کاربر"
+
+msgid "Cell phone"
+msgstr "تلفن"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "Website"
+msgstr "وب سایت"
+
+msgid "%s's profile"
+msgstr "نمایه %s"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Full name"
+msgstr "نام کامل"
+
+msgid "User Description"
+msgstr "توضیحات کاربر"
+
+msgid "Latest listings"
+msgstr "آگهی های اخیر"
+
+msgid "Send me a new password"
+msgstr "ارسال رمز عبور برای من"
+
+msgid "Register an account for free"
+msgstr "ثبت نام کنید رایگان"
+
+msgid "Re-type password"
+msgstr "را دوباره بنویسید رمز عبور"
+
+msgid "Passwords don't match"
+msgstr "رمزهای ورود مطابقت ندارند"
+
+msgid "Create"
+msgstr "ایجاد"
+
+msgid "Preview"
+msgstr "نمایش"
+
+msgid "Remove logo"
+msgstr "پاک کردن لوگو"
+
+msgid "Upload logo"
+msgstr "آپلود لوگو"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "اندازه میآد، آرم 600x100 است."
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>توجه:</strong> آپلود آرم دیگری خواهد آرم فعلی بازنویسی."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "آرم تصویر (PNG، GIF، JPG)"
+
+msgid "Upload"
+msgstr "بارگذاری"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "پوشه <strong>تصاویر٪ است</strong> قابل نوشتن بر روی سرور خود نمی"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "برای ایجاد یک قابل نوشتن دایرکتوری تحت یونیکس اجرای این دستور از پوسته:"
+
+msgid "Donate"
+msgstr "کمک مالی"
+
+msgid "Search placeholder"
+msgstr "متن جستجو"
+
+msgid "Footer link"
+msgstr "لینک پاورقی"
+
+msgid "Save changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Custom"
+msgstr "سفارشی"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "این فهرست خود را، شما می توانید ناشر تماس بگیرید."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "فهرست منقضی شده است. شما می توانید ناشر تماس بگیرید."
+
+msgid "No logo has been uploaded yet"
+msgstr "بدون آرم هنوز آپلود شده"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass می توانید تصویر آرم از پانل مدیریت آپلود کنید."
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "من می خواهم برای کمک به Osclass با لینک دادن به <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> از سایت من با متن زیر:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "لطفا فوق قابل نوشتن پوشه تصویر را."
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "من می خواهم برای کمک به توسعه Osclass با اهدای"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "این وب سایت با افتخار با استفاده از <a title=\"Osclass وب\" href=\"http://osclass.org/\">کلاسه بندی شده اسکریپت</a> <strong>Osclass</strong> نرم افزار"
+
+msgid "Default logo"
+msgstr "لوگوی پیش فرض"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "نمایش به طور پیش فرض آرم در مورد شما یکی را آپلود کنید قبلا"
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "View profile"
+msgstr "نمایش مشخصات"
+
+msgid "Send Mail"
+msgstr "ارسال ایمیل"
+
+msgid "Related Ads"
+msgstr "آگهی های مربوط"
+
+msgid "No Related Ads"
+msgstr "بدون تبلیغات مرتبط"
+
+msgid "Premium Listings"
+msgstr "لیست های حق بیمه"
+
+msgid "More Details"
+msgstr "جزییات و تصاویر بیشتر"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Additional"
+msgstr "انتخابی"
+
+msgid "Warning"
+msgstr "اخطار"
+
+msgid "Terms of Use"
+msgstr "شرایط استفاده"
+
+msgid "I agree to the"
+msgstr "موافقم"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "متاسفانه من می توانم صفحه شما دنبال آن هستید پیدا کند"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "اجازه دهید به شما کمک کند ما، ما چند راهنمایی کردم برای شما برای پیدا کردن آن."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>جستجو</strong> برای آن:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "برای آن در مجموعه ها محبوب ترین <strong>است.</strong>"
+
+msgid "Your Search"
+msgstr "جستجو"
+
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+msgid "More information"
+msgstr "اطلاعات بیشتر"
+
+msgid "Delete my account"
+msgstr "پاک کردن حساب کاربری"
+
+msgid "Show As Galery"
+msgstr "نمایش به عنوان رضوان شکلات"
+
+msgid "Show As List"
+msgstr "نمایش عنوان فهرست"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "نتایج جستجو"
+
+msgid "Hot!"
+msgstr "تازه ها"
+
+msgid "Images already uploaded"
+msgstr "تصاویر در حال حاضر آپلود"
+
+msgid "Click or Drop for upload images"
+msgstr "کلیک کنید و یا رها کردن برای تصاویر آپلود"
+
+msgid "Login with Facebook"
+msgstr "ورود با حساب فیسبوک"
+
+msgid "Manage your items"
+msgstr "مدیریت آیتم های خود را"
+
+msgid "Manage your alerts"
+msgstr "مدیریت هشدارهای خود"
+
+msgid "Select a region..."
+msgstr "انتخاب منطقه ..."
+
+msgid "Social Network"
+msgstr "تنظیمات شبکه اجتماعی"
+
+msgid "Sponsored ad"
+msgstr "آگهی حمایت"
+
+msgid "Home"
+msgstr "صفحه نخست"
+
+msgid "See all ads from"
+msgstr "مشاهده تمام آگهی های دیگر از"
+
+msgid "Pages"
+msgstr "برگه ها"
+
+msgid "View more..."
+msgstr "بیشتر ببینید ..."
+
+msgid "Advanced search"
+msgstr "جستجو پیشرفته"
+
+msgid "hide"
+msgstr "ناشناس"
+
+msgid "Oops!"
+msgstr "خطا!"
+
+msgid "404 Not Found"
+msgstr "خطای 404 صفحه پیدا نشد."
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "با عرض پوزش، خطایی رخ داده است، صفحه درخواست شده یافت نشد!"
+
+msgid "Take Me Home"
+msgstr "مرا به خانه ببر"
+
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+msgid "Sign In"
+msgstr "ثبت نام"
+
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+msgid "Sign Out"
+msgstr "خروج"
+
+msgid "Don't have an account!"
+msgstr "هنوز ثبت نام نکرده اید؟"
+
+msgid "Sign Up here"
+msgstr "اینجا ثبت نام کنید"
+
+msgid "Already have an account?"
+msgstr "قبلا عضو شده اید؟"
+
+msgid "Viewed"
+msgstr "مشاهده شده"
+
+msgid "See all Ads"
+msgstr "همه آگهی ها را مشاهده کنید"
+
+msgid "Premium Ads"
+msgstr "آگهی های برتر"
+
+msgid "Latest Ads"
+msgstr "آگهی های جدید"
+
+msgid "Featured Brand"
+msgstr "نام تجاری برجسته"
+
+msgid "Select a country"
+msgstr "کشور را انتخاب کن"
+
+msgid "Select a region"
+msgstr "گزینش منطقه"
+
+msgid "Select a city"
+msgstr "یک شهر انتخاب کنید:"
+
+msgid "Personal"
+msgstr "شخصی"
+
+msgid "See all ads"
+msgstr "همه آگهی ها را مشاهده کنید"
+
+msgid "More details"
+msgstr "جزئیات بیشتر"
+
+msgid "Details"
+msgstr "جزئیات"
+
+msgid "Total Member"
+msgstr "کل عضو"
+
+msgid "Total Ads"
+msgstr "کل آگهی"
+
+msgid "Images"
+msgstr "تصاویر"
+
+msgid "Theme Settings"
+msgstr "تنظیمات قالب"
+
+msgid "Logo"
+msgstr "لوگو"
+
+msgid "Logo Images"
+msgstr "تصاویر عالی"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "بازنگری و یا تازه کردن مرورگر شما اگر تغییر تصاویر."
+
+msgid "Reload browser"
+msgstr "بازنگری این صفحه مرورگر"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Logo and Images"
+msgstr "لوگو و تصاویر"
+
+msgid "The image has been uploaded correctly"
+msgstr "تصویر به درستی آپلود شده"
+
+msgid "The image has been removed"
+msgstr "تصویر حذف شده"
+
+msgid "Has not uploaded any image"
+msgstr "هر تصویر را آپلود کرده است"
+
+msgid "Slider"
+msgstr "اسلایدر(نام مفرد نوع پست )"
+
+msgid "Slider Images"
+msgstr "عکس‌های اسلایدر"
+
+msgid "Background Images"
+msgstr "تصاویر پس زمینه"
+
+msgid "Brand"
+msgstr "برند"
+
+msgid "Brand Images"
+msgstr "تصاویر"
+
+msgid "Icons"
+msgstr "آیکون ها"
+
+msgid "Categories Icons"
+msgstr "دسته بندی آیکن ها"
+
+msgid "Please visit"
+msgstr "در صورت نیاز لطفا از"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "فقط کپی و چسباندن کد مثلا: تصاویر خانه یا قلب."
+
+msgid "version"
+msgstr "نسخه"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "تم طراحی شده توسط OsclassDotMe"
+
+msgid "Category Images"
+msgstr "تصاویر دسته بندی"
+
+msgid "Administrator Panel"
+msgstr "مدیر پانل"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "Widget"
+msgstr "ابزارک"
+
+msgid "Product"
+msgstr "محصول"
+
+msgid "Advertiser"
+msgstr "تبلیغ کننده"
+
+msgid "Social"
+msgstr "اجتماعی"
+
+msgid "Font and color"
+msgstr "رنگ فونت"
+
+msgid "More"
+msgstr "بیشتر"
+
+msgid "Widget settings"
+msgstr "تنظیمات ویجت"
+
+msgid "Social settings"
+msgstr "تنظیمات شبکه اجتماعی"
+
+msgid "Product settings"
+msgstr "تنظیمات كالا"
+
+msgid "Ads settings"
+msgstr "پیکربندی بنرهای تبلیغاتی"
+
+msgid "Product Slider"
+msgstr "اسلایدر محصولات"
+
+msgid "Slider Title and Links"
+msgstr "لغزنده عنوان و لینک"
+
+msgid "Content display"
+msgstr "نمایش محتوا"
+
+msgid "Custom settings"
+msgstr "تنظیمات سفارشی"
+
+msgid "Font and Color settings"
+msgstr "تنظیمات قلم و رنگ"
+
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+msgid "More settings"
+msgstr "تنظیمات بیشتر"
+
+msgid "Favicon Images"
+msgstr "تصاویر فاویکون"
+
+msgid "Information"
+msgstr "اطلاعات"
+
+msgid "Header Style"
+msgstr "استایل سربرگ"
+
+msgid "Home Style"
+msgstr "صفحه اصلی سبک"
+
+msgid "Footer Style"
+msgstr "طرح فوتر"
+
+msgid "Product Style"
+msgstr "نمایش حالت فروشگاه"
+
+msgid "Search Style"
+msgstr "استایل جعبه جستجو"
+
+msgid "Select search form style template"
+msgstr "انتخاب قالب سبک فرم جستجو"
+
+msgid "Search Placeholder"
+msgstr "عبارت خود را وارد کنید"
+
+msgid "Footer Copyright"
+msgstr "کپی رایت فوتر"
+
+msgid "Copyright text on footer."
+msgstr "متن کپی رایت در پایین صفحه."
+
+msgid "only for arabic or persian language."
+msgstr "فقط برای زبان عربی و یا فارسی."
+
+msgid "Title On Home"
+msgstr "عنوان در خانه"
+
+msgid "Title Footer"
+msgstr "عنوان پاورقی"
+
+msgid "Widget on Footer"
+msgstr "ابزارک در فوتر 5"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "شما می توانید اضافه ویدجت در پاورقی با خود ویدجت سفارشی سابق: فیس بوک و یا ویجت ویجت توییتر."
+
+msgid "Title Useful Information"
+msgstr "عنوان مطالب مفید"
+
+msgid "Useful Information"
+msgstr "اطلاعات مفید"
+
+msgid "Add text for useful information."
+msgstr "اضافه کردن متن برای اطلاعات مفید است."
+
+msgid "Show lists as"
+msgstr "نمایش لیست ها به عنوان"
+
+msgid "Slider latest Ads"
+msgstr "آگهی های کشویی"
+
+msgid "Slider Premium Ads"
+msgstr "آگهی های برتر لغزنده"
+
+msgid "Sidebar Premium Ads"
+msgstr "آگهی های برتر خوانده"
+
+msgid "Search Premium Ads"
+msgstr "جستجوی آگهی های برتر"
+
+msgid "Amount of the Latest ads"
+msgstr "میزان آخرین تبلیغات"
+
+msgid "Amount of the premium ads"
+msgstr "مقدار تبلیغات برتر"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "مقدار خوانده آگهی های برتر"
+
+msgid "Amount of the search page premium ads"
+msgstr "مقدار جستجو صفحه آگهی های برتر"
+
+msgid "Amount of the related ads"
+msgstr "آگهي مرتبط"
+
+msgid "Premium Ads Display"
+msgstr "نمایش تبلیغات برتر"
+
+msgid "Latest Ads Display"
+msgstr "آخرین نمایش تبلیغات"
+
+msgid "Ads with Category"
+msgstr "مجموعه آگهی"
+
+msgid "Location Display"
+msgstr "محل نمایش"
+
+msgid "Brand Display"
+msgstr "نمایش نام تجاری"
+
+msgid "Statistic Display"
+msgstr "نمایش آمار"
+
+msgid "Show or hide"
+msgstr "نمایش یا عدم نمایش؟"
+
+msgid "Ads with category"
+msgstr "مجموعه آگهی"
+
+msgid "location in home"
+msgstr "محل در خانه"
+
+msgid "Brand slider"
+msgstr "اسلایدر برند"
+
+msgid "Statistic ads"
+msgstr "آگهی های آمار"
+
+msgid "Header Ads"
+msgstr "آگهی های سربرگ"
+
+msgid "Footer Ads"
+msgstr "تبلیغات فوتر"
+
+msgid "Search results page"
+msgstr "برگه نتایج جستجو:"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "این آگهی در بالا و پایین صفحه وب سایت شما نشان داده شود. توجه داشته باشید که اندازه تبلیغ 728 x 90 پیکسل است."
+
+msgid "Sidebar Left"
+msgstr "نوار کناری چپ"
+
+msgid "Sidebar Right"
+msgstr "نوار کناری سمت راست"
+
+msgid "Sidebar Ads Member Area"
+msgstr "نوار جانبی تبلیغات اعضا"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "این آگهی در نوار کناری خود اعضا قابل نمایش هستند."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "این آگهی را در نوار کناری سمت راست وب سایت خود را نشان داده شده است. توجه داشته باشید که اندازه آگهی را به 300x350 پیکسل."
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "این آگهی را در نوار کناری سمت راست وب سایت خود را نشان داده شده است. توجه داشته باشید که اندازه آگهی را به 160x600 پیکسل."
+
+msgid "Auto Play Product Slider"
+msgstr "خودکار بازی محصول لغزنده"
+
+msgid "welcome to classifieds"
+msgstr "خوش آمدید به کلاسه"
+
+msgid "you can costumize css."
+msgstr "شما می توانید costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "برای فعال کردن رنگ و قلم، تعویض نمایید."
+
+msgid "create new pages TOS and copy url here"
+msgstr "ایجاد صفحههای جدید قوانین و کپی کردن URL در اینجا"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "شما باید نصب پلاگین ورود اتاق با غذا، قبل از ورود به سایت فیس بوک را فعال کنید"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "شما باید نصب پلاگین آواتار مدهاوس، قبل از فعال کردن آواتار مدهاوس"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "شما باید نصب افزونه فهرست پیگیریهای، قبل از فعال کردن فهرست پیگیریهای"
+
+msgid "you can customize html code on home"
+msgstr "شما می توانید سفارشی به کد html در صفحه اصلی"
+
+msgid "you can costumize html on home under slider."
+msgstr "شما می توانید نسخه متنی costumize در خانه تحت کشویی."
+
+msgid "insert your text or html code"
+msgstr "درج کد شما متن یا html"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "این آگهی در بالای وب سایت خود را، در کنار عنوان سایت و در بالای نتایج جستجو نمایش داده شود. توجه داشته باشید که اندازه تبلیغ 728 x 90 پیکسل است."
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "این آگهی در نتایج جستجوی سایت شما داده می شود. توجه داشته باشید که اندازه تبلیغ 728 x 90 پیکسل است."
+
+msgid "view"
+msgstr "مشاهده"
+
+msgid "Slider text"
+msgstr "متن اسلایدر"
+
+msgid "Public Profile"
+msgstr "پروفایل عمومی"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Company"
+msgstr "شرکت"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "هشدار: پس از نصب، شما قادر به تغییر نام کاربری خود را دوباره نخواهد. عاقلانه را انتخاب کنید."
+
+msgid "Change your username"
+msgstr "نام کاربری خود را تغییر دهید"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "همه لیست و هشدار خود را حذف خواهد شد، این عمل قابل بازگشت نیست."
+
+msgid "Delete account"
+msgstr "حذف حساب کاربری"
+
+msgid "Rival Images"
+msgstr "تصاویر Rival"
+
+msgid "Rival Theme Settings"
+msgstr "تنظیمات Rival"
+
+msgid "Rival Category"
+msgstr "Rival  رده"
