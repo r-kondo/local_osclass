@@ -1,0 +1,1440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassWizards Theme\n"
+"POT-Creation-Date: 2016-01-21 13:13+0545\n"
+"PO-Revision-Date: 2016-01-21 13:13+0545\n"
+"Last-Translator: \n"
+"Language-Team: OsclassWizards <hello@osclasswizards.com>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:33
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Atsiprašome, bet aš negaliu rasti puslapyje jūs ieškote"
+
+#: 404.php:37
+msgid "Let us help you, we have got a few tips for you to find it. "
+msgstr "Leiskite mums padėti jums, mes turime keletą patarimų jums rasti."
+
+#: 404.php:46 admin/templates.php:35 header.php:160
+msgid "Search"
+msgstr "paieška"
+
+#: 404.php:53
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong> Ieškokite </ strong>, už jį populiariausių kategorijų."
+
+#: admin/ads.php:29
+msgid "Ads management"
+msgstr "Skelbimų valdymas"
+
+#: admin/ads.php:33
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+"Šiame skyriuje galite konfigūruoti savo svetainę į rodyti skelbimus ir "
+"pradėti generuoti pajamas."
+
+#: admin/ads.php:33
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"Jei naudojate interneto reklamos platforma, pavyzdžiui, \"Google Adsense\", "
+"nukopijuokite ir įklijuokite čia pateiktą kodą skelbimų."
+
+#: admin/ads.php:39
+msgid "Header Ad"
+msgstr "Antraštės skelbimą"
+
+#: admin/ads.php:43
+msgid "This ad will be shown at the top of your website."
+msgstr "Šis skelbimas bus rodomas jūsų svetainėje viršų."
+
+#: admin/ads.php:47
+msgid "Homepage Ad"
+msgstr "Pagrindinis skelbimą"
+
+#: admin/ads.php:51
+msgid ""
+"This ad will be shown on the main site of your website. It will appear at "
+"the bottom of your site homepage."
+msgstr ""
+"Šis skelbimas bus rodomas pagrindiniame svetainės jūsų svetainę. Jis "
+"pasirodys savo svetainės puslapyje apačioje."
+
+#: admin/ads.php:55
+msgid "Search results Ad (top of the page)"
+msgstr "Paieškos rezultatai skelbimą (viršus)"
+
+#: admin/ads.php:59
+msgid "This ad will be shown on top of the search results of your site."
+msgstr "Šis skelbimas bus rodomas ant paieškos rezultatus savo svetainėje."
+
+#: admin/ads.php:63
+msgid "Search results Ad (bottom of the page)"
+msgstr "Paieškos rezultatai skelbimą (apačioje puslapio)"
+
+#: admin/ads.php:67
+msgid "This ad will be shown among the search results of your site."
+msgstr "Šis skelbimas bus rodomas tarp paieškos rezultatų jūsų svetainę."
+
+#: admin/ads.php:71
+msgid "Sidebar Ad"
+msgstr "šoninė juosta skelbimą"
+
+#: admin/ads.php:75
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page."
+msgstr ""
+"Šis skelbimas bus rodomas dešinėje parankinės jūsų svetainę, gaminio "
+"informacijos puslapyje."
+
+#: admin/ads.php:79 admin/category-icons.php:56 admin/facebook.php:93
+#: admin/settings.php:105 admin/templates-home.php:145
+#: admin/templates-item-post.php:68 admin/templates-search.php:39
+#: admin/theme-style.php:381
+msgid "Save changes"
+msgstr "išsaugoti pakeitimus"
+
+#: admin/category-icons.php:15
+msgid "Categories Icons"
+msgstr ""
+
+#: admin/category-icons.php:21
+msgid ""
+"Choose custom icons for categories. The items from the category will take "
+"the related icons in google map."
+msgstr ""
+
+#: admin/category-icons.php:23
+msgid ""
+"We use <a style=\"color: #018be3; text-decoration: none;\" title=\"Visit "
+"Font Awesome site for help\" target=\"_blank\" href=\"http://fortawesome."
+"github.io/Font-Awesome/3.2.1/icons/\">Font Awesome Icons.</a> Just type icon "
+"name omitting <strong>\"icon-\"</strong> eg. home or car."
+msgstr ""
+
+#: admin/documentation.php:26
+msgid "OsclassWizards Documentation"
+msgstr ""
+
+#: admin/facebook.php:28
+msgid "Facebook Page Like Box Settings"
+msgstr ""
+
+#: admin/facebook.php:33
+msgid "Facebook Page URL"
+msgstr ""
+
+#: admin/facebook.php:40
+msgid "Width"
+msgstr ""
+
+#: admin/facebook.php:44
+msgid "Height"
+msgstr ""
+
+#: admin/facebook.php:49
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: admin/facebook.php:58
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: admin/facebook.php:66
+msgid "Show Page Posts"
+msgstr ""
+
+#: admin/facebook.php:75
+msgid "Show On Item Sidebar"
+msgstr ""
+
+#: admin/facebook.php:84
+msgid "Show On Search Sidebar"
+msgstr ""
+
+#: admin/favicon.php:29
+msgid "Favicon Image"
+msgstr "Favicon Vaizdo"
+
+#: admin/favicon.php:30
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr ""
+
+#: admin/favicon.php:37 admin/header.php:35 admin/homeimage.php:35
+msgid "Preview"
+msgstr "Peržiūrėti"
+
+#: admin/favicon.php:44 admin/homeimage.php:42
+msgid "Remove image"
+msgstr "Pašalinti paveikslėlį"
+
+#: admin/favicon.php:51 admin/homeimage.php:49
+msgid "No image has been uploaded yet"
+msgstr "Nėra nuotraukos buvo įkeltas dar"
+
+#: admin/favicon.php:54 admin/homeimage.php:52
+msgid "Upload image"
+msgstr "Įkelti vaizdo"
+
+#: admin/favicon.php:56 admin/homeimage.php:54
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+"<strong> Pastaba: </ strong> Siuntimas kitą vaizdą bus perrašyti esamą "
+"vaizdą."
+
+#: admin/favicon.php:64 admin/homeimage.php:62
+msgid "Accepted image (png,gif,jpg)"
+msgstr "Priimamos vaizdas (PNG, GIF, JPG)"
+
+#: admin/favicon.php:70 admin/header.php:69 admin/homeimage.php:68
+msgid "Upload"
+msgstr "Įkelti"
+
+#: admin/favicon.php:79 admin/header.php:78 admin/homeimage.php:77
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Vaizdai aplanką <strong>% s </ strong>, nėra įrašomas į jūsų serverį"
+
+#: admin/favicon.php:80 admin/homeimage.php:78
+msgid "Osclass can't upload the image from the administration panel."
+msgstr "Osclass negaliu įkelti paveikslėlį iš administravimo skydelyje."
+
+#: admin/favicon.php:81 admin/header.php:80 admin/homeimage.php:79
+msgid "Please make the aforementioned image folder writable."
+msgstr "Prašome minėtą vaizdo aplanko rašyti."
+
+#: admin/favicon.php:86 admin/header.php:85 admin/homeimage.php:84
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Kad katalogas rašyti pagal UNIX įvykdyti šią komandą iš kiauto:"
+
+#: admin/header.php:29
+msgid "Header logo"
+msgstr "Antraštės logotipas"
+
+#: admin/header.php:42
+msgid "Remove logo"
+msgstr "Pašalinti logotipą"
+
+#: admin/header.php:49
+msgid "No logo has been uploaded yet"
+msgstr "Nera logotipo buvo įkeltas dar"
+
+#: admin/header.php:52
+msgid "Upload logo"
+msgstr "Įkelti logotipas"
+
+#: admin/header.php:53
+msgid "The preferred size of the logo is 177x30 pixels."
+msgstr "Pageidautinas dydis logotipu 177x30 taškų."
+
+#: admin/header.php:55
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong> Pastaba: </ strong> Siuntimas kitą logotipą bus perrašyti esamą "
+"logotipą."
+
+#: admin/header.php:63
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logotipo (PNG, GIF, JPG)"
+
+#: admin/header.php:79
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass negali įkelti logotipą iš administravimo skydelyje."
+
+#: admin/homeimage.php:29
+msgid "Banner Image"
+msgstr "Reklaminis Vaizdo"
+
+#: admin/settings.php:49
+msgid "Custom"
+msgstr "paprotys"
+
+#: admin/settings.php:52
+msgid "Donate"
+msgstr "Paaukok"
+
+#: admin/settings.php:60
+msgid "General"
+msgstr ""
+
+#: admin/settings.php:61 admin/theme-style.php:13
+msgid "Theme Style"
+msgstr "tema Stilius"
+
+#: admin/settings.php:62
+msgid "Templates"
+msgstr ""
+
+#: admin/settings.php:63
+msgid "Header Logo"
+msgstr ""
+
+#: admin/settings.php:64
+msgid "Favicon"
+msgstr ""
+
+#: admin/settings.php:65
+msgid "Banner"
+msgstr ""
+
+#: admin/settings.php:66
+msgid "Category Icons"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Ads Management"
+msgstr ""
+
+#: admin/settings.php:68
+msgid "Facebook Page"
+msgstr ""
+
+#: admin/settings.php:69
+msgid "Documentation"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "Theme settings"
+msgstr "tema nustatymai"
+
+#: admin/settings.php:81
+msgid "Welcome message"
+msgstr "Sveiki žinutė"
+
+#: admin/settings.php:89
+msgid "Show lists as"
+msgstr "Rodyti sąrašai"
+
+#: admin/settings.php:94
+msgid "Grid"
+msgstr "tinklelis"
+
+#: admin/settings.php:97
+msgid "List"
+msgstr "sąrašas"
+
+#: admin/templates-home.php:26
+msgid "Home page settings"
+msgstr "Pagrindinis puslapis nustatymai"
+
+#: admin/templates-home.php:34
+msgid "Show banner"
+msgstr ""
+
+#: admin/templates-home.php:44
+msgid "Search placeholder"
+msgstr "Paieška rezervavimo ženklas"
+
+#: admin/templates-home.php:52
+msgid "Search country option"
+msgstr ""
+
+#: admin/templates-home.php:62 admin/templates-search.php:32
+msgid "Premium listings shown"
+msgstr "Premium aukcionai parodyta"
+
+#: admin/templates-home.php:70
+msgid "Subcategories limit "
+msgstr "Subkategorijos riba"
+
+#: admin/templates-home.php:78
+msgid "Show popular"
+msgstr ""
+
+#: admin/templates-home.php:88
+msgid "Popular searches"
+msgstr ""
+
+#: admin/templates-home.php:98
+msgid "Popular regions"
+msgstr ""
+
+#: admin/templates-home.php:108
+msgid "Popular cities"
+msgstr ""
+
+#: admin/templates-home.php:118
+msgid "Popular searches limit"
+msgstr ""
+
+#: admin/templates-home.php:127
+msgid "Popular regions limit"
+msgstr ""
+
+#: admin/templates-home.php:136
+msgid "Popular cities limit"
+msgstr ""
+
+#: admin/templates-item-post.php:26
+msgid "Item post page settings"
+msgstr "Prekė pranešimas puslapis nustatymai"
+
+#: admin/templates-item-post.php:32
+msgid "Category multiple selects"
+msgstr ""
+
+#: admin/templates-item-post.php:40
+msgid "Title min. length"
+msgstr "Pavadinimas min. ilgis"
+
+#: admin/templates-item-post.php:44
+msgid "Description min. length"
+msgstr "Aprašymas min. ilgis"
+
+#: admin/templates-item-post.php:48
+msgid "Locations input as"
+msgstr "Vietos įvestis taip"
+
+#: admin/templates-item-post.php:51
+msgid "Auto-complete text"
+msgstr "Automatinis užpildymas tekstas"
+
+#: admin/templates-item-post.php:52
+msgid "Drop-down select"
+msgstr "Išskleidžiamajame pasirinkite"
+
+#: admin/templates-item-post.php:57
+msgid "Locations required"
+msgstr "vietos reikalingas"
+
+#: admin/templates-search.php:26
+msgid "Search page settings"
+msgstr "Paieška puslapis nustatymai"
+
+#: admin/templates.php:31
+msgid "Templates settings"
+msgstr "Šablonai nustatymai"
+
+#: admin/templates.php:34
+msgid "Home"
+msgstr ""
+
+#: admin/templates.php:36
+msgid "Item Post"
+msgstr ""
+
+#: admin/theme-style.php:19
+msgid "Theme color mode"
+msgstr ""
+
+#: admin/theme-style.php:22
+msgid "Green"
+msgstr ""
+
+#: admin/theme-style.php:23
+msgid "Dark Green"
+msgstr ""
+
+#: admin/theme-style.php:24
+msgid "Red"
+msgstr ""
+
+#: admin/theme-style.php:25
+msgid "Vivid Red"
+msgstr ""
+
+#: admin/theme-style.php:26
+msgid "Blue"
+msgstr ""
+
+#: admin/theme-style.php:27
+msgid "Light Blue"
+msgstr ""
+
+#: admin/theme-style.php:28
+msgid "Orange"
+msgstr ""
+
+#: admin/theme-style.php:29
+msgid "Gray"
+msgstr ""
+
+#: admin/theme-style.php:30
+msgid "Purple"
+msgstr ""
+
+#: admin/theme-style.php:31
+msgid "Yellow"
+msgstr ""
+
+#: admin/theme-style.php:36
+msgid "Google fonts"
+msgstr ""
+
+#: admin/theme-style.php:363
+msgid "RTL view"
+msgstr "RTL vaizdas"
+
+#: admin/theme-style.php:368
+msgid "Right to left view."
+msgstr "Dešinės į kairę nuomone."
+
+#: admin/theme-style.php:373
+msgid "Custom CSS"
+msgstr "Pasirinktinis CSS"
+
+#: admin/theme-style.php:377
+msgid "You can write your custom CSS and override the default CSS."
+msgstr "Jūs galite parašyti savo pasirinktinį CSS ir pakeis numatytąjį CSS."
+
+#: alert-form.php:25 alert-form.php:38
+msgid "Enter your email address."
+msgstr "Įveskite savo elektroninio pašto adresą."
+
+#: alert-form.php:30
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Jūs, sėkmingai užsiregistravote perspėjimo"
+
+#: alert-form.php:31 alert-form.php:32 functions.php:935
+#: user-change_email.php:93
+msgid "Invalid email address"
+msgstr "Neteisingas el. Pašto adresas"
+
+#: alert-form.php:63 search-sidebar.php:152
+msgid "Subscribe to this search"
+msgstr "Prenumeruoti šią paiešką"
+
+#: alert-form.php:82
+msgid "Subscribe now"
+msgstr "Užsisakykite dabar"
+
+#: common/head.php:24 item.php:200 loop-grid.php:67 loop-list.php:73
+#: loop-search-grid.php:72 loop-search-grid.php:130 loop-search-grid.php:183
+#: loop-search-list.php:74 loop-search-list.php:133 loop-search-list.php:193
+#: loop-user-alerts-grid.php:73 loop-user-alerts-grid.php:131
+#: loop-user-alerts-grid.php:190 loop-user-alerts-list.php:80
+#: loop-user-alerts-list.php:143 loop-user-alerts-list.php:207
+#: loop-user-grid.php:73 loop-user-grid.php:131 loop-user-grid.php:190
+#: loop-user-list.php:75 loop-user-list.php:133 loop-user-list.php:192
+#: loop-user-public-grid.php:82 loop-user-public-grid.php:141
+#: loop-user-public-grid.php:200 loop-user-public-list.php:75
+#: loop-user-public-list.php:133 loop-user-public-list.php:192 main.php:83
+msgid "Delete"
+msgstr "panaikinti"
+
+#: common/head.php:25
+msgid "Cancel"
+msgstr "atšaukti"
+
+#: common/head.php:68
+msgid "Previous image"
+msgstr "Ankstesnis paveikslėlis"
+
+#: common/head.php:69
+msgid "Next image"
+msgstr "Kitas paveikslėlis"
+
+#: common/head.php:70
+msgid "Close"
+msgstr "Arti"
+
+#: contact.php:36
+msgid "Contact us"
+msgstr "Susisiekite su mumis"
+
+#: contact.php:47 item-send-friend.php:51 item-sidebar.php:74 item.php:226
+#: user-public-sidebar.php:38
+msgid "Your name"
+msgstr "tavo vardas"
+
+#: contact.php:49 contact.php:67 item-sidebar.php:92 user-public-sidebar.php:56
+msgid "optional"
+msgstr "neprivalomas"
+
+#: contact.php:57 user-public-sidebar.php:46
+msgid "Your email address"
+msgstr "Jūsų elektroninio pašto adresas"
+
+#: contact.php:65
+msgid "Subject"
+msgstr "tema"
+
+#: contact.php:75 item-send-friend.php:93 item-sidebar.php:100
+#: user-public-sidebar.php:64
+msgid "Message"
+msgstr "žinutė"
+
+#: contact.php:93 item-send-friend.php:110 item-sidebar.php:142 item.php:259
+#: user-public-sidebar.php:96
+msgid "Send"
+msgstr "siųsti"
+
+#: footer.php:35 header.php:38
+msgid "Language:"
+msgstr "Kalba:"
+
+#: footer.php:49 header.php:62
+#, php-format
+msgid "Hi %s"
+msgstr "Sveiki% s,"
+
+#: footer.php:50 header.php:63
+msgid "My account"
+msgstr "Mano sąskaita"
+
+#: footer.php:52 header.php:65
+msgid "Logout"
+msgstr "Atsijungti"
+
+#: footer.php:56 functions.php:441 header.php:69 item-sidebar.php:44
+msgid "Login"
+msgstr "Prisijungti"
+
+#: footer.php:60 header.php:73 item-sidebar.php:46 user-login.php:73
+msgid "Register for a free account"
+msgstr "Registruotis nemokamą paskyrą"
+
+#: footer.php:73 functions.php:445 header.php:95 user-public-sidebar.php:28
+msgid "Contact"
+msgstr "kontaktas"
+
+#: footer.php:77 header.php:101
+msgid "Publish your ad for free"
+msgstr "Publikuoti jūsų skelbimą nemokamai"
+
+#: footer.php:82
+#, php-format
+msgid ""
+"Free responsive Osclass theme by <a target=\"_blank\" title=\"osclasswizards"
+"\" href=\"%s\">OsclassWizards</a>"
+msgstr ""
+"Nemokama reaguoja Osclass tema <a target=\"_blank\" title=\"osclasswizards\" "
+"href=\"%s\"> OsclassWizards a>"
+
+#: functions.php:30
+msgid "ie. PHP Programmer"
+msgstr "ty. PHP programuotojas"
+
+#: functions.php:280
+msgid "Categories"
+msgstr "Kategorijos"
+
+#: functions.php:318
+msgid "See more listings..."
+msgstr "Peržiūrėkite daugiau objektų ..."
+
+#: functions.php:426 item-post.php:56
+msgid "Publish a listing"
+msgstr "Paskelbti sąrašą"
+
+#: functions.php:427
+msgid "Edit your listing"
+msgstr "Redaguokite savo sąrašą"
+
+#: functions.php:428 item-send-friend.php:35
+msgid "Send to a friend"
+msgstr "Siųsti draugui"
+
+#: functions.php:429 item-sidebar.php:28
+msgid "Contact publisher"
+msgstr "Susisiekite leidėjas"
+
+#: functions.php:430
+msgid "Search results"
+msgstr "Paieškos rezultatai"
+
+#: functions.php:431
+#, php-format
+msgid "Search results: %s"
+msgstr "Paieškos rezultatai:% s"
+
+#: functions.php:432
+msgid "Dashboard"
+msgstr "prietaisų skydas"
+
+#: functions.php:433
+#, php-format
+msgid "%s's profile"
+msgstr "%s's profilis"
+
+#: functions.php:434 functions.php:483
+msgid "Account"
+msgstr "sąskaita"
+
+#: functions.php:435 functions.php:473 search.php:136 user-alerts.php:73
+msgid "Listings"
+msgstr "Aukcionai"
+
+#: functions.php:436 functions.php:478 user-alerts.php:32 user-alerts.php:52
+msgid "Alerts"
+msgstr "įspėjimai"
+
+#: functions.php:437 user-profile.php:32 user-profile.php:45
+msgid "Update account"
+msgstr "Atnaujinti sąskaita"
+
+#: functions.php:438 functions.php:488
+msgid "Change email"
+msgstr "Pakeisti elektroninio pašto adresą"
+
+#: functions.php:439 functions.php:493 user-change_username.php:34
+msgid "Change username"
+msgstr "Pakeisti vardas"
+
+#: functions.php:440 functions.php:443 functions.php:498
+#: user-change_password.php:32 user-change_password.php:46
+#: user-forgot_password.php:52
+msgid "Change password"
+msgstr "pakeisti slaptažodį"
+
+#: functions.php:442
+msgid "Recover password"
+msgstr "Priminti slaptažodį"
+
+#: functions.php:444
+msgid "Create a new account"
+msgstr "Sukurti naują paskyrą"
+
+#: functions.php:468
+msgid "Public Profile"
+msgstr "viešą profilį"
+
+#: functions.php:503 user-sidebar.php:25
+msgid "Delete account"
+msgstr "Ištrinti paskyrą"
+
+#: functions.php:562
+msgid "Theme settings updated correctly"
+msgstr "Tema nustatymai tinkamai atnaujintas"
+
+#: functions.php:579 functions.php:584 functions.php:596
+msgid "Templates settings updated correctly"
+msgstr "Šablonai nustatymai tinkamai atnaujintas"
+
+#: functions.php:606
+msgid "Ads management updated correctly"
+msgstr "Skelbimų valdymas tinkamai atnaujintas"
+
+#: functions.php:615
+msgid "Category icons settings updated correctly"
+msgstr ""
+
+#: functions.php:627
+msgid "Theme color settings updated correctly"
+msgstr ""
+
+#: functions.php:642
+msgid "Facebook Page settings updated correctly"
+msgstr ""
+
+#: functions.php:658
+msgid "The favicon image has been uploaded correctly"
+msgstr "Favicon paveikslėlis buvo įkeltas teisingai"
+
+#: functions.php:660 functions.php:678 functions.php:725
+msgid "An error has occurred, please try again"
+msgstr "Įvyko klaida, bandykite dar kartą"
+
+#: functions.php:676
+msgid "The logo image has been uploaded correctly"
+msgstr "Logotipas paveikslėlis buvo įkeltas teisingai"
+
+#: functions.php:690
+msgid "The favicon image has been removed"
+msgstr "Favicon paveikslėlis buvo ištrintas"
+
+#: functions.php:692 functions.php:706 functions.php:738
+msgid "Image not found"
+msgstr "Vaizdo nerastas"
+
+#: functions.php:704
+msgid "The logo image has been removed"
+msgstr "Logotipas paveikslėlis buvo ištrintas"
+
+#: functions.php:723
+msgid "The banner image has been uploaded correctly"
+msgstr "Reklaminis vaizdas buvo įkeltas teisingai"
+
+#: functions.php:736
+msgid "The banner image has been removed"
+msgstr "Reklaminis vaizdas buvo ištrintas"
+
+#: functions.php:761
+msgid "OsclassWizards"
+msgstr ""
+
+#: functions.php:813 functions.php:833
+msgid "All categories"
+msgstr "Visos kategorijos"
+
+#: functions.php:912
+msgid "Choose one category"
+msgstr "Pasirinkite vieną kategoriją"
+
+#: functions.php:915
+msgid "Title: this field is required"
+msgstr "Pavadinimas: Šis laukas PRIVALOMAS;"
+
+#: functions.php:916
+msgid "Title too short"
+msgstr "Pavadinimas per trumpas"
+
+#: functions.php:919
+msgid "Description too short"
+msgstr "Aprašymas per trumpas"
+
+#: functions.php:922
+msgid "Price: no more than 50 characters"
+msgstr "Kaina: ne daugiau kaip 50 simbolių"
+
+#: functions.php:924
+msgid "Currency: make your selection"
+msgstr "Valiuta: padaryti savo pasirinkimą"
+
+#: functions.php:926
+msgid "Photo: must be png,gif,jpg,jpeg"
+msgstr "Nuotrauka: turi būti PNG, GIF, JPG, JPEG"
+
+#: functions.php:929
+msgid "Name: this field is required"
+msgstr "Vardas: Šis laukas PRIVALOMAS;"
+
+#: functions.php:930
+msgid "Name: enter at least 3 characters"
+msgstr "Vardas: Įveskite bent 3 simbolius"
+
+#: functions.php:931
+msgid "Name: no more than 35 characters"
+msgstr "Vardas: ne daugiau kaip 35 simbolių"
+
+#: functions.php:934 user-change_email.php:92
+msgid "Email: this field is required"
+msgstr "Paštas: Šis laukas PRIVALOMAS;"
+
+#: functions.php:938
+msgid "Please select a country"
+msgstr "Prašome pasirinkti šalį"
+
+#: functions.php:941 functions.php:953
+msgid "Region: this field is required"
+msgstr "Regionas: Šis laukas PRIVALOMAS;"
+
+#: functions.php:942
+msgid "Region: enter at least 3 characters"
+msgstr "Regionas: įvesti bent 3 simbolius"
+
+#: functions.php:943
+msgid "Region: no more than 100 characters"
+msgstr "Regionas: ne daugiau kaip 100 ženklų"
+
+#: functions.php:946 functions.php:956
+msgid "City: this field is required"
+msgstr "Miestas: Šis laukas PRIVALOMAS;"
+
+#: functions.php:947
+msgid "City: enter at least 3 characters"
+msgstr "Miestas: įvesti bent 3 simbolius"
+
+#: functions.php:948
+msgid "City: no more than 100 characters"
+msgstr "Miestas: ne daugiau kaip 100 ženklų"
+
+#: header.php:137 item-post.php:79 item-post.php:81
+msgid "Select a category"
+msgstr "Pasirinkite kategoriją"
+
+#: header.php:144 search-sidebar.php:61
+msgid "Select a country"
+msgstr ""
+
+#: header.php:150 search-sidebar.php:70
+msgid "Select a region"
+msgstr "Pasirinkite regioną"
+
+#: header.php:155 search-sidebar.php:78
+msgid "Select a city"
+msgstr "Pasirinkite miestą"
+
+#: item-post.php:70
+msgid "General Information"
+msgstr "Bendra Informacija"
+
+#: item-post.php:74
+msgid "Category"
+msgstr "kategorija"
+
+#: item-post.php:88 item.php:243
+msgid "Title"
+msgstr "pavadinimas"
+
+#: item-post.php:96 user-profile.php:136
+msgid "Description"
+msgstr "aprašymas"
+
+#: item-post.php:105 search-sidebar.php:99
+msgid "Price"
+msgstr "kaina"
+
+#: item-post.php:125
+msgid "Listing Location"
+msgstr "Skelbimo Vieta"
+
+#: item-post.php:129 search-sidebar.php:58 user-profile.php:88
+msgid "Country"
+msgstr "šalis"
+
+#: item-post.php:137 search-sidebar.php:67 user-profile.php:96
+msgid "Region"
+msgstr "regionas"
+
+#: item-post.php:151 search-sidebar.php:75 user-profile.php:104
+msgid "City"
+msgstr "miestas"
+
+#: item-post.php:165
+msgid "City Area"
+msgstr "Miestas Plotas"
+
+#: item-post.php:173 user-profile.php:120 user-public-profile.php:79
+msgid "Address"
+msgstr "adresas"
+
+#: item-post.php:184
+msgid "Seller's information"
+msgstr "Pardavėjo informacija"
+
+#: item-post.php:188 user-profile.php:56 user-register.php:45
+msgid "Name"
+msgstr "pavadinimas"
+
+#: item-post.php:196 user-login.php:43 user-recover.php:43 user-register.php:53
+msgid "E-mail"
+msgstr "El-paštas"
+
+#: item-post.php:206
+msgid "Show e-mail on the listing page"
+msgstr "Rodyti elektroninį paštą aukciono puslapyje"
+
+#: item-post.php:228 user-change_email.php:73 user-change_password.php:83
+#: user-change_username.php:119 user-profile.php:146
+msgid "Update"
+msgstr "atnaujinimas"
+
+#: item-post.php:228
+msgid "Publish"
+msgstr "paskelbti"
+
+#: item-send-friend.php:59 item.php:234
+msgid "Your e-mail"
+msgstr "Tavo elektroninis paštas"
+
+#: item-send-friend.php:68
+msgid "Your friend's name"
+msgstr "Jūsų draugo vardas"
+
+#: item-send-friend.php:76
+msgid "Your friend's e-mail address"
+msgstr "Jūsų draugo el.pašto adresas"
+
+#: item-send-friend.php:85
+msgid "Subject (optional)"
+msgstr "Tema (neprivaloma)"
+
+#: item-sidebar.php:33
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Sąrašas yra pasibaigęs. Jūs negalite susisiekti su leidėju."
+
+#: item-sidebar.php:37
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Tai jūsų pačių sąrašas, jūs negalite kreiptis į leidėją."
+
+#: item-sidebar.php:41
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Jūs turite prisijungti, arba siekiant susisiekti su reklamuotoju "
+"užsiregistruoti naują paskyrą"
+
+#: item-sidebar.php:60
+#, php-format
+msgid "E-mail: %s"
+msgstr "El-paštas:% s \""
+
+#: item-sidebar.php:82
+msgid "Your e-mail address"
+msgstr "Jūsų elektroninio pašto adresas"
+
+#: item-sidebar.php:90 user-public-sidebar.php:54
+msgid "Phone number"
+msgstr "telefono numeris"
+
+#: item-sidebar.php:109
+msgid "Attachment"
+msgstr "areštas"
+
+#: item-sidebar.php:132 user-public-sidebar.php:86
+msgid "Enter the words above"
+msgstr "Įveskite žodžius viršuje"
+
+#: item-sidebar.php:136 user-public-sidebar.php:90
+msgid "Help"
+msgstr "Padėkite"
+
+#: item.php:66 loop-grid.php:65 loop-list.php:71 loop-search-grid.php:70
+#: loop-search-grid.php:128 loop-search-grid.php:181 loop-search-list.php:72
+#: loop-search-list.php:131 loop-search-list.php:191
+#: loop-user-alerts-grid.php:71 loop-user-alerts-grid.php:129
+#: loop-user-alerts-grid.php:188 loop-user-alerts-list.php:78
+#: loop-user-alerts-list.php:141 loop-user-alerts-list.php:205
+#: loop-user-grid.php:71 loop-user-grid.php:129 loop-user-grid.php:188
+#: loop-user-list.php:73 loop-user-list.php:131 loop-user-list.php:190
+#: loop-user-public-grid.php:80 loop-user-public-grid.php:139
+#: loop-user-public-grid.php:198 loop-user-public-list.php:73
+#: loop-user-public-list.php:131 loop-user-public-list.php:190 main.php:81
+msgid "Edit item"
+msgstr "Redaguoti prekės"
+
+#: item.php:77
+#, php-format
+msgid "<i class=\"fa fa-calendar-o\"></i> Published date: %1$s"
+msgstr "<i class=\"fa fa-calendar-o\"></i> Publikavimo data: %1$s"
+
+#: item.php:80
+#, php-format
+msgid ""
+"<span class=\"update\"><i class=\"fa fa-calendar\"></i> Modified date:</"
+"span> %1$s"
+msgstr ""
+"<span class=\"update\"><i class=\"fa fa-calendar\"></i> Modifikuotas data:</"
+"span> %1$s"
+
+#: item.php:97 item.php:101 item.php:106 item.php:108
+msgid "Image"
+msgstr "vaizdas"
+
+#: item.php:135
+msgid "Contact seller"
+msgstr "Kreiptis į pardavėją"
+
+#: item.php:142
+msgid "Share"
+msgstr "dalis"
+
+#: item.php:150
+msgid "See all ads from this advertiser"
+msgstr ""
+
+#: item.php:159
+msgid "Useful information"
+msgstr "Naudinga informacija"
+
+#: item.php:163
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Išvenkite apgavystės, veikiantis vietos mastu arba mokėdami per PayPal"
+
+#: item.php:166
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Niekada nemokėkite per Western Union, Moneygram ar kitas anonimines "
+"apmokėjimo tarnybas"
+
+#: item.php:169
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Nepirkite ir neparduokite už savo šalies ribų. Nepriimkite kasos čekius iš "
+"už jūsų šalies"
+
+#: item.php:172
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Ši svetainė yra niekada nedalyvauja sandėriuose ir netvarko apmokėjimų, "
+"pristatymo, neužtikrina operacijų, neteikia sąlyginių įsipareigojimų "
+"paslaugų ir nesiūlo \"pirkėjo apsaugos\" ar \"pardavėjo sertifikatų\""
+
+#: item.php:182
+msgid "Comments"
+msgstr "Skundai"
+
+#: item.php:195
+msgid "by"
+msgstr "iki"
+
+#: item.php:199
+msgid "Delete your comment"
+msgstr "Ištrinti komentarą"
+
+#: item.php:211
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Palikite komentarą (šiukšlės ir įžeidžiantys pranešimai bus pašalinti)"
+
+#: item.php:251
+msgid "Comment"
+msgstr "komentaras"
+
+#: item.php:288
+msgid "Mark as..."
+msgstr "Žymėti kaip ..."
+
+#: item.php:291
+msgid "Mark as spam"
+msgstr "Žymėti kaip šlamštas"
+
+#: item.php:294
+msgid "Mark as misclassified"
+msgstr "Žymėti kaip neteisingai klasifikuotos"
+
+#: item.php:297
+msgid "Mark as duplicated"
+msgstr "Mark as duplicated"
+
+#: item.php:300
+msgid "Mark as expired"
+msgstr "Žymėti kaip pasibaigęs"
+
+#: item.php:303
+msgid "Mark as offensive"
+msgstr "Žymėti kaip įžeidžiantis"
+
+#: item.php:316
+msgid "Related listings"
+msgstr "Susijusios aukcionai"
+
+#: loop-grid.php:66 loop-list.php:72 loop-search-grid.php:71
+#: loop-search-grid.php:129 loop-search-grid.php:182 loop-search-list.php:73
+#: loop-search-list.php:132 loop-search-list.php:192
+#: loop-user-alerts-grid.php:72 loop-user-alerts-grid.php:130
+#: loop-user-alerts-grid.php:189 loop-user-alerts-list.php:79
+#: loop-user-alerts-list.php:142 loop-user-alerts-list.php:206
+#: loop-user-grid.php:72 loop-user-grid.php:130 loop-user-grid.php:189
+#: loop-user-list.php:74 loop-user-list.php:132 loop-user-list.php:191
+#: loop-user-public-grid.php:81 loop-user-public-grid.php:140
+#: loop-user-public-grid.php:199 loop-user-public-list.php:74
+#: loop-user-public-list.php:132 loop-user-public-list.php:191 main.php:82
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Šis veiksmas negali būti atšauktas. Ar tikrai norite tęsti?"
+
+#: loop-grid.php:71 loop-list.php:77 loop-search-grid.php:76
+#: loop-search-grid.php:134 loop-search-grid.php:187 loop-search-list.php:78
+#: loop-search-list.php:137 loop-search-list.php:197
+#: loop-user-alerts-grid.php:77 loop-user-alerts-grid.php:135
+#: loop-user-alerts-grid.php:194 loop-user-alerts-list.php:84
+#: loop-user-alerts-list.php:147 loop-user-alerts-list.php:211
+#: loop-user-grid.php:77 loop-user-grid.php:135 loop-user-grid.php:194
+#: loop-user-list.php:79 loop-user-list.php:137 loop-user-list.php:196
+#: loop-user-public-grid.php:86 loop-user-public-grid.php:145
+#: loop-user-public-grid.php:204 loop-user-public-list.php:79
+#: loop-user-public-list.php:137 loop-user-public-list.php:196 main.php:87
+msgid "Activate"
+msgstr "aktyvinti"
+
+#: main.php:46
+msgid "Premium Listings"
+msgstr "Premium aukcionai"
+
+#: main.php:108
+msgid "Latest Listings"
+msgstr "Naujausios aukcionai"
+
+#: main.php:114
+msgid "There aren't listings available at this moment"
+msgstr "Nėra aukcionai laisvus šiuo metu"
+
+#: main.php:124
+msgid "See all listings"
+msgstr "Peržiūrėti viską objektų"
+
+#: main.php:131
+#, php-format
+msgid "Popular in %s"
+msgstr "Populiarios %s"
+
+#: search-sidebar.php:31
+msgid "Show Filters"
+msgstr "Rodyti filtrus"
+
+#: search-sidebar.php:36
+msgid "Advanced Search"
+msgstr "Išplėstinė Paieška"
+
+#: search-sidebar.php:49
+msgid "Your search"
+msgstr "Jūsų paieška"
+
+#: search-sidebar.php:85
+msgid "Show only"
+msgstr "Rodyti tik"
+
+#: search-sidebar.php:90
+msgid "listings with pictures"
+msgstr "skelbimas su nuotraukomis"
+
+#: search-sidebar.php:103
+msgid "Min"
+msgstr "Min"
+
+#: search-sidebar.php:108
+msgid "Max"
+msgstr "daugiausia"
+
+#: search-sidebar.php:132
+msgid "Apply"
+msgstr "taikyti"
+
+#: search-sidebar.php:141
+msgid "Refine category"
+msgstr "Patikslinkite kategoriją"
+
+#: search.php:60
+msgid "Selected"
+msgstr "Pasirinkti"
+
+#: search.php:61
+msgid "Nothing selected, input was"
+msgstr "Nieko pasirinktas indėlis buvo"
+
+#: search.php:81
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Nėra rezultatų, atitinkančių \"% s\""
+
+#: search.php:86
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d of %3$d aukcionai"
+
+#: search.php:123
+msgid "Premium listings"
+msgstr "Premium aukcionai"
+
+#: search.php:151
+msgid "Other searches that may interest you"
+msgstr "Kitos paieškos, kurios gali jus sudominti"
+
+#: user-alerts.php:56
+msgid "You do not have any alerts yet"
+msgstr "Jūs neturite įspėjimus dar"
+
+#: user-alerts.php:65
+msgid "Alert"
+msgstr "budrus"
+
+#: user-alerts.php:66
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Šis veiksmas negali būti atšauktas. Ar tikrai norite tęsti?"
+
+#: user-alerts.php:67
+msgid "Delete this alert"
+msgstr "Ištrinti šį įspėjimą"
+
+#: user-change_email.php:33 user-change_email.php:47
+msgid "Change e-mail"
+msgstr "Pakeisti elektroninio pašto"
+
+#: user-change_email.php:58
+msgid "Current e-mail"
+msgstr "Dabartinis E-mail"
+
+#: user-change_email.php:64
+msgid "New e-mail"
+msgstr "Naujoji E-mail"
+
+#: user-change_password.php:58
+msgid "Current password"
+msgstr "Dabartinis slaptazodis"
+
+#: user-change_password.php:66 user-forgot_password.php:39
+msgid "New password"
+msgstr "Naujas Slaptažodis"
+
+#: user-change_password.php:74 user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "Pakartokite naują slaptažodį"
+
+#: user-change_username.php:49
+msgid "Username: this field is required"
+msgstr "Nick: Šis laukas PRIVALOMAS;"
+
+#: user-change_username.php:74
+msgid "The username is available"
+msgstr "Nick galima"
+
+#: user-change_username.php:76
+msgid "The username is NOT available"
+msgstr "Vartotojo vardas jau yra"
+
+#: user-change_username.php:96
+msgid "Change Username"
+msgstr "Pakeisti Nick"
+
+#: user-change_username.php:109
+msgid "Username"
+msgstr "Nick"
+
+#: user-forgot_password.php:30 user-recover.php:34
+msgid "Recover your password"
+msgstr "Priminti slaptažodį"
+
+#: user-items.php:58
+msgid "My listings"
+msgstr "Mano aukcionai"
+
+#: user-items.php:62
+msgid "No listings have been added yet"
+msgstr "Nr aukcionai buvo pridėta dar"
+
+#: user-login.php:35
+msgid "Please Login"
+msgstr "Prašome prisijungti,"
+
+#: user-login.php:51 user-register.php:61
+msgid "Password"
+msgstr "slaptažodis"
+
+#: user-login.php:61
+msgid "Remember me"
+msgstr "Prisimink mane"
+
+#: user-login.php:68
+msgid "Log in"
+msgstr "Prisijungti"
+
+#: user-login.php:76
+msgid "Forgot password?"
+msgstr "Pamiršote slaptažodį?"
+
+#: user-profile.php:64
+msgid "User type"
+msgstr "Vartotojo tipas"
+
+#: user-profile.php:72
+msgid "Cell phone"
+msgstr "Mobilusis telefonas"
+
+#: user-profile.php:80
+msgid "Phone"
+msgstr "telefonas"
+
+#: user-profile.php:112
+msgid "City area"
+msgstr "Miestas plotas"
+
+#: user-profile.php:128
+msgid "Website"
+msgstr "Interneto svetainė"
+
+#: user-public-profile.php:82
+msgid "Location"
+msgstr "vieta"
+
+#: user-public-profile.php:90
+msgid "User description"
+msgstr "vartotojas aprašymas"
+
+#: user-public-profile.php:101
+msgid "Latest listings"
+msgstr "Naujausios aukcionai"
+
+#: user-recover.php:55
+msgid "Send me a new password"
+msgstr "Siųsti man naują slaptažodį"
+
+#: user-register.php:35
+msgid "Register an account for free"
+msgstr "Registruotis žinutę nemokamai paskyrą"
+
+#: user-register.php:69
+msgid "Repeat password"
+msgstr "Pakartokite slaptažodį"
+
+#: user-register.php:74
+msgid "Passwords don't match"
+msgstr "Slaptažodžiai nesutampa"
+
+#: user-register.php:87
+msgid "Create An Account"
+msgstr "Sukurti Paskyrą"
+
+#: user-sidebar.php:26
+msgid "Are you sure you want to delete your account?"
+msgstr "Ar tikrai norite ištrinti savo sąskaitą?"
+
+#~ msgid "Search select option"
+#~ msgstr "Paieška pasirinkti variantą"
+
+#~ msgid "<strong>Address:</strong> %1$s"
+#~ msgstr "<strong> \"Adresas: </ strong> %1$s"
+
+#~ msgid "<strong>Location:</strong> %1$s"
+#~ msgstr "<strong> Vieta: </ strong> %1$s"
+
+#~ msgid "The preferred size of the logo is 16x16 pixels."
+#~ msgstr "Pageidautinas dydis logotipu 16x16 taškų."
+
+#~ msgid "Description: this field is required"
+#~ msgstr "Aprašymas: Šis laukas PRIVALOMAS;"
+
+#~ msgid "City Area: this field is required"
+#~ msgstr "Miestas Plotas: Šis laukas PRIVALOMAS;"
+
+#~ msgid "City Area: enter at least 3 characters"
+#~ msgstr "Miestas Plotas: įvesti bent 3 simbolius"
+
+#~ msgid "City Area: no more than 100 characters"
+#~ msgstr "Miestas Plotas: ne daugiau kaip 100 ženklų"
+
+#~ msgid "Address: this field is required"
+#~ msgstr "Adresas: Šis laukas PRIVALOMAS;"
+
+#~ msgid "Address: enter at least 3 characters"
+#~ msgstr "Adresas: įvesti bent 3 simbolius"
+
+#~ msgid "Address: no more than 100 characters"
+#~ msgstr "Adresas: ne daugiau kaip 100 ženklų"
+
+#~ msgid "There was a problem with the alert"
+#~ msgstr "Nebuvo su perspėjimu problema"
+
+#~ msgid "Log out"
+#~ msgstr "atsijungti"
+
+#~ msgid "Hello Guest, Welcome to OsclassWizards"
+#~ msgstr "Sveiki Svečias, Sveiki atvykę į OsclassWizards"
+
+#~ msgid "Theme style settings updated correctly"
+#~ msgstr "Tema stiliaus nustatymai tinkamai atnaujintas"
+
+#~ msgid "Name: %s"
+#~ msgstr "Vardas:% s \""
+
+#~ msgid "Phone: %s"
+#~ msgstr "Telefonas:% s \""
+
+#~ msgid "<strong>Published date</strong>: %1$s"
+#~ msgstr "<strong> Išleidimo data </ strong>: %1$s"
+
+#~ msgid "<strong class=\"update\">Modified date:</strong> %1$s"
+#~ msgstr "<strong class = \"atnaujinimas\"> Redagavimo data: </ strong> %1$s"
+
+#~ msgid "Premium"
+#~ msgstr "premija"
+
+#~ msgid "Date"
+#~ msgstr "data"
+
+#~ msgid "Please Log In"
+#~ msgstr "Prašome Prisijungti"

@@ -1,0 +1,1442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassWizards Theme\n"
+"POT-Creation-Date: 2016-01-21 13:14+0545\n"
+"PO-Revision-Date: 2016-01-21 13:14+0545\n"
+"Last-Translator: \n"
+"Language-Team: OsclassWizards <hello@osclasswizards.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:33
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Üzgünüm ama ben aradığınız sayfayı bulamıyor"
+
+#: 404.php:37
+msgid "Let us help you, we have got a few tips for you to find it. "
+msgstr "Onu bulmak için size yardımcı olalım, biz birkaç ipucu var."
+
+#: 404.php:46 admin/templates.php:35 header.php:160
+msgid "Search"
+msgstr "Arama"
+
+#: 404.php:53
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong> En popüler kategorilerde bunun için </ strong> bak."
+
+#: admin/ads.php:29
+msgid "Ads management"
+msgstr "Reklamlar yönetimi"
+
+#: admin/ads.php:33
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+"Bu bölümde reklamları görüntülemek ve gelir getirici başlamak için sitenizi "
+"yapılandırabilirsiniz."
+
+#: admin/ads.php:33
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"Eğer Google Adsense gibi bir online reklam platformu, kullanıyorsanız, "
+"kopyalama ve reklamlar için burada sağlanan kodu yapıştırın."
+
+#: admin/ads.php:39
+msgid "Header Ad"
+msgstr "Üstbilgi Reklam"
+
+#: admin/ads.php:43
+msgid "This ad will be shown at the top of your website."
+msgstr "Bu reklam web sitenizin üst kısmında gösterilir."
+
+#: admin/ads.php:47
+msgid "Homepage Ad"
+msgstr "Anasayfa Reklam"
+
+#: admin/ads.php:51
+msgid ""
+"This ad will be shown on the main site of your website. It will appear at "
+"the bottom of your site homepage."
+msgstr ""
+"Bu reklam web sitenizin ana sitede gösterilecektir. Bu sitenizin ana "
+"sayfasının alt kısmında görünecektir."
+
+#: admin/ads.php:55
+msgid "Search results Ad (top of the page)"
+msgstr "Arama sonuçları Reklam (sayfanın üst)"
+
+#: admin/ads.php:59
+msgid "This ad will be shown on top of the search results of your site."
+msgstr "Bu reklam sitenizin arama sonuçlarının üstünde gösterilecektir."
+
+#: admin/ads.php:63
+msgid "Search results Ad (bottom of the page)"
+msgstr "Arama sonuçları Reklam (sayfanın alt kısmında)"
+
+#: admin/ads.php:67
+msgid "This ad will be shown among the search results of your site."
+msgstr "Bu reklam sitenizin arama sonuçları arasında gösterilir."
+
+#: admin/ads.php:71
+msgid "Sidebar Ad"
+msgstr "Kenar çubuğu Reklam"
+
+#: admin/ads.php:75
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page."
+msgstr ""
+"Bu reklam ürün detay sayfasında, web sitenizin sağ kenar çubuğu ile "
+"gösterilir."
+
+#: admin/ads.php:79 admin/category-icons.php:56 admin/facebook.php:93
+#: admin/settings.php:105 admin/templates-home.php:145
+#: admin/templates-item-post.php:68 admin/templates-search.php:39
+#: admin/theme-style.php:381
+msgid "Save changes"
+msgstr "değişiklikleri Kaydet"
+
+#: admin/category-icons.php:15
+msgid "Categories Icons"
+msgstr ""
+
+#: admin/category-icons.php:21
+msgid ""
+"Choose custom icons for categories. The items from the category will take "
+"the related icons in google map."
+msgstr ""
+
+#: admin/category-icons.php:23
+msgid ""
+"We use <a style=\"color: #018be3; text-decoration: none;\" title=\"Visit "
+"Font Awesome site for help\" target=\"_blank\" href=\"http://fortawesome."
+"github.io/Font-Awesome/3.2.1/icons/\">Font Awesome Icons.</a> Just type icon "
+"name omitting <strong>\"icon-\"</strong> eg. home or car."
+msgstr ""
+
+#: admin/documentation.php:26
+msgid "OsclassWizards Documentation"
+msgstr ""
+
+#: admin/facebook.php:28
+msgid "Facebook Page Like Box Settings"
+msgstr ""
+
+#: admin/facebook.php:33
+msgid "Facebook Page URL"
+msgstr ""
+
+#: admin/facebook.php:40
+msgid "Width"
+msgstr ""
+
+#: admin/facebook.php:44
+msgid "Height"
+msgstr ""
+
+#: admin/facebook.php:49
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: admin/facebook.php:58
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: admin/facebook.php:66
+msgid "Show Page Posts"
+msgstr ""
+
+#: admin/facebook.php:75
+msgid "Show On Item Sidebar"
+msgstr ""
+
+#: admin/facebook.php:84
+msgid "Show On Search Sidebar"
+msgstr ""
+
+#: admin/favicon.php:29
+msgid "Favicon Image"
+msgstr "favicon Görüntü"
+
+#: admin/favicon.php:30
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr ""
+
+#: admin/favicon.php:37 admin/header.php:35 admin/homeimage.php:35
+msgid "Preview"
+msgstr "Önizleme"
+
+#: admin/favicon.php:44 admin/homeimage.php:42
+msgid "Remove image"
+msgstr "görüntüyü kaldır"
+
+#: admin/favicon.php:51 admin/homeimage.php:49
+msgid "No image has been uploaded yet"
+msgstr "Resim yok henüz yüklendi"
+
+#: admin/favicon.php:54 admin/homeimage.php:52
+msgid "Upload image"
+msgstr "resim yükle"
+
+#: admin/favicon.php:56 admin/homeimage.php:54
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+"<strong> Not: </ strong> mevcut görüntü üzerine yazacaktır Başka bir görüntü "
+"yükleniyor."
+
+#: admin/favicon.php:64 admin/homeimage.php:62
+msgid "Accepted image (png,gif,jpg)"
+msgstr "Kabul görüntü (png, gif, jpg)"
+
+#: admin/favicon.php:70 admin/header.php:69 admin/homeimage.php:68
+msgid "Upload"
+msgstr "Yükle"
+
+#: admin/favicon.php:79 admin/header.php:78 admin/homeimage.php:77
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+"Görüntüleri sunucu üzerinde <strong>% s </ strong> yazılabilir değil klasör"
+
+#: admin/favicon.php:80 admin/homeimage.php:78
+msgid "Osclass can't upload the image from the administration panel."
+msgstr "Osclass yönetim panelinden görüntüyü yükleyemezsiniz."
+
+#: admin/favicon.php:81 admin/header.php:80 admin/homeimage.php:79
+msgid "Please make the aforementioned image folder writable."
+msgstr "Söz konusu görüntü klasörü yazılabilir olun."
+
+#: admin/favicon.php:86 admin/header.php:85 admin/homeimage.php:84
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"UNIX altında bir dizin yazılabilir kabuktan bu komutu çalıştırmak yapmak "
+"için:"
+
+#: admin/header.php:29
+msgid "Header logo"
+msgstr "Üstbilgi logosu"
+
+#: admin/header.php:42
+msgid "Remove logo"
+msgstr "logo kaldır"
+
+#: admin/header.php:49
+msgid "No logo has been uploaded yet"
+msgstr "Hiçbir logo Henüz yüklendi"
+
+#: admin/header.php:52
+msgid "Upload logo"
+msgstr "Yükleme logosu"
+
+#: admin/header.php:53
+msgid "The preferred size of the logo is 177x30 pixels."
+msgstr "Logonun tercih boyutu 177x30 piksel."
+
+#: admin/header.php:55
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong> Not: </ strong> Geçerli logosu üzerine yazacaktır başka logosu "
+"yükleniyor."
+
+#: admin/header.php:63
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo resmi (png, gif, jpg)"
+
+#: admin/header.php:79
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass yönetim panelinden logo görüntü yüklemek mümkün değil."
+
+#: admin/homeimage.php:29
+msgid "Banner Image"
+msgstr "afiş görüntü"
+
+#: admin/settings.php:49
+msgid "Custom"
+msgstr "görenek"
+
+#: admin/settings.php:52
+msgid "Donate"
+msgstr "bağışlamak"
+
+#: admin/settings.php:60
+msgid "General"
+msgstr ""
+
+#: admin/settings.php:61 admin/theme-style.php:13
+msgid "Theme Style"
+msgstr "Tema Stili"
+
+#: admin/settings.php:62
+msgid "Templates"
+msgstr ""
+
+#: admin/settings.php:63
+msgid "Header Logo"
+msgstr ""
+
+#: admin/settings.php:64
+msgid "Favicon"
+msgstr ""
+
+#: admin/settings.php:65
+msgid "Banner"
+msgstr ""
+
+#: admin/settings.php:66
+msgid "Category Icons"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Ads Management"
+msgstr ""
+
+#: admin/settings.php:68
+msgid "Facebook Page"
+msgstr ""
+
+#: admin/settings.php:69
+msgid "Documentation"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "Theme settings"
+msgstr "Tema ayarları"
+
+#: admin/settings.php:81
+msgid "Welcome message"
+msgstr "Karşılama mesajı"
+
+#: admin/settings.php:89
+msgid "Show lists as"
+msgstr "Göster listeleri olarak"
+
+#: admin/settings.php:94
+msgid "Grid"
+msgstr "ızgara"
+
+#: admin/settings.php:97
+msgid "List"
+msgstr "liste"
+
+#: admin/templates-home.php:26
+msgid "Home page settings"
+msgstr "Ana sayfa ayarları"
+
+#: admin/templates-home.php:34
+msgid "Show banner"
+msgstr ""
+
+#: admin/templates-home.php:44
+msgid "Search placeholder"
+msgstr "Arama tutucusu"
+
+#: admin/templates-home.php:52
+msgid "Search country option"
+msgstr ""
+
+#: admin/templates-home.php:62 admin/templates-search.php:32
+msgid "Premium listings shown"
+msgstr "Gösterilen Prim listeleri"
+
+#: admin/templates-home.php:70
+msgid "Subcategories limit "
+msgstr "Alt Kategoriler sınırı"
+
+#: admin/templates-home.php:78
+msgid "Show popular"
+msgstr ""
+
+#: admin/templates-home.php:88
+msgid "Popular searches"
+msgstr ""
+
+#: admin/templates-home.php:98
+msgid "Popular regions"
+msgstr ""
+
+#: admin/templates-home.php:108
+msgid "Popular cities"
+msgstr ""
+
+#: admin/templates-home.php:118
+msgid "Popular searches limit"
+msgstr ""
+
+#: admin/templates-home.php:127
+msgid "Popular regions limit"
+msgstr ""
+
+#: admin/templates-home.php:136
+msgid "Popular cities limit"
+msgstr ""
+
+#: admin/templates-item-post.php:26
+msgid "Item post page settings"
+msgstr "Öğe sonrası sayfası ayarları"
+
+#: admin/templates-item-post.php:32
+msgid "Category multiple selects"
+msgstr ""
+
+#: admin/templates-item-post.php:40
+msgid "Title min. length"
+msgstr "Başlık min. uzunluk"
+
+#: admin/templates-item-post.php:44
+msgid "Description min. length"
+msgstr "Açıklama Min. uzunluk"
+
+#: admin/templates-item-post.php:48
+msgid "Locations input as"
+msgstr "Mekanlar giriş olarak"
+
+#: admin/templates-item-post.php:51
+msgid "Auto-complete text"
+msgstr "Otomatik tamamlama metin"
+
+#: admin/templates-item-post.php:52
+msgid "Drop-down select"
+msgstr "Açılır seçme"
+
+#: admin/templates-item-post.php:57
+msgid "Locations required"
+msgstr "Mekanlar gerekli"
+
+#: admin/templates-search.php:26
+msgid "Search page settings"
+msgstr "Arama sayfası ayarları"
+
+#: admin/templates.php:31
+msgid "Templates settings"
+msgstr "Şablonlar ayarları"
+
+#: admin/templates.php:34
+msgid "Home"
+msgstr ""
+
+#: admin/templates.php:36
+msgid "Item Post"
+msgstr ""
+
+#: admin/theme-style.php:19
+msgid "Theme color mode"
+msgstr ""
+
+#: admin/theme-style.php:22
+msgid "Green"
+msgstr ""
+
+#: admin/theme-style.php:23
+msgid "Dark Green"
+msgstr ""
+
+#: admin/theme-style.php:24
+msgid "Red"
+msgstr ""
+
+#: admin/theme-style.php:25
+msgid "Vivid Red"
+msgstr ""
+
+#: admin/theme-style.php:26
+msgid "Blue"
+msgstr ""
+
+#: admin/theme-style.php:27
+msgid "Light Blue"
+msgstr ""
+
+#: admin/theme-style.php:28
+msgid "Orange"
+msgstr ""
+
+#: admin/theme-style.php:29
+msgid "Gray"
+msgstr ""
+
+#: admin/theme-style.php:30
+msgid "Purple"
+msgstr ""
+
+#: admin/theme-style.php:31
+msgid "Yellow"
+msgstr ""
+
+#: admin/theme-style.php:36
+msgid "Google fonts"
+msgstr ""
+
+#: admin/theme-style.php:363
+msgid "RTL view"
+msgstr "RTL görünümü"
+
+#: admin/theme-style.php:368
+msgid "Right to left view."
+msgstr "Sol görüşe Doğru."
+
+#: admin/theme-style.php:373
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: admin/theme-style.php:377
+msgid "You can write your custom CSS and override the default CSS."
+msgstr "Kendi özel CSS yazmak ve varsayılan CSS geçersiz kılabilirsiniz."
+
+#: alert-form.php:25 alert-form.php:38
+msgid "Enter your email address."
+msgstr "Mail adresinizi girin."
+
+#: alert-form.php:30
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Sen başarıyla uyarı abone oldunuz"
+
+#: alert-form.php:31 alert-form.php:32 functions.php:935
+#: user-change_email.php:93
+msgid "Invalid email address"
+msgstr "Geçersiz e-posta adresi"
+
+#: alert-form.php:63 search-sidebar.php:152
+msgid "Subscribe to this search"
+msgstr "Bu aramaya abone ol"
+
+#: alert-form.php:82
+msgid "Subscribe now"
+msgstr "Şimdi abone"
+
+#: common/head.php:24 item.php:200 loop-grid.php:67 loop-list.php:73
+#: loop-search-grid.php:72 loop-search-grid.php:130 loop-search-grid.php:183
+#: loop-search-list.php:74 loop-search-list.php:133 loop-search-list.php:193
+#: loop-user-alerts-grid.php:73 loop-user-alerts-grid.php:131
+#: loop-user-alerts-grid.php:190 loop-user-alerts-list.php:80
+#: loop-user-alerts-list.php:143 loop-user-alerts-list.php:207
+#: loop-user-grid.php:73 loop-user-grid.php:131 loop-user-grid.php:190
+#: loop-user-list.php:75 loop-user-list.php:133 loop-user-list.php:192
+#: loop-user-public-grid.php:82 loop-user-public-grid.php:141
+#: loop-user-public-grid.php:200 loop-user-public-list.php:75
+#: loop-user-public-list.php:133 loop-user-public-list.php:192 main.php:83
+msgid "Delete"
+msgstr "silmek"
+
+#: common/head.php:25
+msgid "Cancel"
+msgstr "iptal"
+
+#: common/head.php:68
+msgid "Previous image"
+msgstr "Önceki Resim"
+
+#: common/head.php:69
+msgid "Next image"
+msgstr "Sonraki resim"
+
+#: common/head.php:70
+msgid "Close"
+msgstr "yakın"
+
+#: contact.php:36
+msgid "Contact us"
+msgstr "bizimle iletişime geçin"
+
+#: contact.php:47 item-send-friend.php:51 item-sidebar.php:74 item.php:226
+#: user-public-sidebar.php:38
+msgid "Your name"
+msgstr "adınız"
+
+#: contact.php:49 contact.php:67 item-sidebar.php:92 user-public-sidebar.php:56
+msgid "optional"
+msgstr "isteğe bağlı"
+
+#: contact.php:57 user-public-sidebar.php:46
+msgid "Your email address"
+msgstr "senin E-posta adres"
+
+#: contact.php:65
+msgid "Subject"
+msgstr "konu"
+
+#: contact.php:75 item-send-friend.php:93 item-sidebar.php:100
+#: user-public-sidebar.php:64
+msgid "Message"
+msgstr "mesaj"
+
+#: contact.php:93 item-send-friend.php:110 item-sidebar.php:142 item.php:259
+#: user-public-sidebar.php:96
+msgid "Send"
+msgstr "göndermek"
+
+#: footer.php:35 header.php:38
+msgid "Language:"
+msgstr "Dil:"
+
+#: footer.php:49 header.php:62
+#, php-format
+msgid "Hi %s"
+msgstr "Merhaba %s"
+
+#: footer.php:50 header.php:63
+msgid "My account"
+msgstr "hesabım"
+
+#: footer.php:52 header.php:65
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#: footer.php:56 functions.php:441 header.php:69 item-sidebar.php:44
+msgid "Login"
+msgstr "Oturum Aç"
+
+#: footer.php:60 header.php:73 item-sidebar.php:46 user-login.php:73
+msgid "Register for a free account"
+msgstr "Ücretsiz bir hesap için üye ol"
+
+#: footer.php:73 functions.php:445 header.php:95 user-public-sidebar.php:28
+msgid "Contact"
+msgstr "temas"
+
+#: footer.php:77 header.php:101
+msgid "Publish your ad for free"
+msgstr "Ücretsiz reklamınızı yayınlayın"
+
+#: footer.php:82
+#, php-format
+msgid ""
+"Free responsive Osclass theme by <a target=\"_blank\" title=\"osclasswizards"
+"\" href=\"%s\">OsclassWizards</a>"
+msgstr ""
+"<a Target=\"_blank\" Free duyarlı Osclass tema title=\"osclasswizards\" href="
+"\"%s\"> OsclassWizards </a>"
+
+#: functions.php:30
+msgid "ie. PHP Programmer"
+msgstr "yani. PHP Programcı"
+
+#: functions.php:280
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: functions.php:318
+msgid "See more listings..."
+msgstr "Daha fazla listeleri bakın ..."
+
+#: functions.php:426 item-post.php:56
+msgid "Publish a listing"
+msgstr "Bir liste Yayınla"
+
+#: functions.php:427
+msgid "Edit your listing"
+msgstr "Kaydınızı düzenleyin"
+
+#: functions.php:428 item-send-friend.php:35
+msgid "Send to a friend"
+msgstr "Bir arkadaşına gönder"
+
+#: functions.php:429 item-sidebar.php:28
+msgid "Contact publisher"
+msgstr "İletişim yayıncı"
+
+#: functions.php:430
+msgid "Search results"
+msgstr "Arama sonuçları"
+
+#: functions.php:431
+#, php-format
+msgid "Search results: %s"
+msgstr "Arama sonuçları: %s"
+
+#: functions.php:432
+msgid "Dashboard"
+msgstr "gösterge paneli"
+
+#: functions.php:433
+#, php-format
+msgid "%s's profile"
+msgstr "%s's profil"
+
+#: functions.php:434 functions.php:483
+msgid "Account"
+msgstr "hesap"
+
+#: functions.php:435 functions.php:473 search.php:136 user-alerts.php:73
+msgid "Listings"
+msgstr "Listeler"
+
+#: functions.php:436 functions.php:478 user-alerts.php:32 user-alerts.php:52
+msgid "Alerts"
+msgstr "Uyarılar"
+
+#: functions.php:437 user-profile.php:32 user-profile.php:45
+msgid "Update account"
+msgstr "Güncelleme hesabı"
+
+#: functions.php:438 functions.php:488
+msgid "Change email"
+msgstr "E-postayı değiştir"
+
+#: functions.php:439 functions.php:493 user-change_username.php:34
+msgid "Change username"
+msgstr "Değişim adı"
+
+#: functions.php:440 functions.php:443 functions.php:498
+#: user-change_password.php:32 user-change_password.php:46
+#: user-forgot_password.php:52
+msgid "Change password"
+msgstr "şifre değiştir"
+
+#: functions.php:442
+msgid "Recover password"
+msgstr "şifre kurtarmak"
+
+#: functions.php:444
+msgid "Create a new account"
+msgstr "Yeni bir hesap oluştur"
+
+#: functions.php:468
+msgid "Public Profile"
+msgstr "Açık Profil"
+
+#: functions.php:503 user-sidebar.php:25
+msgid "Delete account"
+msgstr "hesabı sil"
+
+#: functions.php:562
+msgid "Theme settings updated correctly"
+msgstr "Tema ayarları doğru güncellenen"
+
+#: functions.php:579 functions.php:584 functions.php:596
+msgid "Templates settings updated correctly"
+msgstr "Şablonlar ayarları doğru güncellenen"
+
+#: functions.php:606
+msgid "Ads management updated correctly"
+msgstr "Reklamlar yönetimi doğru güncellenen"
+
+#: functions.php:615
+msgid "Category icons settings updated correctly"
+msgstr ""
+
+#: functions.php:627
+msgid "Theme color settings updated correctly"
+msgstr ""
+
+#: functions.php:642
+msgid "Facebook Page settings updated correctly"
+msgstr ""
+
+#: functions.php:658
+msgid "The favicon image has been uploaded correctly"
+msgstr "Favicon görüntü doğru yüklendi"
+
+#: functions.php:660 functions.php:678 functions.php:725
+msgid "An error has occurred, please try again"
+msgstr "Oluştu bir hata, lütfen tekrar deneyin"
+
+#: functions.php:676
+msgid "The logo image has been uploaded correctly"
+msgstr "Logo resmi doğru yüklendi"
+
+#: functions.php:690
+msgid "The favicon image has been removed"
+msgstr "Sık kullanılan simge görüntüsü kaldırıldı"
+
+#: functions.php:692 functions.php:706 functions.php:738
+msgid "Image not found"
+msgstr "Görüntü bulunamadı"
+
+#: functions.php:704
+msgid "The logo image has been removed"
+msgstr "Logo resmi kaldırıldı"
+
+#: functions.php:723
+msgid "The banner image has been uploaded correctly"
+msgstr "Afiş görüntü doğru yüklendi"
+
+#: functions.php:736
+msgid "The banner image has been removed"
+msgstr "Afiş görüntü kaldırıldı"
+
+#: functions.php:761
+msgid "OsclassWizards"
+msgstr ""
+
+#: functions.php:813 functions.php:833
+msgid "All categories"
+msgstr "Tüm kategoriler"
+
+#: functions.php:912
+msgid "Choose one category"
+msgstr "Bir kategori seçin"
+
+#: functions.php:915
+msgid "Title: this field is required"
+msgstr "Başlık: Bu alan gereklidir"
+
+#: functions.php:916
+msgid "Title too short"
+msgstr "Başlık çok kısa"
+
+#: functions.php:919
+msgid "Description too short"
+msgstr "Çok kısa Açıklama"
+
+#: functions.php:922
+msgid "Price: no more than 50 characters"
+msgstr "Fiyatı: en fazla 50 karakter"
+
+#: functions.php:924
+msgid "Currency: make your selection"
+msgstr "Para birimi: Seçiminizi yapmak"
+
+#: functions.php:926
+msgid "Photo: must be png,gif,jpg,jpeg"
+msgstr "Fotoğraf: png, gif, jpg, jpeg olmalı"
+
+#: functions.php:929
+msgid "Name: this field is required"
+msgstr "Adı: Bu alan gereklidir"
+
+#: functions.php:930
+msgid "Name: enter at least 3 characters"
+msgstr "Adı: En az 3 karakter girin"
+
+#: functions.php:931
+msgid "Name: no more than 35 characters"
+msgstr "Adı: fazla 35 karakter"
+
+#: functions.php:934 user-change_email.php:92
+msgid "Email: this field is required"
+msgstr "E-posta: Bu alan gereklidir"
+
+#: functions.php:938
+msgid "Please select a country"
+msgstr "Lütfen bir ülke seçin"
+
+#: functions.php:941 functions.php:953
+msgid "Region: this field is required"
+msgstr "Bölge: Bu alan gereklidir"
+
+#: functions.php:942
+msgid "Region: enter at least 3 characters"
+msgstr "Bölge: en az 3 karakter girin"
+
+#: functions.php:943
+msgid "Region: no more than 100 characters"
+msgstr "Bölge: en fazla 100 karakter"
+
+#: functions.php:946 functions.php:956
+msgid "City: this field is required"
+msgstr "Şehir: Bu alan gereklidir"
+
+#: functions.php:947
+msgid "City: enter at least 3 characters"
+msgstr "Şehir: En az 3 karakter girin"
+
+#: functions.php:948
+msgid "City: no more than 100 characters"
+msgstr "Şehir: en fazla 100 karakter"
+
+#: header.php:137 item-post.php:79 item-post.php:81
+msgid "Select a category"
+msgstr "Bir kategori seç"
+
+#: header.php:144 search-sidebar.php:61
+msgid "Select a country"
+msgstr ""
+
+#: header.php:150 search-sidebar.php:70
+msgid "Select a region"
+msgstr "Bir bölge seçin"
+
+#: header.php:155 search-sidebar.php:78
+msgid "Select a city"
+msgstr "Bir şehir seçin"
+
+#: item-post.php:70
+msgid "General Information"
+msgstr "Genel Bilgi"
+
+#: item-post.php:74
+msgid "Category"
+msgstr "kategori"
+
+#: item-post.php:88 item.php:243
+msgid "Title"
+msgstr "başlık"
+
+#: item-post.php:96 user-profile.php:136
+msgid "Description"
+msgstr "tanım"
+
+#: item-post.php:105 search-sidebar.php:99
+msgid "Price"
+msgstr "fiyat"
+
+#: item-post.php:125
+msgid "Listing Location"
+msgstr "listeleme Yer"
+
+#: item-post.php:129 search-sidebar.php:58 user-profile.php:88
+msgid "Country"
+msgstr "ülke"
+
+#: item-post.php:137 search-sidebar.php:67 user-profile.php:96
+msgid "Region"
+msgstr "bölge"
+
+#: item-post.php:151 search-sidebar.php:75 user-profile.php:104
+msgid "City"
+msgstr "şehir"
+
+#: item-post.php:165
+msgid "City Area"
+msgstr "şehir alan"
+
+#: item-post.php:173 user-profile.php:120 user-public-profile.php:79
+msgid "Address"
+msgstr "adres"
+
+#: item-post.php:184
+msgid "Seller's information"
+msgstr "Satıcının bilgi"
+
+#: item-post.php:188 user-profile.php:56 user-register.php:45
+msgid "Name"
+msgstr "isim"
+
+#: item-post.php:196 user-login.php:43 user-recover.php:43 user-register.php:53
+msgid "E-mail"
+msgstr "E-posta"
+
+#: item-post.php:206
+msgid "Show e-mail on the listing page"
+msgstr "Listeleme sayfasında e-posta göster"
+
+#: item-post.php:228 user-change_email.php:73 user-change_password.php:83
+#: user-change_username.php:119 user-profile.php:146
+msgid "Update"
+msgstr "güncelleştirme"
+
+#: item-post.php:228
+msgid "Publish"
+msgstr "yayınlamak"
+
+#: item-send-friend.php:59 item.php:234
+msgid "Your e-mail"
+msgstr "E-posta adresiniz"
+
+#: item-send-friend.php:68
+msgid "Your friend's name"
+msgstr "Arkadaşınızın adı"
+
+#: item-send-friend.php:76
+msgid "Your friend's e-mail address"
+msgstr "Arkadaşınızın e-posta adresi"
+
+#: item-send-friend.php:85
+msgid "Subject (optional)"
+msgstr "Konu (isteğe bağlı)"
+
+#: item-sidebar.php:33
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Listeleme süresi doldu. Sen yayıncı iletişim kuramıyor."
+
+#: item-sidebar.php:37
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Bu yayımcı bağlantı kuramıyor, kendi listeleme var."
+
+#: item-sidebar.php:41
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Sen giriş yapın veya reklamvereni ile iletişim kurmak için yeni bir hesap "
+"gerekir"
+
+#: item-sidebar.php:60
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-posta: %s"
+
+#: item-sidebar.php:82
+msgid "Your e-mail address"
+msgstr "senin E-posta adres"
+
+#: item-sidebar.php:90 user-public-sidebar.php:54
+msgid "Phone number"
+msgstr "Telefon numarası"
+
+#: item-sidebar.php:109
+msgid "Attachment"
+msgstr "haciz"
+
+#: item-sidebar.php:132 user-public-sidebar.php:86
+msgid "Enter the words above"
+msgstr "Yukarıdaki kelimeleri giriniz"
+
+#: item-sidebar.php:136 user-public-sidebar.php:90
+msgid "Help"
+msgstr "yardım"
+
+#: item.php:66 loop-grid.php:65 loop-list.php:71 loop-search-grid.php:70
+#: loop-search-grid.php:128 loop-search-grid.php:181 loop-search-list.php:72
+#: loop-search-list.php:131 loop-search-list.php:191
+#: loop-user-alerts-grid.php:71 loop-user-alerts-grid.php:129
+#: loop-user-alerts-grid.php:188 loop-user-alerts-list.php:78
+#: loop-user-alerts-list.php:141 loop-user-alerts-list.php:205
+#: loop-user-grid.php:71 loop-user-grid.php:129 loop-user-grid.php:188
+#: loop-user-list.php:73 loop-user-list.php:131 loop-user-list.php:190
+#: loop-user-public-grid.php:80 loop-user-public-grid.php:139
+#: loop-user-public-grid.php:198 loop-user-public-list.php:73
+#: loop-user-public-list.php:131 loop-user-public-list.php:190 main.php:81
+msgid "Edit item"
+msgstr "Düzenleme öğesi"
+
+#: item.php:77
+#, php-format
+msgid "<i class=\"fa fa-calendar-o\"></i> Published date: %1$s"
+msgstr "<i class=\"fa fa-calendar-o\"></i> Yayın tarihi: %1$s"
+
+#: item.php:80
+#, php-format
+msgid ""
+"<span class=\"update\"><i class=\"fa fa-calendar\"></i> Modified date:</"
+"span> %1$s"
+msgstr ""
+"<span class=\"update\"><i class=\"fa fa-calendar\"></i>Değiştirilme tarihi:</"
+"span> %1$s"
+
+#: item.php:97 item.php:101 item.php:106 item.php:108
+msgid "Image"
+msgstr "görüntü"
+
+#: item.php:135
+msgid "Contact seller"
+msgstr "Satıcı ile irtibata geç"
+
+#: item.php:142
+msgid "Share"
+msgstr "hisse"
+
+#: item.php:150
+msgid "See all ads from this advertiser"
+msgstr ""
+
+#: item.php:159
+msgid "Useful information"
+msgstr "Yararlı bilgi"
+
+#: item.php:163
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr ""
+"Bölgenizdeki kişilerle Paypal ile ödeme yaparak dolandırıcılığı önlemek"
+
+#: item.php:166
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Western Union, Moneygram ya da diğer anonim ödeme hizmetleri ile ödeme Asla"
+
+#: item.php:169
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Satın almak veya ülkenizin dışında satmıyoruz. Ülkenizdeki dışından kasiyer "
+"çek kabul etmeyin"
+
+#: item.php:172
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Bu site herhangi bir işlemde yer alan asla ve emanet hizmetleri sunmak, ya "
+"da teklif \"alıcı koruma\" ya da \"Satıcı sertifikası\", ödemeler, nakliye, "
+"garanti işlemleri işlemek değil"
+
+#: item.php:182
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: item.php:195
+msgid "by"
+msgstr "tarafından"
+
+#: item.php:199
+msgid "Delete your comment"
+msgstr "Yorumunuzu sil"
+
+#: item.php:211
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Yorumunuzu (spam ve saldırgan mesajlar silinecektir) bırakın"
+
+#: item.php:251
+msgid "Comment"
+msgstr "açıklama"
+
+#: item.php:288
+msgid "Mark as..."
+msgstr "Mark olarak ..."
+
+#: item.php:291
+msgid "Mark as spam"
+msgstr "Spam olarak işaretle"
+
+#: item.php:294
+msgid "Mark as misclassified"
+msgstr "Mark Sınıflandırılmamış olarak"
+
+#: item.php:297
+msgid "Mark as duplicated"
+msgstr "Mark yinelenen"
+
+#: item.php:300
+msgid "Mark as expired"
+msgstr "Mark süresi doldu olarak"
+
+#: item.php:303
+msgid "Mark as offensive"
+msgstr "Saldırgan olarak işaretle"
+
+#: item.php:316
+msgid "Related listings"
+msgstr "İlgili listeleri"
+
+#: loop-grid.php:66 loop-list.php:72 loop-search-grid.php:71
+#: loop-search-grid.php:129 loop-search-grid.php:182 loop-search-list.php:73
+#: loop-search-list.php:132 loop-search-list.php:192
+#: loop-user-alerts-grid.php:72 loop-user-alerts-grid.php:130
+#: loop-user-alerts-grid.php:189 loop-user-alerts-list.php:79
+#: loop-user-alerts-list.php:142 loop-user-alerts-list.php:206
+#: loop-user-grid.php:72 loop-user-grid.php:130 loop-user-grid.php:189
+#: loop-user-list.php:74 loop-user-list.php:132 loop-user-list.php:191
+#: loop-user-public-grid.php:81 loop-user-public-grid.php:140
+#: loop-user-public-grid.php:199 loop-user-public-list.php:74
+#: loop-user-public-list.php:132 loop-user-public-list.php:191 main.php:82
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Bu işlem geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+
+#: loop-grid.php:71 loop-list.php:77 loop-search-grid.php:76
+#: loop-search-grid.php:134 loop-search-grid.php:187 loop-search-list.php:78
+#: loop-search-list.php:137 loop-search-list.php:197
+#: loop-user-alerts-grid.php:77 loop-user-alerts-grid.php:135
+#: loop-user-alerts-grid.php:194 loop-user-alerts-list.php:84
+#: loop-user-alerts-list.php:147 loop-user-alerts-list.php:211
+#: loop-user-grid.php:77 loop-user-grid.php:135 loop-user-grid.php:194
+#: loop-user-list.php:79 loop-user-list.php:137 loop-user-list.php:196
+#: loop-user-public-grid.php:86 loop-user-public-grid.php:145
+#: loop-user-public-grid.php:204 loop-user-public-list.php:79
+#: loop-user-public-list.php:137 loop-user-public-list.php:196 main.php:87
+msgid "Activate"
+msgstr "etkinleştirmek"
+
+#: main.php:46
+msgid "Premium Listings"
+msgstr "Prim listeleri"
+
+#: main.php:108
+msgid "Latest Listings"
+msgstr "Son İlanlar"
+
+#: main.php:114
+msgid "There aren't listings available at this moment"
+msgstr "Bu şu anda mevcut listeleri yoktur"
+
+#: main.php:124
+msgid "See all listings"
+msgstr "Tüm listeleri gör"
+
+#: main.php:131
+#, php-format
+msgid "Popular in %s"
+msgstr "Popüler %s"
+
+#: search-sidebar.php:31
+msgid "Show Filters"
+msgstr "göster Filtreler"
+
+#: search-sidebar.php:36
+msgid "Advanced Search"
+msgstr "Gelişmiş Arama"
+
+#: search-sidebar.php:49
+msgid "Your search"
+msgstr "arama"
+
+#: search-sidebar.php:85
+msgid "Show only"
+msgstr "göster sadece"
+
+#: search-sidebar.php:90
+msgid "listings with pictures"
+msgstr "Resimlerle listeleri"
+
+#: search-sidebar.php:103
+msgid "Min"
+msgstr "min"
+
+#: search-sidebar.php:108
+msgid "Max"
+msgstr "maksimum"
+
+#: search-sidebar.php:132
+msgid "Apply"
+msgstr "uygulamak"
+
+#: search-sidebar.php:141
+msgid "Refine category"
+msgstr "kategori daraltın"
+
+#: search.php:60
+msgid "Selected"
+msgstr "seçilmiş"
+
+#: search.php:61
+msgid "Nothing selected, input was"
+msgstr "Hiçbir şey seçilen girdi olarak verilen"
+
+#: search.php:81
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "\"%s\" eşleşen bir sonuç vardır"
+
+#: search.php:86
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d of %3$d listeleri"
+
+#: search.php:123
+msgid "Premium listings"
+msgstr "Prim listeleri"
+
+#: search.php:151
+msgid "Other searches that may interest you"
+msgstr "İlginizi çekebilir diğer aramalar"
+
+#: user-alerts.php:56
+msgid "You do not have any alerts yet"
+msgstr "Henüz uyarıları yok"
+
+#: user-alerts.php:65
+msgid "Alert"
+msgstr "uyanık"
+
+#: user-alerts.php:66
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Bu işlem geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+
+#: user-alerts.php:67
+msgid "Delete this alert"
+msgstr "Bu uyarıyı sil"
+
+#: user-change_email.php:33 user-change_email.php:47
+msgid "Change e-mail"
+msgstr "E-postayı değiştir"
+
+#: user-change_email.php:58
+msgid "Current e-mail"
+msgstr "Geçerli bir e-posta"
+
+#: user-change_email.php:64
+msgid "New e-mail"
+msgstr "Yeni e-posta"
+
+#: user-change_password.php:58
+msgid "Current password"
+msgstr "Mevcut Şifre"
+
+#: user-change_password.php:66 user-forgot_password.php:39
+msgid "New password"
+msgstr "yeni Şifre"
+
+#: user-change_password.php:74 user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "Tekrarlayın Yeni şifre"
+
+#: user-change_username.php:49
+msgid "Username: this field is required"
+msgstr "Kullanıcı adı: Bu alan gereklidir"
+
+#: user-change_username.php:74
+msgid "The username is available"
+msgstr "Kullanıcı adı kullanılabilir"
+
+#: user-change_username.php:76
+msgid "The username is NOT available"
+msgstr "Kullanıcı adı mevcut değil"
+
+#: user-change_username.php:96
+msgid "Change Username"
+msgstr "Değişim adı"
+
+#: user-change_username.php:109
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: user-forgot_password.php:30 user-recover.php:34
+msgid "Recover your password"
+msgstr "Şifrenizi geri"
+
+#: user-items.php:58
+msgid "My listings"
+msgstr "Benim listeleri"
+
+#: user-items.php:62
+msgid "No listings have been added yet"
+msgstr "Henüz ilan eklendi"
+
+#: user-login.php:35
+msgid "Please Login"
+msgstr "Lütfen Giriş Yapın"
+
+#: user-login.php:51 user-register.php:61
+msgid "Password"
+msgstr "şifre"
+
+#: user-login.php:61
+msgid "Remember me"
+msgstr "beni hatırla"
+
+#: user-login.php:68
+msgid "Log in"
+msgstr "giriş yap"
+
+#: user-login.php:76
+msgid "Forgot password?"
+msgstr "Şifreni mi unuttun?"
+
+#: user-profile.php:64
+msgid "User type"
+msgstr "Kullanıcı türü"
+
+#: user-profile.php:72
+msgid "Cell phone"
+msgstr "cep telefonu"
+
+#: user-profile.php:80
+msgid "Phone"
+msgstr "telefon"
+
+#: user-profile.php:112
+msgid "City area"
+msgstr "Şehir alanı"
+
+#: user-profile.php:128
+msgid "Website"
+msgstr "web sitesi"
+
+#: user-public-profile.php:82
+msgid "Location"
+msgstr "konum"
+
+#: user-public-profile.php:90
+msgid "User description"
+msgstr "Kullanıcı açıklaması"
+
+#: user-public-profile.php:101
+msgid "Latest listings"
+msgstr "Son listeleri"
+
+#: user-recover.php:55
+msgid "Send me a new password"
+msgstr "Bana yeni bir şifre gönder"
+
+#: user-register.php:35
+msgid "Register an account for free"
+msgstr "Bedava bir hesap"
+
+#: user-register.php:69
+msgid "Repeat password"
+msgstr "Şifreyi tekrar girin"
+
+#: user-register.php:74
+msgid "Passwords don't match"
+msgstr "Şifreler uyuşmuyor"
+
+#: user-register.php:87
+msgid "Create An Account"
+msgstr "Hesap Oluştur"
+
+#: user-sidebar.php:26
+msgid "Are you sure you want to delete your account?"
+msgstr "Hesabınızı silmek istediğinizden emin misiniz?"
+
+#~ msgid "Search select option"
+#~ msgstr "Arama seçme seçeneği"
+
+#~ msgid "<strong>Address:</strong> %1$s"
+#~ msgstr "<strong> Adres: </ strong> %1$s"
+
+#~ msgid "<strong>Location:</strong> %1$s"
+#~ msgstr "<strong> Yer: </ strong> %1$s"
+
+#~ msgid "The preferred size of the logo is 16x16 pixels."
+#~ msgstr "Logonun tercih boyutu 16x16 piksel."
+
+#~ msgid "Description: this field is required"
+#~ msgstr "Açıklama: Bu alan gereklidir"
+
+#~ msgid "City Area: this field is required"
+#~ msgstr "Şehir Bölge: Bu alan gereklidir"
+
+#~ msgid "City Area: enter at least 3 characters"
+#~ msgstr "Şehir Bölge: en az 3 karakter girin"
+
+#~ msgid "City Area: no more than 100 characters"
+#~ msgstr "Şehir Bölge: en fazla 100 karakter"
+
+#~ msgid "Address: this field is required"
+#~ msgstr "Adres: Bu alan gereklidir"
+
+#~ msgid "Address: enter at least 3 characters"
+#~ msgstr "Adres: en az 3 karakter girin"
+
+#~ msgid "Address: no more than 100 characters"
+#~ msgstr "Adres: en fazla 100 karakter"
+
+#~ msgid "There was a problem with the alert"
+#~ msgstr "Uyarı ile ilgili bir sorun vardı"
+
+#~ msgid "Log out"
+#~ msgstr "çıkış Yap"
+
+#~ msgid "Hello Guest, Welcome to OsclassWizards"
+#~ msgstr "Merhaba Misafir, OsclassWizards Hoşgeldiniz"
+
+#~ msgid "Theme style settings updated correctly"
+#~ msgstr "Tema stili ayarları doğru biçimde güncelleştirildi"
+
+#~ msgid "Name: %s"
+#~ msgstr "Adı: %s"
+
+#~ msgid "Phone: %s"
+#~ msgstr "Telefon: %s"
+
+#~ msgid "<strong>Published date</strong>: %1$s"
+#~ msgstr "<strong> Yayın tarihi </ strong>: %1$s"
+
+#~ msgid "<strong class=\"update\">Modified date:</strong> %1$s"
+#~ msgstr "<strong class = \"update\"> Modifiye tarihi: </ strong> %1$s"
+
+#~ msgid "Premium"
+#~ msgstr "prim"
+
+#~ msgid "Date"
+#~ msgstr "tarih"
+
+#~ msgid "Please Log In"
+#~ msgstr "Lütfen Giriş Yapın"
