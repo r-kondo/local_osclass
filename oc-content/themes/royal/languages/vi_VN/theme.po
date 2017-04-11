@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:49+0700\n"
+"PO-Revision-Date: 2017-02-15 18:52+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1100,3 +1100,222 @@ msgstr "Rival Cài đặt Theme"
 
 msgid "Rival Category"
 msgstr "Rival loại"
+
+msgid "Submit Ads"
+msgstr "Đăng BĐS"
+
+msgid "New listings"
+msgstr "Danh mục"
+
+msgid "Random listings"
+msgstr "danh sách ngẫu nhiên"
+
+msgid "New"
+msgstr "Mới"
+
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "See all listings"
+msgstr "Tất cả dự án"
+
+msgid "Locations"
+msgstr "Khu Vực"
+
+msgid "Popular"
+msgstr "Phổ biến"
+
+msgid "Featured brand"
+msgstr "Các thương hiệu"
+
+msgid "Statistic Info"
+msgstr "Hoạt động thống kê"
+
+msgid "Social network"
+msgstr "Mạng lưới xã hội"
+
+msgid "Payment"
+msgstr "Thanh toán"
+
+msgid "My listings"
+msgstr "Danh mục dự án"
+
+msgid "Settings"
+msgstr "Cài Đặt"
+
+msgid "My alert"
+msgstr "Báo động"
+
+msgid "My Listings"
+msgstr "Danh mục dự án"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> danh sách của tôi"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> cảnh báo của tôi"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> Cài đặt"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> thay đổi e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> Đổi mật khẩu"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Đăng xuất"
+
+msgid "Seller profile"
+msgstr "Hồ sơ người bán"
+
+msgid "Leave Comment"
+msgstr "Để lại bình luận"
+
+msgid "Send mail"
+msgstr "Gởi thư"
+
+msgid "Premium listings"
+msgstr "danh sách cao cấp"
+
+msgid "Search filter"
+msgstr "Bộ lọc tìm kiếm"
+
+msgid "General information"
+msgstr "Thông tin chung"
+
+msgid "Upload images"
+msgstr "Tải lên các ảnh"
+
+msgid "Views"
+msgstr "lượt xem"
+
+msgid "Standart ads"
+msgstr "quảng cáo standart"
+
+msgid "Premium ads"
+msgstr "XEM NHIỀU"
+
+msgid "Default Thumbnail"
+msgstr "mặc định Thumbnail"
+
+msgid "Small slider"
+msgstr "thanh trượt nhỏ"
+
+msgid "Slider Small Images"
+msgstr "Hình ảnh trượt nhỏ"
+
+msgid "Category count"
+msgstr "Số chuyên"
+
+msgid "Custom Useful Information"
+msgstr "Thông tin tùy chỉnh hữu ích"
+
+msgid "Home Premium Ads"
+msgstr "XEM NHIỀU"
+
+msgid "Latest and Random Ads Display"
+msgstr "Mới nhất và bảng quảng cáo hiển thị ngẫu nhiên"
+
+msgid "Home latest Ads"
+msgstr "MỚI NHẤT"
+
+msgid "Home Random Ads"
+msgstr "Quảng cáo ngẫu nhiên"
+
+msgid "Ads by category Display"
+msgstr "Quảng cáo của loại hiển thị"
+
+msgid "Ads by category"
+msgstr "Quảng cáo theo thể loại"
+
+msgid "Item post multilanguges"
+msgstr "Mục bài multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Quảng cáo này sẽ được hiển thị ở phía trên cùng của trang web của bạn. Lưu ý rằng kích thước của quảng cáo có phải là 728x90 pixel."
+
+msgid "Price settings"
+msgstr "Thiết lập giá"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Bạn có thể sử dụng 6 màu sceme từ các chủ đề hoặc bạn có thể tùy chỉnh màu sắc của riêng bạn với công tắc trên bảng điều khiển tùy chỉnh."
+
+msgid "create new TOS pages and paste url here"
+msgstr "tạo ra các trang TOS mới và dán url đây"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Title và phụ đề"
+
+msgid "Seller information"
+msgstr "Thông tin người bán"
+
+msgid "Popular Location"
+msgstr "Loại địa điểm phổ biến"
+
+msgid "Latest search"
+msgstr "tìm kiếm mới nhất"
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid "Item Id"
+msgstr "Id mục"
+
+msgid "Total member"
+msgstr "Tổng số thành viên"
+
+msgid "Your email"
+msgstr "Email của bạn"
+
+msgid "Already have an account ?"
+msgstr "Bạn đã có tài khoản?"
+
+msgid "Lost password ?"
+msgstr "Bạn quên mật khẩu?"
+
+msgid "Don't have an account !"
+msgstr "Chưa có tài khoản?"
+
+msgid "Forgot password"
+msgstr "Quên mật khẩu"
+
+msgid "Note"
+msgstr "Ghi chú"
+
+msgid "Please don't send spam messages"
+msgstr "Xin vui lòng không gửi tin nhắn rác"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Hồ sơ"
+
+msgid "User Id"
+msgstr "ID thành viên"
+
+msgid "Edit item"
+msgstr "Sửa sản phẩm"
+
+msgid "Detail"
+msgstr "Chi tiết"
+
+msgid "Client"
+msgstr "Khách hàng"
+
+msgid "Advance Search"
+msgstr "Tìm kiếm nâng cao"
+
+msgid "Subcribe"
+msgstr "Subcribe"
+
+msgid "Hi Guest !"
+msgstr "Chào khách!"
+
+msgid "ID"
+msgstr "ID"

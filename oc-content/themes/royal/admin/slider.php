@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -56,19 +56,6 @@
                     osc_add_flash_error_message(__("An error has occurred, please try again","royal"), 'admin');
                 }
             break;
-                case('upload_slider_3'):
-                $package = Params::getFiles("slider_3");
-
-                if ($package['error'] == UPLOAD_ERR_OK) {
-                    if( move_uploaded_file($package['tmp_name'], WebThemes::newInstance()->getCurrentThemePath() . "images/slider-3.jpg" ) ){
-                        osc_add_flash_ok_message(__("The image has been uploaded correctly","royal"), 'admin');
-                    } else {
-                        osc_add_flash_error_message(__("An error has occurred, please try again","royal"), 'admin');
-                    }
-                } else {
-                    osc_add_flash_error_message(__("An error has occurred, please try again","royal"), 'admin');
-                }
-            break;
 case('upload_cover_2'):
                 $package = Params::getFiles("cover_2");
 
@@ -102,15 +89,6 @@ case('upload_cover_2'):
                 case('remove_slider3'):
                 if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider-2.jpg" ) ) {
                     unlink( WebThemes::newInstance()->getCurrentThemePath() . "images/slider-2.jpg" );
-                    osc_add_flash_ok_message(__("The image has been removed","royal"), 'admin');
-                }else{
-                    osc_add_flash_error_message(__("Image not found","royal"), 'admin');
-                }
-
-            break;
-                case('remove_slider4'):
-                if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider-3.jpg" ) ) {
-                    unlink( WebThemes::newInstance()->getCurrentThemePath() . "images/slider-3.jpg" );
                     osc_add_flash_ok_message(__("The image has been removed","royal"), 'admin');
                 }else{
                     osc_add_flash_error_message(__("Image not found","royal"), 'admin');
@@ -282,44 +260,6 @@ case('remove_cover'):
             <?php _e('Has not uploaded any image', 'royal');?> </p>
         <?php } ?> </div>
 </div>
-<div id="settings_form">
-    <div class="padi">
-        <p class="avan">
-            <?php _e('Slider Images', 'royal'); ?>. </p>
-        <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider-3.jpg" ) ) {?>
-        <p>
-            <?php _e('Preview', 'royal'); ?> </p> <img class="tomblok" src="<?php echo osc_current_web_theme_url('images/slider-3.jpg');?>" />
-        <form action="<?php echo osc_admin_render_theme_url('oc-content/themes/royal/admin/admin.php#slider');?>" method="post" enctype="multipart/form-data">
-            <input type="hidden" name="action_specific" value="remove_slider4" />
-            <fieldset>
-            <input id="button_remove" type="submit" class="btn btn-red" value="<?php echo osc_esc_html(__('Remove','royal')); ?>" /> 
-            </fieldset>
-        </form>
-        <p>
-            <?php _e('Please reload or refresh your browser if images not change.', 'royal'); ?> </p>
-        <button onclick='window.location.reload();'>
-            <?php _e('Reload browser', 'royal'); ?> </button>
-        <?php } else { ?>
-        <form action="<?php echo osc_admin_render_theme_url('oc-content/themes/royal/admin/admin.php#slider');?>" method="post" enctype="multipart/form-data">
-            <input type="hidden" name="action_specific" value="upload_slider_3" />
-            <fieldset>
-                <div class="form-horizontal">
-                    <div class="form-row">
-                        <div class="form-label">
-                        <label for="package"><?php _e('Slider Images', 'royal'); ?> <?php _e("png,gif,jpg", 'royal'); ?></label></div>
-                        <div class="form-controls">
-                        <input type="file" name="slider_3" id="package" /> </div>
-                        <div class="uploader">
-                        <input id="button_save" class="btn btn-submit" type="submit" value="<?php echo osc_esc_html(__('Upload','royal')); ?>" /> </div>
-                    </div>
-                </div>
-            </fieldset>
-        </form>
-        <p>
-            <?php _e('Has not uploaded any image', 'royal');?> </p>
-        <?php } ?> </div>
-</div>
-
 <div style="clear: both;"></div>
 <?php } else { ?>
                <div id="flash_message">

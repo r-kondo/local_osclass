@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -39,31 +39,41 @@
                         <?php } else { ?>
                         <?php while(osc_has_alerts()) { ?>
                         <div class="userItem">
-                            <div>
+                            <div class="alerta">
                                 <?php _e("Alert", 'royal'); ?> |
                                 <a onclick="javascript:return confirm('<?php echo osc_esc_js(__('This action can\'t be undone. Are you sure you want to continue?', 'royal')); ?>');" href="<?php echo osc_user_unsubscribe_alert_url(); ?>">
                                     <?php _e("Delete this alert", 'royal'); ?> </a>
                             </div>
                             <?php while(osc_has_items()) { ?>
-                            <?php if( osc_images_enabled_at_items() ) { ?>
-                            <div class="col-md-2">
-                                <?php if(osc_count_item_resources()) { ?><a href="<?php echo osc_item_url(); ?>"><img src="<?php echo osc_resource_thumbnail_url(); ?>" /></a>
-                                <?php } else { ?> <a href="<?php echo osc_item_url(); ?>"><img src="<?php echo osc_current_web_theme_url('images/no_photo.gif'); ?>"/></a>
-                                <?php } ?> </div>
-                            <?php } ?>
-                            <div class="col-md-10 text kat1">
-                                <div class="userItem">
-                                    <div>
-                                        <a href="<?php echo osc_item_url(); ?>"><?php echo osc_item_title(); ?></a>
-                                    </div>
-                                    <div class="userItemData">
-                                        <?php _e("Publication date", 'royal'); ?>:
-                                        <?php echo osc_format_date(osc_item_pub_date()); ?>
-                                        <br/>
-                                        <?php if( osc_price_enabled_at_items() && osc_item_category_price_enabled() ) { _e("Price", 'royal'); ?>:
-                                        <?php echo osc_format_price(osc_item_price()); } ?> </div>
-                                </div>
-                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-3 col-xs-4 four-6 three-12 <?php osc_run_hook("highlight_class"); ?> grid-group-item">
+    <div class="col-item">
+        <div class="photo">
+            <?php if( osc_images_enabled_at_items() ) { ?>
+            <?php if(osc_count_item_resources()) { ?> <a href="<?php echo osc_item_url(); ?>"><img class="img-responsive" src="<?php echo osc_resource_thumbnail_url(); ?>" title="<?php echo osc_esc_html(osc_item_title()) ; ?>" alt="<?php echo osc_esc_html(osc_item_title()) ; ?>" /></a>
+            <?php } else { ?> <a href="<?php echo osc_item_url(); ?>"><img class="img-responsive" src="<?php echo osc_current_web_theme_url('images/no_photo.gif'); ?>" title="<?php echo osc_esc_html(osc_item_title()) ; ?>" alt="<?php echo osc_esc_html(osc_item_title()) ; ?>" /></a>
+            <?php } ?>
+            <?php } ?> </div>
+        <div class="info">
+            <div class="row">
+                <div class="col-md-12 price">
+                    <h5 class="price-text-color">
+                    <?php if( osc_price_enabled_at_items() && osc_item_category_price_enabled() ) { ?> <?php echo osc_format_price(osc_item_price()); ?><?php } ?></h5> </div>
+                <div class="aribudin col-md-12">
+                    <a href="<?php echo osc_item_url(); ?>"><?php echo osc_item_title(); ?></a>
+                </div>
+            </div>
+            <div class="separator clear-left">
+                <p class="btn-add"> <i class="fa fa-user"></i>
+                    <a href="<?php echo osc_user_public_profile_url( osc_item_user_id() ); ?>"><?php _e("Contact seller", 'royal') ; ?></a>
+                </p>
+                <p class="btn-details"> <i class="fa fa-list"></i>
+                    <a href="<?php echo osc_item_url(); ?>"><?php _e("More Details", 'royal') ; ?></a>
+                </p>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
                             <?php } ?>
                             <?php if(osc_count_items()==0 ) { ?>
                             <br /> 0 <?php _e("Listings", 'royal'); ?>

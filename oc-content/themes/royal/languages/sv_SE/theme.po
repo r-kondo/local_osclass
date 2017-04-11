@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:43+0700\n"
+"PO-Revision-Date: 2017-02-15 18:38+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1099,3 +1099,222 @@ msgstr "Rival Temainställningar"
 
 msgid "Rival Category"
 msgstr "Rival Kategori"
+
+msgid "Submit Ads"
+msgstr "Lägg in annons"
+
+msgid "New listings"
+msgstr "Nyinkomna"
+
+msgid "Random listings"
+msgstr "Slumpmässiga företag"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Random"
+msgstr "Slumpvis"
+
+msgid "Premium"
+msgstr "Bidrag"
+
+msgid "See all listings"
+msgstr "Visa alla annonser"
+
+msgid "Locations"
+msgstr "Platser"
+
+msgid "Popular"
+msgstr "Populära"
+
+msgid "Featured brand"
+msgstr "skiss varumärke"
+
+msgid "Statistic Info"
+msgstr "Statistic info"
+
+msgid "Social network"
+msgstr "Sociala nätverk"
+
+msgid "Payment"
+msgstr "Betalning"
+
+msgid "My listings"
+msgstr "Mina annonser"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "My alert"
+msgstr "Påminnelse"
+
+msgid "My Listings"
+msgstr "Mina Auktioner"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> Mina listor"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> Mina varningar"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> inställningar"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> byta e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> ändra lösenord"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Logga ut"
+
+msgid "Seller profile"
+msgstr "Säljarprofil"
+
+msgid "Leave Comment"
+msgstr "Lämna Kommentar"
+
+msgid "Send mail"
+msgstr "Skicka e-post"
+
+msgid "Premium listings"
+msgstr "Galleriet"
+
+msgid "Search filter"
+msgstr "sökfilter"
+
+msgid "General information"
+msgstr "Allmänna uppgifter"
+
+msgid "Upload images"
+msgstr "Ladda upp bilder"
+
+msgid "Views"
+msgstr "Visningar"
+
+msgid "Standart ads"
+msgstr "standart annonser"
+
+msgid "Premium ads"
+msgstr "Annonser i Galleriet"
+
+msgid "Default Thumbnail"
+msgstr "standard thumbnail"
+
+msgid "Small slider"
+msgstr "lilla reglaget"
+
+msgid "Slider Small Images"
+msgstr "Slider små bilder"
+
+msgid "Category count"
+msgstr "kategori count"
+
+msgid "Custom Useful Information"
+msgstr "Anpassad Praktisk information"
+
+msgid "Home Premium Ads"
+msgstr "Annonser i Galleriet"
+
+msgid "Latest and Random Ads Display"
+msgstr "Senaste och Random annonser Display"
+
+msgid "Home latest Ads"
+msgstr "Nyast"
+
+msgid "Home Random Ads"
+msgstr "Slumpmässig"
+
+msgid "Ads by category Display"
+msgstr "Annonser efter kategori Display"
+
+msgid "Ads by category"
+msgstr "Annonser per kategori"
+
+msgid "Item post multilanguges"
+msgstr "Objektet placera sina multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Denna annons kommer att visas högst upp på din webbplats. Observera att storleken på annonsen måste vara 728x90 pixlar."
+
+msgid "Price settings"
+msgstr "pris inställningar"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Du kan använda sex sceme färg från tema eller så kan du anpassa din egen färg med strömbrytare skräddarsy panel."
+
+msgid "create new TOS pages and paste url here"
+msgstr "skapa nya TOS sidor och klistra in webbadressen här"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Titel och undertext"
+
+msgid "Seller information"
+msgstr "Säljare information"
+
+msgid "Popular Location"
+msgstr "populär plats"
+
+msgid "Latest search"
+msgstr "senaste sök"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Item Id"
+msgstr "Artikel ID"
+
+msgid "Total member"
+msgstr "totalt medlem"
+
+msgid "Your email"
+msgstr "Din email"
+
+msgid "Already have an account ?"
+msgstr "Har du redan ett konto?"
+
+msgid "Lost password ?"
+msgstr "Glömt lösenord?"
+
+msgid "Don't have an account !"
+msgstr "Don't have an account !"
+
+msgid "Forgot password"
+msgstr "Glömt lösenordet"
+
+msgid "Note"
+msgstr "Anteckning"
+
+msgid "Please don't send spam messages"
+msgstr "Skicka inte skräppost"
+
+msgid "View"
+msgstr "Visa"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profil"
+
+msgid "User Id"
+msgstr "Användar-ID"
+
+msgid "Edit item"
+msgstr "Redigera artikel"
+
+msgid "Detail"
+msgstr "Detalj"
+
+msgid "Client"
+msgstr "Kund"
+
+msgid "Advance Search"
+msgstr "Advance Sök"
+
+msgid "Subcribe"
+msgstr "Prenumerera"
+
+msgid "Hi Guest !"
+msgstr "Hej Gäst!"
+
+msgid "ID"
+msgstr "ID"

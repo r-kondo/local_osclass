@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -30,7 +30,8 @@ $locales   = __get('locales');
     <body>
     <?php osc_current_web_theme_path( 'header.php'); ?>
     <div id="content" class="container">
-        <div class="col-md-9 nita kananku">
+        <?php osc_current_web_theme_path('search-sidebar.php'); ?>
+        <div class="col-md-9 nita">
             <div class="row list-group-item">
                 <div id="list_head">
                     <div class="inner">
@@ -111,8 +112,7 @@ $locales   = __get('locales');
                 <div class="clear"></div>
             </div>
         </div>
-            
-<?php osc_current_web_theme_path('search-sidebar.php'); ?></div>
+</div>
 <?php osc_current_web_theme_path('footer.php'); ?>
                         <script>
 				$(document).ready(function() {

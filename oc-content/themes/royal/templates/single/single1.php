@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -123,6 +123,19 @@ span.price {
                                     </p>
                                     <br>
                                     <?php } else { ?>
+<div class="cals topper hidden-md-up">
+ <div class="report-inner section_bg">
+    	<div class="row"><?php if ( osc_user_phone_mobile() !='' ) { ?>
+        	<div class="col-xs-6">
+            	<a href="sms:<?php echo osc_user_phone_mobile(); ?>"  class="btn btn-call btn-block"><span class=" fa fa-envelope"></span> <?php _e('Sms', 'royal'); ?></a>
+            </div><?php } ?>
+             <?php if ( osc_user_phone() !='' ) { ?>
+            <div class="col-xs-6">
+            	<a href="tel:<?php echo osc_user_phone(); ?>"  class="btn btn-call  btn-block "><span class="txt_color_1  fa fa-phone"></span> <?php _e('Call', 'royal'); ?></a>
+            </div><?php } ?>
+        </div>
+    </div>
+</div>
                                     <?php if( osc_item_user_id() !=null ) { ?>
                                     <button type="button" class="btn btn-default btn-lg btn-block"> <strong><p class="name"><?php _e("Name", 'royal') ?>: <a href="<?php echo osc_user_public_profile_url( osc_item_user_id() ); ?>" ><?php echo osc_item_contact_name(); ?></a></p></strong> </button>
                                     <?php } else { ?>

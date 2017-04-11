@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -10,7 +10,6 @@
      *         
      *       If you need more licenses for this software. Please read more here <http://www.osclass.me/osclass-me-license/>.
      */
-/*
     $address = '';
     if(osc_user_address()!='') {
         if(osc_user_city_area()!='') {
@@ -20,21 +19,21 @@
         }
     } else {
         $address = osc_user_city_area();
-    }*/
+    }
     $location_array = array();
+    if(trim(osc_user_city()." ".osc_user_zip())!='') {
+        $location_array[] = trim(osc_user_city()." ".osc_user_zip());
+    }
     if(osc_user_region()!='') {
-      $location_array[] = osc_user_region();
+        $location_array[] = osc_user_region();
     }
-    if(trim(osc_user_city())!='') {
-        $location_array[] = trim(osc_user_city());
+    if(osc_user_country()!='') {
+        $location_array[] = osc_user_country();
     }
-    $location = implode("", $location_array);
+    $location = implode(", ", $location_array);
     unset($location_array);
 
     osc_enqueue_script('jquery-validate');
-
-    $mr_user = mr_user(osc_user_id());
-    $mr_children = mr_children(osc_user_id());
 ?>
 <!DOCTYPE html>
 <html dir="ltr" lang="<?php echo str_replace('_', '-', osc_current_user_locale()); ?>">
@@ -49,21 +48,24 @@
     .col-item .btn-details {
         width: 100%;
     }
+    ul#user_data {
+        padding: 0px 10px;
+    }
     </style>
     <div class="container">
         <div class="row profile">
-            <div class="col-md-12">
+            <div class="col-md-3">
                 <div class="profile-sidebar">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <?php 
-                          if(isset($mr_user['image_path']) && $mr_user['image_path']){
-                            echo '<img src="/oc-content/uploads/profiles/'.$mr_user['image_path'].'" class="img-responsive">';
-                          }else{
-                            osc_current_web_theme_path('common/avatar.php') ;
-                          }
-                        ?>
-                        </div>
+                        <?php osc_current_web_theme_path('common/avatar.php') ; ?></div>
+                    <!-- SIDEBAR USER TITLE -->
+                    <div class="profile-usertitle">
+                        <div class="profile-usertitle-name">
+                            <?php echo osc_user_name(); ?> </div>
+                        <div class="profile-usertitle-job">
+                            <?php echo osc_user_website(); ?> </div>
+                    </div>
                     
                     <?php if( osc_reg_user_can_contact() && !osc_is_web_user_logged_in() ) { ?>
                     <div class="profile-user">
@@ -73,100 +75,56 @@
                     </div>
                     <br>
                     <?php } else { ?>
+                    <div class="profile-userbuttons">
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal"><i class="fa fa-envelope"></i>
+                            <?php _e("Send Mail", 'royal'); ?> </button>
+                    </div>
+                    <!-- END SIDEBAR BUTTONS -->
+
+<div class="cals topper hidden-md-up">
+ <div class="report-inner section_bg">
+    	<div class="row"><?php if ( osc_user_phone_mobile() !='' ) { ?>
+        	<div class="col-xs-6">
+            	<a href="sms:<?php echo osc_user_phone_mobile(); ?>"  class="btn btn-call btn-block"><span class=" fa fa-envelope"></span> <?php _e('Sms', 'royal'); ?></a>
+            </div><?php } ?>
+             <?php if ( osc_user_phone() !='' ) { ?>
+            <div class="col-xs-6">
+            	<a href="tel:<?php echo osc_user_phone(); ?>"  class="btn btn-call  btn-block "><span class="txt_color_1  fa fa-phone"></span> <?php _e('Call', 'royal'); ?></a>
+            </div><?php } ?>
+        </div>
+    </div>
+</div>
+                    <!-- SIDEBAR MENU -->
                     <div class="profile-usermenu">
-                       <div class="wrapper">
-                          <ul id="user_data">
-                            <?php /* if( osc_user_name() !=='' ) { ?>
+                        <ul id="user_data">
+                            <?php if( osc_user_name() !=='' ) { ?>
                             <li><b><?php _e("Full name", 'royal'); ?></b>:
                                 <?php echo osc_user_name(); ?> </li>
-                            <?php } */ ?>
-                            <?php 
-                            if( isset($mr_user['birthday']) && $mr_user['birthday'] !=='' ) { 
-                              $birthday_year = explode('-', $mr_user['birthday']);
-                              $year = date('Y');
-                              $user_old = (int)$year - (int)$birthday_year[0];
-                            ?>
-                            <li><?php echo floor($user_old/10)*10; ?>代 
-                            <?php 
-                            if($mr_user['sex'] == '1'){
-                              echo '男性';
-                            }else{
-                              echo '女性';
-                            }
-                            ?></li>
+                            <?php } ?>
+                            <?php if( osc_user_phone() !=='' ) { ?>
+                            <li><b><?php _e("Phone", 'royal'); ?></b>:
+                                <?php echo osc_user_phone(); ?> </li>
+                            <?php } ?>
+                            <?php if( osc_user_phone_mobile() !=='' ) { ?>
+                            <li><b><?php _e("Cell phone", 'royal'); ?></b>:
+                                <?php echo osc_user_phone_mobile(); ?> </li>
+                            <?php } ?>
+                            <?php if( $address !=='' ) { ?>
+                            <li><b><?php _e("Address", 'royal'); ?></b>:
+                                <?php echo $address; ?> </li>
                             <?php } ?>
                             <?php if( $location !=='' ) { ?>
-                            <li>地域:&nbsp;<?php echo $location; ?></li>
+                            <li><b><?php _e("Location", 'royal'); ?></b>:
+                                <?php echo $location; ?> </li>
                             <?php } ?>
-                          </ul>
-                        </div>
-
-                        <?php if( osc_user_info() !=='' ) { ?>
-                        <div class="user-description wrapper">
-                          <h2>自己紹介</h2>
-                            <?php echo nl2br(osc_user_info()); ?>
-                        </div>
-                        <?php } ?> 
-                        <?php
-                        $count = count($mr_children);
-                        if($count) { ?>
-                        <div class="children-data wrapper clearfix">
-                          <h2>お子様</h2>
-                          <table class="table table-bordered table-striped table-responsive">
-                              <?php 
-                                for($i=0; $i<$count; $i++){
-                                  if(isset($mr_children[$i])){
-?>
-                            <tr>
-                              <td>
-                            <?php 
-                                    if( isset($mr_children[$i]['birthday']) && $mr_children[$i]['birthday'] !== '' ) { 
-                                      $birthday_year = str_replace('-','',$mr_children[$i]['birthday']);
-                                      $year = date('Ymd');
-                                      $child_old = (int)$year - (int)$birthday_year;
-                                      echo floor($child_old/10000).'歳';
-                                    } else {
-                                      echo '-';
-                                    }
-                                    ?>
-</td>
-                                <td>
-                                    <?php
-                                    if($mr_children[$i]['sex'] == '1'){
-                                      echo '男の子';
-                                    }else{
-                                      echo '女の子';
-                                    }
-                                    ?>
-                                </td>
-                                <td>
-                                    <?php echo $mr_children[$i]['personality']; ?>
-                                </td>
-                              </tr>                                                             
-                              <?php
-                                  }
-                                }
-?>
-                          </table>
-                        </div>
-                        <?php } ?>
-                        <div class="places-data wrapper">
-                          <h2>保育場所写真</h2>
-                          <?php
-                          for($i=1; $i<6; $i++){
-                            if(isset($mr_user['room_image_path_'.$i]) && $mr_user['room_image_path_'.$i] != ''){
-                              echo '<img src="/oc-content/uploads/rooms/'.$mr_user['room_image_path_'.$i].'" class="img-responsive center-block">'; 
-                            }
-                          }
-                          ?>
-                        </div>
-                        <?php if($mr_user['station_name']) { ?>
-                        <div class="station-data wrapper">
-                          <h2>最寄り駅</h2>
-                                <p><?php if($mr_user['station_line']) { echo $mr_user['station_line']; } ?>線&nbsp;<?php echo $mr_user['station_name'];?>駅</p>
-                                <?php if($mr_user['station_walk']) { ?><p><?php echo $mr_user['station_name'];?>より徒歩<?php echo $mr_user['station_walk'];?>分</p><?php } ?>
-                        </div>
-                        <?php } ?>
+                            <?php if( osc_user_website() !=='' ) { ?>
+                            <li><b><?php _e("Website", 'royal'); ?></b>:
+                                <?php echo osc_user_website(); ?> </li>
+                            <?php } ?>
+                            <?php if( osc_user_info() !=='' ) { ?>
+                            <li><b><?php _e("User Description", 'royal'); ?></b>:
+                                <?php echo osc_user_info(); ?> </li>
+                            <?php } ?> </ul>
                     </div>
                     <?php } ?>
                     
@@ -248,6 +206,66 @@
                         </div>
                     </div>
                     <?php } } ?> </div>
+<center><!-- AddThis Button BEGIN -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style rini">
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div>
+                <script type="text/javascript">
+                var addthis_config = {
+                    "data_track_addressbar": true
+                };
+                </script>
+                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52a877a15b8d59d4"></script>
+                <!-- AddThis Button END --></center>
+                <center class="ads-right"><?php echo osc_get_preference('sidebar-160x600', 'royal'); ?></center>
+            </div>
+            <div class="col-md-9">
+                <div class="profile-content">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h1><?php echo sprintf(__('Listings from %s', 'royal') ,osc_user_name()); ?></h1> 
+                        </div>
+                        <div class="panel-body">
+                            <div id="products" class="row list-group">
+                                <?php while(osc_has_items()) { ?>
+                                <div class="item <?php osc_run_hook("highlight_class"); ?> col-lg-4 col-md-4 col-sm-3 col-xs-4 four-6 three-12">
+                                    <div class="col-item">
+                                        <div class="photo">
+                                            <?php if( osc_images_enabled_at_items() ) { ?>
+                                            <?php if(osc_count_item_resources()) { ?> <a href="<?php echo osc_item_url(); ?>"><img class="img-responsive" src="<?php echo osc_resource_thumbnail_url(); ?>" title="<?php echo osc_esc_html(osc_item_title()) ; ?>" alt="<?php echo osc_esc_html(osc_item_title()) ; ?>" /></a>
+                                            <?php } else { ?> <img class="img-responsive" src="<?php echo osc_current_web_theme_url('images/no_photo.gif'); ?>" title="<?php echo osc_esc_html(osc_item_title()) ; ?>" alt="<?php echo osc_esc_html(osc_item_title()) ; ?>" />
+                                            <?php } ?>
+                                            <?php } ?> </div>
+                                        <div class="info">
+                                            <div class="row">
+                                                <div class="col-md-12 price">
+                                                    <h5 class="price-text-color">
+<?php if( osc_price_enabled_at_items() && osc_item_category_price_enabled() ) { echo osc_format_price(osc_item_price()); ?>
+                                                        <?php } ?></h5> 
+                                                </div>
+                                                <div class="aribudin col-md-12">
+                                                    <a href="<?php echo osc_item_url(); ?>"><?php echo osc_item_title(); ?></a>
+                                                </div>
+                                            </div>
+                                            <div class="separator clear-left">
+                                                <p class="btn-details"> <i class="fa fa-list"></i>
+                                                    <a href="<?php echo osc_item_url(); ?>"><?php _e("More details", 'royal') ; ?></a>
+                                                </p>
+                                            </div>
+                                            <div class="clearfix"> </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <?php } ?> </div>
+                            <div class="paginate"><?php echo osc_pagination_items(); ?></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-03-27 18:15+0900\n"
+"PO-Revision-Date: 2017-02-15 17:54+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Language-Team: osclass me <cs@osclass.me>\n"
@@ -19,22 +19,22 @@ msgid "New pasword"
 msgstr "新しいパスワード"
 
 msgid "Repeat new pasword"
-msgstr "新しいパスワードの再確認"
+msgstr "新しいパスワードを繰り返します"
 
 msgid "Page not found"
 msgstr "ページが見つかりません"
 
 msgid "You have sucessfully subscribed to the alert"
-msgstr "通知アラートに登録しました。"
+msgstr "あなたが首尾よくアラートに登録しています"
 
 msgid "Invalid email address"
-msgstr "メールアドレスが正しくありません。"
+msgstr "無効なメールアドレスです。"
 
 msgid "There was a problem with the alert"
-msgstr "通知に問題がありました。"
+msgstr "アラートに問題がありました"
 
 msgid "Subscribe to this search"
-msgstr "この検索条件を登録する。"
+msgstr "この検索購読する"
 
 msgid "Subscribe now"
 msgstr "今すぐ登録！"
@@ -46,28 +46,28 @@ msgid "Subject"
 msgstr "件名"
 
 msgid "optional"
-msgstr "任意"
+msgstr "オプションの。"
 
 msgid "Message"
-msgstr "本文"
+msgstr "メッセージ"
 
 msgid "Your name"
-msgstr "お名前"
+msgstr "氏名"
 
 msgid "Your e-mail address"
-msgstr "あなたのメールアドレス"
+msgstr "メールアドレス"
 
 msgid "Send"
 msgstr "送信"
 
 msgid "Contact"
-msgstr "この人に連絡する"
+msgstr "連絡先"
 
 msgid "Your search must be at least three characters long"
 msgstr "あなたの検索は、少なくとも 3 文字をする必要があります。"
 
 msgid "Theme settings updated correctly"
-msgstr "テーマ設定は正常に更新されました。"
+msgstr "テーマ設定が正しく更新します"
 
 msgid "The logo image has been uploaded correctly"
 msgstr "ロゴ画像が正しくアップロードされました"
@@ -76,7 +76,7 @@ msgid "An error has occurred, please try again"
 msgstr "エラーが発生しました。もう一度お試しください"
 
 msgid "The logo image has been removed"
-msgstr "ロゴ画像は削除されました。"
+msgstr "ロゴ画像が除去されています"
 
 msgid "Image not found"
 msgstr "画像が見つかりません"
@@ -85,7 +85,7 @@ msgid "Header logo"
 msgstr "ヘッダーロゴ"
 
 msgid "Theme settings"
-msgstr "テーマ設定"
+msgstr "テーマの設定"
 
 msgid "ie. PHP Programmer"
 msgstr "すなわち。 PHPプログラマー"
@@ -97,13 +97,10 @@ msgid "Choose File"
 msgstr "ファイルを選択してください。"
 
 msgid "Hi %s"
-msgstr "%s さん、こんにちわ。"
+msgstr "ハイ %"
 
 msgid "My account"
-msgstr "マイアカウント"
-
-msgid "My favorite"
-msgstr "お気に入り"
+msgstr "マイ　アカウント"
 
 msgid "Logout"
 msgstr "ログアウト"
@@ -112,16 +109,16 @@ msgid "Login"
 msgstr "ログイン"
 
 msgid "Register for a free account"
-msgstr "利用登録する（無料）"
+msgstr "無料アカウントに登録"
 
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "メールアドレス"
 
 msgid "Password"
 msgstr "パスワード"
 
 msgid "Remember me"
-msgstr "次回からログインを不要とする"
+msgstr "パスワードを記憶させる"
 
 msgid "Log in"
 msgstr "ログイン"
@@ -133,7 +130,7 @@ msgid "Language"
 msgstr "言語"
 
 msgid "Publish your ad for free"
-msgstr "保育者登録"
+msgstr "無料であなたの広告を公開"
 
 msgid "Select a category"
 msgstr "カテゴリーを選択"
@@ -142,15 +139,13 @@ msgid "Search"
 msgstr "検索"
 
 msgid "Contact seller"
-msgstr "この人に問い合わせる"
+msgstr "売り手に連絡します"
 
-msgid ""
-"You must log in or register a new account in order to contact the advertiser"
-msgstr ""
-"この人に連絡するためには、ログインもしくはアカウントの新規作成が必要です。"
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "あなたは、ログインするか、広告主に連絡するために新しいアカウントを登録する必要があります"
 
 msgid "To (seller)"
-msgstr "この人に問い合わせる"
+msgstr "（売り手）について"
 
 msgid "Listing"
 msgstr "リスティング"
@@ -162,7 +157,7 @@ msgid "Send message"
 msgstr "メッセージを送信"
 
 msgid "Update your listing"
-msgstr "保育者プロフィールをを編集する"
+msgstr "リスティングを更新します。"
 
 msgid "General Information"
 msgstr "一般情報"
@@ -171,7 +166,7 @@ msgid "Category"
 msgstr "カテゴリー"
 
 msgid "Price"
-msgstr "金額"
+msgstr "価格"
 
 msgid "Photos"
 msgstr "写真"
@@ -192,10 +187,10 @@ msgid "City"
 msgstr "市区町村"
 
 msgid "City area"
-msgstr "丁目・番地など"
+msgstr "シティエリア"
 
 msgid "Address"
-msgstr "住所詳細"
+msgstr "番地"
 
 msgid "Update"
 msgstr "更新"
@@ -204,28 +199,28 @@ msgid "Cancel"
 msgstr "キャンセル"
 
 msgid "Publish a listing"
-msgstr "保育者プロフィールを登録する"
+msgstr "リストを公開"
 
 msgid "Listing Location"
-msgstr "保育者プロフィール対象エリア"
+msgstr "所在地"
 
 msgid "City Area"
-msgstr "居住エリア"
+msgstr "シティ周辺"
 
 msgid "Seller's information"
-msgstr "保育者プロフィールを出した人の情報"
+msgstr "出品者の情報"
 
 msgid "Name"
 msgstr "名前"
 
 msgid "Show e-mail on the listing page"
-msgstr "保育者プロフィールページにメールアドレスを表示"
+msgstr "リストページ上の電子メールを表示します"
 
 msgid "Publish"
 msgstr "公開日時"
 
 msgid "Send to a friend"
-msgstr "友達に紹介する"
+msgstr "友だちに送信"
 
 msgid "Your friend's name"
 msgstr "お友達のお名前"
@@ -234,25 +229,25 @@ msgid "Your friend's e-mail address"
 msgstr "お友達の電子メールアドレス"
 
 msgid "Mark as"
-msgstr "要注意申請"
+msgstr "としてをマークします。"
 
 msgid "spam"
-msgstr "スパムとしてマークする"
+msgstr "スパム"
 
 msgid "misclassified"
-msgstr "分類に誤りがある"
+msgstr "誤判別"
 
 msgid "duplicated"
-msgstr "二重保育者プロフィール"
+msgstr "重複した"
 
 msgid "expired"
 msgstr "期限切れ"
 
 msgid "offensive"
-msgstr "スパムまたは攻撃的"
+msgstr "攻撃"
 
 msgid "Published date"
-msgstr "公開日"
+msgstr "公開された日付"
 
 msgid "Modified date"
 msgstr "更新日"
@@ -264,35 +259,25 @@ msgid "Useful information"
 msgstr "お役立ち情報"
 
 msgid "Avoid scams by acting locally or paying with PayPal"
-msgstr "直接会うか、PayPalで支払うことによって、詐欺を回避できます。"
+msgstr "局所的に作用するか、PayPalで支払うことで詐欺を避ける"
 
-msgid ""
-"Never pay with Western Union, Moneygram or other anonymous payment services"
-msgstr "匿名の支払いサービスは避けましょう。"
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "ウェスタンユニオン、マネーグラム、または他の匿名の決済サービスで支払うことはありません"
 
-msgid ""
-"Don't buy or sell outside of your country. Don't accept cashier cheques from "
-"outside your country"
-msgstr ""
-"あなたの国以外での売買はやめましょう。国外からのチェック払いを受け付けてはい"
-"けません。"
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "あなたの国の外で売買しないでください。あなたの国の外からレジチェックを受け入れないでください"
 
-msgid ""
-"This site is never involved in any transaction, and does not handle "
-"payments, shipping, guarantee transactions, provide escrow services, or "
-"offer \"buyer protection\" or \"seller certification\""
-msgstr ""
-"本サイトは、いかなる取引にも関与せず、支払い、発送、取引の保証、エスクロー"
-"サービスの提供、購入者の保護や売り主の保証といった事は一切行いません。"
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "このサイトは、任意のトランザクションに関与されることはありませんし、エスクローサービスを提供し、又はオファー「買い手保護」または「販売者認定」、支払い、出荷、保証トランザクションを処理しない"
 
 msgid "Comments"
 msgstr "コメント"
 
 msgid "by"
-msgstr "保育者プロフィール者:"
+msgstr "投稿者:"
 
 msgid "Delete your comment"
-msgstr "コメントを削除"
+msgstr "あなたのコメントを削除します"
 
 msgid "Delete"
 msgstr "削除"
@@ -316,31 +301,31 @@ msgid "Image"
 msgstr "画像"
 
 msgid "Contact publisher"
-msgstr "この人に連絡する"
+msgstr "連絡先の出版社"
 
 msgid "Tel"
-msgstr "電話番号"
+msgstr "電話"
 
 msgid "Enter the words above"
-msgstr "上に表示されている文字を入力してください。"
+msgstr "上記の言葉を入力してください"
 
 msgid "Help"
 msgstr "ヘルプ"
 
 msgid "Latest Listings"
-msgstr "新着"
+msgstr "最近の広告"
 
 msgid "No Latest Listings"
-msgstr "最新登録された保育者プロフィール"
+msgstr "最近の広告"
 
 msgid "See all offers"
-msgstr "全ての保育者プロフィールを見る"
+msgstr "すべてのオファーを見る"
 
 msgid "Sort by"
 msgstr "並び替え"
 
 msgid "There are no results matching \"%s\""
-msgstr "\"％s\"を一致する結果がありません"
+msgstr "見つかりませんでした。"
 
 msgid "Your search"
 msgstr "検索"
@@ -352,7 +337,7 @@ msgid "Show only listings with pictures"
 msgstr "写真付きのみのリストを表示します"
 
 msgid "Min"
-msgstr "最小"
+msgstr "最小数"
 
 msgid "Max"
 msgstr "最大"
@@ -364,31 +349,31 @@ msgid "Selected"
 msgstr "選択済み"
 
 msgid "Nothing selected, input was"
-msgstr "何も選択していない、入力がありました"
+msgstr "何も選択されていない、入力がありました"
 
 msgid "User account manager"
-msgstr "アカウントマネージャー"
+msgstr "アカウント マネージャ"
 
 msgid "Your alerts"
-msgstr "警告"
+msgstr "あなたのアラート"
 
 msgid "You do not have any alerts yet"
-msgstr "あなたはまだアラートを持っていません"
+msgstr "あなたはまだ、アラートを持っていません"
 
 msgid "Alert"
-msgstr "警告, 通知"
+msgstr "アラート"
 
 msgid "This action can't be undone. Are you sure you want to continue?"
-msgstr "この操作は取り消しできません。本当に続けますか？"
+msgstr "このアクションは、元に戻すことはできません。あなたが継続してもよろしいですか？"
 
 msgid "Delete this alert"
-msgstr "これを削除"
+msgstr "このアラートを削除"
 
 msgid "Publication date"
-msgstr "公開日"
+msgstr "刊行日"
 
 msgid "Listings"
-msgstr "保育者プロフィール"
+msgstr "リスティング"
 
 msgid "Change your e-mail"
 msgstr "メールアドレス変更"
@@ -412,37 +397,37 @@ msgid "Repeat new password"
 msgstr "新しいパスワードを再入力"
 
 msgid "Listings from %s"
-msgstr "％sの掲載"
+msgstr "%S からのリスト"
 
 msgid "No listings have been added yet"
-msgstr "まだ保育者プロフィールは登録されていません。"
+msgstr "いいえリストはまだ追加されていません"
 
 msgid "View listing"
 msgstr "表示リスト"
 
 msgid "Edit"
-msgstr "編集"
+msgstr "エディット"
 
 msgid "Activate"
-msgstr "有効化"
+msgstr "有効にする"
 
 msgid "Recover your password"
-msgstr "パスワード"
+msgstr "あなたのパスワードを回復"
 
 msgid "Change password"
 msgstr "パスワード変更"
 
 msgid "Your listings"
-msgstr "保育者プロフィール"
+msgstr "リスティング"
 
 msgid "Post a new listing"
-msgstr "保育者プロフィールを登録する"
+msgstr "新しい投稿を公開"
 
 msgid "You don't have any listings yet"
 msgstr "任意のリストをまだ持っていません。"
 
 msgid "This action can not be undone. Are you sure you want to continue?"
-msgstr "この操作は取り消しができません。本当に続けますか？"
+msgstr "このアクションは、元に戻すことはできません。あなたが継続してもよろしいですか？"
 
 msgid "Access to your account"
 msgstr "あなたのアカウントへのアクセス"
@@ -481,13 +466,13 @@ msgid "User Description"
 msgstr "ユーザーの説明"
 
 msgid "Latest listings"
-msgstr "最新登録された保育者プロフィール"
+msgstr "最近の広告"
 
 msgid "Send me a new password"
-msgstr "新しいパスワードを送信"
+msgstr "私に新しいパスワードを送信します"
 
 msgid "Register an account for free"
-msgstr "アカウントを新規登録（無料）"
+msgstr "無料でアカウントを登録"
 
 msgid "Re-type password"
 msgstr "パスワードを再入力"
@@ -510,12 +495,8 @@ msgstr "ロゴをアップロード"
 msgid "The preferred size of the logo is 600x100."
 msgstr "ロゴの好ましいサイズは600x100です。"
 
-msgid ""
-"<strong>Note:</strong> Uploading another logo will overwrite the current "
-"logo."
-msgstr ""
-"<strong>注意：</strong>別のロゴをアップロードすると、現在のロゴを上書きしま"
-"す。"
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>注意：</strong>別のロゴをアップロードすると、現在のロゴを上書きします。"
 
 msgid "Logo image (png,gif,jpg)"
 msgstr "ロゴ画像（PNG、GIF、JPG）"
@@ -524,14 +505,10 @@ msgid "Upload"
 msgstr "アップロード"
 
 msgid "The images folder <strong>%s</strong> is not writable on your server"
-msgstr ""
-"imagesフォルダ<strong>％sは</strong> 、サーバー上の書き込み可能ではありません"
+msgstr "imagesフォルダ<strong>％sは</strong> 、サーバー上の書き込み可能ではありません"
 
-msgid ""
-"To make a directory writable under UNIX execute this command from the shell:"
-msgstr ""
-"UNIXでディレクトリを書き込み可能にするには、シェルからこのコマンドを実行しま"
-"す。"
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "UNIXでディレクトリを書き込み可能にするには、シェルからこのコマンドを実行します。"
 
 msgid "Donate"
 msgstr "寄贈します"
@@ -549,13 +526,10 @@ msgid "Custom"
 msgstr "カスタム"
 
 msgid "It's your own listing, you can't contact the publisher."
-msgstr ""
-"それはあなた自身のリストです、あなたが出版社に連絡することはできません。"
+msgstr "それはあなた自身のリストです、あなたが出版社に連絡することはできません。"
 
 msgid "The listing is expired. You can't contact the publisher."
-msgstr ""
-"リストには、有効期限が切れています。あなたが出版社に連絡することはできませ"
-"ん。"
+msgstr "リストには、有効期限が切れています。あなたが出版社に連絡することはできません。"
 
 msgid "No logo has been uploaded yet"
 msgstr "いいえロゴはまだアップロードされていません"
@@ -563,27 +537,17 @@ msgstr "いいえロゴはまだアップロードされていません"
 msgid "Osclass can't upload the logo image from the administration panel."
 msgstr "Osclassは、管理パネルからロゴ画像をアップロードすることはできません。"
 
-msgid ""
-"I want to help Osclass by linking to <a href=\"http://osclass.org/\" target="
-"\"_blank\">osclass.org</a> from my site with the following text:"
-msgstr ""
-"私がするリンクすることによってOsclassを助けたい<a href=\"http://osclass.org/"
-"\" target=\"_blank\">osclass.org</a>次のテキストで私のサイトから："
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "私がするリンクすることによってOsclassを助けたい<a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a>次のテキストで私のサイトから："
 
 msgid "Please make the aforementioned image folder writable."
 msgstr "上記の画像フォルダを書き込み可能にしてください。"
 
-msgid ""
-"I would like to contribute to the development of Osclass with a donation of"
+msgid "I would like to contribute to the development of Osclass with a donation of"
 msgstr "私が寄付してOsclassの発展に貢献したいと思います"
 
-msgid ""
-"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
-"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
-msgstr ""
-"このウェブサイトは誇らしげに使用している<a title=\"Osclassウェブ\" href="
-"\"http://osclass.org/\">作品スクリプトの</a>ソフトウェアを<strong>Osclass</"
-"strong>"
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "このウェブサイトは誇らしげに使用している<a title=\"Osclassウェブ\" href=\"http://osclass.org/\">広告スクリプトの</a>ソフトウェアを<strong>Osclass</strong>"
 
 msgid "Default logo"
 msgstr "既定のロゴ"
@@ -592,7 +556,7 @@ msgid "Show default logo in case you didn't upload one previously"
 msgstr "以前 1 つをアップロードしていない場合に、既定のロゴを表示します。"
 
 msgid "Register"
-msgstr "利用登録"
+msgstr "レジスタ"
 
 msgid "View profile"
 msgstr "プロフィールの表示"
@@ -601,13 +565,13 @@ msgid "Send Mail"
 msgstr "メールを送信"
 
 msgid "Related Ads"
-msgstr "関連する作品"
+msgstr "関連する広告"
 
 msgid "No Related Ads"
-msgstr "関連作品がないです。"
+msgstr "関連広告がないです。"
 
 msgid "Premium Listings"
-msgstr "人気保育者ランキング"
+msgstr "優れたリスト"
 
 msgid "More Details"
 msgstr "詳細"
@@ -628,13 +592,10 @@ msgid "I agree to the"
 msgstr "私は%sに同意する"
 
 msgid "Sorry but I can't find the page you're looking for"
-msgstr ""
-"申し訳ありませんが、私は、あなたが探しているページを見つけることができません"
+msgstr "申し訳ありませんが、私は、あなたが探しているページを見つけることができません"
 
 msgid "Let us help you, we have got a few tips for you to find it."
-msgstr ""
-"我々はそれを見つけるためにあなたのためにいくつかのヒントを持っている、私たち"
-"はあなたを助けるましょう。"
+msgstr "我々はそれを見つけるためにあなたのためにいくつかのヒントを持っている、私たちはあなたを助けるましょう。"
 
 msgid "<strong>Search</strong> for it:"
 msgstr "それ<strong>を検索</strong>します："
@@ -688,13 +649,13 @@ msgid "Social Network"
 msgstr "ソーシャルネットワーク"
 
 msgid "Sponsored ad"
-msgstr "スポンサー作品"
+msgstr "スポンサー広告"
 
 msgid "Home"
 msgstr "ホーム"
 
 msgid "See all ads from"
-msgstr "すべての作品を参照してください。"
+msgstr "すべての広告を参照してください。"
 
 msgid "Pages"
 msgstr "ページ"
@@ -747,14 +708,11 @@ msgstr "閲覧"
 msgid "Total Member"
 msgstr "集計メンバー"
 
-msgid "Premium ads"
-msgstr "プレミアム作品"
-
 msgid "Latest Ads"
-msgstr "最新の作品"
+msgstr "最新の広告"
 
 msgid "Total Ads"
-msgstr "総作品"
+msgstr "総広告"
 
 msgid "Details"
 msgstr "詳細"
@@ -772,8 +730,7 @@ msgid "Logo Images"
 msgstr "ロゴ画像"
 
 msgid "Please reload or refresh your browser if images not change."
-msgstr ""
-"リロードするか、画像が変更されない場合は、ブラウザーを更新してください。"
+msgstr "リロードするか、画像が変更されない場合は、ブラウザーを更新してください。"
 
 msgid "Reload browser"
 msgstr "ブラウザーの再読み込み"
@@ -842,7 +799,7 @@ msgid "Product"
 msgstr "商品名"
 
 msgid "Advertiser"
-msgstr "作品主"
+msgstr "広告主"
 
 msgid "Social"
 msgstr "社会"
@@ -863,7 +820,7 @@ msgid "Product settings"
 msgstr "商品設定"
 
 msgid "Ads settings"
-msgstr "作品設定"
+msgstr "広告設定"
 
 msgid "Product Slider"
 msgstr "製品スライダー"
@@ -931,12 +888,8 @@ msgstr "タイトルのフッター"
 msgid "Widget on Footer"
 msgstr "フッターにウィジェット"
 
-msgid ""
-"You can add widget on footer with your custom widget ex: facebook widget or "
-"twitter widget."
-msgstr ""
-"Ex カスタム ウィジェットとフッターにウィジェットを追加することができます: "
-"facebook のウィジェットまたは twitter のウィジェット。"
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "Ex カスタム ウィジェットとフッターにウィジェットを追加することができます: facebook のウィジェットまたは twitter のウィジェット。"
 
 msgid "Title Useful Information"
 msgstr "タイトル情報"
@@ -951,40 +904,40 @@ msgid "Show lists as"
 msgstr "リストを表示するように"
 
 msgid "Slider latest Ads"
-msgstr "スライダー最新作品"
+msgstr "スライダー最新広告"
 
 msgid "Slider Premium Ads"
-msgstr "スライダー プレミアム作品"
+msgstr "スライダー プレミアム広告"
 
 msgid "Sidebar Premium Ads"
-msgstr "サイドバーのプレミアム作品"
+msgstr "サイドバーのプレミアム広告"
 
 msgid "Search Premium Ads"
-msgstr "プレミアム作品を検索"
+msgstr "プレミアム広告を検索"
 
 msgid "Amount of the Latest ads"
-msgstr "最新の作品の量"
+msgstr "最新の広告の量"
 
 msgid "Amount of the premium ads"
-msgstr "プレミアム作品量"
+msgstr "プレミアム広告量"
 
 msgid "Amount of the sidebar premium ads"
-msgstr "サイドバーのプレミアム作品量"
+msgstr "サイドバーのプレミアム広告量"
 
 msgid "Amount of the search page premium ads"
-msgstr "検索ページのプレミアム作品量"
+msgstr "検索ページのプレミアム広告量"
 
 msgid "Amount of the related ads"
-msgstr "関連作品の量"
+msgstr "関連広告の量"
 
 msgid "Premium Ads Display"
-msgstr "プレミアムの作品の表示"
+msgstr "プレミアムの広告の表示"
 
 msgid "Latest Ads Display"
-msgstr "最新の作品の表示"
+msgstr "最新の広告の表示"
 
 msgid "Ads with Category"
-msgstr "カテゴリ作品"
+msgstr "カテゴリ広告"
 
 msgid "Location Display"
 msgstr "ロケーション表示"
@@ -999,7 +952,7 @@ msgid "Show or hide"
 msgstr "表示または非表示"
 
 msgid "Ads with category"
-msgstr "カテゴリ作品"
+msgstr "カテゴリ広告"
 
 msgid "location in home"
 msgstr "家の場所"
@@ -1008,23 +961,19 @@ msgid "Brand slider"
 msgstr "ブランド スライダー"
 
 msgid "Statistic ads"
-msgstr "統計作品"
+msgstr "統計広告"
 
 msgid "Header Ads"
-msgstr "ヘッダー作品"
+msgstr "ヘッダー広告"
 
 msgid "Footer Ads"
-msgstr "フッター作品"
+msgstr "フッター広告"
 
 msgid "Search results page"
 msgstr "検索結果"
 
-msgid ""
-"This ad will be shown on the footer of your website. Note that the size of "
-"the ad has to be 728x90 pixels."
-msgstr ""
-"この作品は、あなたのウェブサイトのフッターに表示されます。作品のサイズは、"
-"728 x 90 ピクセルであることに注意してください。"
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "この広告は、あなたのウェブサイトのフッターに表示されます。広告のサイズは、728 x 90 ピクセルであることに注意してください。"
 
 msgid "Sidebar Left"
 msgstr "サイドバー左"
@@ -1033,24 +982,16 @@ msgid "Sidebar Right"
 msgstr "サイドバーを右"
 
 msgid "Sidebar Ads Member Area"
-msgstr "サイドバー作品のメンバー エリア"
+msgstr "サイドバー広告のメンバー エリア"
 
 msgid "This ad will be shown on the sidebar of your member area."
-msgstr "この作品は、あなたのメンバー エリアのサイドバーになります。"
+msgstr "この広告は、あなたのメンバー エリアのサイドバーになります。"
 
-msgid ""
-"This ad will be shown at the right sidebar of your website. Note that the "
-"size of the ad has to be 300x350 pixels."
-msgstr ""
-"この作品は、あなたのウェブサイトの右のサイドバーで表示されます。作品のサイズ"
-"は、300 × 350 ピクセルにすることに注意してください。"
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "この広告は、あなたのウェブサイトの右のサイドバーで表示されます。広告のサイズは、300 × 350 ピクセルにすることに注意してください。"
 
-msgid ""
-"This ad will be shown at the right sidebar of your website. Note that the "
-"size of the ad has to be 160x600 pixels."
-msgstr ""
-"この作品は、あなたのウェブサイトの右のサイドバーで表示されます。作品のサイズ"
-"が 160 × 600 ピクセルでなければならないことに注意してください。"
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "この広告は、あなたのウェブサイトの右のサイドバーで表示されます。広告のサイズが 160 × 600 ピクセルでなければならないことに注意してください。"
 
 msgid "Auto Play Product Slider"
 msgstr "自動再生製品スライダー"
@@ -1068,20 +1009,13 @@ msgid "create new pages TOS and copy url here"
 msgstr "新しいページの利用規約を作成し、url をここにコピー"
 
 msgid "you must install fb login plugin, before activate Facebook Login"
-msgstr ""
-"あなたは fb のログインのプラグインをインストールする必要があります、Facebook "
-"のログインを有効にする前に"
+msgstr "あなたは fb のログインのプラグインをインストールする必要があります、Facebook のログインを有効にする前に"
 
-msgid ""
-"you must install madhouse avatar plugin, before activate madhouse avatar"
-msgstr ""
-"あなたはマッドハウス アバター プラグインをインストールする必要があります、"
-"マッドハウス アバターを有効にする前に"
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "あなたはマッドハウス アバター プラグインをインストールする必要があります、マッドハウス アバターを有効にする前に"
 
 msgid "you must install watchlist plugin, before activate watchlist"
-msgstr ""
-"あなたはウォッチ リストのプラグインをインストールする必要があります、前に"
-"ウォッチ リストをアクティブにします。"
+msgstr "あなたはウォッチ リストのプラグインをインストールする必要があります、前にウォッチ リストをアクティブにします。"
 
 msgid "you can customize html code on home"
 msgstr "ホーム上の html コードをカスタマイズします。"
@@ -1092,21 +1026,11 @@ msgstr "costumize html スライダーの下の家をすることができます
 msgid "insert your text or html code"
 msgstr "テキストまたは html コードを挿入します"
 
-msgid ""
-"This ad will be shown at the top of your website, next to the site title and "
-"above the search results. Note that the size of the ad has to be 728x90 "
-"pixels."
-msgstr ""
-"この作品は、次のサイトのタイトルにし、検索結果の上、ウェブサイトの上部に表示"
-"されます。作品のサイズは728×90ピクセルなければならないことに注意してくださ"
-"い。"
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "この広告は、次のサイトのタイトルにし、検索結果の上、ウェブサイトの上部に表示されます。広告のサイズは728×90ピクセルなければならないことに注意してください。"
 
-msgid ""
-"This ad will be shown among the search results of your site. Note that the "
-"size of the ad has to be 728x90 pixels."
-msgstr ""
-"この作品は、あなたのサイトの検索結果の中に表示されます。作品のサイズは、728 "
-"x 90 ピクセルであることに注意してください。"
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "この広告は、あなたのサイトの検索結果の中に表示されます。広告のサイズは、728 x 90 ピクセルであることに注意してください。"
 
 msgid "view"
 msgstr "詳しく"
@@ -1123,21 +1047,14 @@ msgstr "ユーザー名"
 msgid "Company"
 msgstr "会社"
 
-msgid ""
-"WARNING: Once set, you will not be able to change your username again. "
-"Choose wisely."
-msgstr ""
-"警告: 一度設定したら、するされませんユーザー名を再度変更することができます。"
-"賢明な選択します。"
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "警告: 一度設定したら、するされませんユーザー名を再度変更することができます。賢明な選択します。"
 
 msgid "Change your username"
 msgstr "ユーザー名を変更します。"
 
-msgid ""
-"All your listings and alerts will be removed, this action can not be undone."
-msgstr ""
-"すべてのあなたのリストおよびアラートが削除され、このアクションは元に戻すこと"
-"はできません。"
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "すべてのあなたのリストおよびアラートが削除され、このアクションは元に戻すことはできません。"
 
 msgid "Delete account"
 msgstr "アカウント削除"
@@ -1150,3 +1067,222 @@ msgstr "Rival のテーマ設定"
 
 msgid "Rival Category"
 msgstr "Rival カテゴリー"
+
+msgid "Submit Ads"
+msgstr "広告を送信します。"
+
+msgid "New listings"
+msgstr "新規追加"
+
+msgid "Random listings"
+msgstr "ランダム リスト"
+
+msgid "New"
+msgstr "新しい"
+
+msgid "Random"
+msgstr "ランダム"
+
+msgid "Premium"
+msgstr "プレミアム"
+
+msgid "See all listings"
+msgstr "全ての投稿を見る"
+
+msgid "Locations"
+msgstr "変換されました"
+
+msgid "Popular"
+msgstr "人気"
+
+msgid "Featured brand"
+msgstr "注目ブランド"
+
+msgid "Statistic Info"
+msgstr "統計量"
+
+msgid "Social network"
+msgstr "社会的ネットワーク"
+
+msgid "Payment"
+msgstr "お支払い"
+
+msgid "My listings"
+msgstr "あなたの商品"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "My alert"
+msgstr "私の警告"
+
+msgid "My Listings"
+msgstr "リスティングを見る"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>私のリスト"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>マイアラート"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>設定"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>電子メールを変更します。"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>パスワードの変更"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>ログアウト"
+
+msgid "Seller profile"
+msgstr "販売者プロフィール"
+
+msgid "Leave Comment"
+msgstr "コメントを書く"
+
+msgid "Send mail"
+msgstr "メールを送信"
+
+msgid "Premium listings"
+msgstr "プレミアムリスティング"
+
+msgid "Search filter"
+msgstr "検索フィルター"
+
+msgid "General information"
+msgstr "一般情報"
+
+msgid "Upload images"
+msgstr "画像をアップロード"
+
+msgid "Views"
+msgstr "ページビュー数"
+
+msgid "Standart ads"
+msgstr "スタンダール広告"
+
+msgid "Premium ads"
+msgstr "スポンサー様広告"
+
+msgid "Default Thumbnail"
+msgstr "初期サムネイル"
+
+msgid "Small slider"
+msgstr "小さなスライダー"
+
+msgid "Slider Small Images"
+msgstr "スライダーの小さな画像"
+
+msgid "Category count"
+msgstr "カテゴリ数"
+
+msgid "Custom Useful Information"
+msgstr "カスタムの有用な情報"
+
+msgid "Home Premium Ads"
+msgstr "スポンサー様広告"
+
+msgid "Latest and Random Ads Display"
+msgstr "最新のとランダム広告表示"
+
+msgid "Home latest Ads"
+msgstr "最新の広告"
+
+msgid "Home Random Ads"
+msgstr "ホームのランダム広告"
+
+msgid "Ads by category Display"
+msgstr "広告では、カテゴリ表示"
+
+msgid "Ads by category"
+msgstr "カテゴリ別広告"
+
+msgid "Item post multilanguges"
+msgstr "アイテム ポスト multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "この広告は、あなたのウェブサイトの上部に表示されます。広告のサイズは、728 x 90 ピクセルであることに注意してください。"
+
+msgid "Price settings"
+msgstr "価格設定"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "テーマから 6 の sceme 色を使用できるまたはスイッチと独自の色をカスタマイズすることができますパネル カスタマイズします。"
+
+msgid "create new TOS pages and paste url here"
+msgstr "ここ url を貼り付けるし、新しい利用規約のページを作成"
+
+msgid "Slider Title and Subtitle"
+msgstr "スライダーのタイトルとサブタイトル"
+
+msgid "Seller information"
+msgstr "投稿者の情報"
+
+msgid "Popular Location"
+msgstr "人気の場所"
+
+msgid "Latest search"
+msgstr "最近の広告"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Item Id"
+msgstr "項目ID"
+
+msgid "Total member"
+msgstr "集計メンバー"
+
+msgid "Your email"
+msgstr "メールアドレス"
+
+msgid "Already have an account ?"
+msgstr "すでにアカウントをお持ちですか ?"
+
+msgid "Lost password ?"
+msgstr "パスワードを忘れ？"
+
+msgid "Don't have an account !"
+msgstr "アカウントはお持ちですか？"
+
+msgid "Forgot password"
+msgstr "パスワードを忘れた"
+
+msgid "Note"
+msgstr "出荷情報（ゆうパック追跡番号）"
+
+msgid "Please don't send spam messages"
+msgstr "スパムメッセージを送らないでください"
+
+msgid "View"
+msgstr "表示"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i>プロフィール"
+
+msgid "User Id"
+msgstr "ユーザー Id"
+
+msgid "Edit item"
+msgstr "アイテムを編集"
+
+msgid "Detail"
+msgstr "詳細"
+
+msgid "Client"
+msgstr "依頼主"
+
+msgid "Advance Search"
+msgstr "高度な検索"
+
+msgid "Subcribe"
+msgstr "サブスクライブ"
+
+msgid "Hi Guest !"
+msgstr "こんにちはゲスト！"
+
+msgid "ID"
+msgstr "ID"

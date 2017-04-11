@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -89,14 +89,7 @@ span.price {
                         <?php } ?> </div>
                     <?php } ?> </div>
                 <h2 class="harga"><?php if( osc_price_enabled_at_items() && osc_item_category_price_enabled() ) { ?><?php echo osc_item_formated_price(); ?> <?php } ?></h2>
-                <!-- お気に入り追加 -->
-                <div class="fv-div-wrap">
-                <?php if(osc_is_web_user_logged_in() && function_exists('add_favorite_button') && !(is_sitter(osc_logged_user_id()))) { add_favorite_button(osc_item_user_id(), osc_logged_user_id(), osc_item_id()); } ?>
-                <?php if(function_exists('disp_favorite_users')) { disp_favorite_users(osc_item_user_id()); } ?>
-                </div>
-                <!--/ お気に入り追加-->
-                <?php if(function_exists('im_contact_button')) { im_contact_button(); } ?>
-                <div class="add-to-box">                
+                <div class="add-to-box">
                     <!-- Small modal -->
                     <button type="button" class="btn btn-primary btn-lg rini" data-toggle="modal" data-target=".modal-sukses"><i class="fa fa-shopping-cart"></i>
                         <?php _e("Contact seller", 'royal'); ?> </button>
@@ -130,6 +123,19 @@ span.price {
                                     </p>
                                     <br>
                                     <?php } else { ?>
+<div class="cals topper hidden-md-up">
+ <div class="report-inner section_bg">
+    	<div class="row"><?php if ( osc_user_phone_mobile() !='' ) { ?>
+        	<div class="col-xs-6">
+            	<a href="sms:<?php echo osc_user_phone_mobile(); ?>"  class="btn btn-call btn-block"><span class=" fa fa-envelope"></span> <?php _e('Sms', 'royal'); ?></a>
+            </div><?php } ?>
+             <?php if ( osc_user_phone() !='' ) { ?>
+            <div class="col-xs-6">
+            	<a href="tel:<?php echo osc_user_phone(); ?>"  class="btn btn-call  btn-block "><span class="txt_color_1  fa fa-phone"></span> <?php _e('Call', 'royal'); ?></a>
+            </div><?php } ?>
+        </div>
+    </div>
+</div>
                                     <?php if( osc_item_user_id() !=null ) { ?>
                                     <button type="button" class="btn btn-default btn-lg btn-block"> <strong><p class="name"><?php _e("Name", 'royal') ?>: <a href="<?php echo osc_user_public_profile_url( osc_item_user_id() ); ?>" ><?php echo osc_item_contact_name(); ?></a></p></strong> </button>
                                     <?php } else { ?>

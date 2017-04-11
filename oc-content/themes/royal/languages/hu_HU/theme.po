@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:22+0700\n"
+"PO-Revision-Date: 2017-02-15 17:46+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1100,3 +1100,222 @@ msgstr "Rival Theme Settings"
 
 msgid "Rival Category"
 msgstr "Rival Kategória"
+
+msgid "Submit Ads"
+msgstr "Küldés"
+
+msgid "New listings"
+msgstr "Új hirdetések"
+
+msgid "Random listings"
+msgstr "véletlen listák"
+
+msgid "New"
+msgstr "Új"
+
+msgid "Random"
+msgstr "Véletlenszerű"
+
+msgid "Premium"
+msgstr "Kiemelt"
+
+msgid "See all listings"
+msgstr "Minden hírdetés megtekintése"
+
+msgid "Locations"
+msgstr "Település"
+
+msgid "Popular"
+msgstr "Népszerű"
+
+msgid "Featured brand"
+msgstr "Kiemelt márka"
+
+msgid "Statistic Info"
+msgstr "Statisztika"
+
+msgid "Social network"
+msgstr "Réseaux sociaux"
+
+msgid "Payment"
+msgstr "Fizetés"
+
+msgid "My listings"
+msgstr "A kedvenceim"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "My alert"
+msgstr "Értesítés"
+
+msgid "My Listings"
+msgstr "Hirdetéseim"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> Saját listák"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> Saját értesítések"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> Beállítások"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> e-mailt változtatni"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> Jelszó módosítása"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Kilépés"
+
+msgid "Seller profile"
+msgstr "Eladó profil"
+
+msgid "Leave Comment"
+msgstr "Szólj hozzá"
+
+msgid "Send mail"
+msgstr "Üzenet küldése"
+
+msgid "Premium listings"
+msgstr "Kiemelt hirdetések"
+
+msgid "Search filter"
+msgstr "Keresési szűrő:"
+
+msgid "General information"
+msgstr "Általános információk"
+
+msgid "Upload images"
+msgstr "Képek feltöltése"
+
+msgid "Views"
+msgstr "Megtekintések"
+
+msgid "Standart ads"
+msgstr "Standart hirdetések"
+
+msgid "Premium ads"
+msgstr "Kiemelt"
+
+msgid "Default Thumbnail"
+msgstr "Alapértelmezett Thumbnail"
+
+msgid "Small slider"
+msgstr "kis csúszka"
+
+msgid "Slider Small Images"
+msgstr "Slider Kis kép"
+
+msgid "Category count"
+msgstr "Kategória száma"
+
+msgid "Custom Useful Information"
+msgstr "Egyedi Hasznos információk"
+
+msgid "Home Premium Ads"
+msgstr "Home Premium hirdetések"
+
+msgid "Latest and Random Ads Display"
+msgstr "A legújabb és Random hirdetések megjelenítése"
+
+msgid "Home latest Ads"
+msgstr "Főoldal legújabb hirdetések"
+
+msgid "Home Random Ads"
+msgstr "Főoldal Random hirdetések"
+
+msgid "Ads by category Display"
+msgstr "Hirdetések kategória megjelenítése"
+
+msgid "Ads by category"
+msgstr "kategória szerint"
+
+msgid "Item post multilanguges"
+msgstr "Elem utáni multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Ez a hirdetés jelenik meg a tetején a honlapon. Megjegyezzük, hogy a hirdetés méretét kell lennie 728x90 pixel."
+
+msgid "Price settings"
+msgstr "Ár beállítások"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Használhatja 6 sceme színt téma vagy testre szabhatja a saját színű kapcsolóval testre panel."
+
+msgid "create new TOS pages and paste url here"
+msgstr "új TOS oldalakat és beillesztés url itt"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Cím és alcím"
+
+msgid "Seller information"
+msgstr "Az eladó információ"
+
+msgid "Popular Location"
+msgstr "népszerű hely"
+
+msgid "Latest search"
+msgstr "legújabb keresés"
+
+msgid "All"
+msgstr "Összes"
+
+msgid "Item Id"
+msgstr "Azonosító"
+
+msgid "Total member"
+msgstr "Összesen tag"
+
+msgid "Your email"
+msgstr "Az Ön email címe"
+
+msgid "Already have an account ?"
+msgstr "Van már fiókja?"
+
+msgid "Lost password ?"
+msgstr "Elfelejtette a jelszavát?"
+
+msgid "Don't have an account !"
+msgstr "Nincs még fiókja!"
+
+msgid "Forgot password"
+msgstr "Elfelejtett jelszó"
+
+msgid "Note"
+msgstr "Megjegyzés"
+
+msgid "Please don't send spam messages"
+msgstr "Kérjük, ne küldjön spam üzeneteket"
+
+msgid "View"
+msgstr "Megnéz"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profil"
+
+msgid "User Id"
+msgstr "Felhasználó azonosító"
+
+msgid "Edit item"
+msgstr "Elem szerkesztése"
+
+msgid "Detail"
+msgstr "Részletek"
+
+msgid "Client"
+msgstr "Megrendelő"
+
+msgid "Advance Search"
+msgstr "Részletes álláskereső"
+
+msgid "Subcribe"
+msgstr "Subcribe"
+
+msgid "Hi Guest !"
+msgstr "Szia Vendég!"
+
+msgid "ID"
+msgstr "ID"

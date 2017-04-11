@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -15,7 +15,7 @@
     if(osc_count_premiums() > 0) {
 ?>   
 <?php while(osc_has_premiums()) { ?>
-<div class="col-xs-6 col-md-4 grid-group-item">
+<div class="col-lg-4 col-md-4 col-sm-3 col-xs-4 four-6 three-12 grid-group-item">
     <div class="col-item">
         <div class="photo">
             <?php if( osc_count_premium_resources() ) { ?> <a href="<?php echo osc_premium_url() ; ?>"><img class="img-responsive" src="<?php echo osc_resource_thumbnail_url() ; ?>" title="<?php echo osc_esc_html(osc_premium_title()) ; ?>" alt="<?php echo osc_esc_html(osc_premium_title()) ; ?>" /></a><span title="<?php echo osc_esc_html(__('Premium Listings','royal')); ?>" class="cat-label cat-label-label2"><i class="fa fa-star"></i></span>
@@ -45,8 +45,8 @@
 </div>
 <?php } ?><?php } ?>
 <?php while(osc_has_items()) { ?>
-<div class="col-xs-6 col-md-4 grid-group-item">
-    <div class="<?php osc_run_hook("highlight_class"); ?> col-item">
+<div class="col-lg-4 col-md-4 col-sm-3 col-xs-4 four-6 three-12 <?php osc_run_hook("highlight_class"); ?> grid-group-item">
+    <div class="col-item">
         <div class="photo">
             <?php if( osc_images_enabled_at_items() ) { ?>
             <?php if(osc_count_item_resources()) { ?> <a href="<?php echo osc_item_url(); ?>"><img class="img-responsive" src="<?php echo osc_resource_thumbnail_url(); ?>" title="<?php echo osc_esc_html(osc_item_title()) ; ?>" alt="<?php echo osc_esc_html(osc_item_title()) ; ?>" /></a>

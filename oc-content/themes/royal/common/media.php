@@ -44,7 +44,20 @@ a, option.opt1, button.mami.btn.btn-default.dropdown-toggle{color:#<?php echo os
 .navbar-default .navbar-nav > li > a {
   color: #<?php echo osc_get_preference('a2-color', 'royal'); ?>;
 }
-
+.list .user_type .active {
+    color: #FFFFFF;
+    background: #<?php echo osc_get_preference('a-color', 'royal'); ?>;
+}
+.user_type {
+    border-bottom: #<?php echo osc_get_preference('a-color', 'royal'); ?> 3px solid;
+}
+.list .user_type .firm, .list .user_type .personal {
+    color: #<?php echo osc_get_preference('a-color', 'royal'); ?>;
+}
+.list .user_type span:hover {
+    background: #<?php echo osc_get_preference('a-color', 'royal'); ?>;
+    color: #fff;
+}
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{color: #<?php echo osc_get_preference('a2-color', 'royal'); ?>;
 }
 #footerme, .footer {

@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:13+0700\n"
+"PO-Revision-Date: 2017-02-15 17:33+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1101,3 +1101,222 @@ msgstr "Rival Designeinstellungen"
 
 msgid "Rival Category"
 msgstr "Rival Kategorie"
+
+msgid "Submit Ads"
+msgstr "Inserat erstellen"
+
+msgid "New listings"
+msgstr "Neue Inserate"
+
+msgid "Random listings"
+msgstr "Zufällige Inserate"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "Random"
+msgstr "Randomisierung"
+
+msgid "Premium"
+msgstr "Agio"
+
+msgid "See all listings"
+msgstr "Alle Inserate anzeigen"
+
+msgid "Locations"
+msgstr "Lagen"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Featured brand"
+msgstr "hervorgehoben"
+
+msgid "Statistic Info"
+msgstr "Statistik-Info"
+
+msgid "Social network"
+msgstr "Soziale Netzwerke"
+
+msgid "Payment"
+msgstr "Zahlung"
+
+msgid "My listings"
+msgstr "Meine Anzeigen"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "My alert"
+msgstr "Alarm"
+
+msgid "My Listings"
+msgstr "Mein Einträge"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>Meine Angebote"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>Meine alerts"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>Einstellungen"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>E-Mail-Adresse ändern"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>Passwort ändern"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>Logout"
+
+msgid "Seller profile"
+msgstr "Verkäufer-Profil"
+
+msgid "Leave Comment"
+msgstr "Hinterlassen Sie einen Kommentar"
+
+msgid "Send mail"
+msgstr "Mail senden"
+
+msgid "Premium listings"
+msgstr "Premium Inserate"
+
+msgid "Search filter"
+msgstr "Erweiterte Suche"
+
+msgid "General information"
+msgstr "Allgemeine Informationen"
+
+msgid "Upload images"
+msgstr "Bilder hochladen"
+
+msgid "Views"
+msgstr "Ansichten"
+
+msgid "Standart ads"
+msgstr "Standart anzeigen"
+
+msgid "Premium ads"
+msgstr "Premium Anzeigen"
+
+msgid "Default Thumbnail"
+msgstr "Neues Standard Thumbnail"
+
+msgid "Small slider"
+msgstr "Kleinen Leiste"
+
+msgid "Slider Small Images"
+msgstr "Kleine Bilder Slider"
+
+msgid "Category count"
+msgstr "Zeige Kategorie Anzahl"
+
+msgid "Custom Useful Information"
+msgstr "Benutzerdefinierte Informationen"
+
+msgid "Home Premium Ads"
+msgstr "Top Anzeige"
+
+msgid "Latest and Random Ads Display"
+msgstr "Anzeige der neuesten und zufällige anzeigen"
+
+msgid "Home latest Ads"
+msgstr "Home neueste anzeigen"
+
+msgid "Home Random Ads"
+msgstr "Nach Hause zufällige anzeigen"
+
+msgid "Ads by category Display"
+msgstr "Anzeigen nach Kategorien anzeigen"
+
+msgid "Ads by category"
+msgstr "Anzeigen nach Kategorien"
+
+msgid "Item post multilanguges"
+msgstr "Artikel Post multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Diese Anzeige wird in der Fußzeile Ihrer Website angezeigt. Man beachte, dass die Größe der Anzeige zu 728x90 Pixel sein."
+
+msgid "Price settings"
+msgstr "Preis-Einstellungen"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Sie können 6 Sceme Farbe von Thema oder Sie können Ihre eigene Farbe mit Schalter im Panel anpassen."
+
+msgid "create new TOS pages and paste url here"
+msgstr "neue AGB-Seiten erstellen und Url hier einfügen"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Titel und Untertitel"
+
+msgid "Seller information"
+msgstr "Angaben zum Verkäufer"
+
+msgid "Popular Location"
+msgstr "Beliebter Reiseziele"
+
+msgid "Latest search"
+msgstr "Aktuelle Suche"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Item Id"
+msgstr "Findnix-ID"
+
+msgid "Total member"
+msgstr "Total Members"
+
+msgid "Your email"
+msgstr "Ihre E-Mail"
+
+msgid "Already have an account ?"
+msgstr "Sie haben bereits ein Konto?"
+
+msgid "Lost password ?"
+msgstr "Passwort vergesse?"
+
+msgid "Don't have an account !"
+msgstr "Du hast keinen Account?!"
+
+msgid "Forgot password"
+msgstr "Passwort vergessen"
+
+msgid "Note"
+msgstr "Erläuterung"
+
+msgid "Please don't send spam messages"
+msgstr "Bitte senden Sie keine Spam-Nachrichten"
+
+msgid "View"
+msgstr "Ansicht"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profil"
+
+msgid "User Id"
+msgstr "Benutzer ID"
+
+msgid "Edit item"
+msgstr "Element bearbeiten"
+
+msgid "Detail"
+msgstr "Detail"
+
+msgid "Client"
+msgstr "Kunde"
+
+msgid "Advance Search"
+msgstr "Erweiterte Suche"
+
+msgid "Subcribe"
+msgstr "Abonnieren"
+
+msgid "Hi Guest !"
+msgstr "Hallo Gast!"
+
+msgid "ID"
+msgstr "ID"

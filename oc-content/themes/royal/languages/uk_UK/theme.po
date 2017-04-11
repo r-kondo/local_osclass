@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:48+0700\n"
+"PO-Revision-Date: 2017-02-15 18:56+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1102,3 +1102,222 @@ msgstr "Rival Установки теми"
 
 msgid "Rival Category"
 msgstr "Rival Категорія"
+
+msgid "Submit Ads"
+msgstr "Відправити"
+
+msgid "New listings"
+msgstr "Оголошення"
+
+msgid "Random listings"
+msgstr "Випадкові записи"
+
+msgid "New"
+msgstr "New (новий)"
+
+msgid "Random"
+msgstr "Випадково"
+
+msgid "Premium"
+msgstr "Премiум"
+
+msgid "See all listings"
+msgstr "Переглянути всі оголошення"
+
+msgid "Locations"
+msgstr "Місця"
+
+msgid "Popular"
+msgstr "Популярне"
+
+msgid "Featured brand"
+msgstr "Рекомендовані марки"
+
+msgid "Statistic Info"
+msgstr "Статистика"
+
+msgid "Social network"
+msgstr "Соціальна мережа"
+
+msgid "Payment"
+msgstr "Оплата"
+
+msgid "My listings"
+msgstr "Мої оголошення"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "My alert"
+msgstr "повідомлення"
+
+msgid "My Listings"
+msgstr "Мої записи"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> Мої оголошення"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> Мої оповіщення"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> настройки"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> Змінити e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> зміна пароля"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Вийти"
+
+msgid "Seller profile"
+msgstr "Продавець профілю"
+
+msgid "Leave Comment"
+msgstr "Додайте коментар"
+
+msgid "Send mail"
+msgstr "Надіслати листа"
+
+msgid "Premium listings"
+msgstr "Преміум оголошення"
+
+msgid "Search filter"
+msgstr "фільтр пошуку"
+
+msgid "General information"
+msgstr "Загальна інформація"
+
+msgid "Upload images"
+msgstr "Завантаження Зображень"
+
+msgid "Views"
+msgstr "Перегляди"
+
+msgid "Standart ads"
+msgstr "стандартні оголошення"
+
+msgid "Premium ads"
+msgstr "Премiум"
+
+msgid "Default Thumbnail"
+msgstr "Мініатюра публікації по замовчаню"
+
+msgid "Small slider"
+msgstr "малий слайдер"
+
+msgid "Slider Small Images"
+msgstr "Slider Маленькі зображення"
+
+msgid "Category count"
+msgstr "кількість категорій"
+
+msgid "Custom Useful Information"
+msgstr "Призначені для користувача Корисна інформація"
+
+msgid "Home Premium Ads"
+msgstr "Home Premium Ads"
+
+msgid "Latest and Random Ads Display"
+msgstr "Останні і Випадкові оголошення Показати"
+
+msgid "Home latest Ads"
+msgstr "Головна Останні оголошення"
+
+msgid "Home Random Ads"
+msgstr "Головна Оголошення Випадкові"
+
+msgid "Ads by category Display"
+msgstr "Оголошення по категоріях Показати"
+
+msgid "Ads by category"
+msgstr "за категорією"
+
+msgid "Item post multilanguges"
+msgstr "Пункт розмістити multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Це оголошення буде показано у верхній частині вашого сайту. Зверніть увагу, що розмір оголошення повинен бути 728x90 пікселів."
+
+msgid "Price settings"
+msgstr "параметри Ціна"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Ви можете використовувати 6 sceme колір від теми або ви можете налаштувати свій власний колір з перемикачем на панелі підганяють."
+
+msgid "create new TOS pages and paste url here"
+msgstr "створювати нові сторінки TOS і вставити URL тут"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Назва і субтитрів"
+
+msgid "Seller information"
+msgstr "Інформація про продавця"
+
+msgid "Popular Location"
+msgstr "популярні Розташування"
+
+msgid "Latest search"
+msgstr "Останній пошук"
+
+msgid "All"
+msgstr "всіх"
+
+msgid "Item Id"
+msgstr "Id товару"
+
+msgid "Total member"
+msgstr "Загальний член"
+
+msgid "Your email"
+msgstr "Твій email"
+
+msgid "Already have an account ?"
+msgstr "Вже є аккаунт?"
+
+msgid "Lost password ?"
+msgstr "Забули пароль?"
+
+msgid "Don't have an account !"
+msgstr "У вас немає аккаунта?"
+
+msgid "Forgot password"
+msgstr "Забули пароль"
+
+msgid "Note"
+msgstr "Нотатка"
+
+msgid "Please don't send spam messages"
+msgstr "Будь ласка, не надсилайте спам"
+
+msgid "View"
+msgstr "Перегляд"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> профіль"
+
+msgid "User Id"
+msgstr "Ідентифікатор користувача"
+
+msgid "Edit item"
+msgstr "Редагувати оголошення"
+
+msgid "Detail"
+msgstr "Подробиці"
+
+msgid "Client"
+msgstr "Клієнт"
+
+msgid "Advance Search"
+msgstr "Попередній пошук"
+
+msgid "Subcribe"
+msgstr "підписуватися"
+
+msgid "Hi Guest !"
+msgstr "Привіт, Гість!"
+
+msgid "ID"
+msgstr "ID"

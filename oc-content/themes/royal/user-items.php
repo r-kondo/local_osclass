@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -38,8 +38,8 @@
                                 <h3><?php _e("You don't have any listings yet", 'royal'); ?></h3> </div>
                             <?php } else { ?>
                             <?php while(osc_has_items()) { ?>
-                            <div class="item  col-xs-6 col-md-4">
-                                <div class="<?php osc_run_hook("highlight_class"); ?> col-item">
+                            <div class="item <?php osc_run_hook("highlight_class"); ?> col-lg-4 col-md-4 col-sm-3 col-xs-4 four-6 three-12">
+                                <div class="col-item">
                                     <div class="photo">
                                         <?php if (osc_images_enabled_at_items()) { ?>
                                         <?php if (osc_count_item_resources()) { ?> <a href="<?php echo osc_item_url(); ?>"><img class="img-responsive" src="<?php echo osc_resource_thumbnail_url(); ?>" /></a>
@@ -58,6 +58,7 @@
                                                 <a href="<?php echo osc_item_url(); ?>"><?php echo osc_item_title(); ?></a>
                                             </div>
                                         </div>
+                                         <div class="statistic"><i class="fa fa-line-chart"></i> <?php echo osc_item_views(); ?> <?php _e("Views", 'royal'); ?></div>
                                         <div class="separator clear-left">
                                             <p class="btn-add"> <i class="fa fa-edit"></i>
                                                 <a href="<?php echo osc_item_edit_url(); ?>"><?php _e("Edit", 'royal'); ?></a>

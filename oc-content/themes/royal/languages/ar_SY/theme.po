@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:07+0700\n"
+"PO-Revision-Date: 2017-02-15 17:29+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1094,3 +1094,222 @@ msgstr "Rival إعدادات موضوع"
 
 msgid "Rival Category"
 msgstr "Rival فئة"
+
+msgid "Submit Ads"
+msgstr "إرسال"
+
+msgid "New listings"
+msgstr "إعلانات جديدة"
+
+msgid "Random listings"
+msgstr "قوائم عشوائية"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "Random"
+msgstr "عشوائي"
+
+msgid "Premium"
+msgstr "علاوة"
+
+msgid "See all listings"
+msgstr "عرض كل الاعلانات"
+
+msgid "Locations"
+msgstr "المواقع"
+
+msgid "Popular"
+msgstr "مميزة"
+
+msgid "Featured brand"
+msgstr "العلامة التجارية المميزة"
+
+msgid "Statistic Info"
+msgstr "معلومات إحصائية"
+
+msgid "Social network"
+msgstr "شبكة اجتماعية"
+
+msgid "Payment"
+msgstr "دفع"
+
+msgid "My listings"
+msgstr "اعلاناتي"
+
+msgid "Settings"
+msgstr "موضوع استيراد إعدادات"
+
+msgid "My alert"
+msgstr "بلدي في حالة تأهب"
+
+msgid "My Listings"
+msgstr "قوائمي"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>بلادي القوائم"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>التنبيهات الخاصة بي"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>إعدادات"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>تغيير البريد الإلكتروني"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>تغيير كلمة المرور"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>تسجيل الخروج"
+
+msgid "Seller profile"
+msgstr "البائع الشخصية"
+
+msgid "Leave Comment"
+msgstr "أترك تعليق"
+
+msgid "Send mail"
+msgstr "إرسال البريد"
+
+msgid "Premium listings"
+msgstr "إعلانات مميزة"
+
+msgid "Search filter"
+msgstr "تصفية البحث"
+
+msgid "General information"
+msgstr "معلومات الرئيسية"
+
+msgid "Upload images"
+msgstr "رفع الصور"
+
+msgid "Views"
+msgstr "المشاهدات"
+
+msgid "Standart ads"
+msgstr "قياسي"
+
+msgid "Premium ads"
+msgstr "إعلانات مميزة"
+
+msgid "Default Thumbnail"
+msgstr "الصورة المصغرة الافتراضي"
+
+msgid "Small slider"
+msgstr "المنزلق صغيرة"
+
+msgid "Slider Small Images"
+msgstr "الصور الصغيرة المنزلق"
+
+msgid "Category count"
+msgstr "العدد الفئة"
+
+msgid "Custom Useful Information"
+msgstr "معلومات مفيدة مخصصة"
+
+msgid "Home Premium Ads"
+msgstr "إعلانات مميزة"
+
+msgid "Latest and Random Ads Display"
+msgstr "عرض إعلان آخر وعشوائية"
+
+msgid "Home latest Ads"
+msgstr "أحدث الإعلانات"
+
+msgid "Home Random Ads"
+msgstr "إعلانات عشوائية"
+
+msgid "Ads by category Display"
+msgstr "بواسطة فئة عرض إعلان"
+
+msgid "Ads by category"
+msgstr "الإعلانات حسب الفئة"
+
+msgid "Item post multilanguges"
+msgstr "البند وظيفة مولتيلانجوجيس"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "سيتم عرض هذا الإعلان في الجزء العلوي من موقع الويب الخاص بك. علما بأن حجم الإعلان يجب أن يكون 728 x 90 بكسل."
+
+msgid "Price settings"
+msgstr "اعدادات السعر"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "يمكنك استخدام لون سيم 6 من الموضوع، أو يمكنك تخصيص الألوان الخاصة بك مع رمز التبديل على تخصيص لوحة."
+
+msgid "create new TOS pages and paste url here"
+msgstr "إنشاء صفحات جديدة من شروط الخدمة، وقم بلصق عنوان url هنا"
+
+msgid "Slider Title and Subtitle"
+msgstr "شريط التمرير العنوان والعنوان الفرعي"
+
+msgid "Seller information"
+msgstr "معلومات عن المعلن"
+
+msgid "Popular Location"
+msgstr ""
+
+msgid "Latest search"
+msgstr "البحث الأخير"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "Item Id"
+msgstr "معرف الفقرة"
+
+msgid "Total member"
+msgstr "مجموع الأعضاء"
+
+msgid "Your email"
+msgstr "بريدك الإلكتروني"
+
+msgid "Already have an account ?"
+msgstr "هل لديك حساب؟"
+
+msgid "Lost password ?"
+msgstr "هل فقدت كلمة المرور؟"
+
+msgid "Don't have an account !"
+msgstr "أليس لديك حساب؟"
+
+msgid "Forgot password"
+msgstr "نسيت كلمة المرور"
+
+msgid "Note"
+msgstr "ملاحظة"
+
+msgid "Please don't send spam messages"
+msgstr "يرجى عدم إرسال رسائل البريد المزعج"
+
+msgid "View"
+msgstr "مشاهدة"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> الملف الشخصي"
+
+msgid "User Id"
+msgstr "معرف ID للمستخدم"
+
+msgid "Edit item"
+msgstr "تعديل العنصر"
+
+msgid "Detail"
+msgstr "تفاصيل"
+
+msgid "Client"
+msgstr "زبون"
+
+msgid "Advance Search"
+msgstr "بحث متقدم"
+
+msgid "Subcribe"
+msgstr "الاشتراك"
+
+msgid "Hi Guest !"
+msgstr "مرحبا عزيزي الزائر"
+
+msgid "ID"
+msgstr "التعرف"

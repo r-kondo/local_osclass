@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:50+0700\n"
+"PO-Revision-Date: 2017-02-15 18:49+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1096,3 +1096,222 @@ msgstr "Rival 主題設置"
 
 msgid "Rival Category"
 msgstr "Rival 分類"
+
+msgid "Submit Ads"
+msgstr "提交"
+
+msgid "New listings"
+msgstr "新股上市"
+
+msgid "Random listings"
+msgstr "随机的节目表"
+
+msgid "New"
+msgstr "新"
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Premium"
+msgstr "高级版"
+
+msgid "See all listings"
+msgstr "檢視所有廣告清單"
+
+msgid "Locations"
+msgstr "地点"
+
+msgid "Popular"
+msgstr "流行"
+
+msgid "Featured brand"
+msgstr "特色的品牌"
+
+msgid "Statistic Info"
+msgstr "统计信息"
+
+msgid "Social network"
+msgstr "社交网络"
+
+msgid "Payment"
+msgstr "支付方式"
+
+msgid "My listings"
+msgstr "我的廣告清單"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "My alert"
+msgstr "警告"
+
+msgid "My Listings"
+msgstr "我的列表"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>我的物品"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>我的通知"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>设置"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> 變更電子郵件"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>更改密码"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>注销"
+
+msgid "Seller profile"
+msgstr "卖方的配置文件"
+
+msgid "Leave Comment"
+msgstr "發表評論"
+
+msgid "Send mail"
+msgstr "发送邮件"
+
+msgid "Premium listings"
+msgstr "需付費的廣告"
+
+msgid "Search filter"
+msgstr "搜索/篩選"
+
+msgid "General information"
+msgstr "信息"
+
+msgid "Upload images"
+msgstr "上传图片"
+
+msgid "Views"
+msgstr "视频"
+
+msgid "Standart ads"
+msgstr "标准"
+
+msgid "Premium ads"
+msgstr "高档广告"
+
+msgid "Default Thumbnail"
+msgstr "默认缩略图"
+
+msgid "Small slider"
+msgstr "小型滑块"
+
+msgid "Slider Small Images"
+msgstr "滑块小图像"
+
+msgid "Category count"
+msgstr "分类计数"
+
+msgid "Custom Useful Information"
+msgstr "自定义有用的信息"
+
+msgid "Home Premium Ads"
+msgstr "高档广告"
+
+msgid "Latest and Random Ads Display"
+msgstr "最新的和随机的广告显示"
+
+msgid "Home latest Ads"
+msgstr "最近广告"
+
+msgid "Home Random Ads"
+msgstr "随机广告"
+
+msgid "Ads by category Display"
+msgstr "按类别显示广告"
+
+msgid "Ads by category"
+msgstr "评论类型："
+
+msgid "Item post multilanguges"
+msgstr "项目邮政 multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "这则广告将显示在您的网站的顶端。请注意，该广告的大小为 728 x 90 像素。"
+
+msgid "Price settings"
+msgstr "价格设置"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "您可以使用从主题 6 通过颜色或您可以自定义自己的颜色与开关上自定义面板。"
+
+msgid "create new TOS pages and paste url here"
+msgstr "创建新的 TOS 页和粘贴 url 在这里"
+
+msgid "Slider Title and Subtitle"
+msgstr "滑块标题和副标题"
+
+msgid "Seller information"
+msgstr "店家資訊"
+
+msgid "Popular Location"
+msgstr "热门地点"
+
+msgid "Latest search"
+msgstr "最近搜索"
+
+msgid "All"
+msgstr "不限"
+
+msgid "Item Id"
+msgstr "项目ID"
+
+msgid "Total member"
+msgstr "总的成员"
+
+msgid "Your email"
+msgstr "你的电子邮件"
+
+msgid "Already have an account ?"
+msgstr "已有帐户？"
+
+msgid "Lost password ?"
+msgstr "遺失密碼？"
+
+msgid "Don't have an account !"
+msgstr "还没有账户？"
+
+msgid "Forgot password"
+msgstr "忘記密碼"
+
+msgid "Note"
+msgstr "提示"
+
+msgid "Please don't send spam messages"
+msgstr "请不要发送垃圾邮件"
+
+msgid "View"
+msgstr "視圖图"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i>轮廓"
+
+msgid "User Id"
+msgstr "用户ID"
+
+msgid "Edit item"
+msgstr "编辑项目"
+
+msgid "Detail"
+msgstr "细节"
+
+msgid "Client"
+msgstr "客户端"
+
+msgid "Advance Search"
+msgstr "高级搜索"
+
+msgid "Subcribe"
+msgstr "邮件订阅"
+
+msgid "Hi Guest !"
+msgstr "你好欢迎光临！"
+
+msgid "ID"
+msgstr "标识"

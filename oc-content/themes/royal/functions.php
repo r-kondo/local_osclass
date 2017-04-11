@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -11,7 +11,7 @@
      *       If you need more licenses for this software. Please read more here <http://www.osclass.me/osclass-me-license/>.
      */
 
-    define('ROYAL_THEME_VERSION', '1.6.0');
+    define('ROYAL_THEME_VERSION', '1.6.5');
     osc_enqueue_style('font-awesome', osc_current_web_theme_url('css/css/font-awesome.min.css'));
     osc_enqueue_script('php-date');
 
@@ -33,12 +33,19 @@ if( !osc_get_preference('google_fonts', 'royal_theme') ) {
 	}
 
 function royal_add_google_fonts(){
+if(osc_get_preference('status-font', 'royal') == "standart") {
+ echo "<style>body, .thumbnail .caption, h1, h2, h3, h4, h5, h6, .listings h2 a, .listing-attr .currency-value, input[type=text], input[type=password], textarea, select, div.fancy-select div.trigger, .main-search label {
+    font-family: ".osc_get_preference('ari-font', 'royal').", Helvetica, sans-serif;
+}
+</style>";
+} else {
 	echo "<link href='https://fonts.googleapis.com/css?family=".royal_google_fonts()."' rel='stylesheet' type='text/css'>";
 	echo "<style>body, .thumbnail .caption,h1, h2, h3, h4, h5, h6, .listings h2 a, .listing-attr .currency-value, input[type=text], input[type=password], textarea, select, div.fancy-select div.trigger, .main-search label {
 	font-family: '".str_replace('+',' ',royal_google_fonts())."', sans-serif;
 }
 </style>";
-	}	
+	}
+}	
 
     function theme_royal_actions_admin() {
         if( Params::getParam('file') == 'oc-content/themes/royal/admin/settings.php' ) {
@@ -57,6 +64,7 @@ function royal_add_google_fonts(){
                 $sect4_view   =   Params::getParam('sect4_view', 'royal_theme');
                 $multi_view   =   Params::getParam('multi_view', 'royal_theme');
                 $sect5_view   =   Params::getParam('sect5_view', 'royal_theme');
+                $icon_view   =   Params::getParam('icon_view', 'royal_theme');
 
                 osc_set_preference('keyword_placeholder', Params::getParam('keyword_placeholder'), 'royal');
                 osc_set_preference('footer_link', ($footerLink ? '1' : '0'), 'royal');
@@ -65,6 +73,7 @@ function royal_add_google_fonts(){
                 osc_set_preference('sect4_view', ($sect4_view ? '1' : '0'), 'royal_theme');
                 osc_set_preference('sect77_view', ($sect77_view ? '1' : '0'), 'royal_theme');
                 osc_set_preference('multi_view', ($multi_view ? '1' : '0'), 'royal_theme');
+                osc_set_preference('icon_view', ($icon_view ? '1' : '0'), 'royal_theme');
 
                 osc_set_preference('sect5_view', ($sect5_view ? '1' : '0'), 'royal_theme');
                 osc_set_preference('google_fonts', Params::getParam('google_fonts'), 'royal_theme');
@@ -79,6 +88,9 @@ function royal_add_google_fonts(){
                 osc_set_preference('company-us',         trim(Params::getParam('company-us', false, false, false)),                  'royal');
                 osc_set_preference('email-us',         trim(Params::getParam('email-us', false, false, false)),                  'royal');
                 osc_set_preference('phone-us',         trim(Params::getParam('phone-us', false, false, false)),                  'royal');
+
+                osc_set_preference('status-font',         trim(Params::getParam('status-font', false, false, false)),                  'royal');
+                osc_set_preference('ari-font',         trim(Params::getParam('ari-font', false, false, false)),                  'royal');
                 osc_set_preference('price1-us',         trim(Params::getParam('price1-us', false, false, false)),                  'royal');
                 osc_set_preference('price2-us',         trim(Params::getParam('price2-us', false, false, false)),                  'royal');
                 osc_set_preference('price3-us',         trim(Params::getParam('price3-us', false, false, false)),                  'royal');
@@ -122,11 +134,9 @@ function royal_add_google_fonts(){
                 osc_set_preference('vera-us',         trim(Params::getParam('vera-us', false, false, false)),                  'royal');
                 osc_set_preference('slider1-royal',         trim(Params::getParam('slider1-royal', false, false, false)),                  'royal');
                 osc_set_preference('slider2-royal',         trim(Params::getParam('slider2-royal', false, false, false)),                  'royal');
-                osc_set_preference('slider3-royal',         trim(Params::getParam('slider3-royal', false, false, false)),                  'royal');
                 osc_set_preference('slider12-link',         trim(Params::getParam('slider12-link', false, false, false)),                  'royal');
                 osc_set_preference('slider22-link',         trim(Params::getParam('slider22-link', false, false, false)),                  'royal');
                 osc_set_preference('slider32-link',         trim(Params::getParam('slider32-link', false, false, false)),                  'royal');
-                osc_set_preference('slider42-link',         trim(Params::getParam('slider42-link', false, false, false)),                  'royal');
                 osc_set_preference('facebook-us',         trim(Params::getParam('facebook-us', false, false, false)),                  'royal');
                 osc_set_preference('instagram-us',         trim(Params::getParam('instagram-us', false, false, false)),                  'royal');
                 osc_set_preference('twitter-us',         trim(Params::getParam('twitter-us', false, false, false)),                  'royal');
@@ -155,12 +165,23 @@ function royal_add_google_fonts(){
                 osc_set_preference('sidebar-300x250',       trim(Params::getParam('sidebar-300x250', false, false, false)),                'royal');
 
                 osc_set_preference('search-results-top-728x90',     trim(Params::getParam('search-results-top-728x90', false, false, false)),          'royal');
+                
                 osc_set_preference('premiumads_num_royal',  trim(Params::getParam('premiumads_num_royal', false, false, false)),       'royal');
                 osc_add_flash_ok_message(__('Theme settings updated correctly', 'royal'), 'admin');
                 header('Location: ' . osc_admin_render_theme_url('oc-content/themes/royal/admin/settings.php')); exit;
             break;
 
-//upload
+             //category icons
+			case('categories_icons'):
+				$catsIcons  = Params::getParam('cat-icons');
+				foreach($catsIcons as $catId => $iconName)
+				{
+					osc_set_preference('cat-icons-'.$catId, $iconName, 'royals_theme_cat_icons');
+				}
+				osc_add_flash_ok_message(__('Category icons settings updated correctly', 'royal'), 'admin');
+				osc_redirect_to(osc_admin_render_theme_url( 'oc-content/themes/royal/admin/admin.php#icon' ));
+           break;
+           //upload category
 			case('up_category'):
 			$package = Params::getFiles('set_image');
 			$idt = $_POST['id_category'];
@@ -175,7 +196,7 @@ function royal_add_google_fonts(){
 			}
 			header('Location: ' . osc_admin_render_theme_url('oc-content/themes/royal/admin/images.php')); exit;
             break;		
-			//remove
+	     //remove category
 			case('remove_category'):
 			$id_remove = $_POST['id_remove'];
 			if(file_exists (osc_themes_path() . 'royal/images/category/' . $id_remove . '.png') ) {
@@ -187,9 +208,121 @@ function royal_add_google_fonts(){
 			header('Location: ' . osc_admin_render_theme_url('oc-content/themes/royal/admin/images.php')); exit;
             break;
             
+            
        
         }
     }
+
+//Category Icons
+
+	if( osc_get_preference('first_load_cat_icons', 'royals_theme_cat_icons') == "" ){
+		osc_set_preference('cat-icons-1', 'shopping-cart', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-2', 'car', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-3', 'graduation-cap', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-4', 'home', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-5', 'wrench', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-6', 'users', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-7', 'heart', 'royals_theme_cat_icons');
+		osc_set_preference('cat-icons-8', 'suitcase', 'royals_theme_cat_icons');
+
+		osc_set_preference('cat-icons-9', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-10', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-11', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-12', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-13', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-14', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-15', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-16', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-17', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-18', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-19', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-20', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-21', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-22', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-23', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-24', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-25', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-26', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-27', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-28', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-29', 'shopping-cart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-30', 'shopping-cart', 'royals_theme_cat_icons');
+                
+                osc_set_preference('cat-icons-31', 'car', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-32', 'car', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-33', 'car', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-34', 'car', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-35', 'car', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-36', 'car', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-37', 'car', 'royals_theme_cat_icons');
+
+                osc_set_preference('cat-icons-38', 'graduation-cap', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-39', 'graduation-cap', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-40', 'graduation-cap', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-41', 'graduation-cap', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-42', 'graduation-cap', 'royals_theme_cat_icons');
+
+                osc_set_preference('cat-icons-43', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-44', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-45', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-46', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-47', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-48', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-49', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-50', 'home', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-51', 'home', 'royals_theme_cat_icons');
+                
+
+                osc_set_preference('cat-icons-52', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-53', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-54', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-55', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-56', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-57', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-58', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-59', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-60', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-61', 'wrench', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-62', 'wrench', 'royals_theme_cat_icons');
+     
+                osc_set_preference('cat-icons-63', 'users', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-64', 'users', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-65', 'users', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-66', 'users', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-67', 'users', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-68', 'users', 'royals_theme_cat_icons');
+
+                osc_set_preference('cat-icons-69', 'heart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-70', 'heart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-71', 'heart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-72', 'heart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-73', 'heart', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-74', 'heart', 'royals_theme_cat_icons');
+
+                osc_set_preference('cat-icons-75', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-76', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-77', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-78', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-79', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-80', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-81', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-82', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-83', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-84', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-85', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-86', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-87', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-88', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-89', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-90', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-91', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-92', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-93', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-94', 'suitcase', 'royals_theme_cat_icons');
+                osc_set_preference('cat-icons-95', 'suitcase', 'royals_theme_cat_icons');
+                
+		osc_set_preference('first_load_cat_icons', 'loaded', 'royals_theme_cat_icons');
+	}
 if( !function_exists('royal_show_as') ){
         function royal_show_as(){
 
@@ -276,7 +409,7 @@ if( !function_exists('royal_item_title') ) {
     if( !function_exists('royal_theme_install') ) {
         function royal_theme_install() {
             osc_set_preference('keyword_placeholder', __('ie. PHP Programmer', 'royal'), 'royal');
-            osc_set_preference('version', '1.6.0', 'royal');
+            osc_set_preference('version', '1.6.5', 'royal');
             osc_set_preference('footer_link', true, 'royal');
             osc_set_preference('donation', '0', 'royal');
 
@@ -311,9 +444,10 @@ if( !function_exists('royal_item_title') ) {
             osc_set_preference('widget3-royal', 'insert your widget', 'royal');
             osc_set_preference('widget4-royal', 'insert your widget', 'royal');
 
+            osc_set_preference('status-font', 'standart', 'royal');
+            osc_set_preference('ari-font', 'Arial', 'royal');
             osc_set_preference('slider1-royal', 'Welcome to Classified Site', 'royal');
             osc_set_preference('slider2-royal', 'Buy and sell product for fast easy and free', 'royal');
-            osc_set_preference('slider3-royal', 'Buy and sell product for fast easy and free', 'royal');
             osc_set_preference('popular-royal', 'yes', 'royal');
             osc_set_preference('fb-us', 'none', 'royal');
             osc_set_preference('ari-us', 'container', 'royal');
@@ -334,6 +468,7 @@ if( !function_exists('royal_item_title') ) {
             osc_set_preference('premiumads_num_royal', '8', 'royal');
             osc_set_preference('sect77_view', '0', 'royal_theme');
             osc_set_preference('multi_view', '0', 'royal_theme');
+            osc_set_preference('icon_view', '0', 'royal_theme');
             osc_set_preference('font_view', '1', 'royal_theme');
             osc_reset_preferences();
         }
@@ -396,20 +531,6 @@ if( !function_exists('logo_slider_2') ) {
         }
     }
 
-if( !function_exists('logo_slider_3') ) {
-        function logo_slider_3() {
-
-             $html = '<div class="item">
-                    <a href="'.osc_get_preference('slider42-link', 'royal').'"><img src="' . osc_current_web_theme_url('images/slider-3.jpg') . '" /></a></div>';
-             if( file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider-3.jpg" ) ) {
-                return $html;
-             } else {
-                return '';
-
-            }
-        }
-}
-
 if( !function_exists('logo_cover_2') ) {
         function logo_cover_2() {
 
@@ -428,7 +549,7 @@ if( !function_exists('logo_cover_2') ) {
 if( !function_exists('logo_slider') ) {
         function logo_slider() {
 
-             $html = '<div class="item"><a href="'.osc_get_preference('slider12-link', 'hero').'"><img title="'.osc_esc_html( osc_get_preference('slider1-us', 'hero') ).'" alt="'.osc_esc_html( osc_get_preference('slider1-us', 'hero') ).'" src="' . osc_current_web_theme_url('images/slider/slider11.jpg') . '" /></a></div>';
+             $html = '<div class="item"><a href="'.osc_get_preference('slider12-link', 'royal').'"><img title="'.osc_esc_html( osc_get_preference('slider1-us', 'royal') ).'" alt="'.osc_esc_html( osc_get_preference('slider1-us', 'royal') ).'" src="' . osc_current_web_theme_url('images/slider/slider11.jpg') . '" /></a></div>';
              if( file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider/slider11.jpg" ) ) {
                 return $html;
              } else {
@@ -441,7 +562,7 @@ if( !function_exists('logo_slider') ) {
 if( !function_exists('logo_slider_1') ) {
         function logo_slider_1() {
 
-             $html = '<div class="item"><a href="'.osc_get_preference('slider22-link', 'hero').'"><img title="'.osc_esc_html( osc_get_preference('slider2-us', 'hero') ).'" alt="'.osc_esc_html( osc_get_preference('slider2-us', 'hero') ).'" src="' . osc_current_web_theme_url('images/slider/slider22.jpg') . '" /></a></div>';
+             $html = '<div class="item"><a href="'.osc_get_preference('slider22-link', 'royal').'"><img title="'.osc_esc_html( osc_get_preference('slider2-us', 'royal') ).'" alt="'.osc_esc_html( osc_get_preference('slider2-us', 'royal') ).'" src="' . osc_current_web_theme_url('images/slider/slider22.jpg') . '" /></a></div>';
              if( file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider/slider22.jpg" ) ) {
                 return $html;
              } else {
@@ -454,7 +575,7 @@ if( !function_exists('logo_slider_1') ) {
 if( !function_exists('logo_slider_2') ) {
         function logo_slider_2() {
 
-             $html = '<div class="item"><a href="'.osc_get_preference('slider32-link', 'hero').'"><img title="'.osc_esc_html( osc_get_preference('slider3-us', 'hero') ).'" alt="'.osc_esc_html( osc_get_preference('slider3-us', 'hero') ).'" src="' . osc_current_web_theme_url('images/slider/slider33.jpg') . '" /></a></div>';
+             $html = '<div class="item"><a href="'.osc_get_preference('slider32-link', 'royal').'"><img title="'.osc_esc_html( osc_get_preference('slider3-us', 'royal') ).'" alt="'.osc_esc_html( osc_get_preference('slider3-us', 'royal') ).'" src="' . osc_current_web_theme_url('images/slider/slider33.jpg') . '" /></a></div>';
              if( file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider/slider33.jpg" ) ) {
                 return $html;
              } else {
@@ -466,7 +587,7 @@ if( !function_exists('logo_slider_2') ) {
 if( !function_exists('logo_slider_3') ) {
         function logo_slider_3() {
 
-             $html = '<div class="item"><a href="'.osc_get_preference('slider42-link', 'hero').'"><img title="'.osc_esc_html( osc_get_preference('slider4-us', 'hero') ).'" alt="'.osc_esc_html( osc_get_preference('slider4-us', 'hero') ).'" src="' . osc_current_web_theme_url('images/slider/slider44.jpg') . '" /></a></div>';
+             $html = '<div class="item"><a href="'.osc_get_preference('slider42-link', 'royal').'"><img title="'.osc_esc_html( osc_get_preference('slider4-us', 'royal') ).'" alt="'.osc_esc_html( osc_get_preference('slider4-us', 'royal') ).'" src="' . osc_current_web_theme_url('images/slider/slider44.jpg') . '" /></a></div>';
              if( file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/slider/slider44.jpg" ) ) {
                 return $html;
              } else {
@@ -599,7 +720,7 @@ if( !function_exists('brand_8') ) {
 
 function royal_regions_select($name, $id, $label)
 {
-	$aRegions = SelectRegion::newInstance()->listActive(); 
+	$aRegions = Region::newInstance()->listAll(); 
 	if(count($aRegions) > 0 ) { 
 		$html  = '<select class="ima" name="'.$name.'" id="'.$id.'">';
 		$html .= '<option value="">'.$label.'</option>';
@@ -888,12 +1009,6 @@ function royal_is_fineuploader() {
 if( !function_exists('get_user_menu') ) {
         function get_user_menu() {
             $options   = array();
-            if(osc_user_field('b_company') == 1) {
-                $options = get_sitter_options();
-            } else {
-                $options = get_user_options();
-            }
-            /*
             $options[] = array(
                 'name' => __('Public Profile', 'royal'),
                  'url' => osc_user_public_profile_url(),
@@ -923,51 +1038,16 @@ if( !function_exists('get_user_menu') ) {
                 'name'  => __('Change password', 'royal'),
                 'url'   => osc_change_user_password_url(),
                 'class' => 'opt_change_password'
-            );*/
+            );
             $options[] = array(
                 'name'  => __('Logout', 'royal'),
                 'url'   => osc_user_logout_url(),
                 'class' => 'opt_delete_account'
             );
+
             return $options;
         }
     }
-    /**
-     * 利用者メニュー
-     */
-    function get_user_options() {
-        return array(
-            array(
-                'name' => 'プロフィールを編集',
-                'url' => osc_user_profile_url(),
-                'class' => 'opt_account'
-            ),
-            array(
-                'name' => 'ご利用履歴',
-                'url' => '',
-                'class' => ''
-            )
-        );
-    }
-
-    /**
-     * 保育者メニュー
-     */
-    function get_sitter_options() {
-        return array(
-            array(
-                'name' => 'プロフィールを編集',
-                'url' => osc_user_profile_url(),
-                'class' => 'opt_items'
-            ),
-            array(
-                'name' => 'お仕事履歴',
-                'url' => '',
-                'class' => ''
-            )
-        );
-    }
-
 
     
     if( !function_exists('user_info_js') ) {
@@ -1009,7 +1089,15 @@ function royal_google_fonts()
 	return trim(osc_get_preference('google_fonts', 'royal_theme'));
 
 }
+//icon category
 
+function royals_category_icon($catId){
+	$icon = osc_esc_html( strtolower(osc_get_preference('cat-icons-'.$catId, 'royals_theme_cat_icons') ) );
+	if($icon!="")
+	return strtolower($icon);
+	else
+	return "shopping-cart";
+}
 //select category search
 	function osc_categories_select_royal($name = 'sCategory', $category = null, $default_str = null) {
         if($default_str == null) $default_str = __('Select a category');
@@ -1070,28 +1158,6 @@ TRIGGER FUNCTIONS
         }
     }
     osc_add_hook('search_ads_listing_medium1', 'search_ads_listing_medium_fn1');
-
-	function mother_search_meta_name($slug) {
-		$field = Field::newInstance()->findBySlug($slug);
-		FieldForm::meta($field, true);
-	}
-	function mother_meta_slug_to_id($slug) {
-		$field = Field::newInstance()->findBySlug($slug);
-		return "meta[" . $field['pk_i_id'] . "]";
-	}
-
-	function mother_all_category_search() {
-		$ret = "sCategory=";
-		$category = Category::newInstance()->listAll();
-		$count = 0;
-		foreach ($category as $cat) {
-			if ($count != 0) $ret .= ',';
-			$ret .= $cat['pk_i_id'];
-			$count += 1;
-		}
-		return $ret;
-    }
-
 
     /* remove theme */
     function royal_delete_theme() {

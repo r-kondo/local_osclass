@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -81,7 +81,7 @@ input.btn.btn-primary.depans {
                         <?php while( osc_has_categories()) { ?>
                         <a href="<?php echo osc_search_category_url() ; ?>">
                             <div class="ari-45 col-md-2">
-                                <div class="categorys"> <img src="<?php echo osc_current_web_theme_url() ; ?>images/category/<?php echo osc_category_id() ; ?>.png" class="icos <?php echo osc_category_slug() ; ?>">
+                                <div class="categorys color-<?php echo osc_category_id() ; ?>"><?php if(osc_get_preference('icon_view', 'royal_theme')=="1" ) { ?><i class="fa fa-<?php echo royals_category_icon( osc_category_id() ); ?> icoser"></i> <?php } else{ ?> <img src="<?php echo osc_current_web_theme_url() ; ?>images/category/<?php echo osc_category_id() ; ?>.png" class="icos <?php echo osc_category_slug() ; ?>"><?php } ?>
                                     <h4><?php echo osc_category_name() ; ?></h4> 
                                 </div>
                             </div>

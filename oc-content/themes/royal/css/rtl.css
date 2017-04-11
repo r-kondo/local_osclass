@@ -48,18 +48,7 @@ button.mami.btn.btn-default {
 .iconbox-wrap-content {
   text-align: right;
 }
-.navbar-nav>li.postadd {
-padding-left: inherit;
-  margin-left: inherit;
-  border-left: inherit;
-  padding-right: 25px;
-  margin-right: 5px;
-  border-right: solid 1px #ddd;
-}
 .col-md-3.nita.kiris {
-  float: right;
-}
-.navbar-nav>li {
   float: right;
 }
 .navbar-toggle {
@@ -80,6 +69,19 @@ padding-left: inherit;
 /*----------------------------------------------------
            {--------}  new css  {--------}
 ----------------------------------------------------*/
+.col-item .price {
+    float: right;
+}
+input[type=checkbox], input[type=radio] {
+    margin: 0 0 0 10px;
+}
+.pull-right>.dropdown-menu {
+    left: 0;
+    right: auto;
+}
+#item_location {
+    padding-right: 0px;
+}
 .cd-top {
     left: 10px;
     right: inherit;
@@ -101,9 +103,6 @@ padding-left: inherit;
 }
 .col-item .aribudin {
     text-align: right;
-}
-.navbar-nav {
-  float: right;
 }
 .caret {
     margin-right: 3px;
@@ -139,17 +138,10 @@ input#remember {
 /*----------------------------------------------------
            {--------}  end new {--------}
 ----------------------------------------------------*/
-.navbar-nav {
-  float: right;
-  
-}
 .dropdown-menu>li>a, .mega-dropdown-menu .dropdown-header, .mega-dropdown-menu > li > ul > li > a {
   text-align: right;
 }
 #bs-example-navbar-collapse-1 ul{float:right;
-}
-.navbar-right {
-  float: left !important;
 }
 .icon-box {
   text-align: right;
@@ -330,8 +322,318 @@ div.fancy-select div.trigger:after {right: inherit;left: 10px;
 }
 .col-xs-offset-0 {margin-right: 0%;margin-left: 0;
 }
-@media (min-width: 768px) {
+caption {text-align: right;
+}
+th {text-align: right;
+}
+.pull-right{ float:left!important;}
+@media (max-width: 992px) {
+.ari-45 {
+    width: 16.66%;
+    float: right;
+}
+}
+@media (max-width: 768px) {
+.logo {
+  float: right;
+}
+#bs-example-navbar-collapse-1 ul {
+  text-align: right;
+}
+.ari-45{
+    width:25%;
+    float:right;
+}
+ul.nav.navbar-nav.navbar-right {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.navbar-nav>li {
+    width: 100%;
+}
+.navbar-right {
+  width: 100%;
+}
+}
 
+@media (max-width: 576px){
+.label-premium {
+    font-size: 8px;
+    width: 80px;
+}
+.col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xs, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+p, pre {
+    margin: 6px 0;
+}
+.owl-item .ribbonz, .ribbonz{
+    right: 0px;
+    top: 0px;
+    left: inherit;
+}
+.love {
+    padding: 15px 0;
+}
+.label-premium {
+    font-size: 8px;
+    width: 80px;
+}
+.product-kiri{
+    float: right;
+    width: 33%;
+}
+.product-tengah {
+    width: 66%;
+    float: right;
+}
+.productbox {
+    padding: 5px;
+}
+ .hidden-xs-down{
+    display: none;
+}
+.owl-theme .premium_item_ribon {
+    left: 4px;
+    top: 10px;
+}
+#owl-demo33 .premium_item_ribon {
+    left: 3px;
+    top: 10px;
+}
+.cos {
+    margin: 0px;
+    padding: 5px;
+}
+ul#myTab li {
+    padding: 0px 3px;
+}
+.locale {
+    margin-bottom: 10px;
+    padding: 5px 5px;
+}
+.col-md-9.nita .list-group-item {
+    padding: 5px 5px;
+}
+.panel-body {
+    padding: 5px;
+}
+.topbar{
+    display:none;
+}
+.row {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+.container,.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+.owl-theme .owl-controls .owl-buttons .owl-prev {
+  left: -5px;
+  right: inherit;
+}
+.owl-theme .owl-controls .owl-buttons .owl-next {
+  right: -5px;
+  left: inherit;
+}
+}
+@media (max-width: 540px){
+.four-12{
+    float: right;
+    width: 100%;
+}
+.four-11{
+    float: right;
+    width: 90%;
+}
+.four-10{
+    float: right;
+    width: 80%;
+}
+.four-9{
+    float: right;
+    width: 75%;
+}
+.four-8{
+    float: right;
+    width: 66%;
+}
+.four-7{
+    float: right;
+    width: 60%;
+}
+.four-6{
+    float: right;
+    width: 50%;
+}
+.four-5{
+    float: right;
+    width: 40%;
+}
+.four-4{
+    float: right;
+    width: 33%;
+}
+.four-3{
+    float: right;
+    width: 25%;
+}
+.four-2{
+    float: right;
+    width: 20%;
+}
+.four-22{
+    float: right;
+    width: 16%;
+}
+.four-1{
+    float: right;
+    width: 10%;
+}
+}
+@media (max-width: 480px){
+.ari-45{
+    width:33.33%;
+    float:right;
+}
+}
+@media (max-width: 360px){
+.ari-12{
+    float: right;
+    width: 100%;
+}
+.ari-11{
+    float: right;
+    width: 90%;
+}
+.ari-10{
+    float: right;
+    width: 80%;
+}
+.ari-9{
+    float: right;
+    width: 75%;
+}
+.ari-8{
+    float: right;
+    width: 66%;
+}
+.ari-7{
+    float: right;
+    width: 60%;
+}
+.ari-6{
+    float: right;
+    width: 50%;
+}
+.ari-5{
+    float: right;
+    width: 40%;
+}
+.ari-4{
+    float: right;
+    width: 33%;
+}
+.ari-3{
+    float: right;
+    width: 25%;
+}
+.ari-2{
+    float: right;
+    width: 20%;
+}
+.ari-22{
+    float: right;
+    width: 16%;
+}
+.ari-1{
+    float: right;
+    width: 10%;
+}
+}
+@media (max-width: 300px){
+.three-12{
+    float: right;
+    width: 100%;
+}
+.three-11{
+    float: right;
+    width: 90%;
+}
+.three-10{
+    float: right;
+    width: 80%;
+}
+.three-9{
+    float: right;
+    width: 75%;
+}
+.three-8{
+    float: right;
+    width: 66%;
+}
+.three-7{
+    float: right;
+    width: 60%;
+}
+.three-6{
+    float: right;
+    width: 50%;
+}
+.three-5{
+    float: right;
+    width: 40%;
+}
+.three-4{
+    float: right;
+    width: 33%;
+}
+.three-3{
+    float: right;
+    width: 25%;
+}
+.three-2{
+    float: right;
+    width: 20%;
+}
+.three-22{
+    float: right;
+    width: 16%;
+}
+.three-1{
+    float: right;
+    width: 10%;
+}
+.hidden-three-down{
+    display: none !important;
+}
+}
+
+@media (min-width: 768px) {
+.navbar-nav>li.postadd {
+padding-left: inherit;
+  margin-left: inherit;
+  border-left: inherit;
+  padding-right: 25px;
+  margin-right: 5px;
+  border-right: solid 1px #ddd;
+}
+.navbar-nav>li {
+    float: right;
+}
+.navbar-nav {
+    float: left!important;
+}
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {float: right;
 }
 .col-sm-12 {width: 100%;
@@ -436,7 +738,13 @@ div.fancy-select div.trigger:after {right: inherit;left: 10px;
 }
 .col-sm-offset-0 {margin-right: 0%;margin-left: 0;
 }
+.navbar-header {
+  float: right;
 }
+.form-horizontal .control-label {text-align: left;
+}
+}
+
 @media (min-width: 992px) {
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {float: right;
 }
@@ -543,27 +851,20 @@ div.fancy-select div.trigger:after {right: inherit;left: 10px;
 .col-md-offset-0 {margin-right: 0%;margin-left: 0;
 }
 }
-caption {text-align: right;
+@media (min-width: 1200px) {
+.col-lg-12{
+    width: 100%;
 }
-th {text-align: right;
+.col-lg-6{
+    width: 50%;
 }
-.pull-right{ float:left!important;}
-
-@media (min-width: 768px) {
-.navbar-header {
-  float: right;
+.col-lg-3{
+    width: 25%;
 }
-.form-horizontal .control-label {text-align: left;
+.col-lg-2{
+    width: 16%;
 }
-}
-@media (max-width: 768px) {
-.logo {
-  float: right;
-}
-#bs-example-navbar-collapse-1 ul {
-  text-align: right;
-}
-.navbar-right {
-  width: 100%;
+.col-lg-4{
+    width: 33%;
 }
 }

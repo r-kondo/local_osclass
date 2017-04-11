@@ -2,7 +2,7 @@
     /*
      *       Royal Responsive Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Osclass Themes with Single License
      *  

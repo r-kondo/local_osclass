@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:44+0700\n"
+"PO-Revision-Date: 2017-02-15 18:42+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Language-Team: osclass me <cs@osclass.me>\n"
@@ -1096,3 +1096,222 @@ msgstr "Rival ตั้งค่าธีม"
 
 msgid "Rival Category"
 msgstr "Rival หมวดหมู่"
+
+msgid "Submit Ads"
+msgstr "ส่งโฆษณา"
+
+msgid "New listings"
+msgstr "รายการ"
+
+msgid "Random listings"
+msgstr "รายการสุ่ม"
+
+msgid "New"
+msgstr "ใหม่"
+
+msgid "Random"
+msgstr "สุ่ม"
+
+msgid "Premium"
+msgstr "พรีเมี่ยม"
+
+msgid "See all listings"
+msgstr "ดูรายชื่อทั้งหมด"
+
+msgid "Locations"
+msgstr "สถานที่"
+
+msgid "Popular"
+msgstr "ยอดนิยม"
+
+msgid "Featured brand"
+msgstr "แบรนด์ที่โดดเด่น"
+
+msgid "Statistic Info"
+msgstr "ข้อมูลสถิติ"
+
+msgid "Social network"
+msgstr "เครือข่ายสังคม"
+
+msgid "Payment"
+msgstr "การชำระเงิน"
+
+msgid "My listings"
+msgstr "ประกาศของฉัน"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "My alert"
+msgstr "การแจ้งเตือน"
+
+msgid "My Listings"
+msgstr "ประกาศของฉัน"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> รายชื่อของฉัน"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> การแจ้งเตือนของฉัน"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> การตั้งค่า"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> เปลี่ยนอีเมล"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> เปลี่ยนรหัสผ่าน"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> ออกจากระบบ"
+
+msgid "Seller profile"
+msgstr "รายละเอียดผู้ขาย"
+
+msgid "Leave Comment"
+msgstr "แสดงความคิดเห็น"
+
+msgid "Send mail"
+msgstr "ส่งจดหมาย"
+
+msgid "Premium listings"
+msgstr "รายการพรีเมี่ยม"
+
+msgid "Search filter"
+msgstr "ตัวกรองการค้นหา"
+
+msgid "General information"
+msgstr "ข้อมูลทั่วไป"
+
+msgid "Upload images"
+msgstr "อัพโหลดภาพ"
+
+msgid "Views"
+msgstr "มุมมอง"
+
+msgid "Standart ads"
+msgstr "มาตรฐาน"
+
+msgid "Premium ads"
+msgstr "พรีเมี่ยม"
+
+msgid "Default Thumbnail"
+msgstr "เริ่มต้นขนาดย่อ"
+
+msgid "Small slider"
+msgstr "เลื่อนขนาดเล็ก"
+
+msgid "Slider Small Images"
+msgstr "รูปภาพ Slider ขนาดเล็ก"
+
+msgid "Category count"
+msgstr "นับหมวดหมู่"
+
+msgid "Custom Useful Information"
+msgstr "ข้อมูลที่เป็นประโยชน์ที่กำหนดเอง"
+
+msgid "Home Premium Ads"
+msgstr "โฆษณาพรีเมี่ยมบ้าน"
+
+msgid "Latest and Random Ads Display"
+msgstr "ล่าสุดและโฆษณาสุ่มแสดงผล"
+
+msgid "Home latest Ads"
+msgstr "หน้าแรกโฆษณาล่าสุด"
+
+msgid "Home Random Ads"
+msgstr "หน้าแรกโฆษณาสุ่ม"
+
+msgid "Ads by category Display"
+msgstr "โฆษณาตามหมวดหมู่การแสดงผล"
+
+msgid "Ads by category"
+msgstr "โฆษณาตามหมวดหมู่"
+
+msgid "Item post multilanguges"
+msgstr "multilanguges รายการโพสต์"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "โฆษณานี้จะแสดงที่ด้านบนของเว็บไซต์ของคุณ โปรดทราบว่าขนาดของโฆษณาจะต้องมีขนาด 728x90 พิกเซล"
+
+msgid "Price settings"
+msgstr "การตั้งราคา"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "คุณสามารถใช้สี sceme 6 จากรูปแบบหรือคุณสามารถปรับแต่งสีของคุณเองกับสวิตช์บนแผงปรับแต่ง"
+
+msgid "create new TOS pages and paste url here"
+msgstr "สร้างหน้าใหม่ TOS และวาง URL ที่นี่"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider กรรมสิทธิ์และคำบรรยาย"
+
+msgid "Seller information"
+msgstr "ข้อมูลผู้ขาย"
+
+msgid "Popular Location"
+msgstr "สถานที่ที่เป็นที่นิยม"
+
+msgid "Latest search"
+msgstr "การค้นหาล่าสุด"
+
+msgid "All"
+msgstr "ทั้งหมด"
+
+msgid "Item Id"
+msgstr "Id รายการ"
+
+msgid "Total member"
+msgstr "สมาชิกทั้งหมด"
+
+msgid "Your email"
+msgstr "อีเมลของคุณ"
+
+msgid "Already have an account ?"
+msgstr "มีบัญชีอยู่แล้ว?"
+
+msgid "Lost password ?"
+msgstr "ลืมรหัสผ่าน?"
+
+msgid "Don't have an account !"
+msgstr "ยังไม่บัญชีใช่ไหม?"
+
+msgid "Forgot password"
+msgstr "ลืมรหัสผ่าน"
+
+msgid "Note"
+msgstr "หมายเหตุ"
+
+msgid "Please don't send spam messages"
+msgstr "โปรดอย่าส่งข้อความสแปม"
+
+msgid "View"
+msgstr "เรียกดู"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> ข้อมูลส่วนตัว"
+
+msgid "User Id"
+msgstr "วาง"
+
+msgid "Edit item"
+msgstr "แก้ไขรายการ"
+
+msgid "Detail"
+msgstr "รายละเอียด"
+
+msgid "Client"
+msgstr "ลูกค้า"
+
+msgid "Advance Search"
+msgstr "ค้นหาแบบละเอียด"
+
+msgid "Subcribe"
+msgstr "สมัครเป็นสมาชิก"
+
+msgid "Hi Guest !"
+msgstr "สวัสดีผู้เยี่ยมชม!"
+
+msgid "ID"
+msgstr "ไอดี"

@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -15,7 +15,7 @@
 Theme Name: Royal
 Theme URI: http://osclass.me/
 Description: Royal Multipurpose Osclass Themes
-Version: 1.6.0
+Version: 1.6.5
 Author: OsclassDotMe
 Author URI: http://osclass.me/
 Widgets:  header, footer
@@ -25,7 +25,7 @@ Theme update URI: royal
     function royal_theme_info() {
         return array(
              'name'        => 'royal'
-            ,'version'     => '1.6.0'
+            ,'version'     => '1.6.5'
             ,'description' => 'Royal Multipurpose Osclass Themes'
             ,'author_name' => 'OsclassDotMe'
             ,'author_url'  => 'http://osclass.me'

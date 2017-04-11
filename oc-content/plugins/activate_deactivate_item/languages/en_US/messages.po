@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-22 18:12+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Darko Angeleski\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: activate_deactivate_item\n"
+
+#: plugins/activate_deactivate_item/user/user_item_actions.php
+msgid "Your item has been deactivated"
+msgstr ""
+
+#: plugins/activate_deactivate_item/user/user_item_actions.php
+msgid "Your item is already inactive"
+msgstr ""
+
+#: plugins/activate_deactivate_item/user/user_item_actions.php
+msgid "Your item has been activated"
+msgstr ""
+
+#: plugins/activate_deactivate_item/user/user_item_actions.php
+msgid "Your item is already active"
+msgstr ""

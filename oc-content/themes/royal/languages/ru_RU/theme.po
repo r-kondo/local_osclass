@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:41+0700\n"
+"PO-Revision-Date: 2017-02-15 18:34+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1100,3 +1100,222 @@ msgstr "Rival Настройки темы"
 
 msgid "Rival Category"
 msgstr "Rival Категория"
+
+msgid "Submit Ads"
+msgstr "Подать объявления"
+
+msgid "New listings"
+msgstr "Новые объявления"
+
+msgid "Random listings"
+msgstr "Случайные списки"
+
+msgid "New"
+msgstr "Новинка"
+
+msgid "Random"
+msgstr "Случайным образом"
+
+msgid "Premium"
+msgstr "Премиум"
+
+msgid "See all listings"
+msgstr "Все объявления"
+
+msgid "Locations"
+msgstr "Местоположение"
+
+msgid "Popular"
+msgstr "Популярное"
+
+msgid "Featured brand"
+msgstr "Рекомендуемые бренды"
+
+msgid "Statistic Info"
+msgstr "Статистика информация"
+
+msgid "Social network"
+msgstr "Социальные сети"
+
+msgid "Payment"
+msgstr "Оплата"
+
+msgid "My listings"
+msgstr "Мои объявления"
+
+msgid "Settings"
+msgstr "Установки"
+
+msgid "My alert"
+msgstr "Бдительный"
+
+msgid "My Listings"
+msgstr "Мои объекты"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>Мои объявления"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>Мои оповещения"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>Параметры"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>Изменить электронную почту"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>Смена пароля"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>Выход из системы"
+
+msgid "Seller profile"
+msgstr "Профиль продавца"
+
+msgid "Leave Comment"
+msgstr "Оставить комментарий"
+
+msgid "Send mail"
+msgstr "Отправить E-mail"
+
+msgid "Premium listings"
+msgstr "VIP Объявления"
+
+msgid "Search filter"
+msgstr "Фильтр поиска"
+
+msgid "General information"
+msgstr "Общая характеристика:"
+
+msgid "Upload images"
+msgstr "Загрузить изображения"
+
+msgid "Views"
+msgstr "Просмотры"
+
+msgid "Standart ads"
+msgstr "Стандартные объявления"
+
+msgid "Premium ads"
+msgstr "Премиум Объявления"
+
+msgid "Default Thumbnail"
+msgstr "Миниатюра по умолчанию"
+
+msgid "Small slider"
+msgstr "Маленький слайдер"
+
+msgid "Slider Small Images"
+msgstr "Небольшие изображения ползунок"
+
+msgid "Category count"
+msgstr "Счетчик Категории"
+
+msgid "Custom Useful Information"
+msgstr "Пользовательские полезная информация"
+
+msgid "Home Premium Ads"
+msgstr "Премиум Объявления"
+
+msgid "Latest and Random Ads Display"
+msgstr "Последние и случайных объявлений дисплей"
+
+msgid "Home latest Ads"
+msgstr "Главная Последние объявления"
+
+msgid "Home Random Ads"
+msgstr "Главная Случайные объявления"
+
+msgid "Ads by category Display"
+msgstr "Объявления по категориям дисплей"
+
+msgid "Ads by category"
+msgstr "Объявления с категории"
+
+msgid "Item post multilanguges"
+msgstr "Пункт сообщение multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Это объявление будет показано в верхней части вашего сайта. Обратите внимание, что размер объявлений должен быть 728 x 90 пикселей."
+
+msgid "Price settings"
+msgstr "Начальная цена"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Вы можете использовать 6 sceme цвет от темы или вы можете настроить свой собственный цвет с переключателем на настройки панели."
+
+msgid "create new TOS pages and paste url here"
+msgstr "создание новых страниц TOS и вставить URL-адрес здесь"
+
+msgid "Slider Title and Subtitle"
+msgstr "Слайдер заголовок и подзаголовок"
+
+msgid "Seller information"
+msgstr "Информация о продавце"
+
+msgid "Popular Location"
+msgstr "Популярные места расположения"
+
+msgid "Latest search"
+msgstr "Последний поиск"
+
+msgid "All"
+msgstr "все"
+
+msgid "Item Id"
+msgstr "Блок элемента id"
+
+msgid "Total member"
+msgstr "Всего пользователей"
+
+msgid "Your email"
+msgstr "Ваш эл.адрес"
+
+msgid "Already have an account ?"
+msgstr "Уже зарегистрировались?"
+
+msgid "Lost password ?"
+msgstr "Забыли пароль?"
+
+msgid "Don't have an account !"
+msgstr "У вас нет учетной записи!"
+
+msgid "Forgot password"
+msgstr "Забыли пароль"
+
+msgid "Note"
+msgstr "Примечание"
+
+msgid "Please don't send spam messages"
+msgstr "Пожалуйста, не посылайте спам"
+
+msgid "View"
+msgstr "Просмотреть"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Профиль"
+
+msgid "User Id"
+msgstr "ID пользователя"
+
+msgid "Edit item"
+msgstr "Изменить позицию"
+
+msgid "Detail"
+msgstr "Подробно"
+
+msgid "Client"
+msgstr "Клиент"
+
+msgid "Advance Search"
+msgstr "Расширенный поиск"
+
+msgid "Subcribe"
+msgstr "Рассылка"
+
+msgid "Hi Guest !"
+msgstr "Привет, %s"
+
+msgid "ID"
+msgstr "ID"

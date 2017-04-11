@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -45,7 +45,6 @@
 <script src="<?php echo osc_current_web_theme_js_url('bootstrap.min.js') ; ?>"></script>
 <link rel="stylesheet" href="<?php echo osc_current_web_theme_styles_url('color/'.osc_get_preference('color-royal', 'royal').'.css') ; ?>">
 <link rel="stylesheet" href="<?php echo osc_current_web_theme_styles_url('style.css') ; ?>">
-<link rel="stylesheet" href="<?php echo osc_current_web_theme_styles_url('second.css') ; ?>">
 
 <?php if(osc_get_preference('font_view', 'royal_theme') == "1") { ?>
 <?php osc_current_web_theme_path('common/media.php'); ?>
@@ -60,23 +59,9 @@ osc_enqueue_style('chosen-css', osc_current_web_theme_js_url('chosen/chosen.css'
 osc_enqueue_style('jquery-ui-datepicker', osc_assets_url('css/jquery-ui/jquery-ui.css'));
 osc_enqueue_style('font', osc_current_web_theme_styles_url('css/font-awesome.css') );
 
-osc_register_script('chosen-js', osc_current_web_theme_js_url('chosen/chosen.jquery.min.js'), 'jquery');
 osc_register_script('global-theme-js', osc_current_web_theme_js_url('global.js'), 'jquery');
 
-osc_enqueue_script('jquery');
 osc_enqueue_script('jquery-ui');
-osc_enqueue_script('chosen-js');
-osc_enqueue_script('global-theme-js');
-osc_enqueue_script('php-date');
-
-osc_register_script('jquery-uniform', osc_current_web_theme_js_url('jquery.uniform.js'), 'jquery');
-osc_register_script('global', osc_current_web_theme_js_url('global.js'));
-osc_enqueue_script('jquery');
-osc_enqueue_script('jquery-ui');
-osc_enqueue_script('jquery-uniform');
-osc_enqueue_script('tabber');
-osc_enqueue_script('global');
-
 osc_run_hook('header');
 
 FieldForm::i18n_datePicker();

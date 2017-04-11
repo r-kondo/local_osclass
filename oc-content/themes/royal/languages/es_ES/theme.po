@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:16+0700\n"
+"PO-Revision-Date: 2017-02-15 17:25+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1094,3 +1094,222 @@ msgstr "Ajustes de tema rival"
 
 msgid "Rival Category"
 msgstr "Rival Categoría"
+
+msgid "Submit Ads"
+msgstr "Enviar anuncios"
+
+msgid "New listings"
+msgstr "Nuevos anuncios"
+
+msgid "Random listings"
+msgstr "listados al azar"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "Random"
+msgstr "Aleatorio"
+
+msgid "Premium"
+msgstr "Prima"
+
+msgid "See all listings"
+msgstr "Mostrar todos los anuncios"
+
+msgid "Locations"
+msgstr "Ubicaciones"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Featured brand"
+msgstr "marca destacado"
+
+msgid "Statistic Info"
+msgstr "Información estadística"
+
+msgid "Social network"
+msgstr "Redes sociales"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "My listings"
+msgstr "Mis Listados"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "My alert"
+msgstr "mi alerta"
+
+msgid "My Listings"
+msgstr "Mis Listados"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> Mis anuncios"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> Mis alertas"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> ajustes"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> Cambiar e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> Cambia la contraseña"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Cerrar sesión"
+
+msgid "Seller profile"
+msgstr "Perfil de vendedor"
+
+msgid "Leave Comment"
+msgstr "Dejar Comentario"
+
+msgid "Send mail"
+msgstr "Enviar correo..."
+
+msgid "Premium listings"
+msgstr "Anuncios Destacados"
+
+msgid "Search filter"
+msgstr "Filtro de Búsqueda"
+
+msgid "General information"
+msgstr "Información general"
+
+msgid "Upload images"
+msgstr "Subir imágenes."
+
+msgid "Views"
+msgstr "Puntos de vista"
+
+msgid "Standart ads"
+msgstr "anuncios standart"
+
+msgid "Premium ads"
+msgstr "Anuncios Premium"
+
+msgid "Default Thumbnail"
+msgstr "Miniatura por defecto"
+
+msgid "Small slider"
+msgstr "Pequeño deslizador"
+
+msgid "Slider Small Images"
+msgstr "Slide Pequeño Título"
+
+msgid "Category count"
+msgstr "Contador de categorías"
+
+msgid "Custom Useful Information"
+msgstr "Útil de información personalizada"
+
+msgid "Home Premium Ads"
+msgstr "Anuncios Premium"
+
+msgid "Latest and Random Ads Display"
+msgstr "Anuncios al azar último y Display"
+
+msgid "Home latest Ads"
+msgstr "Últimos Anuncios"
+
+msgid "Home Random Ads"
+msgstr "Anuncios Aleatorios"
+
+msgid "Ads by category Display"
+msgstr "Avisos de la categoría de visualización"
+
+msgid "Ads by category"
+msgstr "Avisos de la categoría"
+
+msgid "Item post multilanguges"
+msgstr "multilanguges enviar elemento"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anuncio se mostrará en la parte superior de su sitio web. Tenga en cuenta que el tamaño del anuncio tiene que ser de 728x90 píxeles."
+
+msgid "Price settings"
+msgstr "Ajustes de precios"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Usted puede utilizar el color 6 sceme del tema o puede personalizar su propio color con el interruptor en el panel de personalización."
+
+msgid "create new TOS pages and paste url here"
+msgstr "crear nuevas páginas y TOS url pasta aquí"
+
+msgid "Slider Title and Subtitle"
+msgstr "Deslizador título y subtítulo"
+
+msgid "Seller information"
+msgstr "Información del vendedor"
+
+msgid "Popular Location"
+msgstr "Ubicación populares"
+
+msgid "Latest search"
+msgstr "Propiedades Recientes"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Item Id"
+msgstr "﻿ID del Elemento:"
+
+msgid "Total member"
+msgstr "Total miembros"
+
+msgid "Your email"
+msgstr "Su dirección"
+
+msgid "Already have an account ?"
+msgstr "¿Tienes una cuenta existente?"
+
+msgid "Lost password ?"
+msgstr "¿Perdió Su Contraseña?"
+
+msgid "Don't have an account !"
+msgstr "Aún no tiene una cuenta"
+
+msgid "Forgot password"
+msgstr "Contraseña olvidada"
+
+msgid "Note"
+msgstr "Notas"
+
+msgid "Please don't send spam messages"
+msgstr "Por favor, no envíe mensajes de correo basura"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Perfil"
+
+msgid "User Id"
+msgstr "ID del Usuario"
+
+msgid "Edit item"
+msgstr "Editar artículo"
+
+msgid "Detail"
+msgstr "Detalle"
+
+msgid "Client"
+msgstr "Cliente"
+
+msgid "Advance Search"
+msgstr "Búsqueda Avanzada"
+
+msgid "Subcribe"
+msgstr "Suscríbase"
+
+msgid "Hi Guest !"
+msgstr "Hola, Guest!"
+
+msgid "ID"
+msgstr "ID"

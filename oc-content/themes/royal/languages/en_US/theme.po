@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:14+0700\n"
+"PO-Revision-Date: 2017-02-15 18:21+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -101,9 +101,6 @@ msgstr "Hi %s"
 
 msgid "My account"
 msgstr "My account"
-
-msgid "My favorite"
-msgstr "My favorite"
 
 msgid "Logout"
 msgstr "Logout"
@@ -493,6 +490,9 @@ msgstr "Create"
 msgid "Preview"
 msgstr "Preview"
 
+msgid "View more..."
+msgstr "View more..."
+
 msgid "Remove logo"
 msgstr "Remove logo"
 
@@ -666,9 +666,6 @@ msgstr "See all ads from"
 
 msgid "Pages"
 msgstr "Pages"
-
-msgid "View more..."
-msgstr "View more..."
 
 msgid "Advanced search"
 msgstr "Advanced search"
@@ -1101,3 +1098,222 @@ msgstr "Rival Theme Settings"
 
 msgid "Rival Category"
 msgstr "Rival Category"
+
+msgid "Submit Ads"
+msgstr "Submit Ads"
+
+msgid "New listings"
+msgstr "New listings"
+
+msgid "Random listings"
+msgstr "Random listings"
+
+msgid "New"
+msgstr "New"
+
+msgid "Random"
+msgstr "Random"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "See all listings"
+msgstr "See all listings"
+
+msgid "Locations"
+msgstr "Locations"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Featured brand"
+msgstr "Featured brand"
+
+msgid "Statistic Info"
+msgstr "Statistic Info"
+
+msgid "Social network"
+msgstr "Social network"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "My listings"
+msgstr "My listings"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "My alert"
+msgstr "My alert"
+
+msgid "My Listings"
+msgstr "My Listings"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> My listings"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> My alerts"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> Settings"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> Change e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> Change password"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Logout"
+
+msgid "Seller profile"
+msgstr "Seller profile"
+
+msgid "Leave Comment"
+msgstr "Leave Comment"
+
+msgid "Send mail"
+msgstr "Send mail"
+
+msgid "Premium listings"
+msgstr "Premium listings"
+
+msgid "Search filter"
+msgstr "Search filter"
+
+msgid "General information"
+msgstr "General information"
+
+msgid "Upload images"
+msgstr "Upload images"
+
+msgid "Views"
+msgstr "Views"
+
+msgid "Standart ads"
+msgstr "Standart ads"
+
+msgid "Premium ads"
+msgstr "Premium ads"
+
+msgid "Default Thumbnail"
+msgstr "Default Thumbnail"
+
+msgid "Small slider"
+msgstr "Small slider"
+
+msgid "Slider Small Images"
+msgstr "Slider Small Images"
+
+msgid "Category count"
+msgstr "Category count"
+
+msgid "Custom Useful Information"
+msgstr "Custom Useful Information"
+
+msgid "Home Premium Ads"
+msgstr "Home Premium Ads"
+
+msgid "Latest and Random Ads Display"
+msgstr "Latest and Random Ads Display"
+
+msgid "Home latest Ads"
+msgstr "Home latest Ads"
+
+msgid "Home Random Ads"
+msgstr "Home Random Ads"
+
+msgid "Ads by category Display"
+msgstr "Ads by category Display"
+
+msgid "Ads by category"
+msgstr "Ads by category"
+
+msgid "Item post multilanguges"
+msgstr "Item post multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+
+msgid "Price settings"
+msgstr "Price settings"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+
+msgid "create new TOS pages and paste url here"
+msgstr "create new TOS pages and paste url here"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Title and Subtitle"
+
+msgid "Seller information"
+msgstr "Seller information"
+
+msgid "Popular Location"
+msgstr "Popular Location"
+
+msgid "Latest search"
+msgstr "Latest search"
+
+msgid "All"
+msgstr "All"
+
+msgid "Item Id"
+msgstr "Item Id"
+
+msgid "Total member"
+msgstr "Total member"
+
+msgid "Your email"
+msgstr "Your email"
+
+msgid "Already have an account ?"
+msgstr "Already have an account ?"
+
+msgid "Lost password ?"
+msgstr "Lost password ?"
+
+msgid "Don't have an account !"
+msgstr "Don't have an account !"
+
+msgid "Forgot password"
+msgstr "Forgot password"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Please don't send spam messages"
+msgstr "Please don't send spam messages"
+
+msgid "View"
+msgstr "View"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profile"
+
+msgid "User Id"
+msgstr "User Id"
+
+msgid "Edit item"
+msgstr "Edit item"
+
+msgid "Detail"
+msgstr "Detail"
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Advance Search"
+msgstr "Advance Search"
+
+msgid "Subcribe"
+msgstr "Subcribe"
+
+msgid "Hi Guest !"
+msgstr "Hi Guest !"
+
+msgid "ID"
+msgstr "ID"

@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -18,7 +18,7 @@
     <div id="products" class="row list-group">
         <?php osc_get_premiums($max=osc_get_preference('premiumads_num_royal', 'royal')) ; if( osc_count_premiums()> 0 ) { ?>
         <?php while ( osc_has_premiums() ) { ?>
-        <div class="item col-xs-6 col-md-3">
+        <div class="item col-lg-3 col-md-3 col-sm-4 col-xs-4 four-6 three-12">
             <div class="col-item">
                 <div class="photo">
                     <?php if( osc_count_premium_resources() ) { ?> <a href="<?php echo osc_premium_url() ; ?>"><img class="img-responsive" src="<?php echo osc_resource_thumbnail_url() ; ?>" title="<?php echo osc_esc_html(osc_premium_title()) ; ?>" alt="<?php echo osc_esc_html(osc_premium_title()) ; ?>" /></a>
@@ -52,18 +52,22 @@
 </div>
 </div>
 <?php } ?>
+
 <?php if(osc_get_preference('product-royal', 'royal')=="yes" ) { ?>
 <div class="container">
     <div class="ari">
         <h2><?php _e("Latest Listings", 'royal') ; ?></h2> 
     </div>
     <div id="products" class="row list-group">
-        <?php if( osc_count_latest_items()==0 ) { ?>
-        <p class="empty"><?php _e("No Latest Listings", 'royal'); ?></p>
-        <?php } else { ?>
+
+         <?php if( osc_count_latest_items()==0 ) { ?>
+        
+        <div class="item latest col-md-12">
+                                <?php _e("No Latest Listings", 'royal'); ?></div>
+                                <?php } else { ?>
         <?php $class="even" ; ?>
         <?php while ( osc_has_latest_items() ) { ?>
-        <div class="item  col-xs-6 col-md-3">
+        <div class="item  col-lg-3 col-md-3 col-sm-4 col-xs-4 four-6 three-12">
             <div class="<?php osc_run_hook("highlight_class"); ?> col-item">
                 <div class="photo">
                     <?php if( osc_images_enabled_at_items() ) { ?>
@@ -95,7 +99,7 @@
             </div>
         </div>
         <?php } ?>
-        <?php } ?> </div>
+        <?php } ?></div>
     <?php if( osc_count_latest_items()==osc_max_latest_items() ) { ?>
     <div class="show-all-ads">
         <div class="col-md-12">
@@ -105,6 +109,7 @@
     <?php } ?>
     <?php View::newInstance()->_erase('items'); } ?> </div>
 <?php } ?>
+
 <div class="container">
 <div class="row">
 <?php if(osc_get_preference( 'sect4_view', 'royal_theme')=="1" ) { ?>
@@ -184,7 +189,7 @@
 <div class="page-info">
     <div class="container text-center section-promo">
         <div class="row">
-            <div class="col-sm-3 col-xs-6 col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-th"></i> </div>
@@ -196,7 +201,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-xs-6 col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-star"></i> </div>
@@ -208,7 +213,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-xs-6 col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-group"></i> </div>
@@ -220,7 +225,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-xs-6  col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-map-marker"></i> </div>
@@ -237,15 +242,4 @@
 </div>
 <?php } ?>
 <script src="<?php echo osc_current_web_theme_js_url('owl.carousel.js') ; ?>"></script> 
-<script>
-    $(document).ready(function() {
-     
-$("#owl-demo7").owlCarousel({
-        autoPlay: 3000,
-        items : 6,
-        itemsDesktop : [1199,3],
-        itemsDesktopSmall : [979,3]
-      });
-
-    });
-    </script>
+<script src="<?php echo osc_current_web_theme_js_url('royal.js') ; ?>"></script> 

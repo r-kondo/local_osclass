@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -14,7 +14,7 @@
 <div class="related">
     <div id="owl-demo45" class="owl-carousel">
         <?php while(osc_has_items()) { ?>
-        <div class="item col-md-12">
+        <div class="item <?php osc_run_hook("highlight_class"); ?> col-md-12">
             <div class="col-item">
                 <div class="photo">
                     <?php if( osc_images_enabled_at_items() ) { ?>
@@ -46,12 +46,4 @@
 </div>	
 
 <script src="<?php echo osc_current_web_theme_js_url('owl.carousel.js') ; ?>"></script> 
-<script>
-$("#owl-demo45").owlCarousel({
-    items : 4,
-     autoPlay: 5000,
-    autoplay: true,
-    lazyLoad : true,
-    
-  }); 
-</script>
+<script src="<?php echo osc_current_web_theme_js_url('royal.js') ; ?>"></script>

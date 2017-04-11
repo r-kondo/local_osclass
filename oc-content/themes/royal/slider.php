@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -126,7 +126,7 @@ section#footerme {
 <?php if(osc_get_preference( 'sect4_view', 'royal_theme')=="1" ) { ?>
             <div class="col-md-12">
                 <div class="ari">
-        <h2><i class="fa fa-dollar"></i> <?php _e('Pricing', 'royal'); ?></h2>
+        <h2><i class="fa fa-dollar"></i> <?php _e('Price', 'royal'); ?></h2>
                 </div>
                 <div class="pricing">
                     <ul>
@@ -200,7 +200,7 @@ section#footerme {
 <div class="page-info">
     <div class="container text-center section-promo">
         <div class="row">
-            <div class="col-sm-3 col-xs-6 col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-th"></i> </div>
@@ -212,7 +212,7 @@ section#footerme {
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-xs-6 col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-star"></i> </div>
@@ -224,7 +224,7 @@ section#footerme {
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-xs-6 col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-group"></i> </div>
@@ -236,7 +236,7 @@ section#footerme {
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-xs-6  col-xxs-12">
+            <div class="col-sm-3 col-xs-6 ari-12">
                 <div class="iconbox-wrap">
                     <div class="iconbox">
                         <div class="iconbox-wrap-icon"> <i class="fa fa-map-marker"></i> </div>
@@ -254,26 +254,4 @@ section#footerme {
 <?php } ?>
 
 <script src="<?php echo osc_current_web_theme_js_url('owl.carousel.js') ; ?>"></script> 
-<script>
-$(document).ready(function() {
- $("#owl-demo").owlCarousel({
-        autoPlay: 3000,
-        items : 5,
-        itemsDesktop : [1199,3],
-        itemsDesktopSmall : [979,3]
-      });
- $("#owl-demo1").owlCarousel({
-        autoPlay: 3000,
-        items : 5,
-        itemsDesktop : [1199,3],
-        itemsDesktopSmall : [979,3]
-      });
-$("#owl-demo7").owlCarousel({
-        autoPlay: 3000,
-        items : 6,
-        itemsDesktop : [1199,3],
-        itemsDesktopSmall : [979,3]
-      });
-
-    });
-    </script>
+<script src="<?php echo osc_current_web_theme_js_url('royal.js') ; ?>"></script> 

@@ -2,7 +2,7 @@
     /*
      *       Royal Responsive Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Osclass Themes with Single License
      *  
@@ -52,21 +52,21 @@
                             </li>
                             <?php } ?> </ul>
 </div>
-                  <dl class="footer-nav">
+                  <dl class="footer-nav info-box">
                     <dt class="nav-title"><?php echo osc_get_preference('judul1-royal', 'royal'); ?></dt>
                      <?php echo osc_get_preference('widget1-royal', 'royal'); ?>
                     
                   </dl>
-                  <dl class="footer-nav">
+                  <dl class="footer-nav info-box">
                     <dt class="nav-title"><?php echo osc_get_preference('judul2-royal', 'royal'); ?></dt>
                      <?php echo osc_get_preference('widget2-royal', 'royal'); ?>
                    
                   </dl>
-                  <dl class="footer-nav">
+                  <dl class="footer-nav info-box">
                     <dt class="nav-title"><?php echo osc_get_preference('judul3-royal', 'royal'); ?></dt>
                     <?php echo osc_get_preference('widget3-royal', 'royal'); ?>
                   </dl>
-                  <dl class="footer-nav">
+                  <dl class="footer-nav info-box">
                     <dt class="nav-title"><?php echo osc_get_preference('judul4-royal', 'royal'); ?></dt>
                     <?php echo osc_get_preference('widget4-royal', 'royal'); ?>
                   </dl>

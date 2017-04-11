@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:17+0700\n"
+"PO-Revision-Date: 2017-02-15 17:36+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1098,3 +1098,222 @@ msgstr "تنظیمات Rival"
 
 msgid "Rival Category"
 msgstr "Rival  رده"
+
+msgid "Submit Ads"
+msgstr "ارسال آگهی"
+
+msgid "New listings"
+msgstr "آگهی های جدید"
+
+msgid "Random listings"
+msgstr "لیست فایل های تصادفی"
+
+msgid "New"
+msgstr "جدید"
+
+msgid "Random"
+msgstr "تصادفی"
+
+msgid "Premium"
+msgstr "پیشرفته"
+
+msgid "See all listings"
+msgstr "تمام آگهی ها"
+
+msgid "Locations"
+msgstr "موقعیت ها"
+
+msgid "Popular"
+msgstr "محبوب"
+
+msgid "Featured brand"
+msgstr "نام تجاری برجسته"
+
+msgid "Statistic Info"
+msgstr "آمار"
+
+msgid "Social network"
+msgstr "شبکه های اجتماعی"
+
+msgid "Payment"
+msgstr "پرداخت"
+
+msgid "My listings"
+msgstr "آگهی های من"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "My alert"
+msgstr "یک  هشدار را نمایش میدهد"
+
+msgid "My Listings"
+msgstr "فهرست من"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>لیست من"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>من هشدار"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>تنظیمات"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>تغییر ایمیل"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>تغییر رمز عبور"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>خروج"
+
+msgid "Seller profile"
+msgstr "پروفایل آگهی دهنده"
+
+msgid "Leave Comment"
+msgstr "نظر دهید"
+
+msgid "Send mail"
+msgstr "ارسال ایمیل"
+
+msgid "Premium listings"
+msgstr "آگهی های ویژه"
+
+msgid "Search filter"
+msgstr "فیلتر جستجو"
+
+msgid "General information"
+msgstr "اطلاعات کلی"
+
+msgid "Upload images"
+msgstr "ارسال عکس ها"
+
+msgid "Views"
+msgstr "بازدید"
+
+msgid "Standart ads"
+msgstr "استاندارد"
+
+msgid "Premium ads"
+msgstr "آگهی ویژه"
+
+msgid "Default Thumbnail"
+msgstr "تصاویر کوچک پیش فرض"
+
+msgid "Small slider"
+msgstr "اسلایدر کوچک"
+
+msgid "Slider Small Images"
+msgstr "اسلایدر تصاویر کوچک"
+
+msgid "Category count"
+msgstr "تعداد موضوع"
+
+msgid "Custom Useful Information"
+msgstr "اطلاعات مفید سفارشی"
+
+msgid "Home Premium Ads"
+msgstr "آگهی ویژه"
+
+msgid "Latest and Random Ads Display"
+msgstr "آگهی های تصادفی و آخرین نمایش"
+
+msgid "Home latest Ads"
+msgstr "آخرین آگهی ها"
+
+msgid "Home Random Ads"
+msgstr "آگهی های تصادفی"
+
+msgid "Ads by category Display"
+msgstr "تبلیغات توسط گروه نمایش"
+
+msgid "Ads by category"
+msgstr "دسته بندی"
+
+msgid "Item post multilanguges"
+msgstr "مورد پست multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "این تبلیغ در بالای وب سایت شما نشان داده شود. توجه داشته باشید که اندازه تبلیغ 728 x 90 پیکسل است."
+
+msgid "Price settings"
+msgstr "تنظیمات قیمت"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "شما می توانید استفاده 6 رنگ sceme از موضوع و یا شما می توانید رنگ خود را با تعویض سفارشی در صفحه را سفارشی کنید."
+
+msgid "create new TOS pages and paste url here"
+msgstr "ایجاد صفحات جدید TOS و چسباندن آدرس اینجا"
+
+msgid "Slider Title and Subtitle"
+msgstr "عنوان لغزنده و زیرنویس"
+
+msgid "Seller information"
+msgstr "اطلاعات فروشنده"
+
+msgid "Popular Location"
+msgstr "محبوبترین نوع مکان"
+
+msgid "Latest search"
+msgstr "آخرین جستجو"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Item Id"
+msgstr "شناسه مورد"
+
+msgid "Total member"
+msgstr "کل عضو"
+
+msgid "Your email"
+msgstr "ایمیل شما"
+
+msgid "Already have an account ?"
+msgstr "عضو نشده اید؟"
+
+msgid "Lost password ?"
+msgstr "کلمه عبورم را فراموش کرده‏ ام!"
+
+msgid "Don't have an account !"
+msgstr "حساب کاربری ندارید؟"
+
+msgid "Forgot password"
+msgstr "گذرواژه خود را فراموش کرده اید؟"
+
+msgid "Note"
+msgstr "نوشته"
+
+msgid "Please don't send spam messages"
+msgstr "لطفا پیام های اسپم ارسال کنید"
+
+msgid "View"
+msgstr "مشاهده"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> مشخصات"
+
+msgid "User Id"
+msgstr "شناسه کاربر:"
+
+msgid "Edit item"
+msgstr "ویرایش مورد"
+
+msgid "Detail"
+msgstr "جزئیات"
+
+msgid "Client"
+msgstr "مشتری"
+
+msgid "Advance Search"
+msgstr "جستجوی پیشرفته"
+
+msgid "Subcribe"
+msgstr "مشترک شدن"
+
+msgid "Hi Guest !"
+msgstr "سلام مهمان گرامی!"
+
+msgid "ID"
+msgstr "آی دی"

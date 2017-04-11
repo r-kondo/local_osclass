@@ -1,0 +1,58 @@
+================ Update version 1.6.5 ====================
+
+==== version themes ====
+
+- version in admin/ settings.php and admin/admin.php , function.php and index.php
+
+======== NEW FEATURES and UPDATE =======
+- Responsive Design ( update style css design )
+- List product style ( reponsive )
+- Support Pre Resize Images plugin
+- Standart font and Google font
+- Home style 2 ( add home 4 to home 2 )
+- Rtl ( fixed small bugs RTL mode )
+- Radio css ( fixed bugs )
+- Product layout ( update responsive )
+- Call and Sms Button in mobile ( contact seller easy )
+- Viewer statistic in Dasboard
+- Useful Information ( default and custom )
+- and many more
+
+======== FILE MUST EDITED ========
+
+==== themes Layout ====
+- index.php
+- search-gallery.php
+- search.php
+- search-list.php
+- slider.php
+- gallery.php
+- user-item.php
+- user-public-profile.php
+- user-item.php
+- user-alert.php
+- common/ head.php
+- item-post.php
+- user-login.php
+- user-register.php
+- item-send-friend.php
+- templates/ footer/ footer1.php
+- templates/ footer/ footer2.php
+- templates/ footer/ footer3.php
+- templates/ single/ single1.php
+- templates/ single/ single2.php
+- templates/ single/ single3.php
+- templates/ home/ home1.php
+- templates/ home/ home2.php
+- templates/ home/ home3.php
+
+==== Css Style ====
+- css/ style.css
+- css/ rtl.css
+
+==== function ====
+- function.php
+- admin/ settings.php
+- admin/ admin.php
+
+=====================================================================

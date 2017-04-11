@@ -1,13 +1,13 @@
 <?php
     /*
      *       Royal Multipurpose Osclass Themes
-     *
-     *       Copyright (C) 2016 OSCLASS.me
-     *
+     *       
+     *       Copyright (C) 2017 OSCLASS.me
+     * 
      *       This is Royal Multipurpose Osclass Themes with Single License
-     *
+     *  
      *       This program is a commercial software. Copying or distribution without a license is not allowed.
-     *
+     *         
      *       If you need more licenses for this software. Please read more here <http://www.osclass.me/osclass-me-license/>.
      */
 ?>
@@ -17,11 +17,11 @@
 <link rel="stylesheet" href="<?php echo osc_current_web_theme_url('admin/css/jquery.switchButton.css');?>">
 <link rel="stylesheet" href="<?php echo osc_current_web_theme_url('admin/css/royal.css');?>">
 <script src="<?php echo osc_current_web_theme_url('admin/js/jquery.switchButton.js');?>"></script>
-<script src="<?php echo osc_current_web_theme_url('admin/jscolor/jscolor.js');?>"></script>
+<script src="<?php echo osc_current_web_theme_url('admin/jscolor/jscolor.js');?>"></script>			
 <script>
   $(function() {
     $( "#tabs" ).tabs();
-	$("input[type=checkbox]").switchButton();
+	$("input[type=checkbox]").switchButton();	
   });
  </script>
 <div class="body">
@@ -43,7 +43,6 @@
                     <li><a href="#price"><i class="fa fa-money"></i> <?php _e('Price', 'royal'); ?></a> </li>
                     <li><a href="#custom"><i class="fa fa-wrench"></i> <?php _e('Custom', 'royal'); ?></a> </li>
                     <li><a href="#font"><i class="fa fa-bold"></i> <?php _e('Font and Color', 'royal'); ?></a> </li>
-                    <li><a href="#plugins"><i class="fa fa-eyedropper"></i> <?php _e('Plugins', 'royal'); ?></a> </li>
                     <li><a href="#more"><i class="fa fa-gears"></i> <?php _e('More', 'royal'); ?></a> </li>
                 </ul>
                 <div id="general">
@@ -58,8 +57,6 @@
                                     <label class="drinkcard-cc header1" for="header1"></label>
                                     <input id="header2" type="radio" name="header-royal" value="header2" <?php echo (osc_esc_html( osc_get_preference('header-royal', 'royal') )=="header2" )? "checked": ""; ?>/>
                                     <label class="drinkcard-cc header2" for="header2"></label>
-                                    <input id="header3" type="radio" name="header-royal" value="header3" <?php echo (osc_esc_html( osc_get_preference('header-royal', 'royal') )=="header3" )? "checked": ""; ?>/>
-                                    <label class="drinkcard-cc header3" for="header3"></label>
                                 </div>
                             </div>
                         </div>
@@ -74,12 +71,7 @@
                                     <label class="drinkcard-cc home2" for="home2"></label>
                                     <input id="home3" type="radio" name="home-royal" value="home3" <?php echo (osc_esc_html( osc_get_preference('home-royal', 'royal') )=="home3" )? "checked": ""; ?>/>
                                     <label class="drinkcard-cc home3" for="home3"></label>
-                                    <input id="home4" type="radio" name="home-royal" value="home4" <?php echo (osc_esc_html( osc_get_preference('home-royal', 'royal') )=="home4" )? "checked": ""; ?>/>
-                                    <label class="drinkcard-cc home4" for="home4"></label>
-                                    <input id="home5" type="radio" name="home-royal" value="home5" <?php echo (osc_esc_html( osc_get_preference('home-royal', 'royal') )=="home5" )? "checked": ""; ?>/>
-                                    <label class="drinkcard-cc home5" for="home5"></label>
-                                    <input id="home6" type="radio" name="home-royal" value="home6" <?php echo (osc_esc_html( osc_get_preference('home-royal', 'royal') )=="home6" )? "checked": ""; ?>/>
-                                    <label class="drinkcard-cc home6" for="home6"></label>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -94,9 +86,7 @@
                                     <label class="drinkcard-cc footer2" for="footer2"></label>
                                     <input id="footer3" type="radio" name="footer-royal" value="footer3" <?php echo (osc_esc_html( osc_get_preference('footer-royal', 'royal') )=="footer3" )? "checked": ""; ?>/>
                                     <label class="drinkcard-cc footer3" for="footer3"></label>
-                                    <input id="footer4" type="radio" name="footer-royal" value="footer4" <?php echo (osc_esc_html( osc_get_preference('footer-royal', 'royal') )=="footer4" )? "checked": ""; ?>/>
-                                    <label class="drinkcard-cc footer4" for="footer4"></label>
-                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="form-row">
@@ -174,7 +164,7 @@
                                     <?php _e('Copyright text on footer.', 'royal'); ?> </div>
                             </div>
                         </div>
-
+                        
                     </div>
                 </div>
                 <!-- # widget starts -->
@@ -305,6 +295,19 @@
                         </div>
                         <div class="form-row">
                             <div class="form-label">
+                                <?php _e('Category Font icon ', 'royal'); ?> </div>
+                            <div class="form-controls">
+                                <div class="form-label-checkbox">
+                                    <input type="checkbox" name="icon_view" value="1" <?php echo (osc_esc_html( osc_get_preference('icon_view', 'royal_theme') )=="1" )? "checked": ""; ?>>
+                                    <br/>
+                                    <div class="help-box">
+                                        <?php _e('Activate', 'royal'); ?>
+                                        <?php _e('Category icon font awesome', 'royal'); ?> </div>
+                                </div>
+                            </div>
+                        </div>           
+                        <div class="form-row">
+                            <div class="form-label">
                                 <?php _e('Item post multilanguages', 'royal'); ?> </div>
                             <div class="form-controls">
                                 <div class="form-label-checkbox">
@@ -315,7 +318,7 @@
                                         <?php _e('Item post multilanguages', 'royal'); ?> </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>           
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Latest Ads Display', 'royal'); ?> </div>
@@ -356,7 +359,8 @@
                             <div class="form-controls">
                                 <input type="text" class="xlarge" name="premiumads_num_royal" placeholder="<?php echo osc_esc_html(__('8','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('premiumads_num_royal', 'royal') ); ?>"> </div>
                         </div>
-<div class="form-row">
+                        
+                        <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Price table Display', 'royal'); ?> </div>
                             <div class="form-controls">
@@ -369,7 +373,7 @@
                                 </div>
                             </div>
                         </div>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Display', 'royal'); ?> </div>
@@ -497,17 +501,11 @@
                             <div class="form-controls">
                                 <input type="text" class="xlarge" name="slider32-link" placeholder="http://your-link.com" value="<?php echo osc_esc_html( osc_get_preference('slider32-link', 'royal') ); ?>"> </div>
                         </div>
-                        <div class="form-row">
-                            <div class="form-label">
-                                <?php _e('Slider 4 Link', 'royal'); ?> </div>
-                            <div class="form-controls">
-                                <input type="text" class="xlarge" name="slider42-link" placeholder="http://your-link.com" value="<?php echo osc_esc_html( osc_get_preference('slider42-link', 'royal') ); ?>"> </div>
-                        </div>
 
                      <div class="form-row">
 <h1 class="render-title separate-top"><?php _e('Brand Links', 'royal'); ?></h1> </div>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/1.jpg" ) ) {?>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('1', 'royal'); ?></div>
@@ -515,7 +513,7 @@
                                 <input type="text" class="xlarge" name="brand1-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand1-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/2.jpg" ) ) {?>
-
+                       
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('2', 'royal'); ?></div>
@@ -523,7 +521,7 @@
                                 <input type="text" class="xlarge" name="brand2-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand2-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/3.jpg" ) ) {?>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('3', 'royal'); ?></div>
@@ -531,7 +529,7 @@
                                 <input type="text" class="xlarge" name="brand3-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand3-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/4.jpg" ) ) {?>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('4', 'royal'); ?></div>
@@ -539,7 +537,7 @@
                                 <input type="text" class="xlarge" name="brand4-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand4-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/5.jpg" ) ) {?>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('5', 'royal'); ?></div>
@@ -547,7 +545,7 @@
                                 <input type="text" class="xlarge" name="brand5-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand5-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/6.jpg" ) ) {?>
-
+                       
                        <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('6', 'royal'); ?></div>
@@ -555,7 +553,7 @@
                                 <input type="text" class="xlarge" name="brand6-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand6-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/7.jpg" ) ) {?>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('7', 'royal'); ?></div>
@@ -563,7 +561,7 @@
                                 <input type="text" class="xlarge" name="brand7-link" placeholder="<?php echo osc_esc_html(__('http://your-link.com','royal')); ?>" value="<?php echo osc_esc_html( osc_get_preference('brand7-link', 'royal') ); ?>"> </div>
                         </div><?php } ?>
                         <?php if(file_exists( WebThemes::newInstance()->getCurrentThemePath() . "images/brand/8.jpg" ) ) {?>
-
+                        
                         <div class="form-row">
                             <div class="form-label">
                                 <?php _e('Brand Link', 'royal'); ?> <?php _e('8', 'royal'); ?></div>
@@ -625,7 +623,7 @@
                                 <div class="help-box">
                                     <?php _e('you can settings content price 1', 'royal'); ?> </div>
                             </div>
-                        </div>
+                        </div>   
                       <div class="form-row">
                             <div class="form-label"><b><?php _e('Button text', 'royal'); ?></b> </div>
                             <div class="form-controls">
@@ -672,7 +670,7 @@
                                 <div class="help-box">
                                     <?php _e('you can settings content price 2', 'royal'); ?> </div>
                             </div>
-                        </div>
+                        </div>   
                       <div class="form-row">
                             <div class="form-label"><b><?php _e('Button text', 'royal'); ?></b> </div>
                             <div class="form-controls">
@@ -717,7 +715,7 @@
                                 <div class="help-box">
                                     <?php _e('you can settings content price 3', 'royal'); ?> </div>
                             </div>
-                        </div>
+                        </div>   
                       <div class="form-row">
                             <div class="form-label"><b><?php _e('Button text', 'royal'); ?></b> </div>
                             <div class="form-controls">
@@ -750,7 +748,42 @@
                         </div>
                         <div class="form-row">
                             <div class="form-label">
-                                <?php _e('Font Family', 'royal'); ?> </div>
+                                <?php _e('Font Style', 'royal'); ?> </div>
+                            <div class="form-controls">
+                                <?php $fon_stl=osc_esc_html( osc_get_preference( 'status-font', 'royal') ); ?>
+                                <select name="status-font">
+                                    <option value="google" <?php if($fon_stl=='google' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Google font', 'royal'); ?> </option>
+                                    <option value="standart" <?php if($fon_stl=='standart' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Standart font', 'royal'); ?> </option>
+                                </select><div class="help-box">
+                                    <?php _e('You can select google font or standart font.', 'royal'); ?> </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-label">
+                                <?php _e('Standart font', 'royal'); ?> </div>
+                            <div class="form-controls">
+                                <?php $stf_stl=osc_esc_html( osc_get_preference( 'ari-font', 'royal') ); ?>
+                                <select name="ari-font">
+                                    <option value="Arial" <?php if($stf_stl=='Arial' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Arial', 'royal'); ?> </option>
+                                    <option value="Georgia" <?php if($stf_stl=='Georgia' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Georgia', 'royal'); ?> </option>
+                                    <option value="Courier" <?php if($stf_stl=='Courier' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Courier', 'royal'); ?> </option>
+                                    <option value="Verdana" <?php if($stf_stl=='Verdana' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Verdana', 'royal'); ?> </option>
+                                    <option value="Tahoma" <?php if($stf_stl=='Tahoma' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Tahoma', 'royal'); ?> </option>
+                                    <option value="Impact" <?php if($stf_stl=='Impact' ){ echo 'selected="selected"' ; } ?>>
+                                        <?php _e('Impact', 'royal'); ?> </option>
+                                </select>
+                            </div>
+                        </div>             
+                        <div class="form-row">
+                            <div class="form-label">
+                                <?php _e('Google font', 'royal'); ?> </div>
                             <div class="form-controls">
                                 <select name="google_fonts">
                                     <option value="Abel" <?php if($google_fonts=="Abel" ){ echo "selected='selected'" ; } ?>>
@@ -799,8 +832,7 @@
                                         <?php _e('Anton', 'royal'); ?> </option>
                                     <option value="Arapey" <?php if($google_fonts=="Arapey" ){ echo "selected='selected'" ; } ?>>
                                         <?php _e('Arapey', 'royal'); ?> </option>
-                                    <option value="Arial" <?php if($google_fonts=="Arial" ){ echo "selected='selected'" ; } ?>>
-                                        <?php _e('Arial', 'royal'); ?> </option>
+                                    
                                     <option value="Architects+Daughter" <?php if($google_fonts=="Architects+Daughter" ){ echo "selected='selected'" ; } ?>>
                                         <?php _e('Architects Daughter', 'royal'); ?> </option>
                                     <option value="Arimo" <?php if($google_fonts=="Arimo" ){ echo "selected='selected'" ; } ?>>
@@ -1430,50 +1462,10 @@
                         </div>
                     </div>
                 </div>
-                <!-- # plugins -->
-                <div id="plugins">
-                    <h2 class="render-title"><?php _e('Plugin settings', 'royal'); ?></h2>
-                    <div class="form-horizontal">
-                    <div class="form-row">
-                            <div class="form-label">
-                                <b><?php _e('Phone in Publish Ads', 'royal'); ?></b> </div>
-                            <div class="form-controls">
-                                <div class="form-label-checkbox">
-
-                                    <div class="help-box">
-                                        <p>
-                                            <a style="color:red;">
-                                                <?php _e('Warning', 'royal'); ?> </a>
-                                            <?php _e('you must install phone plugin, before activate this features', 'royal'); ?><br><?php _e('Download here', 'royal'); ?> <a style="color:blue;" href="http://market.osclass.org/plugins/attributes/telephone-plugin_507" target="_blank">http://market.osclass.org/plugins/attributes/telephone-plugin_507</a> </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-row">
-                            <div class="form-label"><b><?php _e('Madhouse Avatar', 'royal'); ?></b> </div>
-
-                            <div class="form-controls">
-                                <p>
-                                    <a style="color:red;">
-                                        <?php _e('Warning', 'royal'); ?> </a>
-                                    <?php _e('you must install madhouse avatar plugin, before activate madhouse avatar', 'royal'); ?> <br><?php _e('Download here', 'royal'); ?> <a target="_blank" href="http://market.osclass.org/plugins/user-management/madhouse-avatar_187" style="color:blue;">http://market.osclass.org/plugins/user-management/madhouse-avatar_187</a></p>
-                            </div>
-                        </div>
-                        <div class="form-row">
-                            <div class="form-label"><b><?php _e('HybridAuth', 'royal'); ?></b> </div>
-
-                            <div class="form-controls">
-                                <p>
-                                    <a style="color:red;">
-                                        <?php _e('Warning', 'royal'); ?> </a>
-                                    <?php _e('you must install HybridAuth  plugin, before activate', 'royal'); ?><br><?php _e('Download here', 'royal'); ?>  <a target="_blank" href="http://market.osclass.org/plugins/social-networks/hybridauth_336" style="color:blue;">http://market.osclass.org/plugins/social-networks/hybridauth_336</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                                      
                 <!-- # more starts -->
                 <div id="more">
-
+                   
                     <div class="form-horizontal">
 <h2 class="render-title"><?php _e('External links Menu', 'royal'); ?></h2>
                         <div class="form-row">
@@ -1497,7 +1489,7 @@
                                     <?php _e('create new pages TOS and copy url here', 'royal'); ?> </p>
                             </div>
                         </div>
-
+                        
                         <div class="form-row">
                             <div class="form-label"><b><?php _e('Custom Home HTML (display)', 'royal'); ?></b> </div>
                             <div class="form-controls">
@@ -1528,7 +1520,7 @@
                   </div>
 
 
-		 </div>
+		 </div>	       
 
 
           </div>
@@ -1539,7 +1531,7 @@
     </form>
     </div>
     <div class="power">
-        <p><?php _e('Royal', 'royal'); ?> <?php _e('version', 'royal'); ?> <?php _e('1.6.0', 'royal'); ?> | <?php _e('by', 'royal'); ?>
+        <p><?php _e('Royal', 'royal'); ?> <?php _e('version', 'royal'); ?> <?php _e('1.6.5', 'royal'); ?> | <?php _e('by', 'royal'); ?>
             <a title="<?php echo osc_esc_html(__('Royal','royal')); ?> <?php echo osc_esc_html(__('Themes Powered by OsclassDotMe','royal')); ?>" target="_blank" href="http://market.osclass.org/user/profile/2614">
                 <?php _e('Osclass.Me', 'royal'); ?> </a>
         </p>

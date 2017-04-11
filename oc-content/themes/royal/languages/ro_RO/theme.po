@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:39+0700\n"
+"PO-Revision-Date: 2017-02-15 18:32+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1094,3 +1094,222 @@ msgstr "Tema rival setările"
 
 msgid "Rival Category"
 msgstr "Categoria rival"
+
+msgid "Submit Ads"
+msgstr "Trimite anunturi"
+
+msgid "New listings"
+msgstr "Anunturi noi"
+
+msgid "Random listings"
+msgstr "Anunturi aleatorii"
+
+msgid "New"
+msgstr "Nou"
+
+msgid "Random"
+msgstr "Aleatoriu"
+
+msgid "Premium"
+msgstr "primă"
+
+msgid "See all listings"
+msgstr "Vezi toate"
+
+msgid "Locations"
+msgstr "Locații"
+
+msgid "Popular"
+msgstr "Populare"
+
+msgid "Featured brand"
+msgstr "Recomandate de brand"
+
+msgid "Statistic Info"
+msgstr "Informaţii statistice"
+
+msgid "Social network"
+msgstr "Rețea de socializare"
+
+msgid "Payment"
+msgstr "Plată"
+
+msgid "My listings"
+msgstr "Listările mele"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "My alert"
+msgstr "Meu de alertă"
+
+msgid "My Listings"
+msgstr "Ofertele Mele"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>Listările mele"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>Alertele mele"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>Setări"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>Schimba e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>Schimba parola"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>Deconectare"
+
+msgid "Seller profile"
+msgstr "Vânzătorul profil"
+
+msgid "Leave Comment"
+msgstr "Lăsaţi comentariu"
+
+msgid "Send mail"
+msgstr "Trimite e-mail"
+
+msgid "Premium listings"
+msgstr "Anunțurile Premium"
+
+msgid "Search filter"
+msgstr "Filtru cautare"
+
+msgid "General information"
+msgstr "Informații generale"
+
+msgid "Upload images"
+msgstr "Încărcați imaginile"
+
+msgid "Views"
+msgstr "Vizualizări"
+
+msgid "Standart ads"
+msgstr "Standart anunţuri"
+
+msgid "Premium ads"
+msgstr "anunţurile premium"
+
+msgid "Default Thumbnail"
+msgstr "Implicit Thumbnail"
+
+msgid "Small slider"
+msgstr "Glisorul mic"
+
+msgid "Slider Small Images"
+msgstr "Imagini mici slider"
+
+msgid "Category count"
+msgstr "Categoria conta"
+
+msgid "Custom Useful Information"
+msgstr "Informatii utile personalizate"
+
+msgid "Home Premium Ads"
+msgstr "Home Premium anunţuri"
+
+msgid "Latest and Random Ads Display"
+msgstr "Cele mai recente şi aleatoare anunţurile de afişare"
+
+msgid "Home latest Ads"
+msgstr "Casa Ultimele anunturi"
+
+msgid "Home Random Ads"
+msgstr "Acasa anunturi aleatorii"
+
+msgid "Ads by category Display"
+msgstr "Anunţuri de categoria Display"
+
+msgid "Ads by category"
+msgstr "După categorie"
+
+msgid "Item post multilanguges"
+msgstr "Articol post multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Acest anunț va fi afișat printre rezultatele căutării ale site-ului. Rețineți că dimensiunea anunțului trebuie să fie 728x90 pixeli."
+
+msgid "Price settings"
+msgstr "Aranjare Pret"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Aveţi posibilitatea să utilizaţi 6 culori de schemă la tema sau puteţi personaliza culoarea ta cu comutator personaliza pe panou."
+
+msgid "create new TOS pages and paste url here"
+msgstr "crea noi pagini de TOS şi lipiţi URL-ul aici"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider titlu și subtitlu"
+
+msgid "Seller information"
+msgstr "Informații vânzător"
+
+msgid "Popular Location"
+msgstr "Popular localizarea tip"
+
+msgid "Latest search"
+msgstr "Cea mai recentă căutare"
+
+msgid "All"
+msgstr "Toate"
+
+msgid "Item Id"
+msgstr "ID anunt"
+
+msgid "Total member"
+msgstr "Membru total"
+
+msgid "Your email"
+msgstr "Adresa de email"
+
+msgid "Already have an account ?"
+msgstr "Aveți deja cont?"
+
+msgid "Lost password ?"
+msgstr "Parola pierduta?"
+
+msgid "Don't have an account !"
+msgstr "Nu aveți înca un cont?"
+
+msgid "Forgot password"
+msgstr "Parolă uitată"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Please don't send spam messages"
+msgstr "Vă rugăm să nu trimiteți mesaje spam"
+
+msgid "View"
+msgstr "vizualizare"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-gear\"></i>Setări"
+
+msgid "User Id"
+msgstr "ID utilizator"
+
+msgid "Edit item"
+msgstr "Editare articol"
+
+msgid "Detail"
+msgstr "Detalii"
+
+msgid "Client"
+msgstr "beneficiar"
+
+msgid "Advance Search"
+msgstr "Căutare avansata"
+
+msgid "Subcribe"
+msgstr "abonezi"
+
+msgid "Hi Guest !"
+msgstr "Bună oaspeți!"
+
+msgid "ID"
+msgstr "ID"

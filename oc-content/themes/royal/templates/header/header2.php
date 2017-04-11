@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -34,7 +34,6 @@
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="<?php echo osc_user_list_items_url() ; ?>"><span class="fa fa-th-list" aria-hidden="true"></span> <?php _e("Your listings", 'royal') ; ?></a> </li>
                                     <li><a href="<?php echo osc_user_profile_url() ; ?>"><span class="fa fa-user" aria-hidden="true"></span> <?php _e("My account", 'royal') ; ?></a> </li>
-                                    <li><a href="<?php echo osc_user_favorite_url() ; ?>"><span class="fa fa-user" aria-hidden="true"></span> <?php _e("My favorite", 'royal') ; ?></a> </li>
                                     <li><a href="<?php echo osc_user_alerts_url() ; ?>"><span class="fa fa-warning" aria-hidden="true"></span> <?php _e("Your alerts", 'royal') ; ?></a> </li>
                                     <li><a href="<?php echo osc_change_user_email_url() ; ?>"><span class="fa fa-envelope" aria-hidden="true"></span> <?php _e("Modify e-mail", 'royal') ; ?></a> </li>
                                     <li><a href="<?php echo osc_change_user_password_url() ; ?>"><span class="fa fa-cog" aria-hidden="true"></span> <?php _e("Modify password", 'royal') ; ?></a> </li>
@@ -181,9 +180,9 @@
                     </span> </a>
                             <?php osc_goto_first_category() ; ?>
                             <?php if(osc_count_categories ()> 0) { ?>
-                            <ul class="dropdown-menu mega-dropdown-menu row">
+                            <ul class="dropdown-menu mega-dropdown-menu masonry">
                                 <?php while ( osc_has_categories() ) { ?>
-                                <li class="col-sm-3 col-xs-6 ">
+                                <li class="item">
                                     <ul>
                                         <li class="dropdown-header">
                                             <?php View::newInstance()->_erase('subcategories'); echo osc_category_name() ; ?></li>

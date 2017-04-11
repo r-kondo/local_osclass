@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:45+0700\n"
+"PO-Revision-Date: 2017-02-15 18:46+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1094,3 +1094,222 @@ msgstr "Rival Theme Settings"
 
 msgid "Rival Category"
 msgstr "Rival Kategori"
+
+msgid "Submit Ads"
+msgstr "Gönder"
+
+msgid "New listings"
+msgstr "Yeni ilanlar"
+
+msgid "Random listings"
+msgstr "rastgele listeleri"
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "Random"
+msgstr "Rastgele"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "See all listings"
+msgstr "Tüm İlanlara bakın"
+
+msgid "Locations"
+msgstr "Ülke Seçimi (Giriş)"
+
+msgid "Popular"
+msgstr "Popüler"
+
+msgid "Featured brand"
+msgstr "Öne çıkan marka"
+
+msgid "Statistic Info"
+msgstr "İstatistik"
+
+msgid "Social network"
+msgstr "Sosyal meya"
+
+msgid "Payment"
+msgstr "Ödeme Türü"
+
+msgid "My listings"
+msgstr "İlanlarım"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "My alert"
+msgstr "Uyarı"
+
+msgid "My Listings"
+msgstr "Listemlerim"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> benim listeleri"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i> benim uyarılar"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> Ayarlar"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> Değişim e-posta"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> Şifre değiştir"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Çıkış Yap"
+
+msgid "Seller profile"
+msgstr "Satıcı kimliği"
+
+msgid "Leave Comment"
+msgstr "Yorumu Sil"
+
+msgid "Send mail"
+msgstr "Eposta Gönder"
+
+msgid "Premium listings"
+msgstr "Vitrin İlanları"
+
+msgid "Search filter"
+msgstr "Filtre Tarafından Arama"
+
+msgid "General information"
+msgstr "Genel Bilgi"
+
+msgid "Upload images"
+msgstr "Resim Yükle"
+
+msgid "Views"
+msgstr "Okundu"
+
+msgid "Standart ads"
+msgstr "Standart reklamlar"
+
+msgid "Premium ads"
+msgstr "prim reklamlar"
+
+msgid "Default Thumbnail"
+msgstr "Varsayılan Küçük Resim"
+
+msgid "Small slider"
+msgstr "Küçük slider göstermek"
+
+msgid "Slider Small Images"
+msgstr "Slider Küçük Resimler"
+
+msgid "Category count"
+msgstr "Kategori Yazı Sayısı"
+
+msgid "Custom Useful Information"
+msgstr "Özel Faydalı Bilgiler"
+
+msgid "Home Premium Ads"
+msgstr "Home Premium Reklamlar"
+
+msgid "Latest and Random Ads Display"
+msgstr "Son ve Random Reklamlar Display"
+
+msgid "Home latest Ads"
+msgstr "Son İlanlar"
+
+msgid "Home Random Ads"
+msgstr "Rastgele ilanlar"
+
+msgid "Ads by category Display"
+msgstr "kategori Ekran Reklamları"
+
+msgid "Ads by category"
+msgstr "Kategoriye göre Reklamlar"
+
+msgid "Item post multilanguges"
+msgstr "Öğe sonrası multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Bu reklam web sitenizin üst kısmında gösterilir. reklamın boyutu 728x90 piksel olması gerektiğini unutmayın."
+
+msgid "Price settings"
+msgstr "Fiyat Ayarları"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Sen tema 6 sceme rengini kullanabilir veya özelleştirmek panelindeki anahtarı ile kendi rengini özelleştirebilirsiniz."
+
+msgid "create new TOS pages and paste url here"
+msgstr "burada yeni TOS sayfaları ve yapıştırma url oluşturmak"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Başlığı ve Altyazı"
+
+msgid "Seller information"
+msgstr "Satıcı Bilgileri"
+
+msgid "Popular Location"
+msgstr "Popüler Konum Kategorisi"
+
+msgid "Latest search"
+msgstr "Son arama"
+
+msgid "All"
+msgstr "Hepsi"
+
+msgid "Item Id"
+msgstr "Öğe Kimliği"
+
+msgid "Total member"
+msgstr "Toplam üye"
+
+msgid "Your email"
+msgstr "E-Posta Adresiniz"
+
+msgid "Already have an account ?"
+msgstr "Zaten hesabınız var mı?"
+
+msgid "Lost password ?"
+msgstr "Kayıp Şifre?"
+
+msgid "Don't have an account !"
+msgstr "Hesabınız yok mu?"
+
+msgid "Forgot password"
+msgstr "Parolanızı mı unuttunuz"
+
+msgid "Note"
+msgstr "Not"
+
+msgid "Please don't send spam messages"
+msgstr "spam mesajlar göndermeyin"
+
+msgid "View"
+msgstr "Görünüm"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profil"
+
+msgid "User Id"
+msgstr "Kullanıcı Adı"
+
+msgid "Edit item"
+msgstr "Nesneyi Düzenle"
+
+msgid "Detail"
+msgstr "Detaylar"
+
+msgid "Client"
+msgstr "Müşteri"
+
+msgid "Advance Search"
+msgstr "Ayrıntılı Arama"
+
+msgid "Subcribe"
+msgstr "Abonelik"
+
+msgid "Hi Guest !"
+msgstr "Merhaba Ziyaretçi!"
+
+msgid "ID"
+msgstr "ID"

@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:31+0700\n"
+"PO-Revision-Date: 2017-02-15 18:20+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1101,3 +1101,222 @@ msgstr "Rival Thema-instellingen"
 
 msgid "Rival Category"
 msgstr "Rival Categorie"
+
+msgid "Submit Ads"
+msgstr "Indienen advertenties"
+
+msgid "New listings"
+msgstr "Nieuwe Vermeldingen"
+
+msgid "Random listings"
+msgstr "Willekeurige aanbiedingen"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "Random"
+msgstr "Willekeurig"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "See all listings"
+msgstr "Alle vakantievilla's"
+
+msgid "Locations"
+msgstr "Locaties"
+
+msgid "Popular"
+msgstr "Populair"
+
+msgid "Featured brand"
+msgstr "Aanbevolen merk"
+
+msgid "Statistic Info"
+msgstr "Statistiek Info"
+
+msgid "Social network"
+msgstr "Sociaal netwerk"
+
+msgid "Payment"
+msgstr "Betaling"
+
+msgid "My listings"
+msgstr "Mijn vermeldingen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "My alert"
+msgstr "Opgepast"
+
+msgid "My Listings"
+msgstr "Favoriete Items"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>Mijn aanbiedingen"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>Mijn waarschuwingen"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>Instellingen"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>E-mail wijzigen"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>Wachtwoord wijzigen"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>Logout"
+
+msgid "Seller profile"
+msgstr "Profiel van de verkoper"
+
+msgid "Leave Comment"
+msgstr "Plaats een reactie"
+
+msgid "Send mail"
+msgstr "Verstuur mail"
+
+msgid "Premium listings"
+msgstr "Onwillekeurige advertenties"
+
+msgid "Search filter"
+msgstr "Zoek & Filter"
+
+msgid "General information"
+msgstr "Algemene informatie"
+
+msgid "Upload images"
+msgstr "Afbeeldingen uploaden"
+
+msgid "Views"
+msgstr "Weergave"
+
+msgid "Standart ads"
+msgstr "Standart advertenties"
+
+msgid "Premium ads"
+msgstr "Premium advertenties"
+
+msgid "Default Thumbnail"
+msgstr "Standaard Thumbnail"
+
+msgid "Small slider"
+msgstr "Kleine Slider"
+
+msgid "Slider Small Images"
+msgstr "Schuifregelaar kleine afbeeldingen"
+
+msgid "Category count"
+msgstr "Toon Categorie tellingen"
+
+msgid "Custom Useful Information"
+msgstr "Aangepaste nuttige informatie"
+
+msgid "Home Premium Ads"
+msgstr "Home Premium advertenties"
+
+msgid "Latest and Random Ads Display"
+msgstr "Nieuwste en willekeurige advertenties weergeven"
+
+msgid "Home latest Ads"
+msgstr "Home nieuwste advertenties"
+
+msgid "Home Random Ads"
+msgstr "Huis willekeurige advertenties"
+
+msgid "Ads by category Display"
+msgstr "Advertenties per categorie weergeven"
+
+msgid "Ads by category"
+msgstr "Advertenties per categorie"
+
+msgid "Item post multilanguges"
+msgstr "Item post multilanguges"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Deze advertentie wordt getoond aan de bovenkant van uw website. Merk op dat de grootte van de advertentie moet worden 728 x 90 pixels."
+
+msgid "Price settings"
+msgstr "Prijsinstellingen:"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "U kunt 6 sceme kleur van thema of u kunt uw eigen kleur met schakelaar op deelvenster aanpassen."
+
+msgid "create new TOS pages and paste url here"
+msgstr "nieuwe TOS-pagina's maken en plak de url hier"
+
+msgid "Slider Title and Subtitle"
+msgstr "Schuifregelaar titel en ondertitel"
+
+msgid "Seller information"
+msgstr "Verkoper Informatie"
+
+msgid "Popular Location"
+msgstr "Populaire Locaties"
+
+msgid "Latest search"
+msgstr "Laatste zoekopdracht"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "Item Id"
+msgstr "Item ID"
+
+msgid "Total member"
+msgstr "Totale lid"
+
+msgid "Your email"
+msgstr "Jouw e-mailadres"
+
+msgid "Already have an account ?"
+msgstr "Heb je al een account?"
+
+msgid "Lost password ?"
+msgstr "Paswoord vergeten?"
+
+msgid "Don't have an account !"
+msgstr "Ik heb nog geen account"
+
+msgid "Forgot password"
+msgstr "Wachtwoord vergeten"
+
+msgid "Note"
+msgstr "Let op: deze optie is alleen bedoeld voor vlakke stijl"
+
+msgid "Please don't send spam messages"
+msgstr "Gelieve geen spam-berichten te verzenden"
+
+msgid "View"
+msgstr "bekijken"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profiel"
+
+msgid "User Id"
+msgstr "Gebruikers Id:"
+
+msgid "Edit item"
+msgstr "Item post multilanguges"
+
+msgid "Detail"
+msgstr "Info"
+
+msgid "Client"
+msgstr "klant"
+
+msgid "Advance Search"
+msgstr "Uitgebreid zoeken"
+
+msgid "Subcribe"
+msgstr "Abboneren"
+
+msgid "Hi Guest !"
+msgstr "Hallo gast!"
+
+msgid "ID"
+msgstr "ID"

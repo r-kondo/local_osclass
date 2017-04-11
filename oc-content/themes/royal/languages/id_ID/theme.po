@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-09 10:23+0700\n"
+"PO-Revision-Date: 2017-02-15 17:50+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
@@ -1096,3 +1096,222 @@ msgstr "Rival Pengaturan themes"
 
 msgid "Rival Category"
 msgstr "Rival Kategori"
+
+msgid "Submit Ads"
+msgstr "Pasang Iklan"
+
+msgid "New listings"
+msgstr "Iklan baru"
+
+msgid "Random listings"
+msgstr "Iklan acak"
+
+msgid "New"
+msgstr "Baru"
+
+msgid "Random"
+msgstr "Acak"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "See all listings"
+msgstr "Lihat semua produk"
+
+msgid "Locations"
+msgstr "Lokasi"
+
+msgid "Popular"
+msgstr "Populer"
+
+msgid "Featured brand"
+msgstr "Brand pilihan"
+
+msgid "Statistic Info"
+msgstr "Info statistik"
+
+msgid "Social network"
+msgstr "Sosial Media "
+
+msgid "Payment"
+msgstr "Pembayaran"
+
+msgid "My listings"
+msgstr "Iklan Anda"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "My alert"
+msgstr "Notifikasi"
+
+msgid "My Listings"
+msgstr "Iklan Anda"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i> Iklan saya"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>Notifikasi saya"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i> pengaturan"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i> ganti e-mail"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i> Ganti kata sandi"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i> Keluar"
+
+msgid "Seller profile"
+msgstr "Profil penjual"
+
+msgid "Leave Comment"
+msgstr "Tinggalkan Komentar"
+
+msgid "Send mail"
+msgstr "Kirim Email"
+
+msgid "Premium listings"
+msgstr "Iklan Premium"
+
+msgid "Search filter"
+msgstr "Filter pencarian"
+
+msgid "General information"
+msgstr "Informasi Umum"
+
+msgid "Upload images"
+msgstr "Upload Gambar"
+
+msgid "Views"
+msgstr "Dilihat"
+
+msgid "Standart ads"
+msgstr "iklan standart"
+
+msgid "Premium ads"
+msgstr "Iklan premium"
+
+msgid "Default Thumbnail"
+msgstr "standar Thumbnail"
+
+msgid "Small slider"
+msgstr "slider kecil"
+
+msgid "Slider Small Images"
+msgstr "Gambar Slider Kecil"
+
+msgid "Category count"
+msgstr "Kategori count"
+
+msgid "Custom Useful Information"
+msgstr "Informasi yang berguna"
+
+msgid "Home Premium Ads"
+msgstr "Iklan Premium beranda"
+
+msgid "Latest and Random Ads Display"
+msgstr "Terbaru dan Iklan Acak Tampilan"
+
+msgid "Home latest Ads"
+msgstr "Iklan terbaru rumah"
+
+msgid "Home Random Ads"
+msgstr "Iklan Acak beranda"
+
+msgid "Ads by category Display"
+msgstr "Iklan berdasarkan kategori Tampilan"
+
+msgid "Ads by category"
+msgstr "Iklan berdasarkan kategori"
+
+msgid "Item post multilanguges"
+msgstr "multilanguges Item posting"
+
+msgid "This ad will be shown at the top of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Iklan ini akan ditampilkan di bagian atas website Anda. Perhatikan bahwa ukuran iklan harus 728x90 piksel."
+
+msgid "Price settings"
+msgstr "Pengaturan Harga"
+
+msgid "You can use 6 sceme color from theme or you can customize your own color with switch on customize panel."
+msgstr "Anda dapat menggunakan 6 warna sceme dari tema atau Anda dapat menyesuaikan warna Anda sendiri dengan switch di panel menyesuaikan."
+
+msgid "create new TOS pages and paste url here"
+msgstr "membuat halaman peraturan salin dan paste link disini"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slider Judul dan Subtitle"
+
+msgid "Seller information"
+msgstr "Informasi Penjual"
+
+msgid "Popular Location"
+msgstr "Lokasi populer"
+
+msgid "Latest search"
+msgstr "pencarian terbaru"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Item Id"
+msgstr "ID item"
+
+msgid "Total member"
+msgstr "Total Anggota"
+
+msgid "Your email"
+msgstr "E-mail Anda"
+
+msgid "Already have an account ?"
+msgstr "Sudah punya akun?"
+
+msgid "Lost password ?"
+msgstr "Lupa Password"
+
+msgid "Don't have an account !"
+msgstr "Tidak memiliki akun?"
+
+msgid "Forgot password"
+msgstr "Lupa kata sandi?"
+
+msgid "Note"
+msgstr "Catatan"
+
+msgid "Please don't send spam messages"
+msgstr "Harap jangan mengirim pesan spam"
+
+msgid "View"
+msgstr "Lihat"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i> Profil"
+
+msgid "User Id"
+msgstr "ID Pelanggan"
+
+msgid "Edit item"
+msgstr "Ubah item"
+
+msgid "Detail"
+msgstr "Rincian"
+
+msgid "Client"
+msgstr "Member"
+
+msgid "Advance Search"
+msgstr "Filter pencarian"
+
+msgid "Subcribe"
+msgstr "Berlangganan"
+
+msgid "Hi Guest !"
+msgstr "Hi Pengunjung !"
+
+msgid "ID"
+msgstr "Id"

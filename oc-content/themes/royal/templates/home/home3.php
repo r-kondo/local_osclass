@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -23,7 +23,7 @@
 }
 </style>
 <div class="container">
-    <div class="col-md-6 catico">
+    <div class="col-md-6 col-xs-12 catico">
         <h5 id="anita" class="kir"><?php _e("Categories", 'royal');?>
 </h5>
         <div class="cla">
@@ -32,7 +32,8 @@
             <?php while ( osc_has_categories() ) { ?>
             <a href="<?php echo osc_search_category_url() ; ?>">
                 <li>
-                    <div style="background:url(<?php echo osc_current_web_theme_url() ; ?>/images/category/<?php echo osc_category_id() ; ?>.png) no-repeat" class="icos <?php echo osc_category_slug() ; ?>"></div>
+<?php if(osc_get_preference('icon_view', 'royal_theme')=="1" ) { ?><div class="categorym color-<?php echo osc_category_id() ; ?>"><i class="fa fa-<?php echo royals_category_icon( osc_category_id() ); ?> icoser"></i></div> <?php } else{ ?>
+                    <div style="background:url(<?php echo osc_current_web_theme_url() ; ?>/images/category/<?php echo osc_category_id() ; ?>.png) no-repeat" class="icos <?php echo osc_category_slug() ; ?>"></div><?php } ?>
                     <a class="nams" href="<?php echo osc_search_category_url() ; ?>">
                         <?php echo osc_category_name() ; ?> </a>
                 </li>
@@ -49,14 +50,14 @@
            
         <div class="empty"></div>
     </div>
-    <div class="col-md-6 prop">
+    <div class="col-md-6 col-xs-12 prop">
         <div class="cinta">
         <h5 id="anita" class="kir"><?php _e("Region", 'royal');?>
 </h5>
         <?php View::newInstance()->_exportVariableToView('list_regions', Search::newInstance()->listRegions('%%%%', '>=') ) ; ?>
         <?php if(osc_count_list_regions()> 0 ) { ?>
         <?php while(osc_has_list_regions() ) { ?>
-        <ul id="regions" class="col-x col-md-4 lia-list-standar fadeInDown animated">
+        <ul id="regions" class="col-x col-lg-3 col-md-3 col-sm-3 col-xs-4 four-6 ari-6 three-12 lia-list-standar fadeInDown animated">
             <li>
                 <a href="<?php echo osc_search_url( array( 'sRegion' => osc_list_region_name() ) ) ; ?>">
                     <?php echo osc_list_region_name() ; ?> </a>

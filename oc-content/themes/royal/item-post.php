@@ -2,7 +2,7 @@
     /*
      *       Royal Multipurpose Osclass Themes
      *       
-     *       Copyright (C) 2016 OSCLASS.me
+     *       Copyright (C) 2017 OSCLASS.me
      * 
      *       This is Royal Multipurpose Osclass Themes with Single License
      *  
@@ -110,7 +110,10 @@
                                             </div>
                                         </div>
                                         <?php } ?>
-                                        <?php if( osc_images_enabled_at_items() ) { ItemForm::ajax_photos(); } ?>
+                                    <!-- Uploader --> <div class="form-group">
+                                   <?php if (function_exists('przi_ajax_uploader')) { przi_ajax_photos(); ?><?php } else { ?>
+                                   <?php if( osc_images_enabled_at_items() ) { ItemForm::ajax_photos(); } ?><?php } ?>
+                                    </div><!-- end Uploader -->
                                         <div class="box location">
                                             <div class="form-group">
                                                 <label class="control-label" for="country">
@@ -189,7 +192,7 @@
                                             </div>
                                             <div class="form-group">
                                                 <div class="controls">
-                                                    <button class="btn btn-success btn-lg" type="submit"><i class="fa fa-plus"></i>
+                                                    <button class="btn btn-success btn-lg btn-block" type="submit"><i class="fa fa-plus"></i>
                                                         <?php if($edit) { _e("Update", 'royal'); } else { _e("Publish", 'royal'); } ?> </button>
                                                 </div>
                                             </div>
