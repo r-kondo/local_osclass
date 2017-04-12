@@ -1032,20 +1032,20 @@
          */
         private function makeSQLKeyword($user_search)
         {
-        	//[U[Ìõã$user_searchÌÌuAvð¼pXy[XÉÏ·
-            $not_words = array(",", "A", "@", "B", ".");
+        	//���[�U�[�̌�����$user_search�̒��́u�A�v�𔼊p�X�y�[�X�ɕϊ�
+            $not_words = array(",", "�A", "�@", "�B", ".");
             $clean_search = str_replace($not_words, ' ', $user_search);
 
-            //Sppð¼pÉAÐçªÈÆ¼pJiðSpJiÉÏ··éB
+            //�S�p�p�����𔼊p�ɁA�Ђ炪�ȂƔ��p�J�i��S�p�J�i�ɕϊ�����B
             $kana_search = mb_convert_kana($clean_search, "aKCs", "utf-8");
 
-            //OÌ½ßEE[UÌüÍêÆªÁ¿áñ±B
+            //�O�̂��߁E�E���[�U�̓��͌�Ƃ�������񂱁B
             $clean_search_mix = $clean_search . " " . $kana_search;
 
-            //¼pXy[XÅeêªqªÁÄ¢éóÔðAooÉB
+            //���p�X�y�[�X�Ŋe�ꂪ�q�����Ă����Ԃ��A�o���o���ɁB
             $search_words = explode(' ', $clean_search_mix);
 
-			//dã°B¼pXy[XªA±ÉÈÁÄ¢½çÜ¸¢ÌÅB
+			//�d�グ�B���p�X�y�[�X���A���ɂȂ��Ă�����܂����̂ŁB
             $final_search_words = array();
             if (count($search_words) > 0)
             {
