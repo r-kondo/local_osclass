@@ -61,7 +61,7 @@ msgid "Send"
 msgstr "送信"
 
 msgid "Contact"
-msgstr "連絡先"
+msgstr "お問い合わせ"
 
 msgid "Your search must be at least three characters long"
 msgstr "少なくとも 3 文字必要です"
