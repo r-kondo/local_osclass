@@ -46,7 +46,7 @@ msgid "Subject"
 msgstr "件名"
 
 msgid "optional"
-msgstr "オプション"
+msgstr "任意"
 
 msgid "Message"
 msgstr "メッセージ"
