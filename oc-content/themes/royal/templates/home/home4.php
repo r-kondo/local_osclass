@@ -126,7 +126,7 @@ li.active:after {
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+ 
             </ol>
            
             <div class="carousel-inner">
@@ -134,7 +134,7 @@ li.active:after {
                         <?php echo logo_slider(); ?>
                         <?php echo logo_slider_1(); ?>
                         <?php echo logo_slider_2(); ?> 
-                        <?php echo logo_slider_3(); ?>
+
             </div>
             <!-- Controls -->
             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"> <span class="fa fa-chevron-left"></span> </a>

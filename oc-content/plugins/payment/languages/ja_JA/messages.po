@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"Language: ja\n"
+
+msgid "Make the ad premium"
+msgstr "有利な位置に広告を掲載させたい人へ"
+
+msgid "Item's title"
+msgstr "タイトル"
+
+msgid "Item's description"
+msgstr "内容"
+
+msgid "In order to make premium your ad , it's required to pay a fee"
+msgstr "もし、あなたが望むなら、他の広告より目に触れやすいページに公開されます。"
+
+msgid "The current fee for this category is: %.2f %s"
+msgstr "Paypalから決済ページにお進みください。費用は、%.0f 円"
