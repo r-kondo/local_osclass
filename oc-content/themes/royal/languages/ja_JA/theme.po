@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-04-26 00:19+0900\n"
+"PO-Revision-Date: 2017-08-28 23:25+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -130,7 +130,7 @@ msgid "Language"
 msgstr "言語"
 
 msgid "Publish your ad for free"
-msgstr "無料であなたの金融車を公開"
+msgstr "無料であなたの広告を公開"
 
 msgid "Select a category"
 msgstr "カテゴリーを選択"
@@ -262,7 +262,7 @@ msgid "Avoid scams by acting locally or paying with PayPal"
 msgstr "ご購入手続きは広告主へメッセージにてお問い合わせてください。"
 
 msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
-msgstr "当サイトには、金融車購入のための決済機能を一切設けておりません。"
+msgstr "当サイトには、広告購入のための決済機能を一切設けておりません。"
 
 msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
 msgstr "万が一そのようなボタンがあったとしても押すことの無きようご注意ください。"
@@ -571,7 +571,7 @@ msgid "No Related Ads"
 msgstr "関連広告がありません。"
 
 msgid "Premium Listings"
-msgstr "金融車大集結"
+msgstr "プレミアム広告"
 
 msgid "More Details"
 msgstr "詳細"
