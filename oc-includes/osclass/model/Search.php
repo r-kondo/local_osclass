@@ -508,8 +508,8 @@
          */
         public function priceRange( $price_min = 0, $price_max = 0)
         {
-            $this->price_min = 1000000*$price_min;
-            $this->price_max = 1000000*$price_max;
+            $this->price_min = 1000000*((int)$price_min);
+            $this->price_max = 1000000*((int)$price_max);
         }
 
         private function _priceRange()
@@ -811,18 +811,15 @@
          */
         private function _makeSQLPremium($num = 2)
         {
-        	// Extend Japanese Search
-        	$where_clause = $this->makeSQLKeyword($this->sPattern);
-
+            $arrayConditions    = $this->_conditions();
+            
             if ($this->withPattern ) {
                 // sub select for JOIN ----------------------
                 $this->dao->select('distinct d.fk_i_item_id');
                 $this->dao->from(DB_TABLE_PREFIX . 't_item_description as d');
                 $this->dao->from(DB_TABLE_PREFIX . 't_item as ti');
                 $this->dao->where('ti.pk_i_id = d.fk_i_item_id');
-                #$this->dao->where(sprintf("MATCH(d.s_title, d.s_description) AGAINST('%s' IN BOOLEAN MODE)", $this->sPattern));
-                #$this->dao->where(sprintf("d.s_title LIKE '%%%s%%' OR d.s_description LIKE '%%%s%%'", $this->sPattern, $this->sPattern) );
-                $this->dao->where($where_clause);
+                $this->dao->where(sprintf("MATCH(d.s_title, d.s_description) AGAINST('%s' IN BOOLEAN MODE)", $this->sPattern));
                 $this->dao->where("ti.b_premium = 1");
 
                 if(empty($this->locale_code)) {
@@ -920,9 +917,6 @@
             $extraFields        = $arrayConditions['extraFields'];
             $conditionsSQL      = $arrayConditions['conditionsSQL'];
 
-            // Extend Japanese Search
-            $where_clause = $this->makeSQLKeyword($this->sPattern);
-
             $sql = '';
 
             if($this->withItemId) {
@@ -946,9 +940,7 @@
 
                 if ($this->withPattern ) {
                     $this->dao->join(DB_TABLE_PREFIX.'t_item_description as d','d.fk_i_item_id = '.DB_TABLE_PREFIX.'t_item.pk_i_id','LEFT');
-	                #$this->dao->where(sprintf("MATCH(d.s_title, d.s_description) AGAINST('%s' IN BOOLEAN MODE)", $this->sPattern));
-    	            #$this->dao->where(sprintf("d.s_title LIKE '%%%s%%' OR d.s_description LIKE '%%%s%%'", $this->sPattern, $this->sPattern) );
-                    $this->dao->where($where_clause);
+                    $this->dao->where(sprintf("MATCH(d.s_title, d.s_description) AGAINST('%s' IN BOOLEAN MODE)", $this->sPattern) );
                     if(empty($this->locale_code)) {
                         if(OC_ADMIN) {
                             $this->locale_code[osc_current_admin_locale()] = osc_current_admin_locale();
@@ -1022,55 +1014,6 @@
             $this->dao->_resetSelect();
 
             return $this->sql;
-        }
-
-        /**
-         * Return sprintf("d.s_title LIKE '%%%s%%' OR d.s_description LIKE '%%%s%%'", $this->sPattern, $this->sPattern)
-         *
-         * @access private
-         * @since unknown
-         */
-        private function makeSQLKeyword($user_search)
-        {
-        	//ユーザーの検索後$user_searchの中の「、」を半角スペースに変換
-            $not_words = array(",", "、", "　", "。", ".");
-            $clean_search = str_replace($not_words, ' ', $user_search);
-
-            //全角英数字を半角に、ひらがなと半角カナを全角カナに変換する。
-            $kana_search = mb_convert_kana($clean_search, "aKCs", "utf-8");
-
-            //念のため・・ユーザの入力語とがっちゃんこ。
-            $clean_search_mix = $clean_search . " " . $kana_search;
-
-            //半角スペースで各語が繋がっている状態を、バラバラに。
-            $search_words = explode(' ', $clean_search_mix);
-
-			//仕上げ。半角スペースが連続になっていたらまずいので。
-            $final_search_words = array();
-            if (count($search_words) > 0)
-            {
-            	foreach ($search_words as $word)
-            	{
-            		if (!empty($word))
-            		{
-            	 	 	$final_search_words[] = $word;
-            	 	}
-            	}
-            }
-
-            $where_list = array();
-            if (count($final_search_words) > 0)
-            {
-            	foreach ($final_search_words as $word)
-            	{
-            		//$where_list[] = "title_name LIKE '%$word%'";
-            		$where_list[] = sprintf("d.s_title LIKE '%%%s%%' OR d.s_description LIKE '%%%s%%'", $word, $word);
-            	}
-            }
-
-            $_result = implode(' OR ', $where_list);
-
-            return $_result;
         }
 
         /**
@@ -1373,8 +1316,7 @@
                 } else if(preg_match('/d\.s_title\s*LIKE\s*\'%([\s\p{L}\p{N}]*)%\'/u', $condition, $matches) ) {  // OJO
                     $aData['sPattern']      = $matches[1];
                     $aData['withPattern']   = true;
-                #} else if(preg_match('/MATCH\(d\.s_title, d\.s_description\) AGAINST\(\'([\s\p{L}\p{N}]*)\' IN BOOLEAN MODE\)/u', $condition, $matches) ) { // OJO
-                } else if(preg_match('/d\.s_title\s*LIKE\s*\'%([\s\p{L}\p{N}]*)%\' OR \.s_description\s*LIKE\s*\'%([\s\p{L}\p{N}]*)%\'/u', $condition, $matches) ) { // OJO
+                } else if(preg_match('/MATCH\(d\.s_title, d\.s_description\) AGAINST\(\'([\s\p{L}\p{N}]*)\' IN BOOLEAN MODE\)/u', $condition, $matches) ) { // OJO
                     $aData['sPattern'] = $matches[1];
                     $aData['withPattern']   = true;
                 } else if(preg_match("/$item_id\s*=\s*$item_description_id/", $condition, $matches_1)   || preg_match("/$item_description_id\s*=\s*$item_id/", $condition, $matches_2)) {
