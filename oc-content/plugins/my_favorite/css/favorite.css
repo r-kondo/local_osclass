@@ -1,0 +1,32 @@
+.fv-div-wrap{
+    padding: 10px;
+    margin: 5px;
+}
+.fv-list-wrap{
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+.fv-list-wrap ul li{
+    display: inline-block;
+    padding: 5px;
+}
+.fv-list-wrap img{
+    width: 50px;
+    height: 50px;
+}
+.fv-list-wrap .fv-num-circle {
+    color: #fff;
+    background-color: #f1685e;
+    padding: 0;
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 50%;
+    position: absolute;
+}
+.fv-btn{
+    margin: 5px;
+}

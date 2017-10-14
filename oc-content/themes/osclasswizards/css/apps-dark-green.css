@@ -1,0 +1,22 @@
+/*
+* Copyright 2016, http://www.osclasswizards.com/
+* Based on bootstrap framework by http://getbootstrap.com/
+*/
+
+/*Color reset file*/
+
+#item-post h2, #related-searches li a, #show_filters, #tab_filter section li a, .block h2:after, .btn-focus, .btn-success, .btn-success:hover, .contact_button a, .custom .user_menu .watchlist_page a, .filters h3, .forgot .form-container-box .header:after, .forgot .form-container-box .resp-wrapper .ui-button, .item-header li .fa, .list_watch, .listing-attr .currency-value, .listings h2 .fa, .pagination a:hover, .pagination span, .rate_me span, .ribbon, .search_filter li li a, .thumbs a:hover, .title:after, .user-alerts .user_menu li.opt_alerts a, .user-change_email .user_menu li.opt_change_email a, .user-items .user_menu li.opt_items a, .user-passowrd_change .user_menu li.opt_change_password a, .user-profile .user_menu li.opt_account a, .user-username .user_menu li.opt_change_email a, .user-usernames .user_menu li.opt_change_username a, .user_menu li a:hover, .slick-arrow:hover, .filters h3, .filters .plugin-hooks h6 {background-color: #24a828;
+}
+.filters .ui-widget-content {background: #24a828;
+}
+.listing-attrs .listing-attr, .marker-holder, .top_links, .listing-attr, .page-not-found, #comment_form, .comments_list, #contact, #mask_as_form, .dashboard_form form, .block section, .dashboard_watchlist, .user-card figure, .ads_home, .ads_header, .ads_search_top, .ads_search_bottom, .ads_300, .list_space, .wraps form, .listings, .block_list, #item-content, .user_detail_info, #user_data, .square, .circle, .forgot .form-container-box .resp-wrapper {background-color: #f8fbfc;border: 1px solid #eaeaea;
+}
+#footer, #footer a:hover, #item-post h2, #logo a, #main_search h2, #main_search h3, #related-searches li a, #show_filters, #tab_filter section li a, .contact_button a, .contact_button a:hover, .custom .watchlist_page a, .filters h3, .forgot .form-container-box .resp-wrapper .ui-button, .info_top, .info_top a, .item-header li .fa, .language ul li a, .links a, .list_watch, .list_watch a, .list_watch a:hover, .listing-attr .currency-value, .listings h2 .fa, .marker-label .fa, .mylocation-label .fa, .pagination a:hover, .pagination span, .rate_me span, .ribbon, .search_filter li li a, .subscription, .subscription h2, .thumbs a:hover, .toggle:focus, .toggle:hover, .user-alerts .user_menu li.opt_alerts a, .user-change_email .user_menu li.opt_change_email a, .user-items .user_menu li.opt_items a, .user-passowrd_change .user_menu li.opt_change_password a, .user-profile .user_menu li.opt_account a, .user-username .user_menu li.opt_change_email a, .user-usernames .user_menu li.opt_change_username a, .user_menu li a:hover, .slick-arrow:hover, .filters h3, .filters .plugin-hooks h6, .MCtooltip:after {color: #fff;
+}
+.gm-style-iw .info_top span a, #contact .name, .links a:hover, .votes_results .fa-star, #contact .name .fa, #contact .phone .fa, .owl-prev:hover, .owl-next:hover, a:hover, a:active, a:focus, .listings ul li.last a, .listings h2 a:hover, .sorting a.active, .sort a.current, .language span, ul.tabs li .fa, .breadcrumb li.last-child span, .attribute_list span.currency-value, .square.hover:before, .square.checked:before, .circle.hover:before, .circle.checked:before, .listings_list .detail_info h4 a:hover, .cell #ip_location:hover, .cell #ip_location:focus, .info_top h4 a:focus, .listing-attr h4 a:hover, .language ul li a.active, .language ul li a:hover {color: #24a828;
+}
+.premium .list_space {background-color: rgba(0, 108, 163, 0.1);
+}
+#footer, #form_vh_map {border-top: solid 5px #24a828;
+}
+

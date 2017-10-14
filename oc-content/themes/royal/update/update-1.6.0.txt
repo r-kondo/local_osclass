@@ -1,0 +1,24 @@
+================== ROYAL UPDATE VERSION 1.6.0 ========================
+- Index.php, function.php and settings.php  ( version themes)
+
+================== Fixed Bugs and Update ===========================
+- Fixed home 3 bugs
+- fixed large images in product
+- fixed related ads css
+- fixed bugs in style.css
+- RTL bugs fixed
+- Bugs in settings fixed
+- Eror console fixed
+- Youtube social icon
+- multilanguages item post
+- Auto RTL Arabic
+- add grabbing.png 
+- add tabs.css
+- add tabber-minimized.js
+- fixed mega menu one category
+- fixed responsive rtl mode
+- fixed bugs in extra plugin
+- fixed bugs in dropdown sidebar
+- fixed bugs in label premium ( search page )
+
+=====================================================================

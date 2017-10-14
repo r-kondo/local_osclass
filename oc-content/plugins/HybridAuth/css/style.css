@@ -1,0 +1,49 @@
+/*
+Plugin Name: HybridAuth
+Plugin URI: http://rajasekar.co.in/
+Description: HybridAuth A PHP Library for authentication through Facebook, Twitter, Google
+Version: 1.1.0
+Author: RajaSekar
+Author URI: http://rajasekar.co.in/
+Plugin update URI: hybridauth
+*/
+
+.hybrid_login{
+	margin: 6px 0;
+}
+.hybrid_btn{
+	text-decoration: none;
+	margin-right:10px;
+	font-size: 18px;
+    font-family: Arial,sans-serif;
+	font-weight: normal;
+	display: inline-block;
+	height: 36px;
+    line-height: 36px;
+	color: #FFF;
+	padding: 0 10px;
+	box-shadow: 0 -2px 0 0 rgba(0, 0, 0, 0.2) inset;
+		-webkit-box-shadow: 0 -2px 0 0 rgba(0, 0, 0, 0.2) inset;
+			-moz-box-shadow: 0 -2px 0 0 rgba(0, 0, 0, 0.2) inset;
+}
+.hybrid_btn:hover{
+	color: #FFF;
+}
+.hybrid_btn.facebook:hover{
+	background: #3b5998;
+}
+.hybrid_btn.facebook{
+	background: #293F6F;
+}
+.hybrid_btn.google{
+	background: #dd4b39;
+}
+.hybrid_btn.google:hover{
+	background: #F46A5B;
+}
+.hybrid_btn.twitter{
+	background: #55acee;
+}
+.hybrid_btn.twitter:hover{
+	background: #3F78A6;
+}

@@ -1,0 +1,1098 @@
+# Translation of OsclassDotMe  in Hindian
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 10:21+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: hi_IN\n"
+
+msgid "New pasword"
+msgstr "नई सुधार"
+
+msgid "Repeat new pasword"
+msgstr "नई सुधार को दोहराएँ"
+
+msgid "Page not found"
+msgstr "पृष्ठ नहीं मिला"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "आप सफलतापूर्वक करने के लिए चेतावनी सदस्यता ली है"
+
+msgid "Invalid email address"
+msgstr "अमान्य ईमेल पता"
+
+msgid "There was a problem with the alert"
+msgstr "चेतावनी के साथ एक समस्या थी"
+
+msgid "Subscribe to this search"
+msgstr "इस खोज के लिए सदस्यता लें"
+
+msgid "Subscribe now"
+msgstr "अब सदस्यता लें"
+
+msgid "Contact us"
+msgstr "हमसे संपर्क करें"
+
+msgid "Subject"
+msgstr "विषय:"
+
+msgid "optional"
+msgstr "विकल्पी"
+
+msgid "Message"
+msgstr "संदेश"
+
+msgid "Your name"
+msgstr "तुं'दा नांऽ"
+
+msgid "Your e-mail address"
+msgstr "ई-मेल पता"
+
+msgid "Send"
+msgstr "भेजें"
+
+msgid "Contact"
+msgstr "संपर्क"
+
+msgid "Your search must be at least three characters long"
+msgstr "आपकी खोज में कम से कम तीन वर्ण लंबा होना चाहिए"
+
+msgid "Theme settings updated correctly"
+msgstr "विषयवस्तु सेटिंग्स सही रूप से अद्यतन"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "लोगो छवि सही ढंग से अपलोड किया गया है"
+
+msgid "An error has occurred, please try again"
+msgstr "कोई त्रुटि उत्पन्न हुई, कृपया फिर से प्रयास करें"
+
+msgid "The logo image has been removed"
+msgstr "लोगो छवि निकाल दिया गया है"
+
+msgid "Image not found"
+msgstr "छवि नहीं मिला"
+
+msgid "Header logo"
+msgstr "हैडर लोगो"
+
+msgid "Theme settings"
+msgstr "विषयवस्तु सेटिंग्स"
+
+msgid "ie. PHP Programmer"
+msgstr "अर्थात्। PHP प्रोग्रामर"
+
+msgid "No file selected"
+msgstr "कोई फ़ाइल चुनी नहीं गई."
+
+msgid "Choose File"
+msgstr "फ़ाइल चुनें"
+
+msgid "Hi %s"
+msgstr "हाय %s"
+
+msgid "My account"
+msgstr "मेरा खाता"
+
+msgid "Logout"
+msgstr "लॉग-आउट करें"
+
+msgid "Login"
+msgstr "लॉग-इन करो"
+
+msgid "Register for a free account"
+msgstr "एक मुक्त खाते के लिए रजिस्टर"
+
+msgid "E-mail"
+msgstr "आपका ईमेल"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Remember me"
+msgstr "मिगी चेतै रक्खो"
+
+msgid "Log in"
+msgstr "लॉगिन करें"
+
+msgid "Forgot password?"
+msgstr "पासवर्ड भूल गए?"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "Publish your ad for free"
+msgstr "मुफ्त के लिए आपके विज्ञापन प्रकाशित करें"
+
+msgid "Select a category"
+msgstr "कैटेगरी चुनो"
+
+msgid "Search"
+msgstr "खोजें"
+
+msgid "Contact seller"
+msgstr "विक्रेता से संपर्क करें"
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "तुम में लॉग इन करें या विज्ञापनदाता से संपर्क करने के लिए एक नया खाता रजिस्टर करना होगा"
+
+msgid "To (seller)"
+msgstr "(विक्रेता के लिए)"
+
+msgid "Listing"
+msgstr "सूची"
+
+msgid "Phone number"
+msgstr "फोन नंबर"
+
+msgid "Send message"
+msgstr "संदेश भेजें"
+
+msgid "Update your listing"
+msgstr "अपनी लिस्टिंग अद्यतन करें"
+
+msgid "General Information"
+msgstr "सामान्य जानकारी"
+
+msgid "Category"
+msgstr "कैटेगरी"
+
+msgid "Price"
+msgstr "मूल्य"
+
+msgid "Photos"
+msgstr "तस्‍वीरें"
+
+msgid "Add new photo"
+msgstr "नया फ़ोटो जोड़ें"
+
+msgid "Location"
+msgstr "स्थान"
+
+msgid "Country"
+msgstr "देश"
+
+msgid "Region"
+msgstr "क्षेत्र/प्रदेश"
+
+msgid "City"
+msgstr "शहर"
+
+msgid "City area"
+msgstr "शहर क्षेत्र"
+
+msgid "Address"
+msgstr "पता"
+
+msgid "Update"
+msgstr "अपडेट करें"
+
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgid "Publish a listing"
+msgstr "एक लिस्टिंग प्रकाशित करें"
+
+msgid "Listing Location"
+msgstr "लिस्टिंग स्थान"
+
+msgid "City Area"
+msgstr "शहर क्षेत्र"
+
+msgid "Seller's information"
+msgstr "विक्रेता की जानकारी"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Show e-mail on the listing page"
+msgstr "ई-मेल पर लिस्टिंग के पृष्ठ दिखाएँ"
+
+msgid "Publish"
+msgstr "प्रकाशित करें"
+
+msgid "Send to a friend"
+msgstr "एक दोस्त को भेजें"
+
+msgid "Your friend's name"
+msgstr "आपके मित्र का नाम"
+
+msgid "Your friend's e-mail address"
+msgstr "आपके मित्र का ई-मेल पता"
+
+msgid "Mark as"
+msgstr "के रूप में चिह्नित करें"
+
+msgid "spam"
+msgstr "स्पैम (अवांछनीय ई-मेल)"
+
+msgid "misclassified"
+msgstr "misclassified"
+
+msgid "duplicated"
+msgstr "दोहराया गया"
+
+msgid "expired"
+msgstr "की समय सीमा समाप्त"
+
+msgid "offensive"
+msgstr "आक्रमण"
+
+msgid "Published date"
+msgstr "प्रकाशित तिथि"
+
+msgid "Modified date"
+msgstr "निर्माण दिनांक"
+
+msgid "Share"
+msgstr "साझा करें"
+
+msgid "Useful information"
+msgstr "उपयोगी जानकारी"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "द्वारा स्थानीय रूप से अभिनय या पेपैल के साथ भुगतान घोटाले से बचें"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "वेस्टर्न यूनियन, Moneygram या अन्य अनाम भुगतान सेवाओं के साथ भुगतान कभी"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "खरीदने या बेचने के अपने देश से बाहर नहीं। अपने देश के बाहर से खजांची चेक स्वीकार नहीं"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification"
+"\""
+msgstr "इस साइट कभी नहीं किसी भी सौदे में शामिल है, और करता है संभाल भुगतान नहीं शिपिंग, लेन-देन की गारंटी, एस्क्रौ सेवाओं प्रदान करते हैं, या प्रस्ताव \"खरीदार संरक्षण\" या \"विक्रेता प्रमाणन\""
+
+msgid "Comments"
+msgstr "टिप्पणियां"
+
+msgid "by"
+msgstr "द्वारा"
+
+msgid "Delete your comment"
+msgstr "आपकी टिप्पणी को हटाना"
+
+msgid "Delete"
+msgstr "रद्द करें"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "आपकी टिप्पणी छोड़ दो (स्पैम और आपत्तिजनक संदेश हटा दिया जाएगा)"
+
+msgid "Leave your comment"
+msgstr "आपकी टिप्पणी छोड़ दो"
+
+msgid "Your e-mail"
+msgstr "आपका ई-मेल"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Comment"
+msgstr "टिप्पणी"
+
+msgid "Image"
+msgstr "बिंब"
+
+msgid "Contact publisher"
+msgstr "प्रकाशक से संपर्क करें"
+
+msgid "Tel"
+msgstr "दूरभाष:"
+
+msgid "Enter the words above"
+msgstr "शब्दों के ऊपर दर्ज करें"
+
+msgid "Help"
+msgstr "मदद"
+
+msgid "Latest Listings"
+msgstr "नवीनतम लिस्टिंग"
+
+msgid "No Latest Listings"
+msgstr "कोई नवीनतम लिस्टिंग"
+
+msgid "See all offers"
+msgstr "सभी प्रस्ताव देखें"
+
+msgid "Sort by"
+msgstr "स्हाबें छांटो"
+
+msgid "There are no results matching \"%s\""
+msgstr "वहाँ \"%s\" से मेल खाते कोई परिणाम नहीं हैं"
+
+msgid "Your search"
+msgstr "आपकी खोज"
+
+msgid "Show only"
+msgstr "सिर्फ दस्सो"
+
+msgid "Show only listings with pictures"
+msgstr "केवल चित्रों के साथ लिस्टिंग दिखाएँ"
+
+msgid "Min"
+msgstr "घट्टोघट्ट"
+
+msgid "Max"
+msgstr "बद्दोबद्ध"
+
+msgid "Apply"
+msgstr "लागू करें"
+
+msgid "Selected"
+msgstr "चयनित"
+
+msgid "Nothing selected, input was"
+msgstr "कुछ भी चयनित नहीं है, इनपुट था"
+
+msgid "User account manager"
+msgstr "उपयोगकर्ता खाता प्रबंधक"
+
+msgid "Your alerts"
+msgstr "अपने अलर्ट"
+
+msgid "You do not have any alerts yet"
+msgstr "आप किसी भी अलर्ट अभी तक नहीं है"
+
+msgid "Alert"
+msgstr "चेतावनी"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "यह क्रिया पूर्ववत नहीं किया जा सकता। क्या वाकई आप जारी रखना चाहते हैं?"
+
+msgid "Delete this alert"
+msgstr "इस चेतावनी को हटाना"
+
+msgid "Publication date"
+msgstr "प्रकाशन दिनांक"
+
+msgid "Listings"
+msgstr "लिस्टिंग"
+
+msgid "Change your e-mail"
+msgstr "आपके ई-मेल बदलें"
+
+msgid "Current e-mail"
+msgstr "वर्तमान ई-मेल"
+
+msgid "New e-mail"
+msgstr "नए ई-मेल"
+
+msgid "Change your password"
+msgstr "पासवर्ड बदलो"
+
+msgid "Current password"
+msgstr "चालू पासवर्ड"
+
+msgid "New password"
+msgstr "नमां पासवर्ड"
+
+msgid "Repeat new password"
+msgstr "नया पासवर्ड दोहराएँ"
+
+msgid "Listings from %s"
+msgstr "%S से लिस्टिंग"
+
+msgid "No listings have been added yet"
+msgstr "कोई सूची नहीं अभी तक जोड़ा गया है"
+
+msgid "View listing"
+msgstr "देखें लिस्टिंग"
+
+msgid "Edit"
+msgstr "संपादन करें"
+
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+msgid "Recover your password"
+msgstr "पासवर्ड पुनः प्राप्त करना"
+
+msgid "Change password"
+msgstr "पासवर्ड बदलो"
+
+msgid "Your listings"
+msgstr "अपनी लिस्टिंग"
+
+msgid "Post a new listing"
+msgstr "पोस्ट एक नई लिस्टिंग"
+
+msgid "You don't have any listings yet"
+msgstr "आप किसी भी लिस्टिंग अभी तक नहीं है"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "यह क्रिया पूर्ववत नहीं हो सकता है। क्या वाकई आप जारी रखना चाहते हैं?"
+
+msgid "Access to your account"
+msgstr "अपने खाते के लिए पहुँच"
+
+msgid "Update your profile"
+msgstr "प्रोफाइल अपडेट करो"
+
+msgid "Modify e-mail"
+msgstr "ई-मेल को संशोधित करें"
+
+msgid "Modify password"
+msgstr "पासवर्ड को संशोधित करें"
+
+msgid "User type"
+msgstr "प्रयोक्ता प्रकार"
+
+msgid "Cell phone"
+msgstr "सेलफोन"
+
+msgid "Phone"
+msgstr "टेलीफोन:"
+
+msgid "Website"
+msgstr "जालस्थल"
+
+msgid "%s's profile"
+msgstr "%s की प्रोफ़ाइल"
+
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+msgid "Full name"
+msgstr "पूरा नाम"
+
+msgid "User Description"
+msgstr "उपयोगकर्ता विवरण"
+
+msgid "Latest listings"
+msgstr "नवीनतम लिस्टिंग"
+
+msgid "Send me a new password"
+msgstr "मुझे एक नया पासवर्ड भेजें"
+
+msgid "Register an account for free"
+msgstr "एक खाते के लिए नि: शुल्क पंजीकरण"
+
+msgid "Re-type password"
+msgstr "पासवर्ड पुनः टाइप करें"
+
+msgid "Passwords don't match"
+msgstr "पासवर्ड मेल नहीं खाते"
+
+msgid "Create"
+msgstr "सिरजो"
+
+msgid "Preview"
+msgstr "पूवद्रिश्श"
+
+msgid "Remove logo"
+msgstr "लोगो को दूर"
+
+msgid "Upload logo"
+msgstr "लोगो को अपलोड"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "लोगो का पसंदीदा आकार 600 x 100 है।"
+
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>नोट:</strong> एक अन्य लोगो अपलोड वर्तमान लोगो को अधिलेखित कर देगा।"
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "लोगो छवि (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "अपलोड करें"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "चित्र फ़ोल्डर <strong>%s</strong> आपके सर्वर पर लेखन योग्य नहीं है"
+
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "एक निर्देशिका writable यूनिक्स के अंतर्गत बनाने के लिए खोल से इस आदेश निष्पादित करें:"
+
+msgid "Donate"
+msgstr "दान करना"
+
+msgid "Search placeholder"
+msgstr "खोज प्लेसहोल्डर"
+
+msgid "Footer link"
+msgstr "पाद लेख लिंक"
+
+msgid "Save changes"
+msgstr "तब्दीलियां बचाइयै रक्खो"
+
+msgid "Custom"
+msgstr "ऐच्छिक"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "यह अपनी लिस्टिंग, आप प्रकाशक से संपर्क नहीं कर सकता है।"
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "लिस्टिंग समयसीमा समाप्त हो गई है। आप प्रकाशक से संपर्क नहीं कर सकता।"
+
+msgid "No logo has been uploaded yet"
+msgstr "कोई लोगो अभी तक अपलोड किया गया है"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass प्रशासन पैनल से लोगो छवि अपलोड नहीं कर सकते।"
+
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "मैं Osclass निम्नलिखित पाठ के साथ मेरी साइट से <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> को जोड़ने के द्वारा मदद करना चाहता हूँ:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "कृपया aforementioned छवि फ़ोल्डर को लिखने योग्य बनाएँ।"
+
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "मैं एक दान के साथ Osclass के विकास में योगदान करना चाहते हैं"
+
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "इस वेबसाइट गर्व से <a title=\"Osclass web\" href=\"http://osclass.org/\">वर्गीकृत लिपियों</a> सॉफ्टवेयर <strong>Osclass</strong> उपयोग कर रहा है"
+
+msgid "Default logo"
+msgstr "डिफ़ॉल्ट लोगो"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "डिफ़ॉल्ट लोगो दिखाने के मामले में आप एक पहले अपलोड नहीं किया"
+
+msgid "Register"
+msgstr "पंजीकरण करें"
+
+msgid "View profile"
+msgstr "प्रोफाइल दिक्खो"
+
+msgid "Send Mail"
+msgstr "मेल भेजें"
+
+msgid "Related Ads"
+msgstr "संबंधित विज्ञापन"
+
+msgid "No Related Ads"
+msgstr "कोई संबंधित विज्ञापन"
+
+msgid "Premium Listings"
+msgstr "प्रीमियम लिस्टिंग"
+
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "Additional"
+msgstr "अतिरिक्त"
+
+msgid "Warning"
+msgstr "चेतावनी"
+
+msgid "Terms of Use"
+msgstr "उपयोग की शर्तें"
+
+msgid "I agree to the"
+msgstr "मैं इसके पर सहमत हूं"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "क्षमा करें, लेकिन मैं पृष्ठ आप के लिए देख रहे हो नहीं मिल सकता"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "हमें मदद से आप, हम कुछ सुझाव के लिए आप इसे खोजने के लिए मिला है।"
+
+msgid "<strong>Search</strong> for it:"
+msgstr "इसे के लिए <strong>खोज</strong> :"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>देखो</strong> के लिए यह सबसे लोकप्रिय श्रेणियों में।"
+
+msgid "Your Search"
+msgstr "आपकी खोज"
+
+msgid "Categories"
+msgstr "कैटेगरियां"
+
+msgid "More information"
+msgstr "अधिक जानकारी"
+
+msgid "Delete my account"
+msgstr "मेरा खाता हटाएँ"
+
+msgid "Show As Galery"
+msgstr "Galery के रूप में दिखाएँ"
+
+msgid "Show As List"
+msgstr "सूची के रूप में दिखाएँ"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d  %3$d  लिस्टिंग से"
+
+msgid "Hot!"
+msgstr "गर्म!"
+
+msgid "Images already uploaded"
+msgstr "पहले से ही अपलोड की गई छवियाँ"
+
+msgid "Click or Drop for upload images"
+msgstr "क्लिक करें या अपलोड छवियों के लिए ड्रॉप"
+
+msgid "Login with Facebook"
+msgstr "फेसबुक के साथ लॉगिन"
+
+msgid "Manage your items"
+msgstr "अपने आइटम प्रबंधित करें"
+
+msgid "Manage your alerts"
+msgstr "अपने अलर्ट प्रबंधित करें"
+
+msgid "Select a region..."
+msgstr "इक प्रदेश चुनो"
+
+msgid "Social Network"
+msgstr "सामाजिक जालक्रम"
+
+msgid "Sponsored ad"
+msgstr "प्रायोजित विज्ञापन"
+
+msgid "Home"
+msgstr "घर"
+
+msgid "See all ads from"
+msgstr "से सभी विज्ञापन देखें"
+
+msgid "Pages"
+msgstr "पन्ने"
+
+msgid "View more..."
+msgstr "देखें और अधिक..."
+
+msgid "Advanced search"
+msgstr "उन्नत खोज"
+
+msgid "hide"
+msgstr "छिपाएँ"
+
+msgid "Oops!"
+msgstr "ओह!"
+
+msgid "404 Not Found"
+msgstr "404 नहीं मिला"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "क्षमा करें, कोई त्रुटि उत्पन्न हुई है, अनुरोधित पृष्ठ नहीं मिला!"
+
+msgid "Take Me Home"
+msgstr "मुझे घर ले"
+
+msgid "Contact Support"
+msgstr "समर्थन से संपर्क करें"
+
+msgid "Sign In"
+msgstr "साइन इन करें"
+
+msgid "Sign Up"
+msgstr "साइन अप करें"
+
+msgid "Sign Out"
+msgstr "साइन आउट करो"
+
+msgid "Don't have an account!"
+msgstr "क्या अभी तक अकाउंट नहीं है?"
+
+msgid "Sign Up here"
+msgstr "साइन अप करें यहाँ"
+
+msgid "Already have an account?"
+msgstr "पहले से ही एक खाता है?"
+
+msgid "Viewed"
+msgstr "दिक्खेआ"
+
+msgid "See all Ads"
+msgstr "सभी विज्ञापन देखें"
+
+msgid "Premium Ads"
+msgstr "प्रीमियम विज्ञापन"
+
+msgid "Latest Ads"
+msgstr "नवीनतम विज्ञापन"
+
+msgid "Featured Brand"
+msgstr "विशेष रुप से प्रदर्शित ब्रांड"
+
+msgid "Select a country"
+msgstr "इक देश चुनो"
+
+msgid "Select a region"
+msgstr "इक प्रदेश चुनो"
+
+msgid "Select a city"
+msgstr "शहर चुनें"
+
+msgid "Personal"
+msgstr "निजी"
+
+msgid "See all ads"
+msgstr "सभी विज्ञापन देखें"
+
+msgid "More details"
+msgstr "होर तफसीलां"
+
+msgid "Details"
+msgstr "तफसीलां"
+
+msgid "Total Member"
+msgstr "कुल सदस्य"
+
+msgid "Total Ads"
+msgstr "कुल विज्ञापन"
+
+msgid "Images"
+msgstr "छवियाँ"
+
+msgid "Theme Settings"
+msgstr "विषय सेटिंग"
+
+msgid "Logo"
+msgstr "लोगो"
+
+msgid "Logo Images"
+msgstr "लोगो छवियाँ"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr "कृपया पुनः लोड करें या यदि छवियों को नहीं बदल आपके ब्राउज़र को ताज़ा करें।"
+
+msgid "Reload browser"
+msgstr "फिर से लोड करें ब्राउज़र"
+
+msgid "Remove"
+msgstr "हटाओ"
+
+msgid "Logo and Images"
+msgstr "लोगो और छवियाँ"
+
+msgid "The image has been uploaded correctly"
+msgstr "छवि अपलोड सही ढंग से किया गया है"
+
+msgid "The image has been removed"
+msgstr "छवि को हटा दिया गया है"
+
+msgid "Has not uploaded any image"
+msgstr "किसी भी छवि अपलोड नहीं किया गया है"
+
+msgid "Slider"
+msgstr "स्लाइडर"
+
+msgid "Slider Images"
+msgstr "स्लाइडर छवियाँ"
+
+msgid "Background Images"
+msgstr "पृष्ठभूमि छवियाँ"
+
+msgid "Brand"
+msgstr "ब्रांड"
+
+msgid "Brand Images"
+msgstr "ब्रांड छवियाँ"
+
+msgid "Icons"
+msgstr "प्रतीक"
+
+msgid "Categories Icons"
+msgstr "श्रेणियाँ माउस को आइकनों"
+
+msgid "Please visit"
+msgstr "कृपया पर जाएँ"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "बस कॉपी और पेस्ट कोड छवियाँ उदा. घर या दिल।"
+
+msgid "version"
+msgstr "सरूप"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "OsclassDotMe द्वारा संचालित थीम्स"
+
+msgid "Category Images"
+msgstr "श्रेणी छवियाँ"
+
+msgid "Administrator Panel"
+msgstr "व्यवस्थापक पैनल"
+
+msgid "General"
+msgstr "सामान्य"
+
+msgid "Widget"
+msgstr "विजेट"
+
+msgid "Product"
+msgstr "उत्पाद"
+
+msgid "Advertiser"
+msgstr "विज्ञापनदाता"
+
+msgid "Social"
+msgstr "सामाजिक"
+
+msgid "Font and color"
+msgstr "फांट रंग"
+
+msgid "More"
+msgstr "अधिक"
+
+msgid "Widget settings"
+msgstr "विजेट सेटिंग्स"
+
+msgid "Social settings"
+msgstr "सामाजिक सेटिंग्स"
+
+msgid "Product settings"
+msgstr "उत्पाद सेटिंग्स"
+
+msgid "Ads settings"
+msgstr "विज्ञापन सेटिंग्स"
+
+msgid "Product Slider"
+msgstr "उत्पाद स्लाइडर"
+
+msgid "Slider Title and Links"
+msgstr "स्लाइडर शीर्षक और कड़ियाँ"
+
+msgid "Content display"
+msgstr "सामग्री प्रदर्शन"
+
+msgid "Custom settings"
+msgstr "कस्टम सेटिंग्स"
+
+msgid "Font and Color settings"
+msgstr "फ़ॉन्ट और रंग सेटिंग्स"
+
+msgid "Button Color"
+msgstr "बटन का रंग"
+
+msgid "More settings"
+msgstr "और अधिक सेटिंग्स"
+
+msgid "Favicon Images"
+msgstr "Favicon छवियाँ"
+
+msgid "Information"
+msgstr "जानकारी"
+
+msgid "Header Style"
+msgstr "हैडर शैली"
+
+msgid "Home Style"
+msgstr "घर शैली"
+
+msgid "Footer Style"
+msgstr "पाद लेख शैली"
+
+msgid "Product Style"
+msgstr "उत्पाद शैली"
+
+msgid "Search Style"
+msgstr "खोज शैली"
+
+msgid "Select search form style template"
+msgstr "खोज प्रपत्र टेम्पलेट शैली का चयन करें"
+
+msgid "Search Placeholder"
+msgstr "खोज प्लेसहोल्डर"
+
+msgid "Footer Copyright"
+msgstr "पाद लेख कॉपीराइट"
+
+msgid "Copyright text on footer."
+msgstr "कॉपीराइट पाठ पाद लेख पर।"
+
+msgid "only for arabic or persian language."
+msgstr "केवल अरबी या फारसी भाषा के लिए।"
+
+msgid "Title On Home"
+msgstr "घर पर शीर्षक"
+
+msgid "Title Footer"
+msgstr "शीर्षक पाद लेख"
+
+msgid "Widget on Footer"
+msgstr "पाद लेख पर विजेट"
+
+msgid "You can add widget on footer with your custom widget ex: facebook widget or twitter widget."
+msgstr "आप अपने कस्टम विजेट ex के साथ पाद लेख पर विजेट जोड़ सकते हैं: facebook विजेट या चहचहाना विजेट।"
+
+msgid "Title Useful Information"
+msgstr "उपयोगी जानकारी के शीर्षक"
+
+msgid "Useful Information"
+msgstr "उपयोगी जानकारी"
+
+msgid "Add text for useful information."
+msgstr "उपयोगी जानकारी के लिए पाठ जोड़ें।"
+
+msgid "Show lists as"
+msgstr "सूचियों के रूप में दिखाएँ"
+
+msgid "Slider latest Ads"
+msgstr "स्लाइडर नवीनतम विज्ञापन"
+
+msgid "Slider Premium Ads"
+msgstr "स्लाइडर प्रीमियम विज्ञापन"
+
+msgid "Sidebar Premium Ads"
+msgstr "साइडबार प्रीमियम विज्ञापन"
+
+msgid "Search Premium Ads"
+msgstr "खोज प्रीमियम विज्ञापन"
+
+msgid "Amount of the Latest ads"
+msgstr "नवीनतम विज्ञापन की राशि"
+
+msgid "Amount of the premium ads"
+msgstr "प्रीमियम विज्ञापन की राशि"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "साइडबार प्रीमियम विज्ञापनों की राशि"
+
+msgid "Amount of the search page premium ads"
+msgstr "खोज पृष्ठ प्रीमियम विज्ञापनों की राशि"
+
+msgid "Amount of the related ads"
+msgstr "संबंधित विज्ञापनों की राशि"
+
+msgid "Premium Ads Display"
+msgstr "प्रीमियम विज्ञापन प्रदर्शन"
+
+msgid "Latest Ads Display"
+msgstr "नवीनतम विज्ञापन प्रदर्शन"
+
+msgid "Ads with Category"
+msgstr "श्रेणी के साथ विज्ञापन"
+
+msgid "Location Display"
+msgstr "स्थान प्रदर्शन"
+
+msgid "Brand Display"
+msgstr "ब्रांड प्रदर्शन"
+
+msgid "Statistic Display"
+msgstr "आँकड़ों के प्रदर्शन"
+
+msgid "Show or hide"
+msgstr "दिखाएँ या छुपाएँ"
+
+msgid "Ads with category"
+msgstr "श्रेणी के साथ विज्ञापन"
+
+msgid "location in home"
+msgstr "घर में स्थान"
+
+msgid "Brand slider"
+msgstr "ब्रांड स्लाइडर"
+
+msgid "Statistic ads"
+msgstr "आँकड़ों के विज्ञापन"
+
+msgid "Header Ads"
+msgstr "शीर्षक विज्ञापन"
+
+msgid "Footer Ads"
+msgstr "पाद लेख विज्ञापन"
+
+msgid "Search results page"
+msgstr "नतीजें दी खोज करो"
+
+msgid "This ad will be shown on the footer of your website. Note that the size of the ad has to be 728x90 pixels."
+msgstr "इस विज्ञापन के अपने वेबसाइट पाद लेख पर दिखाया जाएगा। ध्यान दें कि विज्ञापन का आकार 728 x 90 पिक्सल हो गया है।"
+
+msgid "Sidebar Left"
+msgstr "साइडबार वाम"
+
+msgid "Sidebar Right"
+msgstr "साइडबार राइट"
+
+msgid "Sidebar Ads Member Area"
+msgstr "साइडबार विज्ञापन सदस्य क्षेत्र"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "इस विज्ञापन अपने सदस्य क्षेत्र की साइडबार पर दिखाया जाएगा।"
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "इस विज्ञापन आपकी वेबसाइट का सही साइडबार में दिखाया जाएगा। ध्यान दें कि विज्ञापन का आकार 300 x 350 पिक्सल हो गया है।"
+
+msgid "This ad will be shown at the right sidebar of your website. Note that the size of the ad has to be 160x600 pixels."
+msgstr "इस विज्ञापन आपकी वेबसाइट का सही साइडबार में दिखाया जाएगा। ध्यान दें कि विज्ञापन का आकार 160 x 600 पिक्सल हो गया है।"
+
+msgid "Auto Play Product Slider"
+msgstr "ऑटो प्ले उत्पाद स्लाइडर"
+
+msgid "welcome to classifieds"
+msgstr "वर्गीकृत करने के लिए आपका स्वागत है"
+
+msgid "you can costumize css."
+msgstr "आप costumize सीएसएस कर सकते हैं।"
+
+msgid "Switch on to activate custom font and color."
+msgstr "कस्टम फ़ॉन्ट और रंग को सक्रिय करने के लिए पर स्विच।"
+
+msgid "create new pages TOS and copy url here"
+msgstr "नई TOS पेज बनाएँ और url यहाँ प्रतिलिपि बनाएँ"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr "तुम अमेरिकन प्लान लॉगइन प्लगइन स्थापित करना होगा, पहले फेसबुक लॉगइन सक्रिय करें"
+
+msgid "you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr "आप पागलखाना अवतार प्लगइन स्थापित करें, इससे पहले कि पागलखाना अवतार को सक्रिय करना होगा"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "आप ध्यानसूची प्लगइन स्थापित करना होगा, पहले ध्यानसूची सक्रिय करें"
+
+msgid "you can customize html code on home"
+msgstr "आप घर पर html कोड को अनुकूलित कर सकते हैं"
+
+msgid "you can costumize html on home under slider."
+msgstr "आप costumize html स्लाइडर के तहत घर पर कर सकते हैं।"
+
+msgid "insert your text or html code"
+msgstr "आपके पाठ या html कोड सम्मिलित करें"
+
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "इस विज्ञापन के अपने वेबसाइट, साइट शीर्षक और खोज परिणामों के ऊपर शीर्ष पर दिखाया जाएगा। ध्यान दें कि विज्ञापन का आकार 728 x 90 पिक्सल हो गया है।"
+
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "इस विज्ञापन आपकी साइट के खोज परिणामों में दिखाया जाएगा। ध्यान दें कि विज्ञापन का आकार 728 x 90 पिक्सल हो गया है।"
+
+msgid "view"
+msgstr "देखें"
+
+msgid "Slider text"
+msgstr "स्लाइडर पाठ"
+
+msgid "Public Profile"
+msgstr "सार्वजनक प्रोफाइल"
+
+msgid "Username"
+msgstr "उपयोगकर्ता का नाम"
+
+msgid "Company"
+msgstr "कंपनी"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "चेतावनी: एक बार सेट, तुम फिर से अपना उपयोगकर्ता नाम परिवर्तित करने में सक्षम नहीं होगा। बुद्धिमानी से चुनें।"
+
+msgid "Change your username"
+msgstr "अपने उपयोगकर्ता नाम बदलें"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "अपने सभी लिस्टिंग और चेतावनियों को हटा दिया जाएगा, यह क्रिया पूर्ववत् नहीं किया जा सकता है।"
+
+msgid "Delete account"
+msgstr "खाता हटा दो"
+
+msgid "Rival Images"
+msgstr "Rival छवियाँ"
+
+msgid "Rival Theme Settings"
+msgstr "Rival थीम सेटिंग्स"
+
+msgid "Rival Category"
+msgstr "Rival श्रेणी"

@@ -1,0 +1,1335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WizEstate Theme\n"
+"POT-Creation-Date: 2016-01-21 13:26+0545\n"
+"PO-Revision-Date: 2016-01-21 13:26+0545\n"
+"Last-Translator: \n"
+"Language-Team: OsclassWizards <hello@osclasswizards.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Sorry but I can't find the page you're looking for"
+msgstr ""
+
+#: 404.php:16
+msgid "Let us help you, we have got a few tips for you to find it. "
+msgstr ""
+
+#: 404.php:25 admin/templates.php:8 header.php:117
+msgid "Search"
+msgstr ""
+
+#: 404.php:32
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr ""
+
+#: admin/ads.php:7 admin/settings.php:50
+msgid "Ads Management"
+msgstr ""
+
+#: admin/ads.php:11
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+
+#: admin/ads.php:11
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+
+#: admin/ads.php:17
+msgid "Header Ad"
+msgstr ""
+
+#: admin/ads.php:21
+msgid "This ad will be shown at the top of your website."
+msgstr ""
+
+#: admin/ads.php:25
+msgid "Homepage Ad"
+msgstr ""
+
+#: admin/ads.php:29
+msgid "This ad will appear at the bottom of your site's home page."
+msgstr ""
+
+#: admin/ads.php:33
+msgid "Homepage Sidebar Ad"
+msgstr ""
+
+#: admin/ads.php:37
+msgid ""
+"This ad will appear at the sidebar of your site's home page (only for "
+"sidebar layout)."
+msgstr ""
+
+#: admin/ads.php:41
+msgid "Search results Ad (top of the page)"
+msgstr ""
+
+#: admin/ads.php:45
+msgid "This ad will be shown on top of the search results of your site."
+msgstr ""
+
+#: admin/ads.php:49
+msgid "Search results Ad (bottom of the page)"
+msgstr ""
+
+#: admin/ads.php:53
+msgid "This ad will be shown among the search results of your site."
+msgstr ""
+
+#: admin/ads.php:57
+msgid "Sidebar Ad"
+msgstr ""
+
+#: admin/ads.php:61
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page."
+msgstr ""
+
+#: admin/ads.php:65 admin/category-icons.php:50 admin/facebook.php:69
+#: admin/image-uploads-banner-settings.php:20 admin/settings.php:102
+#: admin/templates-home.php:58 admin/templates-item-post.php:46
+#: admin/templates-search.php:16 admin/theme-style.php:726
+msgid "Save changes"
+msgstr ""
+
+#: admin/category-icons.php:9
+msgid "Categories Icons"
+msgstr ""
+
+#: admin/category-icons.php:15
+msgid ""
+"Choose custom icons for categories. The items from the category will take "
+"the related icons in google map."
+msgstr ""
+
+#: admin/category-icons.php:17
+msgid ""
+"We use <a style=\"color: #018be3; text-decoration: none;\" title=\"Visit "
+"Font Awesome site for help\" target=\"_blank\" href=\"http://fortawesome."
+"github.io/Font-Awesome/3.2.1/icons/\">Font Awesome Icons.</a> Just type icon "
+"name omitting <strong>\"icon-\"</strong> eg. home or car."
+msgstr ""
+
+#: admin/documentation.php:5
+msgid "OsclassWizards Documentation"
+msgstr ""
+
+#: admin/facebook.php:6
+msgid "Facebook Page Like Box Settings"
+msgstr ""
+
+#: admin/facebook.php:11
+msgid "Facebook Page URL"
+msgstr ""
+
+#: admin/facebook.php:18
+msgid "Width"
+msgstr ""
+
+#: admin/facebook.php:22
+msgid "Height"
+msgstr ""
+
+#: admin/facebook.php:27
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: admin/facebook.php:36
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: admin/facebook.php:44
+msgid "Show Page Posts"
+msgstr ""
+
+#: admin/facebook.php:52
+msgid "Display On Item Sidebar"
+msgstr ""
+
+#: admin/facebook.php:60
+msgid "Display On Search Sidebar"
+msgstr ""
+
+#: admin/image-uploads-banner-settings.php:7
+msgid "Banner Settings"
+msgstr ""
+
+#: admin/image-uploads-banner-settings.php:13 item-post.php:61 item.php:198
+msgid "Title"
+msgstr ""
+
+#: admin/image-uploads-banner.php:5
+msgid "Banner Upload"
+msgstr ""
+
+#: admin/image-uploads-banner.php:12 admin/image-uploads-favicon.php:26
+#: admin/image-uploads-logo.php:23
+msgid "Preview"
+msgstr ""
+
+#: admin/image-uploads-banner.php:19 admin/image-uploads-favicon.php:34
+msgid "Remove image"
+msgstr ""
+
+#: admin/image-uploads-banner.php:26 admin/image-uploads-favicon.php:42
+msgid "No image has been uploaded yet"
+msgstr ""
+
+#: admin/image-uploads-banner.php:29 admin/image-uploads-favicon.php:47
+msgid "Upload image"
+msgstr ""
+
+#: admin/image-uploads-banner.php:31 admin/image-uploads-favicon.php:52
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+
+#: admin/image-uploads-banner.php:39 admin/image-uploads-favicon.php:64
+msgid "Accepted image (png,gif,jpg)"
+msgstr ""
+
+#: admin/image-uploads-banner.php:45 admin/image-uploads-favicon.php:75
+#: admin/image-uploads-logo.php:75
+msgid "Upload"
+msgstr ""
+
+#: admin/image-uploads-banner.php:54 admin/image-uploads-favicon.php:85
+#: admin/image-uploads-logo.php:86
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+
+#: admin/image-uploads-banner.php:55 admin/image-uploads-favicon.php:86
+msgid "Osclass can't upload the image from the administration panel."
+msgstr ""
+
+#: admin/image-uploads-banner.php:56 admin/image-uploads-favicon.php:87
+#: admin/image-uploads-logo.php:88
+msgid "Please make the aforementioned image folder writable."
+msgstr ""
+
+#: admin/image-uploads-banner.php:61 admin/image-uploads-favicon.php:92
+#: admin/image-uploads-logo.php:93
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: admin/image-uploads-favicon.php:15
+msgid "Favicon Image"
+msgstr ""
+
+#: admin/image-uploads-favicon.php:18
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr ""
+
+#: admin/image-uploads-favicon.php:69
+msgid "Add favicon"
+msgstr ""
+
+#: admin/image-uploads-logo.php:15
+msgid "Header Logo"
+msgstr ""
+
+#: admin/image-uploads-logo.php:31
+msgid "Remove logo"
+msgstr ""
+
+#: admin/image-uploads-logo.php:39
+msgid "No logo has been uploaded yet"
+msgstr ""
+
+#: admin/image-uploads-logo.php:44
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/image-uploads-logo.php:47
+msgid "The preferred size of the logo is 177x30 pixels."
+msgstr ""
+
+#: admin/image-uploads-logo.php:52
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+
+#: admin/image-uploads-logo.php:64
+msgid "Logo image (only jpg)"
+msgstr ""
+
+#: admin/image-uploads-logo.php:69
+msgid "Add logo"
+msgstr ""
+
+#: admin/image-uploads-logo.php:87
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr ""
+
+#: admin/image-uploads.php:5 admin/settings.php:44
+msgid "Image Uploads"
+msgstr ""
+
+#: admin/image-uploads.php:10
+msgid "Logo"
+msgstr ""
+
+#: admin/image-uploads.php:13
+msgid "Favicon"
+msgstr ""
+
+#: admin/image-uploads.php:16
+msgid "Banner"
+msgstr ""
+
+#: admin/settings.php:27
+msgid "Custom"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Donate"
+msgstr ""
+
+#: admin/settings.php:38
+msgid "General"
+msgstr ""
+
+#: admin/settings.php:41
+msgid "Templates"
+msgstr ""
+
+#: admin/settings.php:47
+msgid "Category Icons"
+msgstr ""
+
+#: admin/settings.php:53
+msgid "Facebook Page"
+msgstr ""
+
+#: admin/settings.php:56
+msgid "Documentation"
+msgstr ""
+
+#: admin/settings.php:61
+msgid "General Settings"
+msgstr ""
+
+#: admin/settings.php:66 admin/settings.php:77
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/settings.php:69 admin/theme-style.php:8
+msgid "Theme Style"
+msgstr ""
+
+#: admin/settings.php:85
+msgid "Welcome message"
+msgstr ""
+
+#: admin/settings.php:93
+msgid "Footer message"
+msgstr ""
+
+#: admin/templates-home.php:5
+msgid "Home page settings"
+msgstr ""
+
+#: admin/templates-home.php:13
+msgid "Search placeholder"
+msgstr ""
+
+#: admin/templates-home.php:21
+msgid "Slider listings (Premium)"
+msgstr ""
+
+#: admin/templates-home.php:31
+msgid "Slider listings shown total"
+msgstr ""
+
+#: admin/templates-home.php:39
+msgid "Show subcategories"
+msgstr ""
+
+#: admin/templates-home.php:49
+msgid "Subcategories limit "
+msgstr ""
+
+#: admin/templates-item-post.php:4
+msgid "Item post page settings"
+msgstr ""
+
+#: admin/templates-item-post.php:10
+msgid "Category multiple selects"
+msgstr ""
+
+#: admin/templates-item-post.php:18
+msgid "Title min. length"
+msgstr ""
+
+#: admin/templates-item-post.php:22
+msgid "Description min. length"
+msgstr ""
+
+#: admin/templates-item-post.php:26
+msgid "Locations input as"
+msgstr ""
+
+#: admin/templates-item-post.php:29
+msgid "Auto-complete text"
+msgstr ""
+
+#: admin/templates-item-post.php:30
+msgid "Drop-down select"
+msgstr ""
+
+#: admin/templates-item-post.php:35
+msgid "Locations required"
+msgstr ""
+
+#: admin/templates-search.php:3
+msgid "Search page settings"
+msgstr ""
+
+#: admin/templates-search.php:9
+msgid "Premium listings shown"
+msgstr ""
+
+#: admin/templates.php:4
+msgid "Templates Settings"
+msgstr ""
+
+#: admin/templates.php:7
+msgid "Home"
+msgstr ""
+
+#: admin/templates.php:9
+msgid "Item Post"
+msgstr ""
+
+#: admin/theme-style.php:16
+msgid "Theme color mode"
+msgstr ""
+
+#: admin/theme-style.php:21
+msgid "Green"
+msgstr ""
+
+#: admin/theme-style.php:24
+msgid "Red"
+msgstr ""
+
+#: admin/theme-style.php:27
+msgid "Blue"
+msgstr ""
+
+#: admin/theme-style.php:30
+msgid "Purple"
+msgstr ""
+
+#: admin/theme-style.php:33
+msgid "Yellow"
+msgstr ""
+
+#: admin/theme-style.php:40
+msgid "Body fonts"
+msgstr ""
+
+#: admin/theme-style.php:370
+msgid "Heading fonts"
+msgstr ""
+
+#: admin/theme-style.php:700
+msgid "RTL view"
+msgstr ""
+
+#: admin/theme-style.php:707
+msgid "Right to left view."
+msgstr ""
+
+#: admin/theme-style.php:714
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-style.php:721
+msgid "You can write your custom CSS and override the default CSS."
+msgstr ""
+
+#: alert-form.php:4 alert-form.php:17
+msgid "Enter your email address."
+msgstr ""
+
+#: alert-form.php:9
+msgid "You have sucessfully subscribed to the alert"
+msgstr ""
+
+#: alert-form.php:10 alert-form.php:11 functions.php:871
+#: user-change_email.php:73
+msgid "Invalid email address"
+msgstr ""
+
+#: alert-form.php:42 search-sidebar.php:125
+msgid "Subscribe to this search"
+msgstr ""
+
+#: alert-form.php:61
+msgid "Subscribe now"
+msgstr ""
+
+#: common/head.php:3 item.php:155 loop-grid.php:46 loop-search-grid.php:60
+#: loop-search-grid.php:126 loop-user-alerts-grid.php:49 loop-user-grid.php:52
+#: loop-user-public-grid.php:48 main.php:74
+msgid "Delete"
+msgstr ""
+
+#: common/head.php:4
+msgid "Cancel"
+msgstr ""
+
+#: common/head.php:50
+msgid "Previous image"
+msgstr ""
+
+#: common/head.php:51
+msgid "Next image"
+msgstr ""
+
+#: common/head.php:52
+msgid "Close"
+msgstr ""
+
+#: contact.php:17
+msgid "Contact us"
+msgstr ""
+
+#: contact.php:28 item-send-friend.php:31 item-sidebar.php:51 item.php:181
+#: user-public-sidebar.php:16
+msgid "Your name"
+msgstr ""
+
+#: contact.php:30 contact.php:48 item-sidebar.php:69 user-public-sidebar.php:34
+msgid "optional"
+msgstr ""
+
+#: contact.php:38 user-public-sidebar.php:24
+msgid "Your email address"
+msgstr ""
+
+#: contact.php:46
+msgid "Subject"
+msgstr ""
+
+#: contact.php:56 item-send-friend.php:73 item-sidebar.php:77
+#: user-public-sidebar.php:42
+msgid "Message"
+msgstr ""
+
+#: contact.php:72 item-send-friend.php:89 item-sidebar.php:119 item.php:214
+#: user-public-sidebar.php:74
+msgid "Send"
+msgstr ""
+
+#: footer.php:13 header.php:40
+#, php-format
+msgid "Hi %s"
+msgstr ""
+
+#: footer.php:14 header.php:41
+msgid "My account"
+msgstr ""
+
+#: footer.php:16 header.php:43
+msgid "Logout"
+msgstr ""
+
+#: footer.php:20 functions.php:381 header.php:47 item-sidebar.php:22
+msgid "Login"
+msgstr ""
+
+#: footer.php:24 header.php:51 item-sidebar.php:24 user-login.php:53
+msgid "Register for a free account"
+msgstr ""
+
+#: footer.php:37 functions.php:385 user-public-sidebar.php:6
+msgid "Contact"
+msgstr ""
+
+#: footer.php:41 header.php:65
+msgid "Publish your ad for free"
+msgstr ""
+
+#: footer.php:48
+#, php-format
+msgid ""
+"Free Real Estate Osclass theme by <a target=\"_blank\" title=\"osclasswizards"
+"\" href=\"%s\">OsclassWizards</a>"
+msgstr ""
+
+#: functions.php:5
+msgid "ie. PHP Programmer"
+msgstr ""
+
+#: functions.php:223
+msgid "Categories"
+msgstr ""
+
+#: functions.php:262
+msgid "See All listings..."
+msgstr ""
+
+#: functions.php:366 item-post.php:29
+msgid "Publish a listing"
+msgstr ""
+
+#: functions.php:367
+msgid "Edit your listing"
+msgstr ""
+
+#: functions.php:368 item-send-friend.php:15
+msgid "Send to a friend"
+msgstr ""
+
+#: functions.php:369 item-sidebar.php:6
+msgid "Contact publisher"
+msgstr ""
+
+#: functions.php:370
+msgid "Search results"
+msgstr ""
+
+#: functions.php:371
+#, php-format
+msgid "Search results: %s"
+msgstr ""
+
+#: functions.php:372
+msgid "Dashboard"
+msgstr ""
+
+#: functions.php:373
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: functions.php:374 functions.php:421
+msgid "Account"
+msgstr ""
+
+#: functions.php:375 functions.php:411 search.php:104 user-alerts.php:47
+msgid "Listings"
+msgstr ""
+
+#: functions.php:376 functions.php:416 user-alerts.php:12 user-alerts.php:26
+msgid "Alerts"
+msgstr ""
+
+#: functions.php:377 user-profile.php:12 user-profile.php:25
+msgid "Update account"
+msgstr ""
+
+#: functions.php:378 functions.php:426
+msgid "Change email"
+msgstr ""
+
+#: functions.php:379 functions.php:431 user-change_username.php:14
+msgid "Change username"
+msgstr ""
+
+#: functions.php:380 functions.php:383 functions.php:436
+#: user-change_password.php:12 user-change_password.php:26
+#: user-forgot_password.php:32
+msgid "Change password"
+msgstr ""
+
+#: functions.php:382
+msgid "Recover password"
+msgstr ""
+
+#: functions.php:384
+msgid "Create a new account"
+msgstr ""
+
+#: functions.php:406
+msgid "Public Profile"
+msgstr ""
+
+#: functions.php:441 user-sidebar.php:4
+msgid "Delete account"
+msgstr ""
+
+#: functions.php:503
+msgid "Theme settings updated correctly"
+msgstr ""
+
+#: functions.php:513 functions.php:518 functions.php:530
+msgid "Templates settings updated correctly"
+msgstr ""
+
+#: functions.php:541
+msgid "Ads management updated correctly"
+msgstr ""
+
+#: functions.php:550
+msgid "Category icons settings updated correctly"
+msgstr ""
+
+#: functions.php:563
+msgid "Theme style settings updated correctly"
+msgstr ""
+
+#: functions.php:569
+msgid "Banner settings updated correctly"
+msgstr ""
+
+#: functions.php:582
+msgid "Facebook Page settings updated correctly"
+msgstr ""
+
+#: functions.php:597
+msgid "The favicon image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:599 functions.php:632 functions.php:665
+msgid "An error has occurred, please try again"
+msgstr ""
+
+#: functions.php:611
+msgid "The favicon image has been removed"
+msgstr ""
+
+#: functions.php:613 functions.php:646 functions.php:679
+msgid "Image not found"
+msgstr ""
+
+#: functions.php:630
+msgid "The logo image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:644
+msgid "The logo image has been removed"
+msgstr ""
+
+#: functions.php:663
+msgid "The banner image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:677
+msgid "The banner image has been removed"
+msgstr ""
+
+#: functions.php:699
+msgid "OsclassWizards"
+msgstr ""
+
+#: functions.php:749 functions.php:769
+msgid "All categories"
+msgstr ""
+
+#: functions.php:848
+msgid "Choose one category"
+msgstr ""
+
+#: functions.php:851
+msgid "Title: this field is required"
+msgstr ""
+
+#: functions.php:852
+msgid "Title too short"
+msgstr ""
+
+#: functions.php:855
+msgid "Description too short"
+msgstr ""
+
+#: functions.php:858
+msgid "Price: no more than 50 characters"
+msgstr ""
+
+#: functions.php:860
+msgid "Currency: make your selection"
+msgstr ""
+
+#: functions.php:862
+msgid "Photo: must be png,gif,jpg,jpeg"
+msgstr ""
+
+#: functions.php:865
+msgid "Name: this field is required"
+msgstr ""
+
+#: functions.php:866
+msgid "Name: enter at least 3 characters"
+msgstr ""
+
+#: functions.php:867
+msgid "Name: no more than 35 characters"
+msgstr ""
+
+#: functions.php:870 user-change_email.php:72
+msgid "Email: this field is required"
+msgstr ""
+
+#: functions.php:874
+msgid "Please select a country"
+msgstr ""
+
+#: functions.php:877 functions.php:889
+msgid "Region: this field is required"
+msgstr ""
+
+#: functions.php:878
+msgid "Region: enter at least 3 characters"
+msgstr ""
+
+#: functions.php:879
+msgid "Region: no more than 100 characters"
+msgstr ""
+
+#: functions.php:882 functions.php:892
+msgid "City: this field is required"
+msgstr ""
+
+#: functions.php:883
+msgid "City: enter at least 3 characters"
+msgstr ""
+
+#: functions.php:884
+msgid "City: no more than 100 characters"
+msgstr ""
+
+#: functions.php:1146
+msgid "SALE"
+msgstr ""
+
+#: functions.php:1146
+msgid "RENT"
+msgstr ""
+
+#: header.php:18
+msgid "Language: "
+msgstr ""
+
+#: header.php:99 item-post.php:52 item-post.php:54
+msgid "Select a category"
+msgstr ""
+
+#: header.php:105 search-sidebar.php:42
+msgid "Select a region"
+msgstr ""
+
+#: header.php:110 search-sidebar.php:50
+msgid "Select a city"
+msgstr ""
+
+#: item-post.php:43
+msgid "General Information"
+msgstr ""
+
+#: item-post.php:47
+msgid "Category"
+msgstr ""
+
+#: item-post.php:69 user-profile.php:116
+msgid "Description"
+msgstr ""
+
+#: item-post.php:78 search-sidebar.php:72
+msgid "Price"
+msgstr ""
+
+#: item-post.php:98
+msgid "Listing Location"
+msgstr ""
+
+#: item-post.php:102 user-profile.php:68
+msgid "Country"
+msgstr ""
+
+#: item-post.php:110 search-sidebar.php:39 user-profile.php:76
+msgid "Region"
+msgstr ""
+
+#: item-post.php:124 search-sidebar.php:47 user-profile.php:84
+msgid "City"
+msgstr ""
+
+#: item-post.php:138
+msgid "City Area"
+msgstr ""
+
+#: item-post.php:146 user-profile.php:100
+msgid "Address"
+msgstr ""
+
+#: item-post.php:157
+msgid "Seller's information"
+msgstr ""
+
+#: item-post.php:161 user-profile.php:36 user-register.php:25
+msgid "Name"
+msgstr ""
+
+#: item-post.php:169 user-login.php:23 user-recover.php:23 user-register.php:33
+msgid "E-mail"
+msgstr ""
+
+#: item-post.php:179
+msgid "Show e-mail on the listing page"
+msgstr ""
+
+#: item-post.php:201 user-change_email.php:53 user-change_password.php:63
+#: user-change_username.php:99 user-profile.php:126
+msgid "Update"
+msgstr ""
+
+#: item-post.php:201
+msgid "Publish"
+msgstr ""
+
+#: item-send-friend.php:39 item.php:189
+msgid "Your e-mail"
+msgstr ""
+
+#: item-send-friend.php:48
+msgid "Your friend's name"
+msgstr ""
+
+#: item-send-friend.php:56
+msgid "Your friend's e-mail address"
+msgstr ""
+
+#: item-send-friend.php:65
+msgid "Subject (optional)"
+msgstr ""
+
+#: item-sidebar.php:11
+msgid "The listing is expired. You can't contact the publisher."
+msgstr ""
+
+#: item-sidebar.php:15
+msgid "It's your own listing, you can't contact the publisher."
+msgstr ""
+
+#: item-sidebar.php:19
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+
+#: item-sidebar.php:34 item-sidebar.php:40
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: item-sidebar.php:37
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: item-sidebar.php:59
+msgid "Your e-mail address"
+msgstr ""
+
+#: item-sidebar.php:67 user-public-sidebar.php:32
+msgid "Phone number"
+msgstr ""
+
+#: item-sidebar.php:86
+msgid "Attachment"
+msgstr ""
+
+#: item-sidebar.php:109 user-public-sidebar.php:64
+msgid "Enter the words above"
+msgstr ""
+
+#: item-sidebar.php:113 user-public-sidebar.php:68
+msgid "Help"
+msgstr ""
+
+#: item.php:41
+#, php-format
+msgid "<i class=\"fa fa-calendar-o\"></i> Published date: %1$s"
+msgstr ""
+
+#: item.php:44
+#, php-format
+msgid ""
+"<span class=\"update\"><i class=\"fa fa-calendar\"></i> Modified date:</"
+"span> %1$s"
+msgstr ""
+
+#: item.php:67 loop-grid.php:44 loop-search-grid.php:58
+#: loop-search-grid.php:124 loop-user-alerts-grid.php:47 loop-user-grid.php:50
+#: loop-user-public-grid.php:46 main.php:72
+msgid "Edit item"
+msgstr ""
+
+#: item.php:76 item.php:79 item.php:83 item.php:85
+msgid "Image"
+msgstr ""
+
+#: item.php:111
+msgid "Contact seller"
+msgstr ""
+
+#: item.php:118
+msgid "Share"
+msgstr ""
+
+#: item.php:126
+msgid "See all ads from this advertiser"
+msgstr ""
+
+#: item.php:137
+msgid "Comments"
+msgstr ""
+
+#: item.php:150
+msgid "by"
+msgstr ""
+
+#: item.php:154
+msgid "Delete your comment"
+msgstr ""
+
+#: item.php:166
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr ""
+
+#: item.php:206
+msgid "Comment"
+msgstr ""
+
+#: item.php:246
+msgid "Mark as..."
+msgstr ""
+
+#: item.php:249
+msgid "Mark as spam"
+msgstr ""
+
+#: item.php:252
+msgid "Mark as misclassified"
+msgstr ""
+
+#: item.php:255
+msgid "Mark as duplicated"
+msgstr ""
+
+#: item.php:258
+msgid "Mark as expired"
+msgstr ""
+
+#: item.php:261
+msgid "Mark as offensive"
+msgstr ""
+
+#: item.php:271
+msgid "Useful information"
+msgstr ""
+
+#: item.php:275
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr ""
+
+#: item.php:278
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+
+#: item.php:281
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+
+#: item.php:284
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+
+#: item.php:295
+msgid "Related listings"
+msgstr ""
+
+#: loop-grid.php:31 loop-search-grid.php:45 loop-search-grid.php:112
+#: loop-user-alerts-grid.php:35 loop-user-grid.php:36
+#: loop-user-public-grid.php:34 main.php:53
+msgid "Area:"
+msgstr ""
+
+#: loop-grid.php:34 loop-search-grid.php:48 loop-search-grid.php:115
+#: loop-user-alerts-grid.php:38 loop-user-grid.php:40
+#: loop-user-public-grid.php:37 main.php:58
+msgid "Floors:"
+msgstr ""
+
+#: loop-grid.php:36 loop-search-grid.php:50 loop-search-grid.php:117
+#: loop-user-alerts-grid.php:40 loop-user-grid.php:42
+#: loop-user-public-grid.php:39 main.php:60
+msgid "Rooms:"
+msgstr ""
+
+#: loop-grid.php:38 loop-search-grid.php:52 loop-search-grid.php:119
+#: loop-user-alerts-grid.php:42 loop-user-grid.php:44
+#: loop-user-public-grid.php:41 main.php:62
+msgid "Shower:"
+msgstr ""
+
+#: loop-grid.php:45 loop-search-grid.php:59 loop-search-grid.php:125
+#: loop-user-alerts-grid.php:48 loop-user-grid.php:51
+#: loop-user-public-grid.php:47 main.php:73
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: loop-grid.php:50 loop-search-grid.php:64 loop-search-grid.php:130
+#: loop-user-alerts-grid.php:53 loop-user-grid.php:56
+#: loop-user-public-grid.php:52 main.php:78
+msgid "Activate"
+msgstr ""
+
+#: main.php:18
+msgid "Premium Listings"
+msgstr ""
+
+#: main.php:98
+msgid "Latest Listings"
+msgstr ""
+
+#: main.php:104
+msgid "There aren't listings available at this moment"
+msgstr ""
+
+#: main.php:113
+msgid "See all listings"
+msgstr ""
+
+#: search-sidebar.php:13
+msgid "Show Filters"
+msgstr ""
+
+#: search-sidebar.php:18
+msgid "Advanced Search"
+msgstr ""
+
+#: search-sidebar.php:31
+msgid "Your search"
+msgstr ""
+
+#: search-sidebar.php:58
+msgid "Show only"
+msgstr ""
+
+#: search-sidebar.php:63
+msgid "listings with pictures"
+msgstr ""
+
+#: search-sidebar.php:76
+msgid "Min"
+msgstr ""
+
+#: search-sidebar.php:81
+msgid "Max"
+msgstr ""
+
+#: search-sidebar.php:105
+msgid "Apply"
+msgstr ""
+
+#: search-sidebar.php:114
+msgid "Refine category"
+msgstr ""
+
+#: search.php:30
+msgid "Selected"
+msgstr ""
+
+#: search.php:31
+msgid "Nothing selected, input was"
+msgstr ""
+
+#: search.php:50
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr ""
+
+#: search.php:55
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr ""
+
+#: search.php:92
+msgid "Premium listings"
+msgstr ""
+
+#: search.php:118
+msgid "Other searches that may interest you"
+msgstr ""
+
+#: user-alerts.php:30
+msgid "You do not have any alerts yet"
+msgstr ""
+
+#: user-alerts.php:39
+msgid "Alert"
+msgstr ""
+
+#: user-alerts.php:40
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: user-alerts.php:41
+msgid "Delete this alert"
+msgstr ""
+
+#: user-change_email.php:13 user-change_email.php:27
+msgid "Change e-mail"
+msgstr ""
+
+#: user-change_email.php:38
+msgid "Current e-mail"
+msgstr ""
+
+#: user-change_email.php:44
+msgid "New e-mail"
+msgstr ""
+
+#: user-change_password.php:38
+msgid "Current password"
+msgstr ""
+
+#: user-change_password.php:46 user-forgot_password.php:19
+msgid "New password"
+msgstr ""
+
+#: user-change_password.php:54 user-forgot_password.php:25
+msgid "Repeat new password"
+msgstr ""
+
+#: user-change_username.php:29
+msgid "Username: this field is required"
+msgstr ""
+
+#: user-change_username.php:54
+msgid "The username is available"
+msgstr ""
+
+#: user-change_username.php:56
+msgid "The username is NOT available"
+msgstr ""
+
+#: user-change_username.php:76
+msgid "Change Username"
+msgstr ""
+
+#: user-change_username.php:89
+msgid "Username"
+msgstr ""
+
+#: user-forgot_password.php:10 user-recover.php:14
+msgid "Recover your password"
+msgstr ""
+
+#: user-items.php:13
+msgid "My listings"
+msgstr ""
+
+#: user-items.php:17
+msgid "No listings have been added yet"
+msgstr ""
+
+#: user-login.php:15
+msgid "Please Login"
+msgstr ""
+
+#: user-login.php:31 user-register.php:41
+msgid "Password"
+msgstr ""
+
+#: user-login.php:41
+msgid "Remember me"
+msgstr ""
+
+#: user-login.php:48
+msgid "Log in"
+msgstr ""
+
+#: user-login.php:56
+msgid "Forgot password?"
+msgstr ""
+
+#: user-profile.php:44
+msgid "User type"
+msgstr ""
+
+#: user-profile.php:52
+msgid "Cell phone"
+msgstr ""
+
+#: user-profile.php:60
+msgid "Phone"
+msgstr ""
+
+#: user-profile.php:92
+msgid "City area"
+msgstr ""
+
+#: user-profile.php:108
+msgid "Website"
+msgstr ""
+
+#: user-public-profile.php:53
+#, php-format
+msgid "<strong>Address:</strong> %1$s"
+msgstr ""
+
+#: user-public-profile.php:56
+#, php-format
+msgid "<strong>Location:</strong> %1$s"
+msgstr ""
+
+#: user-public-profile.php:64
+msgid "User description"
+msgstr ""
+
+#: user-public-profile.php:75
+msgid "Latest listings"
+msgstr ""
+
+#: user-recover.php:36
+msgid "Send me a new password"
+msgstr ""
+
+#: user-register.php:15
+msgid "Register an account for free"
+msgstr ""
+
+#: user-register.php:49
+msgid "Repeat password"
+msgstr ""
+
+#: user-register.php:54
+msgid "Passwords don't match"
+msgstr ""
+
+#: user-register.php:67
+msgid "Create An Account"
+msgstr ""
+
+#: user-sidebar.php:5
+msgid "Are you sure you want to delete your account?"
+msgstr ""

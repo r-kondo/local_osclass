@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"Language: ja\n"
+
+msgid "Your name"
+msgstr "名前"
+
+msgid "Your email"
+msgstr "メールアドレス"
+
+msgid "Conversation title"
+msgstr "件名"
+
+msgid "Send message"
+msgstr "送信"
+
+msgid "Upload file"
+msgstr "添付ファイル"
+
+msgid "You have already contacted seller on this listing, you may want to continue in existing conversation"
+msgstr "この広告へあなたが問い合わせした過去のメッセージを確認しますか？"
+
+msgid "Open conversation"
+msgstr "このメッセージを開く"
+
+msgid "Message center"
+msgstr "メッセージリスト"
+
+msgid "Start conversation"
+msgstr "ダイレクトメッセージ"
