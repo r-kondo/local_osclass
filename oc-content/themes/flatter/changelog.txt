@@ -1,0 +1,29 @@
+10 September 2015 - Version 2.1.0
+---------------------------------------
+- New Orange/black color added
+- Custom fields css fixes
+- Slider and main search fixes
+- Footer widgets adjustment
+- Minor function changes
+- Minor css fixes
+
+23 Aug 2015 - Version 2.0.2
+---------------------------------------
+- Releated listing fix
+- Homepage search improment
+
+15 Aug 2015 - Version 2.0.1
+---------------------------------------
+- Design improved
+- Functions improved
+- Multi colors improved
+- Mobile categories
+- Mobile menus
+- Facebook page plugin added
+- Premium slider design improved
+- Adsense section improved
+- Widgets section improved
+- Admin settings improved
+- Profile section improved
+- Bootstrap framework updated
+- Major/Minor bugs fixes

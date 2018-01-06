@@ -1,0 +1,891 @@
+# Copyright (C) 2015 Osclass
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Osclass\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-06-24 09:48+0100\n"
+"Last-Translator: DrizzleDesigns <support@drizzledesigns.in>\n"
+"Language-Team: DrizzleDesigns <support@drizzledesigns.in>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.3\n"
+
+msgid "Publish your ad for free"
+msgstr "Publier une annonce gratuite"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Register"
+msgstr "Enregistrer"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Readmore"
+msgstr "En savoir plus"
+
+msgid "browse by location"
+msgstr "Recherche par lieu"
+
+msgid "by"
+msgstr "par"
+
+msgid "Latest listings"
+msgstr "Dernières annonces"
+
+msgid "Premium listings"
+msgstr "Annonces Premium"
+
+msgid "More information"
+msgstr "Plus d'information"
+
+msgid "Follow us"
+msgstr "Suivez-nous"
+
+msgid "Popular listings"
+msgstr "Annonces populaires"
+
+msgid "Over"
+msgstr "Plus que"
+
+msgid "Ads"
+msgstr "Annonces"
+
+msgid "listed in"
+msgstr "énumérés dans"
+
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+msgid "Advanced search"
+msgstr "Recherche avancée"
+
+msgid "Select a region"
+msgstr "Choisissez une région"
+
+msgid "Follow on Facebook"
+msgstr "Suivez sur Facebook"
+
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+msgid "Follow on Twitter"
+msgstr "Suivez sur Twitter"
+
+msgid "Share on Twitter"
+msgstr "Partager sur Twitter"
+
+msgid "Follow on Google+"
+msgstr "Suivez sur Google+"
+
+msgid "Share on Google+"
+msgstr "Partager sur Google+"
+
+msgid "Follow on Pinterest"
+msgstr "Suivez sur Pinterest"
+
+msgid "Share on Pinterest"
+msgstr "Partager sur Pinterest"
+
+msgid "Send to a Friend"
+msgstr "Envoyer à un ami"
+
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+msgid "Show phone number"
+msgstr "Afficher numéro de téléphone"
+
+msgid "No comments"
+msgstr "Pas de commentaires"
+
+msgid "You must be logged in to comment"
+msgstr "Vous devez être connecté pour commenter"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Enter the words above"
+msgstr "Recopiez les mots ci-dessus"
+
+msgid "Incorrect, please try again"
+msgstr "Incorrecte, s'il vous plaît réessayez"
+
+msgid "Reload"
+msgstr "Recharger"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Registered on"
+msgstr "Enregistré le"
+
+msgid "By register, you agree to our"
+msgstr "Par le registre, vous acceptez nos"
+
+msgid "and"
+msgstr "et"
+
+msgid "term of use"
+msgstr "terme d'utilisation"
+
+msgid "privacy policy"
+msgstr "politique de confidentialité"
+
+msgid "Already have an account?"
+msgstr "Vous avez déjà un compte?"
+
+msgid "Register with Facebook"
+msgstr "Enregistrez vous avec Facebook"
+
+msgid "Login with Facebook"
+msgstr "Se connecter avec Facebook"
+
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+msgid "Change picture"
+msgstr "Changer d'image"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "Look for it in the most popular categories."
+msgstr "Chercher ceci dans les catégories les plus populaires."
+
+msgid "Sorry but we can't find the page you're looking for"
+msgstr "Désolé, mais nous ne pouvons pas trouver la page que vous cherchez"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+"Laissez-nous vous aider, voici quelques liens pour trouver ce que vous "
+"cherchez."
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Header logo"
+msgstr "Logo de l'en-tête"
+
+msgid "Preview"
+msgstr "Prévisualisation"
+
+msgid "Remove logo"
+msgstr "Supprimer le logo"
+
+msgid "No logo has been uploaded yet"
+msgstr "Aucun logo n'a été téléchargé pour l'instant"
+
+msgid "Upload logo"
+msgstr "Télécharger un logo"
+
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Attention:</strong> Télécharger un nouveau logo écrase le logo "
+"actuel."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Image (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Télécharger"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Le répertoire des images <strong>%s</strong> n'est pas inscriptible."
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr ""
+"Osclass ne peut pas télécharger l'image du logo depuis le panneau "
+"d'administration."
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Merci de rendre le dossier image mentionné accessible en écriture"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Pour rendre un répertoire accessible en écriture sous Unix, exécutez cette "
+"commande:"
+
+msgid ""
+"I would like to contribute to the development of Osclass with a donation of"
+msgstr "Je souhaite contribuer au développement d'OSClass avec un don de"
+
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgid "Donate"
+msgstr "Faire un don"
+
+msgid "Theme settings"
+msgstr "Paramètres du thème"
+
+msgid "Search placeholder"
+msgstr "Espace réservé à la recherche"
+
+msgid "Show lists as:"
+msgstr "Afficher les dernières annonces sous forme de:"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Facebook Like Box"
+msgstr "Facebook Like Box"
+
+msgid "Footer credit to Osclass"
+msgstr "Crédit de pied de page pour Osclass"
+
+msgid ""
+"I want to help Osclass by linking to <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">osclass.org</a>"
+msgstr ""
+"Je veux aider Osclass par un lien vers <a title=\"Osclass\" href=\"http://"
+"osclass.org/\">osclass.org</a>"
+
+msgid "Save changes"
+msgstr "Enregistrez les modifications"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Vous êtes maintenant abonné à cette alerte de recherche"
+
+msgid "Invalid email address"
+msgstr "Adresse email invalide"
+
+msgid "There was a problem with the alert"
+msgstr "Il y a eu un problème lors de l'abonnement à cette alerte"
+
+msgid "Subscribe to this search"
+msgstr "S'abonner à cette recherche"
+
+msgid "Subscribe now"
+msgstr "Abonnez-vous maintenant"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Previous image"
+msgstr "Image précédente"
+
+msgid "Next image"
+msgstr "Image suivante"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Your name"
+msgstr "Votre nom"
+
+msgid "optional"
+msgstr "En option"
+
+msgid "Your email address"
+msgstr "Votre adresse email"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Hi %s"
+msgstr "Bonjour %s"
+
+msgid "My account"
+msgstr "Mon compte"
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+msgid "Register for a free account"
+msgstr "Créez votre compte gratuit"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Language:"
+msgstr "Langue:"
+
+msgid "What are you looking for?"
+msgstr "Que cherchez-vous?"
+
+msgid "Publish a listing"
+msgstr "Publier une annonce"
+
+msgid "Edit your listing"
+msgstr "Modifier votre annonce"
+
+msgid "Contact publisher"
+msgstr "Contacter l'annonceur"
+
+msgid "Search results"
+msgstr "Résultats de la recherche"
+
+msgid "Search results: %s"
+msgstr "Résultats de la recherche : %s"
+
+msgid "Dashboard"
+msgstr "Panneau de contrôle"
+
+msgid "%s's profile"
+msgstr "Profil de %s"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Listings"
+msgstr "Annonces"
+
+msgid "Alerts"
+msgstr "Alertes"
+
+msgid "Update account"
+msgstr "Mettre à jour le compte"
+
+msgid "Change email"
+msgstr "Changer d'adresse email"
+
+msgid "Change username"
+msgstr "Chager de pseudo"
+
+msgid "Change password"
+msgstr "Changer de mot de passe"
+
+msgid "Recover password"
+msgstr "Retrouver son mot de passe"
+
+msgid "Create a new account"
+msgstr "Créer un nouveau compte"
+
+msgid "Public Profile"
+msgstr "Profil public"
+
+msgid "Delete account"
+msgstr "Supprimer le compte"
+
+msgid "Theme settings updated correctly"
+msgstr "Paramètres du thème mis à jour avec succès"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "L'image du logo a bien été téléchargée"
+
+msgid "An error has occurred, please try again"
+msgstr "Une erreur s'est produite, merci de réessayer"
+
+msgid "The logo image has been removed"
+msgstr "L'image du logo a été supprimée"
+
+msgid "Image not found"
+msgstr "Image non trouvée"
+
+msgid "All categories"
+msgstr "Toutes les catégories"
+
+msgid "Select a category"
+msgstr "Choisir une catégorie"
+
+msgid "General information"
+msgstr "Informations générales"
+
+msgid "Category"
+msgstr "Catégories"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Listing location"
+msgstr "Adresse de l'annonce"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Select a country"
+msgstr "Sélectionnez un pays"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Select a city"
+msgstr "Choisissez une ville"
+
+msgid "City Area"
+msgstr "Quartier"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Seller's information"
+msgstr "Informations sur l'annonceur"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Show e-mail on the listing page"
+msgstr "Afficher l'adresse email dans l'annonce"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Your e-mail"
+msgstr "Votre email"
+
+msgid "Your friend's name"
+msgstr "Nom de votre ami"
+
+msgid "Your friend's e-mail address"
+msgstr "Email de votre ami"
+
+msgid "Subject (optional)"
+msgstr "Sujet (optionnel)"
+
+msgid "Mark as..."
+msgstr "Marquer comme..."
+
+msgid "Mark as spam"
+msgstr "Marquer comme spam"
+
+msgid "Mark as misclassified"
+msgstr "Annonce mal classée"
+
+msgid "Mark as duplicated"
+msgstr "Annonce à double"
+
+msgid "Mark as expired"
+msgstr "Annonce expirée"
+
+msgid "Mark as offensive"
+msgstr "Annonce offensante"
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Cette annonce a expiré. Vous ne pouvez plus contacter l'annonceur."
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Ceci est votre propre annonce, vous ne pouvez contacter l'annonceur."
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Vous devez vous connecter ou vous inscrire pour pouvoir contacter "
+"l'annonceur."
+
+msgid "Name: %s"
+msgstr "Nom : %s"
+
+msgid "E-mail: %s"
+msgstr "Email: %s"
+
+msgid "Phone: %s"
+msgstr "Téléphone: %s"
+
+msgid "Your e-mail address"
+msgstr "Votre adresse email"
+
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+msgid "Published date: %1$s"
+msgstr "Date de publication: %1$s"
+
+msgid "Modified date: %1$s"
+msgstr "Date de modification: %1$s"
+
+msgid "Location"
+msgstr "Lieu"
+
+msgid "Edit item"
+msgstr "Modifier annonce"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Contact seller"
+msgstr "Contacter l'annonceur"
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "Useful information"
+msgstr "Informations importantes"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Evitez les arnaques en fonctionnant localement ou en payant via Paypal"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Ne payez jamais par Western Union, Moneygram et autres services de paiement "
+"anonymes"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"N'achetez ou ne vendez pas en dehors de votre pays. N'acceptez pas les "
+"chèques de banques provenant d'un autre pays que le votre."
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Ce site n'est jamais impliqué dans aucune transaction, et ne contribue en "
+"aucun paiement, livraison, garantie, transaction, fraude, ou n'offre aucune "
+"\"protection à l'acheteur\" ou \"certification de vendeur\"."
+
+msgid "Related listings"
+msgstr "Annonces similaires"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Delete your comment"
+msgstr "Supprimer votre commentaire"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr ""
+"Laissez un commentaire (le spam et les messages offensants seront supprimés)"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+"Cette action ne peut pas être annulée. Etes-vous sûr de vouloir continuer ?"
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "There aren't listings available at this moment"
+msgstr "Il n'y a pas d'annonce disponible en ce moment"
+
+msgid "Grid"
+msgstr "Grille"
+
+msgid "See all listings"
+msgstr "Voir toutes les annonces"
+
+msgid "Your search"
+msgstr "Votre recherche"
+
+msgid "Show only"
+msgstr "Montrer uniquement"
+
+msgid "listings with pictures"
+msgstr "les annonces avec photos"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Chercher"
+
+msgid "Refine category"
+msgstr "Chercher par catégorie"
+
+msgid "Selected"
+msgstr "Sélectionné"
+
+msgid "Nothing selected, input was"
+msgstr "Rien n'a été sélectionné, l'entrée était"
+
+msgid "There are no results matching \"%s\""
+msgstr "Il n'y a aucun résultat correspondant à \"%s\""
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d sur %3$d annonces"
+
+msgid "Show filters"
+msgstr "Afficher les filtres"
+
+msgid "Sort by"
+msgstr "Classer par"
+
+msgid "Other searches that may interest you"
+msgstr "Publier une annonce gratuite"
+
+msgid "You do not have any alerts yet"
+msgstr "Vous n'avez pas encore créé d'alerte de recherche pour l'instant"
+
+msgid "Alert"
+msgstr "Alerte"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+"Cette action ne peut pas être annulée. Etes-vous sûr de vouloir continuer?"
+
+msgid "Delete this alert"
+msgstr "Supprimer cette alerte de recherche"
+
+msgid "Change e-mail"
+msgstr "Changer d'email"
+
+msgid "Current e-mail"
+msgstr "Email actuel"
+
+msgid "New e-mail"
+msgstr "Nouveau email"
+
+msgid "Current password"
+msgstr "Mot de passe actuel"
+
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgid "Repeat new password"
+msgstr "Répéter le nouveau mot de passe"
+
+msgid "Username: this field is required"
+msgstr "Pseudo: ce champ est requis"
+
+msgid "The username is available"
+msgstr "Ce pseudo est disponible"
+
+msgid "The username is NOT available"
+msgstr "Ce pseudo n'est PAS disponible"
+
+msgid "Username"
+msgstr "Pseudo"
+
+msgid "Recover your password"
+msgstr "Récupérer votre mot de passe"
+
+msgid "My listings"
+msgstr "Mes annonces"
+
+msgid "No listings have been added yet"
+msgstr "Aucune annonce n'a été ajoutée pour l'instant"
+
+msgid "No listings"
+msgstr "Pas d'annonces"
+
+msgid "Access to your account"
+msgstr "Accédez à votre compte"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+msgid "Log in"
+msgstr "Connexion"
+
+msgid "Log out"
+msgstr "Déconnexion"
+
+msgid "Forgot password?"
+msgstr "Mot de passe oublié?"
+
+msgid "User type"
+msgstr "Type d'utilisateur"
+
+msgid "Cell phone"
+msgstr "Numéro de portable"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "City area"
+msgstr "Quartier"
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Address: %1$s"
+msgstr "Adresse: %1$s"
+
+msgid "Location: %1$s"
+msgstr "Lieu : %1$s"
+
+msgid "User description"
+msgstr "Description de l'utilisateur"
+
+msgid "Send me a new password"
+msgstr "Envoyez-moi un nouveau mot de passe"
+
+msgid "Register an account for free"
+msgstr "Créer un compte gratuitement"
+
+msgid "Repeat password"
+msgstr "Répéter le mot de passe"
+
+msgid "Passwords don't match"
+msgstr "Les mots de passe ne correspondent pas"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Display menu"
+msgstr "Menu"
+
+msgid "Are you sure you want to delete your account?"
+msgstr "Etes-vous certain de vouloir supprimer votre compte?"
+
+msgid "Cities"
+msgstr "Villes"
+
+msgid "Type a city"
+msgstr "Entrer une ville"
+
+msgid "Find by location"
+msgstr "Trouver par lieu"
+
+msgid "Designed and Developed by"
+msgstr "Conçu et développé par"
+
+msgid "All Rights Reserved"
+msgstr "Tous les droits réservés"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Upload Profile Picture"
+msgstr "Télécharge profil Picture"
+
+msgid "flatter"
+msgstr "flatter"
+
+msgid "http://osclass.org/"
+msgstr "http://osclass.org/"
+
+msgid "http://www.drizzledesigns.in/"
+msgstr "http://www.drizzledesigns.in/"
+
+msgid "flatter theme"
+msgstr "thème flatter"
+
+msgid "Osclass"
+msgstr "Osclass"
+
+msgid "DrizzleDesigns"
+msgstr "DrizzleDesigns"
+
+msgid "Flatter Settings"
+msgstr "Paramètres de flatter"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Page and Social links"
+msgstr "Page et des liens sociaux"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Category icons"
+msgstr "Catégorie icônes"
+
+msgid "Check to enable"
+msgstr "Cocher pour activer"
+
+msgid "Hide on Mobile view"
+msgstr "Hide sur la vue mobile"
+
+msgid "HTML Supported"
+msgstr "HTML pris en charge"
+
+msgid "Download supported plugins"
+msgstr "Télécharger soutenu plugins"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Footer"
+msgstr "Pied de page"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Theme color"
+msgstr "Couleur de thème"
+
+msgid "Show lists as"
+msgstr "Montrer listes"
+
+msgid "Premium listings limit"
+msgstr "Annonces premium limite"
+
+msgid "Promotional text"
+msgstr "Texte promotionnel"
+
+msgid "Location list as"
+msgstr "Liste lieu que"
+
+msgid "Animation on scroll"
+msgstr "Animation sur le défilement"
+
+msgid "Subscription on search"
+msgstr "Abonnement sur la recherche"
+
+msgid "Contact address"
+msgstr "Adresse de contact"
+
+msgid "Address Map"
+msgstr "Adresse Carte"
+
+msgid "Landing Popup"
+msgstr "Popup de Landing"
+
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+msgid "Terms of use"
+msgstr "Conditions d'utilisation"
+
+msgid "Privacy policy"
+msgstr "Politique de confidentialité"
+
+msgid "Get it here"
+msgstr "Obtenez-le ici"
+
+msgid "You can use"
+msgstr "Vous pouvez utiliser"
+
+msgid "Example"
+msgstr "exemple"

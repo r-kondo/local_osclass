@@ -1,0 +1,91 @@
+/***
+Theme: Flatter
+Color: Blackyellow
+Author: DrizzleThemes
+URL: www.drizzlethemes.com
+***/
+
+.clr, 
+.clr a,
+a.clr, 
+.owl-buttons .owl-prev:hover::before, 
+.owl-buttons .owl-next:hover::before,
+.watchlist2 a,
+.mcategory h4.active::after {
+	color:#333!important;
+}
+.itempost #content h2,
+#footer h4,
+a:hover,
+.sclr,
+.sclr a,
+.sclr a:hover,
+a.sclr, 
+a.sclr:hover,
+.scrollToTop span:hover {
+	color:#ffa500!important;
+}
+a.whover:hover, .whover a:hover { color:#fff!important; }
+
+
+.clr-layer {
+	background:rgba(51, 51, 51, 0.95);
+}
+.bg-layer {
+	background:rgba(51, 51, 51, 0.85);
+}
+
+.bdr {
+	border:1px solid #333;
+}
+
+.bg {
+	background:#333;
+}
+.sbg,
+#sections #fuListings .carousel-control {
+	background-color:#ffa500;
+}
+
+.transbg {
+	background:rgba(51, 51, 51, 0.8) !important;
+}
+.togglebutton.active a.grid-button, 
+.togglebutton a.list-button { 
+	background:#ffa500; border:1px solid #f9a305; 
+}
+.dropdown-submenu>a:hover::after {
+	border-left-color: #333;
+}
+.widget.subscribe { background:#333; border-color:#444; }
+
+#footer .footer-top, #footer .footer-top a { color:#aaa!important; }
+#footer .footer-bottom { background:#2f2f2f; border-color:#353535;color:#777; }
+#footer .footer-bottom a { color:#777!important; }
+#footer .footer-bottom a:hover { color:#999!important; }
+#footer .social a { color:#fff!important; }
+/** BUTTONS **/
+.btn-clr, a.btn-clr, button.btn-clr {
+	background-color:#ffa500!important;
+	color:#fff!important;
+	border:1px solid #f9a305!important;
+	-webkit-transition: all 0.3s ease 0s; 
+	transition: all 0.3s ease 0s; 
+}
+.btn-clr:hover, .btn-clr:active, .btn-clr:focus, a.btn-clr:hover, a.btn-clr:focus {
+	background-color:#fead19!important;
+	color:#fff!important;
+	border:1px solid #ffa500!important;
+}
+.btn-sclr, a.btn-sclr, button.btn-sclr {
+	background-color:#ffa500!important;
+	color:#fff!important;
+	border:1px solid #f9a305!important;
+	-webkit-transition: all 0.3s ease 0s; 
+	transition: all 0.3s ease 0s; 
+}
+.btn-sclr:hover, .btn-sclr:active, .btn-sclr:focus, a.btn-sclr:hover, a.btn-sclr:focus {
+	background-color:#fead19!important;
+	color:#fff!important;
+	border:1px solid #ffa500!important;
+}

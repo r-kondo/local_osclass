@@ -1,0 +1,164 @@
+/* General styles for all menus */
+#smart-navigation a.smenu {
+	padding:10px;
+	display:inline-block;
+	font-size:28px;
+	line-height:normal;
+}
+#smart-navigation .brand a {
+	text-align:center;
+	padding:10px 0;
+	font-weight:500;
+}
+#smart-navigation .brand img { height:40px; margin:7px 0;}
+
+#smart-navigation a.smenu img {
+	width:26px;
+}
+
+.dd-spmenu {
+	position: fixed;
+}
+.dd-spmenu ul {
+	padding:0;
+	margin:0;
+}
+
+
+.dd-spmenu a {
+	display: block;
+	color: #fff;
+}
+
+.dd-spmenu a:active {
+	background: #afdefa;
+	color: #47a3da;
+}
+
+/* Orientation-dependent styles for the content of the menu */
+
+.dd-spmenu-vertical {
+	width: 240px;
+	height: 100%;
+	top: 0;
+	z-index: 1000;
+}
+.dd-spmenu-vertical h4 {
+	padding:10px 15px;
+	margin:0;
+	color:#fff;
+	font-size:14px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.dd-spmenu-vertical h4 span {
+	font-weight:500;
+	display:block;
+	margin-top:3px;
+}
+.dd-spmenu-vertical a {
+	padding: 10px 15px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Vertical menu that slides from the left or right */
+
+.dd-spmenu-left {
+	left: -240px;
+	border-right: 1px solid rgba(102, 102, 102, 0.1);
+}
+
+.dd-spmenu-right {
+	right: -240px;
+	border-left: 1px solid rgba(102, 102, 102, 0.1);
+}
+
+.dd-spmenu-left.dd-spmenu-open {
+	left: 0px;
+}
+
+.dd-spmenu-right.dd-spmenu-open {
+	right: 0px;
+}
+
+/* Horizontal menu that slides from the top or bottom */
+
+.dd-spmenu-top {
+	top: -150px;
+}
+
+.dd-spmenu-bottom {
+	bottom: -150px;
+}
+
+.dd-spmenu-top.dd-spmenu-open {
+	top: 0px;
+}
+
+.dd-spmenu-bottom.dd-spmenu-open {
+	bottom: 0px;
+}
+
+/* Push classes applied to the body */
+
+.dd-spmenu-push {
+	overflow-x: hidden;
+	position: relative;
+	left: 0;
+}
+
+.dd-spmenu-push-toright {
+	left: 240px;
+}
+
+.dd-spmenu-push-toleft {
+	left: -240px;
+}
+
+/* Transitions */
+
+.dd-spmenu,
+.dd-spmenu-push {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+/* Example media queries */
+
+@media screen and (max-width: 55.1875em){
+
+	.dd-spmenu-horizontal {
+		font-size: 75%;
+		height: 110px;
+	}
+
+	.dd-spmenu-top {
+		top: -110px;
+	}
+
+	.dd-spmenu-bottom {
+		bottom: -110px;
+	}
+
+}
+
+@media screen and (max-height: 26.375em){
+
+	.dd-spmenu-vertical {
+		font-size: 90%;
+		width: 190px;
+	}
+
+	.dd-spmenu-left,
+	.dd-spmenu-push-toleft {
+		left: -190px;
+	}
+
+	.dd-spmenu-right {
+		right: -190px;
+	}
+
+	.dd-spmenu-push-toright {
+		left: 190px;
+	}
+}

@@ -1,0 +1,84 @@
+/***
+Theme: Flatter
+Color: Blueorange
+Author: DrizzleThemes
+URL: www.drizzlethemes.com
+***/
+
+a:hover, 
+.clr, 
+.clr a,
+a.clr, 
+.owl-buttons .owl-prev:hover::before, 
+.owl-buttons .owl-next:hover::before,
+.watchlist2 a {
+	color:#3492e1!important;
+}
+.sclr,
+.sclr a,
+.sclr a:hover,
+a.sclr, 
+a.sclr:hover,
+.itempost #content h2 {
+	color:#fca626!important;
+}
+a.whover:hover, .whover a:hover { color:#fff!important; }
+
+
+.clr-layer {
+	background:rgba(52, 146, 225, 0.95);
+}
+.bg-layer {
+	background:rgba(52, 146, 225, 0.85);
+}
+
+.bdr {
+	border:1px solid #3492e1;
+}
+
+.bg {
+	background:#3492e1;
+}
+.sbg,
+#sections #fuListings .carousel-control {
+	background-color:#fca626;
+}
+
+.transbg {
+	background:rgba(52, 146, 225, 0.8) !important;
+}
+.togglebutton.active a.grid-button, 
+.togglebutton a.list-button { 
+	background:#3492e1; 
+	border:1px solid #1979ca; 
+}
+.dropdown-submenu>a:hover::after {
+	border-left-color: #3492e1;
+}
+#footer .footer-top a:hover { color:#fff!important;}
+/** BUTTONS **/
+.btn-clr, a.btn-clr, button.btn-clr {
+	background-color:#3492e1!important;
+	color:#fff!important;
+	border:1px solid #318fdd!important;
+	-webkit-transition: all 0.3s ease 0s; 
+	transition: all 0.3s ease 0s; 
+}
+.btn-clr:hover, .btn-clr:active, .btn-clr:focus, a.btn-clr:hover, a.btn-clr:focus {
+	background-color:#3e97e2!important;
+	color:#fff!important;
+	border:1px solid #3492e1!important;
+}
+.btn-sclr, a.btn-sclr, button.btn-sclr {
+	background-color:#fca626!important;
+	color:#fff!important;
+	border:1px solid #f19203!important;
+	-webkit-transition: all 0.3s ease 0s; 
+	transition: all 0.3s ease 0s; 
+}
+.btn-sclr:hover, .btn-sclr:active, .btn-sclr:focus, a.btn-sclr:hover, a.btn-sclr:focus {
+	background-color:#ffb13d!important;
+	color:#fff!important;
+	border:1px solid #fca626!important;
+}
+
