@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Core package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-02-05 22:26+0900\n"
+"PO-Revision-Date: 2018-02-05 22:52+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -852,7 +852,7 @@ msgstr "国を選択..."
 #: oc-includes/osclass/frm/User.form.class.php:382
 #: oc-includes/osclass/frm/User.form.class.php:384
 msgid "Select a region..."
-msgstr "地域を選択..."
+msgstr "都道府県を選択..."
 
 #: oc-admin/themes/modern/settings/index.php:362
 #: oc-admin/themes/modern/settings/index.php:373
@@ -872,7 +872,7 @@ msgstr "外部ソースに売り込みする"
 #: oc-includes/osclass/frm/User.form.class.php:390
 #: oc-includes/osclass/frm/User.form.class.php:419
 msgid "Select a city..."
-msgstr "都市を選択..."
+msgstr "市区町村を選択..."
 
 #: oc-admin/themes/modern/settings/index.php:367
 msgid "Allow updates and installations of non-official plugins and themes"
