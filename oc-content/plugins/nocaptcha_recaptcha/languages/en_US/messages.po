@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: noCaptcha reCaptcha\n"
+"POT-Creation-Date: 2016-05-18 19:18+0600\n"
+"PO-Revision-Date: 2016-05-18 19:18+0600\n"
+"Last-Translator: \n"
+"Language-Team: Shamim\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:11
+msgid "Site Key empty."
+msgstr ""
+
+#: admin/admin.php:16
+msgid "Secret Key empty."
+msgstr ""
+
+#: admin/admin.php:31
+msgid "Error message empty."
+msgstr ""
+
+#: admin/admin.php:49
+msgid "Options has been updated"
+msgstr ""
+
+#: admin/admin.php:65
+msgid "Auto Detect"
+msgstr ""
+
+#: admin/admin.php:66
+msgid "Arabic"
+msgstr ""
+
+#: admin/admin.php:67
+msgid "Bulgarian"
+msgstr ""
+
+#: admin/admin.php:68
+msgid "Catalan"
+msgstr ""
+
+#: admin/admin.php:69
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: admin/admin.php:70
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: admin/admin.php:71
+msgid "Croatian"
+msgstr ""
+
+#: admin/admin.php:72
+msgid "Czech"
+msgstr ""
+
+#: admin/admin.php:73
+msgid "Danish"
+msgstr ""
+
+#: admin/admin.php:74
+msgid "Dutch"
+msgstr ""
+
+#: admin/admin.php:75
+msgid "English (UK)"
+msgstr ""
+
+#: admin/admin.php:76
+msgid "English (US)"
+msgstr ""
+
+#: admin/admin.php:77
+msgid "Filipino"
+msgstr ""
+
+#: admin/admin.php:78
+msgid "Finnish"
+msgstr ""
+
+#: admin/admin.php:79
+msgid "French"
+msgstr ""
+
+#: admin/admin.php:80
+msgid "French (Canadian)"
+msgstr ""
+
+#: admin/admin.php:81
+msgid "German"
+msgstr ""
+
+#: admin/admin.php:82
+msgid "German (Austria)"
+msgstr ""
+
+#: admin/admin.php:83
+msgid "German (Switzerland)"
+msgstr ""
+
+#: admin/admin.php:84
+msgid "Greek"
+msgstr ""
+
+#: admin/admin.php:85
+msgid "Hebrew"
+msgstr ""
+
+#: admin/admin.php:86
+msgid "Hindi"
+msgstr ""
+
+#: admin/admin.php:87
+msgid "Hungarain"
+msgstr ""
+
+#: admin/admin.php:88
+msgid "Indonesian"
+msgstr ""
+
+#: admin/admin.php:89
+msgid "Italian"
+msgstr ""
+
+#: admin/admin.php:90
+msgid "Japanese"
+msgstr ""
+
+#: admin/admin.php:91
+msgid "Korean"
+msgstr ""
+
+#: admin/admin.php:92
+msgid "Latvian"
+msgstr ""
+
+#: admin/admin.php:93
+msgid "Lithuanian"
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Norwegian"
+msgstr ""
+
+#: admin/admin.php:95
+msgid "Persian"
+msgstr ""
+
+#: admin/admin.php:96
+msgid "Polish"
+msgstr ""
+
+#: admin/admin.php:97
+msgid "Portuguese"
+msgstr ""
+
+#: admin/admin.php:98
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/admin.php:99
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: admin/admin.php:100
+msgid "Romanian"
+msgstr ""
+
+#: admin/admin.php:101
+msgid "Russian"
+msgstr ""
+
+#: admin/admin.php:102
+msgid "Serbian"
+msgstr ""
+
+#: admin/admin.php:103
+msgid "Slovak"
+msgstr ""
+
+#: admin/admin.php:104
+msgid "Slovenian"
+msgstr ""
+
+#: admin/admin.php:105
+msgid "Spanish"
+msgstr ""
+
+#: admin/admin.php:106
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: admin/admin.php:107
+msgid "Swedish"
+msgstr ""
+
+#: admin/admin.php:108
+msgid "Thai"
+msgstr ""
+
+#: admin/admin.php:109
+msgid "Turkish"
+msgstr ""
+
+#: admin/admin.php:110
+msgid "Ukrainian"
+msgstr ""
+
+#: admin/admin.php:111
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/admin.php:116 admin/admin.php:217
+msgid "Admin Login (No need to edit any file)."
+msgstr ""
+
+#: admin/admin.php:117
+msgid "Login Form"
+msgstr ""
+
+#: admin/admin.php:118
+msgid "Registration Form"
+msgstr ""
+
+#: admin/admin.php:119
+msgid "New listing Form"
+msgstr ""
+
+#: admin/admin.php:120
+msgid "Web contact Form"
+msgstr ""
+
+#: admin/admin.php:121
+msgid "Contact listing Form"
+msgstr ""
+
+#: admin/admin.php:122
+msgid "Send to a friend Form"
+msgstr ""
+
+#: admin/admin.php:123
+msgid "Comment Form"
+msgstr ""
+
+#: admin/admin.php:129
+msgid "noCaptcha reCaptcha Settings"
+msgstr ""
+
+#: admin/admin.php:142
+msgid "Setting"
+msgstr ""
+
+#: admin/admin.php:143
+msgid "Value"
+msgstr ""
+
+#: admin/admin.php:147
+msgid "Site Key"
+msgstr ""
+
+#: admin/admin.php:147 admin/admin.php:151
+msgid "Get From Google"
+msgstr ""
+
+#: admin/admin.php:151
+msgid "Secret key"
+msgstr ""
+
+#: admin/admin.php:155
+msgid "Language"
+msgstr ""
+
+#: admin/admin.php:166
+msgid "Theme"
+msgstr ""
+
+#: admin/admin.php:169
+msgid "Light"
+msgstr ""
+
+#: admin/admin.php:170
+msgid "Dark"
+msgstr ""
+
+#: admin/admin.php:175
+msgid "Size"
+msgstr ""
+
+#: admin/admin.php:178
+msgid "Normal"
+msgstr ""
+
+#: admin/admin.php:179
+msgid "Compact"
+msgstr ""
+
+#: admin/admin.php:184
+msgid "Error Message"
+msgstr ""
+
+#: admin/admin.php:189
+msgid "Show Captcha on"
+msgstr ""
+
+#: admin/admin.php:201
+msgid "Hide Captcha for logged in users?"
+msgstr ""
+
+#: admin/admin.php:204
+msgid "Show captcha if javascript disabled?"
+msgstr ""
+
+#: admin/admin.php:204
+msgid ""
+"If JavaScript is a requirement for your site, we advise that you do NOT "
+"check this"
+msgstr ""
+
+#: admin/admin.php:212
+msgid "How it works"
+msgstr ""
+
+#: admin/admin.php:214
+msgid "You can add noCaptcha reCaptcha at:"
+msgstr ""
+
+#: admin/admin.php:218
+msgid "New listing form."
+msgstr ""
+
+#: admin/admin.php:219
+msgid "User login form."
+msgstr ""
+
+#: admin/admin.php:220
+msgid "User registration form."
+msgstr ""
+
+#: admin/admin.php:221
+msgid "Web contact form."
+msgstr ""
+
+#: admin/admin.php:222
+msgid "Contact listing form."
+msgstr ""
+
+#: admin/admin.php:223
+msgid "'Send to a friend' listing form."
+msgstr ""
+
+#: admin/admin.php:224
+msgid "Comment form."
+msgstr ""
+
+#: admin/admin.php:227
+msgid ""
+"First, you need to fill and save noCaptcha reCaptcha credentials in this "
+"page,\n"
+"        If you don't have an account, you can create a new one here"
+msgstr ""
+
+#: admin/admin.php:228
+msgid "https://www.google.com/recaptcha/admin/"
+msgstr ""
+
+#: admin/admin.php:230
+msgid ""
+"Second, you will need to paste the following line of code before the submit "
+"form button."
+msgstr ""
+
+#: admin/admin.php:247
+msgid "IMPORTANT NOTE:"
+msgstr ""
+
+#: admin/admin.php:247
+msgid ""
+"Only tick mark in \"show captcha on\" where you added code in theme file. "
+"eg. you added code in login form than tick only \"login form\". other keep "
+"untick.you can add all of them."
+msgstr ""
+
+#: admin/admin.php:248
+msgid "Use new site key and public key."
+msgstr ""
+
+#: admin/admin.php:249
+msgid ""
+"Remove reCAPTCHA Public key and Private key from Settings > Spam and Bots."
+msgstr ""
+
+#: admin/admin.php:253
+msgid "FAQ"
+msgstr ""
+
+#: admin/admin.php:255
+msgid "More noCaptcha reCaptcha information, change language, ..."
+msgstr ""
+
+#: admin/admin.php:256
+msgid "See above form"
+msgstr ""
+
+#: admin/admin.php:262
+msgid "Change recaptcha by noCaptcha reCaptcha, Bender theme example"
+msgstr ""
+
+#: admin/admin.php:264
+msgid "New listing (oc-content/bender/item-post.php) Bender theme"
+msgstr ""
+
+#: admin/admin.php:266
+msgid ""
+"Find and replace this code. if not exist, simply add the replace part inside"
+msgstr ""
+
+#: admin/admin.php:277 admin/admin.php:289
+msgid "replace by"
+msgstr ""
+
+#: admin/admin.php:281
+msgid "User registration (oc-content/bender/user-register.php) Bender theme"
+msgstr ""
+
+#: admin/admin.php:283
+msgid ""
+"Find and replace this code. it not exist, simply add the replace part inside"
+msgstr ""
+
+#: admin/admin.php:293
+msgid "All theme files"
+msgstr ""
+
+#: admin/admin.php:295
+msgid ""
+"New listing                     (oc-content/bender/item-post.php)        "
+"Bender theme"
+msgstr ""
+
+#: admin/admin.php:296
+msgid ""
+"User login               \t\t  (oc-content/bender/user-login.php)       "
+"Bender theme"
+msgstr ""
+
+#: admin/admin.php:297
+msgid ""
+"User registration               (oc-content/bender/user-register.php)    "
+"Bender theme"
+msgstr ""
+
+#: admin/admin.php:298
+msgid ""
+"Web contact page                (oc-content/bender/contact.php)          "
+"Bender theme"
+msgstr ""
+
+#: admin/admin.php:299
+msgid ""
+"Contact listing page            (oc-content/bender/item-sidebar.php)     "
+"Bender theme"
+msgstr ""
+
+#: admin/admin.php:300
+msgid ""
+"'Send to a friend' listing page (oc-content/bender/item-send-friend.php) "
+"Bender theme"
+msgstr ""
+
+#: admin/admin.php:301
+msgid "Comment form (oc-content/bender/item.php) \t\t\t\t\t\t\tBender theme"
+msgstr ""
+
+#: index.php:113
+msgid "Settings"
+msgstr ""

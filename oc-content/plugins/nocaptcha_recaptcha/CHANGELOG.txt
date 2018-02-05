@@ -1,0 +1,16 @@
+noCaptcha reCaptcha 1.2.1 - 18-05-2016
+-----------------------------------------
+- Allow multiple captcha in same page.
+- Captcha in admin login (no file editing require).
+- Captcha in comment form.
+- New option to change captcha size.
+- New hook 'anr_captcha_form_field' added. Now no need to add function directly to theme file.
+- Translation issue fixed.
+
+noCaptcha reCaptcha 1.1.2
+-----------------------------------------
+- UNKNOWN 
+
+noCaptcha reCaptcha 1.1.1
+-----------------------------
+- Initial release
